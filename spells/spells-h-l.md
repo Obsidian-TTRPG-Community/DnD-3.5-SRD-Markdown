@@ -1,10 +1,13 @@
-v3.5 SRD / Spells / Spells (H-L)
+---
+aliases: Spells (H-L)
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+## Spells (H-L)
 
-# SPELLS (H-L)
-
-## Table of Contents
+### Table of Contents
 
 *   [Hallow](#hallow)
 *   [Hallucinatory Terrain](#hallucinatory-terrain)
@@ -80,7 +83,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [Longstrider](#longstrider)
 *   [Lullaby](#lullaby)
 
-### Hallow
+#### Hallow
 
 *   Evocation \[Good\]
 *   **Level:** Clr 5, Drd 5
@@ -108,7 +111,7 @@ An area can receive only one _hallow_ spell (and its associated spell effect) at
 
 _Material Component:_ Herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the _hallowed_ area.
 
-### Hallucinatory Terrain
+#### Hallucinatory Terrain
 
 *   Illusion (Glamer)
 *   **Level:** Brd 4, Sor/Wiz 4
@@ -124,7 +127,7 @@ You make natural terrain look, sound, and smell like some other sort of natural 
 
 _Material Component:_ A stone, a twig, and a bit of green plant.
 
-### Halt Undead
+#### Halt Undead
 
 *   Necromancy
 *   **Level:** Sor/Wiz 3
@@ -201,7 +204,7 @@ _Heal_ does not remove negative levels, restore permanently drained levels, or r
 
 If used against an undead creature, _heal_ instead acts like _harm_.
 
-### Heal, Mass
+#### Heal, Mass
 
 *   Conjuration (Healing)
 *   **Level:** Clr 9, Healing 9
@@ -210,7 +213,7 @@ If used against an undead creature, _heal_ instead acts like _harm_.
 
 This spell functions like _heal,_ except as noted above. The maximum number of hit points restored to each creature is 250.
 
-### Heal Mount
+#### Heal Mount
 
 *   Conjuration (Healing)
 *   **Level:** Pal 3
@@ -224,7 +227,7 @@ This spell functions like _heal,_ except as noted above. The maximum number of h
 
 This spell functions like _heal,_ but it affects only the paladin’s special mount (typically a warhorse).
 
-### Heat Metal
+#### Heat Metal
 
 *   Transmutation \[Fire\]
 *   **Level:** Drd 2, Sun 2
@@ -282,7 +285,7 @@ Any cold intense enough to damage the creature negates fire damage from the spel
 
 _Heat metal_ counters and dispels _chill metal_.
 
-### Helping Hand
+#### Helping Hand
 
 *   Evocation
 *   **Level:** Clr 3
@@ -340,7 +343,7 @@ If, at the end of 4 hours of searching, the hand has found no subject that match
 
 The ghostly hand has no physical form. It is invisible to anyone except you and a potential subject. It cannot engage in combat or execute any other task aside from locating a subject and leading it back to you. The hand can’t pass through solid objects but can ooze through small cracks and slits. The hand cannot travel more than 5 miles from the spot it appeared when you cast the spell.
 
-### Heroes’ Feast
+#### Heroes’ Feast
 
 *   Conjuration \[Creation\]
 *   **Level:** Brd 6, Clr 6
@@ -356,7 +359,7 @@ You bring forth a great feast, including a magnificent table, chairs, service, a
 
 If the feast is interrupted for any reason, the spell is ruined and all effects of the spell are negated.
 
-### Heroism
+#### Heroism
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 2, Sor/Wiz 3
@@ -370,7 +373,7 @@ If the feast is interrupted for any reason, the spell is ruined and all effects 
 
 This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, saves, and skill checks.
 
-### Heroism, Greater
+#### Heroism, Greater
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 5, Sor/Wiz 6
@@ -378,7 +381,7 @@ This spell imbues a single creature with great bravery and morale in battle. The
 
 This spell functions like _heroism,_ except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).
 
-### Hide From Animals
+#### Hide From Animals
 
 *   Abjuration
 *   **Level:** Drd 1, Rgr 1
@@ -392,7 +395,7 @@ This spell functions like _heroism,_ except the creature gains a +4 morale bonus
 
 Animals cannot see, hear, or smell the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.
 
-### Hide From Undead
+#### Hide From Undead
 
 *   Abjuration
 *   **Level:** Clr 1
@@ -406,7 +409,7 @@ Animals cannot see, hear, or smell the warded creatures. Even extraordinary or s
 
 Undead cannot see, hear, or smell the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Nonintelligent undead creatures are automatically affected and act as though the warded creatures are not there. An intelligent undead creature gets a single Will saving throw. If it fails, the subject can’t see any of the warded creatures. However, if it has reason to believe unseen opponents are present, it can attempt to find or strike them. If a warded creature attempts to turn or command undead, touches an undead creature, or attacks any creature (even with a spell), the spell ends for all recipients.
 
-### Hideous Laughter
+#### Hideous Laughter
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 1, Sor/Wiz 2
@@ -424,7 +427,7 @@ A creature with an Intelligence score of 2 or lower is not affected. A creature 
 
 _Material Component:_ Tiny tarts that are thrown at the target and a feather that is waved in the air.
 
-### Hold Animal
+#### Hold Animal
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Animal 2, Drd 2, Rgr 2
@@ -433,7 +436,7 @@ _Material Component:_ Tiny tarts that are thrown at the target and a feather tha
 
 This spell functions like _hold person,_ except that it affects an animal instead of a humanoid.
 
-### Hold Monster
+#### Hold Monster
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 4, Law 6, Sor/Wiz 5
@@ -444,7 +447,7 @@ This spell functions like _hold person,_ except that it affects any living creat
 
 _Arcane Material Component:_ One hard metal bar or rod, which can be as small as a three-penny nail.
 
-### Hold Monster, Mass
+#### Hold Monster, Mass
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Sor/Wiz 9
@@ -452,7 +455,7 @@ _Arcane Material Component:_ One hard metal bar or rod, which can be as small as
 
 This spell functions like _hold person,_ except that it affects multiple creatures and holds any living creature that fails its Will save.
 
-### Hold Person
+#### Hold Person
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 2, Clr 2, Sor/Wiz 3
@@ -470,7 +473,7 @@ A winged creature who is paralyzed cannot flap its wings and falls. A swimmer ca
 
 _Arcane Focus:_ A small, straight piece of iron.
 
-### Hold Person, Mass
+#### Hold Person, Mass
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Sor/Wiz 7
@@ -478,7 +481,7 @@ _Arcane Focus:_ A small, straight piece of iron.
 
 This spell functions like _hold person,_ except as noted above.
 
-### Hold Portal
+#### Hold Portal
 
 *   Abjuration
 *   **Level:** Sor/Wiz 1
@@ -494,7 +497,7 @@ This spell magically holds shut a door, gate, window, or shutter of wood, metal,
 
 For a portal affected by this spell, add 5 to the normal DC for forcing open the portal.
 
-### Holy Aura
+#### Holy Aura
 
 *   Abjuration \[Good\]
 *   **Level:** Clr 8, Good 8
@@ -518,7 +521,7 @@ Finally, if an evil creature succeeds on a melee attack against a warded creatur
 
 _Focus:_ A tiny reliquary containing some sacred relic. The reliquary costs at least 500 gp.
 
-### Holy Smite
+#### Holy Smite
 
 *   Evocation \[Good\]
 *   **Level:** Good 4
@@ -536,7 +539,7 @@ The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to each
 
 The spell deals only half damage to creatures who are neither good nor evil, and they are not blinded. Such a creature can reduce that damage by half (down to one-quarter of the roll) with a successful Will save.
 
-### Holy Sword
+#### Holy Sword
 
 *   Evocation \[Good\]
 *   **Level:** Pal 4
@@ -556,7 +559,7 @@ This spell does not work on artifacts.
 
 _Note:_ A masterwork weapon’s bonus to attack does not stack with an enhancement bonus to attack.
 
-### Holy Word
+#### Holy Word
 
 *   Evocation \[Good, Sonic\]
 *   **Level:** Clr 7, Good 7
@@ -604,7 +607,7 @@ Furthermore, if you are on your home plane when you cast this spell, nongood ext
 
 Creatures whose HD exceed your caster level are unaffected by _holy word._
 
-### Horrid Wilting
+#### Horrid Wilting
 
 *   Necromancy
 *   **Level:** Sor/Wiz 8, Water 8
@@ -620,7 +623,7 @@ This spell evaporates moisture from the body of each subject living creature, de
 
 _Arcane Material Component:_ A bit of sponge.
 
-### Hypnotic Pattern
+#### Hypnotic Pattern
 
 *   Illusion (Pattern) \[Mind-Affecting\]
 *   **Level:** Brd 2, Sor/Wiz 2
@@ -638,7 +641,7 @@ A wizard or sorcerer need not utter a sound to cast this spell, but a bard must 
 
 _Material Component:_ A glowing stick of incense or a crystal rod filled with phosphorescent material.
 
-### Hypnotism
+#### Hypnotism
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 1, Sor/Wiz 1
@@ -658,7 +661,7 @@ While the subject is fascinated by this spell, it reacts as though it were two s
 
 A creature that fails its saving throw does not remember that you enspelled it.
 
-### Ice Storm
+#### Ice Storm
 
 *   Evocation \[Cold\]
 *   **Level:** Drd 4, Sor/Wiz 4, Water 5
@@ -674,7 +677,7 @@ Great magical hailstones pound down for 1 full round, dealing 3d6 points of blud
 
 _Arcane Material Component:_ A pinch of dust and a few drops of water.
 
-### Identify
+#### Identify
 
 *   Divination
 *   **Level:** Brd 1, Magic 2, Sor/Wiz 1
@@ -692,7 +695,7 @@ _Identify_ does not function when used on an artifact.
 
 _Arcane Material Component:_ A pearl of at least 100 gp value, crushed and stirred into wine with an owl feather; the infusion must be drunk prior to spellcasting.
 
-### Illusory Script
+#### Illusory Script
 
 *   Illusion (Phantasm) \[Mind-Affecting\]
 *   **Level:** Brd 3, Sor/Wiz 3
@@ -712,7 +715,7 @@ The casting time depends on how long a message you wish to write, but it is alwa
 
 _Material Component:_ A lead-based ink (cost of not less than 50 gp).
 
-### Illusory Wall
+#### Illusory Wall
 
 *   Illusion (Figment)
 *   **Level:** Sor/Wiz 4
@@ -726,7 +729,7 @@ _Material Component:_ A lead-based ink (cost of not less than 50 gp).
 
 This spell creates the illusion of a wall, floor, ceiling, or similar surface. It appears absolutely real when viewed, but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, any detection abilities that do not require sight work normally. Touch or a probing search reveals the true nature of the surface, though such measures do not cause the illusion to disappear.
 
-### Imbue with Spell Ability
+#### Imbue with Spell Ability
 
 *   Evocation
 *   **Level:** Clr 4, Magic 4
@@ -762,7 +765,7 @@ Once you cast _imbue with spell ability,_ you cannot prepare a new 4th-level spe
 
 To cast a spell with a verbal component, the subject must be able to speak. To cast a spell with a somatic component, it must have humanlike hands. To cast a spell with a material component or focus, it must have the materials or focus.
 
-### Implosion
+#### Implosion
 
 *   Evocation
 *   **Level:** Clr 9, Destruction 9
@@ -780,7 +783,7 @@ You can target a particular creature only once with each casting of the spell.
 
 _Implosion_ has no effect on creatures in gaseous form or on incorporeal creatures.
 
-### Imprisonment
+#### Imprisonment
 
 *   Abjuration
 *   **Level:** Sor/Wiz 9
@@ -794,7 +797,7 @@ _Implosion_ has no effect on creatures in gaseous form or on incorporeal creatur
 
 When you cast _imprisonment_ and touch a creature, it is entombed in a state of suspended animation (see the _temporal stasis_ spell) in a small sphere far beneath the surface of the earth. The subject remains there unless a _freedom_ spell is cast at the locale where the imprisonment took place. Magical search by a _crystal ball,_ a _locate object_ spell, or some other similar divination does not reveal the fact that a creature is imprisoned, but _discern location_ does. A _wish_ or _miracle_ spell will not free the recipient, but will reveal where it is entombed. If you know the target’s name and some facts about its life, the target takes a –4 penalty on its save.
 
-### Incendiary Cloud
+#### Incendiary Cloud
 
 *   Conjuration (Creation) \[Fire\]
 *   **Level:** Fire 8, Sor/Wiz 8
@@ -812,21 +815,21 @@ As with a _cloudkill_ spell, the smoke moves away from you at 10 feet per round.
 
 As with _fog cloud_, wind disperses the smoke, and the spell can’t be cast underwater.
 
-### Inflict Critical Wounds
+#### Inflict Critical Wounds
 
 *   Necromancy
 *   **Level:** Clr 4, Destruction 4
 
 This spell functions like _inflict light wounds_, except that you deal 4d8 points of damage +1 point per caster level (maximum +20).
 
-### Inflict Critical Wounds, Mass
+#### Inflict Critical Wounds, Mass
 
 *   Necromancy
 *   **Level:** Clr 8
 
 This spell functions like _mass inflict light wounds_, except that it deals 4d8 points of damage +1 point per caster level (maximum +40).
 
-### Inflict Light Wounds
+#### Inflict Light Wounds
 
 *   Necromancy
 *   **Level:** Clr 1, Destruction 1
@@ -842,7 +845,7 @@ When laying your hand upon a creature, you channel negative energy that deals 1d
 
 Since undead are powered by negative energy, this spell cures such a creature of a like amount of damage, rather than harming it.
 
-### Inflict Light Wounds, Mass
+#### Inflict Light Wounds, Mass
 
 *   Necromancy
 *   **Level:** Clr 5, Destruction 5
@@ -858,7 +861,7 @@ Negative energy spreads out in all directions from the point of origin, dealing 
 
 Like other _inflict_ spells, _mass inflict light wounds_ cures undead in its area rather than damaging them. A cleric capable of spontaneously casting _inflict_ spells can also spontaneously cast _mass inflict_ spells.
 
-### Inflict Minor Wounds
+#### Inflict Minor Wounds
 
 *   Necromancy
 *   **Level:** Clr 0
@@ -866,35 +869,35 @@ Like other _inflict_ spells, _mass inflict light wounds_ cures undead in its are
 
 This spell functions like _inflict light wounds,_ except that you deal 1 point of damage and a Will save negates the damage instead of halving it.
 
-### Inflict Moderate Wounds
+#### Inflict Moderate Wounds
 
 *   Necromancy
 *   **Level:** Clr 2
 
 This spell functions like _inflict light wounds_, except that you deal 2d8 points of damage +1 point per caster level (maximum +10).
 
-### Inflict Moderate Wounds, Mass
+#### Inflict Moderate Wounds, Mass
 
 *   Necromancy
 *   **Level:** Clr 6
 
 This spell functions like _mass inflict light wounds_, except that it deals 2d8 points of damage +1 point per caster level (maximum +30).
 
-### Inflict Serious Wounds
+#### Inflict Serious Wounds
 
 *   Necromancy
 *   **Level:** Clr 3
 
 This spell functions like _inflict light wounds_, except that you deal 3d8 points of damage +1 point per caster level (maximum +15).
 
-### Inflict Serious Wounds, Mass
+#### Inflict Serious Wounds, Mass
 
 *   Necromancy
 *   **Level:** Clr 7
 
 This spell functions like _mass inflict light wounds_, except that it deals 3d8 points of damage +1 point per caster level (maximum +35).
 
-### Insanity
+#### Insanity
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Sor/Wiz 7
@@ -910,7 +913,7 @@ The affected creature suffers from a continuous _confusion_ effect, as the spell
 
 _Remove curse_ does not remove _insanity_. _Greater restoration_, _heal_, _limited wish_, _miracle_, or _wish_ can restore the creature.
 
-### Insect Plague
+#### Insect Plague
 
 *   Conjuration (Summoning)
 *   **Level:** Clr 5, Drd 5
@@ -924,7 +927,7 @@ _Remove curse_ does not remove _insanity_. _Greater restoration_, _heal_, _limit
 
 You summon a number of swarms of locusts (one per three levels, to a maximum of six swarms at 18th level). The swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill one contiguous area). You may summon the locust swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned, and won’t pursue creatures that flee.
 
-### Instant Summons
+#### Instant Summons
 
 *   Conjuration (Summoning)
 *   **Level:** Sor/Wiz 7
@@ -948,7 +951,7 @@ The item can be summoned from another plane, but only if no other creature has c
 
 _Material Component:_ A sapphire worth at least 1,000 gp.
 
-### Interposing Hand
+#### Interposing Hand
 
 *   Evocation \[Force\]
 *   **Level:** Sor/Wiz 5
@@ -974,7 +977,7 @@ Directing the spell to a new target is a move action.
 
 _Focus:_ A soft glove.
 
-### Invisibility
+#### Invisibility
 
 *   Illusion (Glamer)
 *   **Level:** Brd 2, Sor/Wiz 2, Trickery 2
@@ -996,7 +999,7 @@ _Invisibility_ can be made permanent (on objects only) with a _permanency_ spell
 
 _Arcane Material Component:_ An eyelash encased in a bit of gum arabic.
 
-### Invisibility, Greater
+#### Invisibility, Greater
 
 *   Illusion (Glamer)
 *   **Level:** Brd 4, Sor/Wiz 4
@@ -1007,7 +1010,7 @@ _Arcane Material Component:_ An eyelash encased in a bit of gum arabic.
 
 This spell functions like _invisibility_, except that it doesn’t end if the subject attacks.
 
-### Invisibility, Mass
+#### Invisibility, Mass
 
 *   Illusion (Glamer)
 *   **Level:** Sor/Wiz 7
@@ -1019,7 +1022,7 @@ This spell functions like _invisibility,_ except that the effect is mobile with 
 
 _Material Component:_ An eyelash encased in a bit of gum arabic.
 
-### Invisibility Purge
+#### Invisibility Purge
 
 *   Evocation
 *   **Level:** Clr 3
@@ -1033,7 +1036,7 @@ You surround yourself with a sphere of power with a radius of 5 feet per caster 
 
 Anything invisible becomes visible while in the area.
 
-### Invisibility Sphere
+#### Invisibility Sphere
 
 *   Illusion (Glamer)
 *   **Level:** Brd 3, Sor/Wiz 3
@@ -1044,7 +1047,7 @@ This spell functions like _invisibility,_ except that this spell confers invisib
 
 Those affected by this spell can see each other and themselves as if unaffected by the spell. Any affected creature moving out of the area becomes visible, but creatures moving into the area after the spell is cast do not become invisible. Affected creatures (other than the recipient) who attack negate the invisibility only for themselves. If the spell recipient attacks, the _invisibility sphere_ ends.
 
-### Iron Body
+#### Iron Body
 
 *   Transmutation
 *   **Level:** Earth 8, Sor/Wiz 8
@@ -1066,7 +1069,7 @@ Your weight increases by a factor of ten, causing you to sink in water like a st
 
 _Arcane Material Component:_ A small piece of iron that was once part of either an iron golem, a hero’s armor, or a war machine.
 
-### Ironwood
+#### Ironwood
 
 *   Transmutation
 *   **Level:** Drd 6
@@ -1084,7 +1087,7 @@ Further, if you make only half as much _ironwood_ as the spell would normally al
 
 _Material Component:_ Wood shaped into the form of the intended _ironwood_ object.
 
-### Irresistible Dance
+#### Irresistible Dance
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 6, Sor/Wiz 8
@@ -1115,7 +1118,7 @@ The subject gets a +10 enhancement bonus on Jump checks. The enhancement bonus i
 
 _Material Component:_ A grasshopper’s hind leg, which you break when the spell is cast.
 
-### Keen Edge
+#### Keen Edge
 
 *   Transmutation
 *   **Level:** Sor/Wiz 3
@@ -1146,7 +1149,7 @@ Knock
 
 The _knock_ spell opens stuck, barred, locked, _held,_ or _arcane locked_ doors. It opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold closures shut). If used to open a _arcane locked_ door, the spell does not remove the _arcane lock_ but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own. _Knock_ does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each spell can undo as many as two means of preventing egress.
 
-### Know Direction
+#### Know Direction
 
 *   Divination
 *   **Level:** Brd 0, Drd 0
@@ -1158,7 +1161,7 @@ The _knock_ spell opens stuck, barred, locked, _held,_ or _arcane locked_ doors.
 
 You instantly know the direction of north from your current position. The spell is effective in any environment in which “north” exists, but it may not work in extraplanar settings. Your knowledge of north is correct at the moment of casting, but you can get lost again within moments if you don’t find some external reference point to help you keep track of direction.
 
-### Legend Lore
+#### Legend Lore
 
 *   Divination
 *   **Level:** Brd 4, Knowledge 7, Sor/Wiz 6
@@ -1176,11 +1179,11 @@ _Material Component:_ Incense worth at least 250 gp.
 
 _Focus:_ Four strips of ivory (worth 50 gp each) formed into a rectangle.
 
-### Lesser (Spell Name)
+#### Lesser (Spell Name)
 
 *   Any spell whose name begins with _lesser_ is alphabetized in this chapter according to the second word of the spell name. Thus, the description of a _lesser_ spell appears near the description of the spell on which it is based. Spell chains that have _lesser_ spells in them include those based on the spells _confusion, geas, globe of invulnerability, planar ally, planar binding,_ and _restoration._
 
-### Levitate
+#### Levitate
 
 *   Transmutation
 *   **Level:** Sor/Wiz 2
@@ -1217,7 +1220,7 @@ A light spell (one with the light descriptor) counters and dispels a darkness sp
 
 _Arcane Material Component:_ A firefly or a piece of phosphorescent moss.
 
-### Lightning Bolt
+#### Lightning Bolt
 
 *   Evocation \[Electricity\]
 *   **Level:** Sor/Wiz 3
@@ -1235,7 +1238,7 @@ The _lightning bolt_ sets fire to combustibles and damages objects in its path. 
 
 _Material Component:_ A bit of fur and an amber, crystal, or glass rod.
 
-### Limited Wish
+#### Limited Wish
 
 *   Universal
 *   **Level:** Sor/Wiz 7
@@ -1260,7 +1263,7 @@ A duplicated spell allows saving throws and spell resistance as normal (but the 
 
 _XP Cost:_ 300 XP or more (see above).
 
-### Liveoak
+#### Liveoak
 
 *   Transmutation
 *   **Level:** Drd 6
@@ -1278,7 +1281,7 @@ _Liveoak_ must be cast on a healthy, Huge oak. A triggering phrase of up to one 
 
 If _liveoak_ is dispelled, the tree takes root immediately, wherever it happens to be. If released by you, the tree tries to return to its original location before taking root.
 
-### Locate Creature
+#### Locate Creature
 
 *   Divination
 *   **Level:** Brd 4, Sor/Wiz 4
@@ -1295,7 +1298,7 @@ Running water blocks the spell. It cannot detect objects. It can be fooled by _m
 
 _Material Component:_ A bit of fur from a bloodhound.
 
-### Locate Object
+#### Locate Object
 
 *   Divination
 *   **Level:** Brd 2, Clr 3, Sor/Wiz 2, Travel 2
@@ -1313,7 +1316,7 @@ The spell is blocked by even a thin sheet of lead. Creatures cannot be found by 
 
 _Arcane Focus:_ A forked twig.
 
-### Longstrider
+#### Longstrider
 
 *   Transmutation
 *   **Level:** Drd 1, Rgr 1, Travel 1
@@ -1327,7 +1330,7 @@ This spell increases your base land speed by 10 feet. (This adjustment counts as
 
 _Material Component:_ A pinch of dirt.
 
-### Lullaby
+#### Lullaby
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 0

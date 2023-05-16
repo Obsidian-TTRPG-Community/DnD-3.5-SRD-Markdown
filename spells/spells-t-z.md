@@ -1,16 +1,13 @@
-v3.5 SRD / Spells / Spells (T-Z)
 ---
-alias: [Spells T - Z]
-tags: Compendium/3-5e/Spells/T, Compendium/3-5e/Spells/U, Compendium/3-5e/Spells/V, Compendium/3-5e/Spells/W, 
-Compendium/3-5e/Spells/X, Compendium/3-5e/Spells/Y, Z
+aliases: [Spells T - Z]
+created: 2023-04-13
+tags: [Compendium/3-5e/Spells/T, Compendium/3-5e/Spells/U, Compendium/3-5e/Spells/V, Compendium/3-5e/Spells/W, Compendium/3-5e/Spells/X, Compendium/3-5e/Spells/Y, Compendium/3-5e/Spells/Z]
+updated: 2023-05-16
 ---
 
+## Spells (T-Z)
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
-
-# SPELLS (T-Z)
-
-## Table of Contents
+### Table of Contents
 
 - [Telekinesis](#telekinesis)
 - [Telekinetic Sphere](#telekinetic-sphere)
@@ -72,7 +69,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 - [Zone of Silence](#zone-of-silence)
 - [Zone of Truth](#zone-of-truth)
 
-### Telekinesis
+#### Telekinesis
 
 - Transmutation
 - **Level::** Sor/Wiz 5
@@ -100,7 +97,7 @@ You must succeed on attack rolls (one per creature or object thrown) to hit the 
 
 Creatures who fall within the weight capacity of the spell can be hurled, but they are allowed Will saves (and spell resistance) to negate the effect, as are those whose held possessions are targeted by the spell. If a telekinesed creature is hurled against a solid surface, it takes damage as if it had fallen 10 feet (1d6 points).
 
-### Telekinetic Sphere
+#### Telekinetic Sphere
 
 - Evocation \[Force\]
 - **Level::** Sor/Wiz 8
@@ -122,7 +119,7 @@ You can move the sphere telekinetically even if you are in it.
 
 _Material Component::_ A hemispherical piece of clear crystal, a matching hemispherical piece of gum arabic, and a pair of small bar magnets.
 
-### Telepathic Bond
+#### Telepathic Bond
 
 - Divination
 - **Level::** Sor/Wiz 5
@@ -142,7 +139,7 @@ _Telepathic bond_ can be made permanent with a _permanency_ spell, though it onl
 
 _Material Component::_ Pieces of eggshell from two different kinds of creatures.
 
-### Teleport
+#### Teleport
 
 - Conjuration (Teleportation)
 - **Level::** Sor/Wiz 5, Travel 5
@@ -184,7 +181,7 @@ _Mishap::_ You and anyone else teleporting with you have gotten “scrambled.”
 
 
 
-### Teleport Object
+#### Teleport Object
 
 - Conjuration (Teleportation)
 - **Level::** Sor/Wiz 7
@@ -197,14 +194,14 @@ This spell functions like _teleport,_ except that it teleports an object, not yo
 
 If desired, the target object can be sent to a distant location on the Ethereal Plane. In this case, the point from which the object was teleported remains faintly magical until the item is retrieved. A successful targeted _dispel magic_ spell cast on that point brings the vanished item back from the Ethereal Plane.
 
-### Teleport, Greater
+#### Teleport, Greater
 
 - Conjuration (Teleportation)
 - **Level::** Sor/Wiz 7, Travel 7
 
 This spell functions like _teleport,_ except that there is no range limit and there is no chance you arrive off target. In addition, you need not have seen the destination, but in that case you must have at least a reliable description of the place to which you are teleporting. If you attempt to teleport with insufficient information (or with misleading information), you disappear and simply reappear in your original location. Interplanar travel is not possible.
 
-### Teleportation Circle
+#### Teleportation Circle
 
 - Conjuration (Teleportation)
 - **Level::** Sor/Wiz 9
@@ -226,7 +223,7 @@ _Note::_ Magic traps such as _teleportation circle_ are hard to detect and disab
 
 _Material Component::_ Amber dust to cover the area of the circle (cost 1,000 gp).
 
-### Temporal Stasis
+#### Temporal Stasis
 
 - Transmutation
 - **Level::** Sor/Wiz 8
@@ -242,7 +239,7 @@ You must succeed on a melee touch attack. You place the subject into a state of 
 
 _Material Component::_ A powder composed of diamond, emerald, ruby, and sapphire dust with a total value of at least 5,000 gp.
 
-### Time Stop
+#### Time Stop
 
 - Transmutation
 - **Level::** Sor/Wiz 9, Trickery 9
@@ -258,7 +255,7 @@ You cannot move or harm items held, carried, or worn by a creature stuck in norm
 
 You are undetectable while _time stop_ lasts. You cannot enter an area protected by an _antimagic field_ while under the effect of _time stop._
 
-### Tiny Hut
+#### Tiny Hut
 
 - Evocation \[Force\]
 - **Level::** Brd 3, Sor/Wiz 3
@@ -278,7 +275,7 @@ The interior of the hut is a hemisphere. You can illuminate it dimly upon comman
 
 _Material Component::_ A small crystal bead that shatters when the spell duration expires or the _hut_ is dispelled.
 
-### Tongues
+#### Tongues
 
 - Divination
 - **Level::** Brd 2, Clr 4, Sor/Wiz 3
@@ -296,7 +293,7 @@ _Tongues_ can be made permanent with a _permanency_ spell.
 
 _Arcane Material Component::_ A small clay model of a ziggurat, which shatters when the verbal component is pronounced.
 
-### Touch of Fatigue
+#### Touch of Fatigue
 
 - Necromancy
 - **Level::** Sor/Wiz 0
@@ -316,7 +313,7 @@ This spell has no effect on a creature that is already fatigued. Unlike with nor
 
 _Material Component::_ A drop of sweat.
 
-### Touch of Idiocy
+#### Touch of Idiocy
 
 - Enchantment (Compulsion) \[Mind-Affecting\]
 - **Level::** Sor/Wiz 2
@@ -332,7 +329,7 @@ With a touch, you reduce the target’s mental faculties. Your successful melee 
 
 This spell’s effect may make it impossible for the target to cast some or all of its spells, if the requisite ability score drops below the minimum required to cast spells of that level.
 
-### Transformation
+#### Transformation
 
 - Transmutation
 - **Level::** Sor/Wiz 6
@@ -350,7 +347,7 @@ You lose your spellcasting ability, including your ability to use spell activati
 
 _Material Component::_ A _potion of bull’s strength_, which you drink (and whose effects are subsumed by the spell effects).
 
-### Transmute Metal to Wood
+#### Transmute Metal to Wood
 
 - Transmutation
 - **Level::** Drd 7
@@ -366,7 +363,7 @@ This spell enables you to change all metal objects within its area to wood. Weap
 
 Only _limited wish, miracle, wish,_ or similar magic can restore a transmuted object to its metallic state.
 
-### Transmute Mud to Rock
+#### Transmute Mud to Rock
 
 - Transmutation \[Earth\]
 - **Level::** Drd 5, Sor/Wiz 5
@@ -386,7 +383,7 @@ _Transmute mud to rock_ counters and dispels _transmute rock to mud_.
 
 _Arcane Material Component::_ Sand, lime, and water.
 
-### Transmute Rock to Mud
+#### Transmute Rock to Mud
 
 - Transmutation \[Earth\]
 - **Level::** Drd 5, Sor/Wiz 5
@@ -408,7 +405,7 @@ The mud remains until a successful _dispel magic_ or _transmute mud to rock_ spe
 
 _Arcane Material Component::_ Clay and water.
 
-### Transport via Plants
+#### Transport via Plants
 
 - Conjuration (Teleportation)
 - **Level::** Drd 6
@@ -428,7 +425,7 @@ You can’t use this spell to travel through plant creatures.
 
 The destruction of an occupied plant slays you and any creatures you have brought along, and ejects the bodies and all carried objects from the tree.
 
-### Trap the Soul
+#### Trap the Soul
 
 - Conjuration (Summoning)
 - **Level::** Sor/Wiz 8
@@ -452,7 +449,7 @@ _Material Component::_ Before the actual casting of _trap the soul,_ you must pr
 
 _Focus (Trigger Object Only)::_ If the trigger object method is used, a special trigger object, prepared as described above, is needed.
 
-### Tree Shape
+#### Tree Shape
 
 - Transmutation
 - **Level::** Drd 2, Rgr 3
@@ -466,7 +463,7 @@ By means of this spell, you are able to assume the form of a Large living tree o
 
 You can dismiss _tree shape_ as a free action (instead of as a standard action).
 
-### Tree Stride
+#### Tree Stride
 
 - Conjuration (Teleportation)
 - **Level::** Drd 5, Rgr 4
@@ -506,7 +503,7 @@ You may move into a tree up to one time per caster level (passing from one tree 
 
 You can, at your option, remain within a tree without transporting yourself, but you are forced out when the spell ends. If the tree in which you are concealed is chopped down or burned, you are slain if you do not exit before the process is complete.
 
-### True Resurrection
+#### True Resurrection
 
 - Conjuration (Healing)
 - **Level::** Clr 9
@@ -522,7 +519,7 @@ Even _true resurrection_ can’t restore to life a creature who has died of old 
 
 _Material Component::_ A sprinkle of holy water and diamonds worth a total of at least 25,000 gp.
 
-### True Seeing
+#### True Seeing
 
 - Divination
 - **Level::** Clr 5, Drd 7, Knowledge 5, Sor/Wiz 6
@@ -540,7 +537,7 @@ _True seeing_, however, does not penetrate solid objects. It in no way confers X
 
 _Material Component::_ An ointment for the eyes that costs 250 gp and is made from mushroom powder, saffron, and fat.
 
-### True Strike
+#### True Strike
 
 - Divination
 - **Level::** Sor/Wiz 1
@@ -554,7 +551,7 @@ You gain temporary, intuitive insight into the immediate future during your next
 
 _Focus::_ A small wooden replica of an archery target.
 
-### Undeath to Death
+#### Undeath to Death
 
 - Necromancy
 - **Level::** Clr 6, Sor/Wiz 6
@@ -566,7 +563,7 @@ This spell functions like _circle of death_, except that it destroys undead crea
 
 _Material Component::_ The powder of a crushed diamond worth at least 500 gp.
 
-### Undetectable Alignment
+#### Undetectable Alignment
 
 - Abjuration
 - **Level::** Brd 1, Clr 2, Pal 2
@@ -580,7 +577,7 @@ _Material Component::_ The powder of a crushed diamond worth at least 500 gp.
 
 An _undetectable alignment_ spell conceals the alignment of an object or a creature from all forms of divination.
 
-### Unhallow
+#### Unhallow
 
 - Evocation \[Evil\]
 - **Level::** Clr 5, Drd 5
@@ -610,7 +607,7 @@ _Unhallow_ counters but does not dispel _hallow_.
 
 _Material Component::_ Herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be tied to the _unhallowed_ area.
 
-### Unholy Aura
+#### Unholy Aura
 
 - Abjuration \[Evil\]
 - **Level::** Clr 8, Evil 8
@@ -634,7 +631,7 @@ Finally, if a good creature succeeds on a melee attack against a warded creature
 
 _Focus::_ A tiny reliquary containing some sacred relic, such as a piece of parchment from an unholy text. The reliquary costs at least 500 gp.
 
-### Unholy Blight
+#### Unholy Blight
 
 - Evocation \[Evil\]
 - **Level::** Evil 4
@@ -654,7 +651,7 @@ The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to a go
 
 The spell deals only half damage to creatures who are neither evil nor good, and they are not sickened. Such a creature can reduce the damage in half again (down to one-quarter) with a successful Will save.
 
-### Unseen Servant
+#### Unseen Servant
 
 - Conjuration (Creation)
 - **Level::** Brd 1, Sor/Wiz 1
@@ -672,7 +669,7 @@ The servant cannot attack in any way; it is never allowed an attack roll. It can
 
 _Material Component::_ A piece of string and a bit of wood.
 
-### Vampiric Touch
+#### Vampiric Touch
 
 - Necromancy
 - **Level::** Sor/Wiz 3
@@ -703,7 +700,7 @@ You instantly change the appearance of the subjects and then maintain that appea
 
 Unwilling targets can negate the spell’s effect on them by making Will saves or with spell resistance. Those who interact with the subjects can attempt Will disbelief saves to see through the glamer, but spell resistance doesn’t help.
 
-### Ventriloquism
+#### Ventriloquism
 
 - Illusion (Figment)
 - **Level::** Brd 1, Sor/Wiz 1
@@ -719,7 +716,7 @@ You can make your voice (or any sound that you can normally make vocally) seem t
 
 _Focus::_ A parchment rolled up into a small cone.
 
-### Virtue
+#### Virtue
 
 - Transmutation
 - **Level::** Clr 0, Drd 0, Pal 1
@@ -733,7 +730,7 @@ _Focus::_ A parchment rolled up into a small cone.
 
 The subject gains 1 temporary hit point.
 
-### Vision
+#### Vision
 
 - Divination
 - **Level::** Sor/Wiz 7
@@ -744,7 +741,7 @@ This spell functions like _legend lore,_ except that it works more quickly but p
 
 _XP Cost::_ 100 XP.
 
-### Wail of the Banshee
+#### Wail of the Banshee
 
 - Necromancy \[Death, Sonic\]
 - **Level::** Death 9, Sor/Wiz 9
@@ -758,7 +755,7 @@ _XP Cost::_ 100 XP.
 
 You emit a terrible scream that kills creatures that hear it (except for yourself ). Creatures closest to the point of origin are affected first.
 
-### Wall of Fire
+#### Wall of Fire
 
 - Evocation \[Fire\]
 - **Level::** Drd 5, Fire 4, Sor/Wiz 4
@@ -778,7 +775,7 @@ _Wall of fire_ can be made permanent with a _permanency_ spell. A permanent _wal
 
 _Arcane Material Component::_ A small piece of phosphorus.
 
-### Wall of Force
+#### Wall of Force
 
 - Evocation \[Force\]
 - **Level::** Sor/Wiz 5
@@ -798,7 +795,7 @@ _Wall of force_ can be made permanent with a _permanency_ spell.
 
 _Material Component::_ A pinch of powder made from a clear gem.
 
-### Wall of Ice
+#### Wall of Ice
 
 - Evocation \[Cold\]
 - **Level::** Sor/Wiz 4
@@ -822,7 +819,7 @@ _Hemisphere::_ The wall takes the form of a hemisphere whose maximum radius is 3
 
 _Material Component::_ A small piece of quartz or similar rock crystal.
 
-### Wall of Iron
+#### Wall of Iron
 
 - Conjuration (Creation)
 - **Level::** Sor/Wiz 6
@@ -844,7 +841,7 @@ Like any iron wall, this wall is subject to rust, perforation, and other natural
 
 _Material Component::_ A small piece of sheet iron plus gold dust worth 50 gp (1 pound of gold dust).
 
-### Wall of Stone
+#### Wall of Stone
 
 - Conjuration (Creation) \[Earth\]
 - **Level::** Clr 5, Drd 6, Earth 5, Sor/Wiz 5
@@ -866,7 +863,7 @@ It is possible, but difficult, to trap mobile opponents within or under a _wall 
 
 _Arcane Material Component::_ A small block of granite.
 
-### Wall of Thorns
+#### Wall of Thorns
 
 - Conjuration (Creation)
 - **Level::** Drd 5, Plant 5
@@ -890,7 +887,7 @@ A _wall of thorns_ can be breached by slow work with edged weapons. Chopping awa
 
 Despite its appearance, a _wall of thorns_ is not actually a living plant, and thus is unaffected by spells that affect plants.
 
-### Warp Wood
+#### Warp Wood
 
 - Transmutation
 - **Level::** Drd 2
@@ -912,7 +909,7 @@ You can combine multiple consecutive _warp wood_ spells to warp (or unwarp) an o
 
 Until the object is completely warped, it suffers no ill effects.
 
-### Water Breathing
+#### Water Breathing
 
 - Transmutation
 - **Level::** Clr 3, Drd 3, Sor/Wiz 3, Water 3
@@ -930,7 +927,7 @@ The spell does not make creatures unable to breathe air.
 
 _Arcane Material Component::_ A short reed or piece of straw.
 
-### Water Walk
+#### Water Walk
 
 - Transmutation \[Water\]
 - **Level::** Clr 3, Rgr 3
@@ -946,7 +943,7 @@ The transmuted creatures can tread on any liquid as if it were firm ground. Mud,
 
 If the spell is cast underwater (or while the subjects are partially or wholly submerged in whatever liquid they are in), the subjects are borne toward the surface at 60 feet per round until they can stand on it.
 
-### Waves of Exhaustion
+#### Waves of Exhaustion
 
 - Necromancy
 - **Level::** Sor/Wiz 7
@@ -960,7 +957,7 @@ If the spell is cast underwater (or while the subjects are partially or wholly s
 
 Waves of negative energy cause all living creatures in the spell’s area to become exhausted. This spell has no effect on a creature that is already exhausted.
 
-### Waves of Fatigue
+#### Waves of Fatigue
 
 - Necromancy
 - **Level::** Sor/Wiz 5
@@ -974,7 +971,7 @@ Waves of negative energy cause all living creatures in the spell’s area to bec
 
 Waves of negative energy render all living creatures in the spell’s area fatigued. This spell has no effect on a creature that is already fatigued.
 
-### Web
+#### Web
 
 - Conjuration (Creation)
 - **Level::** Sor/Wiz 2
@@ -998,7 +995,7 @@ _Web_ can be made permanent with a _permanency_ spell. A permanent _web_ that is
 
 _Material Component::_ A bit of spider web.
 
-### Weird
+#### Weird
 
 - Illusion (Phantasm) \[Fear, Mind-Affecting\]
 - **Level::** Sor/Wiz 9
@@ -1008,7 +1005,7 @@ This spell functions like _phantasmal killer_, except it can affect more than on
 
 If a subject’s Fortitude save succeeds, it still takes 3d6 points of damage and is stunned for 1 round. The subject also takes 1d4 points of temporary Strength damage.
 
-### Whirlwind
+#### Whirlwind
 
 - Evocation \[Air\]
 - **Level::** Air 8, Drd 8
@@ -1024,7 +1021,7 @@ This spell creates a powerful cyclone of raging wind that moves through the air,
 
 Any Large or smaller creature that comes in contact with the spell effect must succeed on a Reflex save or take 3d6 points of damage. A Medium or smaller creature that fails its first save must succeed on a second one or be picked up bodily by the cyclone and held suspended in its powerful winds, taking 1d8 points of damage each round on your turn with no save allowed. You may direct the cyclone to eject any carried creatures whenever you wish, depositing the hapless souls wherever the cyclone happens to be when they are released.
 
-### Whispering Wind
+#### Whispering Wind
 
 - Transmutation \[Air\]
 - **Level::** Brd 2, Sor/Wiz 2
@@ -1042,7 +1039,7 @@ You can prepare the spell to bear a message of no more than twenty-five words, c
 
 When the spell reaches its objective, it swirls and remains in place until the message is delivered. As with _magic mouth, whispering wind_ cannot speak verbal components, use command words, or activate magical effects.
 
-### Wind Walk
+#### Wind Walk
 
 - Transmutation \[Air\]
 - **Level::** Clr 6, Drd 7
@@ -1062,7 +1059,7 @@ A _wind walker_ can regain its physical form as desired and later resume the clo
 
 For the last minute of the spell’s duration, a _wind walker_ in cloud form automatically descends 60 feet per round (for a total of 600 feet), though it may descend faster if it wishes. This descent serves as a warning that the spell is about to end.
 
-### Wind Wall
+#### Wind Wall
 
 - Evocation \[Air\]
 - **Level::** Air 2, Clr 3, Drd 3, Rgr 2, Sor/Wiz 3
@@ -1080,7 +1077,7 @@ While the wall must be vertical, you can shape it in any continuous path along t
 
 _Arcane Material Component::_ A tiny fan and a feather of exotic origin.
 
-### Wish
+#### Wish
 
 - Universal
 - **Level::** Sor/Wiz 9
@@ -1119,7 +1116,7 @@ _Material Component::_ When a _wish_ duplicates a spell with a material componen
 
 _XP Cost::_ The minimum XP cost for casting _wish_ is 5,000 XP. When a _wish_ duplicates a spell that has an XP cost, you must pay 5,000 XP or that cost, whichever is more. When a _wish_ creates or improves a magic item, you must pay twice the normal XP cost for crafting or improving the item, plus an additional 5,000 XP.
 
-### Wood Shape
+#### Wood Shape
 
 - Transmutation
 - **Level::** Drd 2
@@ -1133,7 +1130,7 @@ _XP Cost::_ The minimum XP cost for casting _wish_ is 5,000 XP. When a _wish_ du
 
 _Wood shape_ enables you to form one existing piece of wood into any shape that suits your purpose. While it is possible to make crude coffers, doors, and so forth, fine detail isn’t possible. There is a 30% chance that any shape that includes moving parts simply doesn’t work.
 
-### Word of Chaos
+#### Word of Chaos
 
 - Evocation \[Chaotic, Sonic\]
 - **Level::** Chaos 7, Clr 7
@@ -1170,7 +1167,7 @@ Furthermore, if you are on your home plane when you cast this spell, nonchaotic 
 
 Creatures whose HD exceed your caster level are unaffected by _word of chaos._
 
-### Word of Recall
+#### Word of Recall
 
 - Conjuration (Teleportation)
 - **Level::** Clr 6, Drd 8
@@ -1187,7 +1184,7 @@ designate the sanctuary when you prepare the spell, and it must be a very famili
 
 An unwilling creature can’t be teleported by _word of recall._ Likewise, a creature’s Will save (or spell resistance) prevents items in its possession from being teleported. Unattended, nonmagical objects receive no saving throw.
 
-### Zone of Silence
+#### Zone of Silence
 
 - Illusion (Glamer)
 - **Level::** Brd 4
@@ -1199,7 +1196,7 @@ An unwilling creature can’t be teleported by _word of recall._ Likewise, a cre
 
 By casting _zone of silence_, you manipulate sound waves in your immediate vicinity so that you and those within the spell’s area can converse normally, yet no one outside can hear your voices or any other noises from within, including language-dependent or sonic spell effects. This effect is centered on you and moves with you. Anyone who enters the zone immediately becomes subject to its effects, but those who leave are no longer affected. Note, however, that a successful Spot check to read lips can still reveal what’s said inside a _zone of silence._
 
-### Zone of Truth
+#### Zone of Truth
 
 - Enchantment (Compulsion) \[Mind-Affecting\]
 - **Level::** Clr 2, Pal 2

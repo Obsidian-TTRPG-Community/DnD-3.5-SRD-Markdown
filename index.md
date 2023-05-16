@@ -1,4 +1,12 @@
-# Revised (v.3.5) System Reference Document
+---
+aliases: [Revised (v.3.5) System Reference Document]
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
+
+## Revised (v.3.5) System Reference Document
+
 Original Documents: [http://www.wizards.com/default.asp?x=d20/article/srd35](http://www.wizards.com/default.asp?x=d20/article/srd35)
 Archive: [https://archive.org/details/dnd35srd](https://archive.org/details/dnd35srd)
 
@@ -6,7 +14,7 @@ The System Reference Document is a comprehensive toolbox consisting of rules, ra
 
 You may consider this material Open Game Content under the Open Game License, and may use, modify, and distribute it.
 
-## Basic Rules and Legal
+### Basic Rules and Legal
 
 *   [Legal Information](basic-rules-and-legal/legal-information.html)
 *   [Basics and Ability Scores](basic-rules-and-legal/basics-and-ability-scores.html)
@@ -31,7 +39,7 @@ You may consider this material Open Game Content under the Open Game License, an
 *   [Traps](basic-rules-and-legal/traps.html)
 *   [Planes](basic-rules-and-legal/planes.html) 
 
-## Spells
+### Spells
 
 *   [Magic Overview](spells/magic-overview.md)
 *   [Spell List I](spells/spell-list-i.md)
@@ -46,7 +54,7 @@ You may consider this material Open Game Content under the Open Game License, an
 *   [Spells (S)](spells/spells-s.md)
 *   [Spells (T-Z)](spells/spells-t-z.md)
 
-## Magic Items
+### Magic Items
 
 *   [Magic Items I (Basics and Creation)](magic-items/magic-items-i-basics-and-creation.html)
 *   [Magic Items II (Armor and Weapons)](magic-items/magic-items-ii-armor-and-weapons.html)
@@ -55,7 +63,7 @@ You may consider this material Open Game Content under the Open Game License, an
 *   [Magic Items V (Wondrous Items)](magic-items/magic-items-v-wondrous-items.html)
 *   [Magic Items VI (Intelligent, Cursed, and Artifacts)](magic-items/magic-items-vi-intelligent-cursed-and-artifacts.html)
 
-## Monsters
+### Monsters
 
 *   [Monsters (Intro-A)](monsters/monsters-intro-a.html)
 *   [Monsters (B-C)](monsters/monsters-b-c.html)

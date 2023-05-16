@@ -1,11 +1,15 @@
-v3.5 SRD / Spells / Spells (F-G)
+---
+aliases: spells-f-g
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-SPELLS (F-G)
+Spells (F-G)
 ============
 
-### Table of Contents
+## Table of Contents
 
 *   [Fabricate](#fabricate)
 *   [Faerie Fire](#faerie-fire)
@@ -63,7 +67,7 @@ SPELLS (F-G)
 *   [Guidance](#guidance)
 *   [Gust of Wind](#gust-of-wind)
 
-### Fabricate
+## Fabricate
 
 *   Transmutation
 *   **Level:** Sor/Wiz 5
@@ -83,7 +87,7 @@ Casting requires 1 round per 10 cubic feet (or 1 cubic foot) of material to be a
 
 _Material Component:_ The original material, which costs the same amount as the raw materials required to craft the item to be created.
 
-### Faerie Fire
+## Faerie Fire
 
 *   Evocation \[Light\]
 *   **Level:** Drd 1
@@ -97,7 +101,7 @@ _Material Component:_ The original material, which costs the same amount as the 
 
 A pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-level or higher magical _darkness_ effect functions normally), _blur_, displacement, invisibility, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. The _faerie fire_ can be blue, green, or violet, according to your choice at the time of casting. The _faerie fire_ does not cause any harm to the objects or creatures thus outlined.
 
-### False Life
+## False Life
 
 *   Necromancy
 *   **Level:** Sor/Wiz 2
@@ -111,7 +115,7 @@ You harness the power of unlife to grant yourself a limited ability to avoid dea
 
 _Material Component:_ A small amount of alcohol or distilled spirits, which you use to trace certain sigils on your body during casting. These sigils cannot be seen once the alcohol or spirits evaporate.
 
-### False Vision
+## False Vision
 
 *   Illusion (Glamer)
 *   **Level:** Brd 5, Sor/Wiz 5, Trickery 5
@@ -144,7 +148,7 @@ An invisible cone of terror causes each living creature in the area to become pa
 
 _Material Component:_ Either the heart of a hen or a white feather.
 
-### Feather Fall
+## Feather Fall
 
 *   Transmutation
 *   **Level:** Brd 1, Sor/Wiz 1
@@ -166,7 +170,7 @@ This spell has no special effect on ranged weapons unless they are falling quite
 
 _Feather fall_ works only upon free-falling objects. It does not affect a sword blow or a charging or flying creature.
 
-### Feeblemind
+## Feeblemind
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Sor/Wiz 5
@@ -182,7 +186,7 @@ If the target creature fails a Will saving throw, its Intelligence and Charisma 
 
 _Material Component:_ A handful of clay, crystal, glass, or mineral spheres.
 
-### Find the Path
+## Find the Path
 
 *   Divination
 *   **Level:** Brd 6, Clr 6, Drd 6, Knowledge 6, Travel 6
@@ -202,7 +206,7 @@ This divination is keyed to the recipient, not its companions, and its effect do
 
 _Focus:_ A set of divination counters of the sort you favor.
 
-### Find Traps
+## Find Traps
 
 *   Divination
 *   **Level:** Clr 2
@@ -216,7 +220,7 @@ You gain intuitive insight into the workings of traps. You can use the Search sk
 
 Note that _find traps_ grants no ability to disable the traps that you may find.
 
-### Finger of Death
+## Finger of Death
 
 *   Necromancy \[Death\]
 *   **Level:** Drd 8, Sor/Wiz 7
@@ -232,7 +236,7 @@ You can slay any one living creature within range. The target is entitled to a F
 
 The subject might die from damage even if it succeeds on its saving throw.
 
-### Fire Seeds
+## Fire Seeds
 
 *   Conjuration (Creation) \[Fire\]
 *   **Level:** Drd 6, Fire 6, Sun 6
@@ -254,7 +258,7 @@ _Holly Berry Bombs:_ You turn as many as eight holly berries into special bombs.
 
 _Material Component:_ The acorns or holly berries.
 
-### Fire Shield
+## Fire Shield
 
 *   Evocation \[Fire or Cold\]
 *   **Level:** Fire 5, Sor/Wiz 4, Sun 4
@@ -276,7 +280,7 @@ _Chill Shield:_ The flames are cool to the touch. You take only half damage from
 
 _Arcane Material Component:_ A bit of phosphorus for the _warm shield;_ a live firefly or glowworm or the tail portions of four dead ones for the _chill shield_.
 
-### Fire Storm
+## Fire Storm
 
 *   Evocation \[Fire\]
 *   **Level:** Clr 8, Drd 7, Fire 7
@@ -290,7 +294,7 @@ _Arcane Material Component:_ A bit of phosphorus for the _warm shield;_ a live f
 
 When a _fire storm_ spell is cast, the whole area is shot through with sheets of roaring flame. The raging flames do not harm natural vegetation, ground cover, and any plant creatures in the area that you wish to exclude from damage. Any other creature within the area takes 1d6 points of fire damage per caster level (maximum 20d6).
 
-### Fire Trap
+## Fire Trap
 
 *   Abjuration \[Fire\]
 *   **Level:** Drd 2, Sor/Wiz 4
@@ -318,7 +322,7 @@ _Note:_ Magic traps such as _fire trap_ are hard to detect and disable. A rogue 
 
 _Material Component:_ A half-pound of gold dust (cost 25 gp) sprinkled on the warded object.
 
-### Fireball
+## Fireball
 
 *   Evocation \[Fire\]
 *   **Level:** Sor/Wiz 3
@@ -338,7 +342,7 @@ The _fireball_ sets fire to combustibles and damages objects in the area. It can
 
 _Material Component:_ A tiny ball of bat guano and sulfur.
 
-### Flame Arrow
+## Flame Arrow
 
 *   Transmutation \[Fire\]
 *   **Level:** Sor/Wiz 3
@@ -354,7 +358,7 @@ You turn ammunition (such as arrows, bolts, shuriken, and stones) into fiery pro
 
 _Material Component:_ A drop of oil and a small piece of flint.
 
-### Flame Blade
+## Flame Blade
 
 *   Evocation \[Fire\]
 *   **Level:** Drd 2
@@ -370,7 +374,7 @@ A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wi
 
 The spell does not function underwater.
 
-### Flame Strike
+## Flame Strike
 
 *   Evocation \[Fire\]
 *   **Level:** Clr 5, Drd 4, Sun 5, War 5
@@ -384,7 +388,7 @@ The spell does not function underwater.
 
 A _flame strike_ produces a vertical column of divine fire roaring downward. The spell deals 1d6 points of damage per caster level (maximum 15d6). Half the damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks.
 
-### Flaming Sphere
+## Flaming Sphere
 
 *   Evocation \[Fire\]
 *   **Level:** Drd 2, Sor/Wiz 2
@@ -417,7 +421,7 @@ Flare
 
 This cantrip creates a burst of light. If you cause the light to burst directly in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by _flare_.
 
-### Flesh to Stone
+## Flesh to Stone
 
 *   Transmutation
 *   **Level:** Sor/Wiz 6
@@ -454,7 +458,7 @@ Should the spell duration expire while the subject is still aloft, the magic fai
 
 _Arcane Focus:_ A wing feather from any bird.
 
-### Floating Disk
+## Floating Disk
 
 *   Evocation \[Force\]
 *   **Level:** Sor/Wiz 1
@@ -470,7 +474,7 @@ You create a slightly concave, circular plane of force that follows you about an
 
 _Material Component:_ A drop of mercury.
 
-### Fog Cloud
+## Fog Cloud
 
 *   Conjuration (Creation)
 *   **Level:** Drd 2, Sor/Wiz 2, Water 2
@@ -488,7 +492,7 @@ A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph)
 
 The spell does not function underwater.
 
-### Forbiddance
+## Forbiddance
 
 *   Abjuration
 *   **Level:** Clr 6
@@ -518,7 +522,7 @@ You can’t have multiple overlapping _forbiddance_ effects. In such a case, the
 
 _Material Component:_ A sprinkling of holy water and rare incenses worth at least 1,500 gp, plus 1,500 gp per 60-foot cube. If a password is desired, this requires the burning of additional rare incenses worth at least 1,000 gp, plus 1,000 gp per 60-foot cube.
 
-### Forcecage
+## Forcecage
 
 *   Evocation \[Force\]
 *   **Level:** Sor/Wiz 7
@@ -542,7 +546,7 @@ _Windowless Cell:_ This version of the spell produces a 10-foot cube with no way
 
 _Material Component:_ Ruby dust worth 1,500 gp, which is tossed into the air and disappears when you cast the spell.
 
-### Forceful Hand
+## Forceful Hand
 
 *   Evocation \[Force\]
 *   **Level:** Sor/Wiz 6
@@ -554,7 +558,7 @@ A very strong creature could not push the hand out of its way because the latter
 
 _Focus:_ A sturdy glove made of leather or heavy cloth.
 
-### Foresight
+## Foresight
 
 *   Divination
 *   **Level:** Drd 9, Knowledge 9, Sor/Wiz 9
@@ -572,7 +576,7 @@ When another creature is the subject of the spell, you receive warnings about th
 
 _Arcane Material Component:_ A hummingbird’s feather.
 
-### Fox’s Cunning
+## Fox’s Cunning
 
 *   Transmutation
 *   **Level:** Brd 2, Sor/Wiz 2
@@ -588,7 +592,7 @@ The transmuted creature becomes smarter. The spell grants a +4 enhancement bonus
 
 _Arcane Material Component:_ A few hairs, or a pinch of dung, from a fox.
 
-### Fox’s Cunning, Mass
+## Fox’s Cunning, Mass
 
 *   Transmutation
 *   **Level:** Brd 6, Sor/Wiz 6
@@ -597,7 +601,7 @@ _Arcane Material Component:_ A few hairs, or a pinch of dung, from a fox.
 
 This spell functions like _fox’s cunning_, except that it affects multiple creatures.
 
-### Freedom
+## Freedom
 
 *   Abjuration
 *   **Level:** Sor/Wiz 9
@@ -611,7 +615,7 @@ This spell functions like _fox’s cunning_, except that it affects multiple cre
 
 The subject is freed from spells and effects that restrict its movement, including _binding_, _entangle_, grappling, _imprisonment_, _maze_, paralysis, _petrification_, pinning, _sleep_, _slow_, stunning, _temporal stasis_, and _web_. To free a creature from _imprisonment_ or _maze,_ you must know its name and background, and you must cast this spell at the spot where it was entombed or banished into the _maze_.
 
-### Freedom of Movement
+## Freedom of Movement
 
 *   Abjuration
 *   **Level:** Brd 4, Clr 4, Drd 4, Luck 4, Rgr 4
@@ -629,7 +633,7 @@ The spell also allows the subject to move and attack normally while underwater, 
 
 _Material Component:_ A leather thong, bound around the arm or a similar appendage.
 
-### Freezing Sphere
+## Freezing Sphere
 
 *   Evocation \[Cold\]
 *   **Level:** Sor/Wiz 6
@@ -649,7 +653,7 @@ You can refrain from firing the globe after completing the spell, if you wish. T
 
 _Focus:_ A small crystal sphere.
 
-### Gaseous Form
+## Gaseous Form
 
 *   Transmutation
 *   **Level:** Air 3, Brd 3, Sor/Wiz 3
@@ -706,7 +710,7 @@ _Note:_ When you use a calling spell such as _gate_ to call an air, chaotic, ear
 
 _XP Cost:_ 1,000 XP (only for the _calling creatures_ function).
 
-### Geas/Quest
+## Geas/Quest
 
 *   Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]
 *   **Level:** Brd 6, Clr 6, Sor/Wiz 6
@@ -722,7 +726,7 @@ A _remove curse_ spell ends a _geas/quest_ spell only if its caster level is at 
 
 Bards, sorcerers, and wizards usually refer to this spell as _geas,_ while clerics call the same spell _quest_.
 
-### Geas, Lesser
+## Geas, Lesser
 
 *   Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]
 *   **Level:** Brd 3, Sor/Wiz 4
@@ -744,7 +748,7 @@ If the subject is prevented from obeying the _lesser geas_ for 24 hours, it take
 
 A _lesser geas_ (and all ability score penalties) can be ended by _break enchantment_, _limited wish_, _remove curse_, _miracle_, or _wish_. _Dispel magic_ does not affect a _lesser geas_.
 
-### Gentle Repose
+## Gentle Repose
 
 *   Necromancy
 *   **Level:** Clr 2, Sor/Wiz 3
@@ -762,7 +766,7 @@ The spell also works on severed body parts and the like.
 
 _Arcane Material Component:_ A pinch of salt, and a copper piece for each eye the corpse has (or had).
 
-### Ghost Sound
+## Ghost Sound
 
 *   Illusion (Figment)
 *   **Level:** Brd 0, Sor/Wiz 0
@@ -784,7 +788,7 @@ _Ghost sound_ can be made permanent with a _permanency_ spell.
 
 _Material Component:_ A bit of wool or a small lump of wax.
 
-### Ghoul Touch
+## Ghoul Touch
 
 *   Necromancy
 *   **Level:** Sor/Wiz 2
@@ -802,7 +806,7 @@ Additionally, the paralyzed subject exudes a carrion stench that causes all livi
 
 _Material Component:_ A small scrap of cloth taken from clothing worn by a ghoul, or a pinch of earth from a ghoul’s lair.
 
-### Giant Vermin
+## Giant Vermin
 
 *   Transmutation
 *   **Level:** Clr 4, Drd 4
@@ -842,7 +846,7 @@ Gargantuan
 
 Colossal
 
-### Glibness
+## Glibness
 
 *   Transmutation
 *   **Level:** Brd 3
@@ -856,7 +860,7 @@ Your speech becomes fluent and more believable. You gain a +30 bonus on Bluff ch
 
 If a magical effect is used against you that would detect your lies or force you to speak the truth the user of the effect must succeed on a caster level check (1d20 + caster level) against a DC of 15 + your caster level to succeed. Failure means the effect does not detect your lies or force you to speak only the truth.
 
-### Glitterdust
+## Glitterdust
 
 *   Conjuration (Creation)
 *   **Level:** Brd 2, Sor/Wiz 2
@@ -874,14 +878,14 @@ Any creature covered by the dust takes a –40 penalty on Hide checks.
 
 _Material Component:_ Ground mica.
 
-### Globe of Invulnerability
+## Globe of Invulnerability
 
 *   Abjuration
 *   **Level:** Sor/Wiz 6
 
 This spell functions like _lesser globe of invulnerability,_ except that it also excludes 4th-level spells and spell-like effects.
 
-### Globe of Invulnerability, Lesser
+## Globe of Invulnerability, Lesser
 
 *   Abjuration
 *   **Level:** Sor/Wiz 4
@@ -901,7 +905,7 @@ If a given spell has more than one level depending on which character class is c
 
 _Material Component:_ A glass or crystal bead that shatters at the expiration of the spell.
 
-### Glyph of Warding
+## Glyph of Warding
 
 *   Abjuration
 *   **Level:** Clr 3
@@ -931,7 +935,7 @@ _Spell Glyph:_ You can store any harmful spell of 3rd level or lower that you kn
 
 _Material Component:_ You trace the _glyph_ with incense, which must first be sprinkled with powdered diamond worth at least 200 gp.
 
-### Glyph of Warding, Greater
+## Glyph of Warding, Greater
 
 *   Abjuration
 *   **Level:** Clr 6
@@ -940,7 +944,7 @@ This spell functions like _glyph of warding,_ except that a _greater blast glyph
 
 _Material Component:_ You trace the _glyph_ with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.
 
-### Goodberry
+## Goodberry
 
 *   Transmutation
 *   **Level:** Drd 1
@@ -954,7 +958,7 @@ _Material Component:_ You trace the _glyph_ with incense, which must first be sp
 
 Casting _goodberry_ upon a handful of freshly picked berries makes 2d4 of them magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.
 
-### Good Hope
+## Good Hope
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 3
@@ -970,7 +974,7 @@ This spell instills powerful hope in the subjects. Each affected creature gains 
 
 _Good hope_ counters and dispels _crushing despair_.
 
-### Grasping Hand
+## Grasping Hand
 
 *   Evocation \[Force\]
 *   **Level:** Sor/Wiz 7, Strength 7
@@ -988,7 +992,7 @@ Clerics who cast this spell name it for their deities.
 
 _Arcane Focus:_ A leather glove.
 
-### Grease
+## Grease
 
 *   Conjuration (Creation)
 *   **Level:** Brd 1, Sor/Wiz 1
@@ -1006,11 +1010,11 @@ The spell can also be used to create a greasy coating on an item. Material objec
 
 _Material Component:_ A bit of pork rind or butter.
 
-### Greater (Spell Name)
+## Greater (Spell Name)
 
 *   Any spell whose name begins with _greater_ is alphabetized in this chapter according to the second word of the spell name. Thus, the description of a _greater_ spell appears near the description of the spell on which it is based. Spell chains that have _greater_ spells in them include those based on the spells _arcane sight, command, dispel magic, glyph of warding, invisibility, magic fang, magic weapon, planar ally, planar binding, prying eyes, restoration, scrying, shadow conjuration, shadow evocation, shout,_ and _teleport._
 
-### Guards and Wards
+## Guards and Wards
 
 *   Abjuration
 *   **Level:** Sor/Wiz 6
@@ -1052,7 +1056,7 @@ _Material Component:_ Burning incense, a small measure of brimstone and oil, a k
 
 _Focus:_ A small silver rod.
 
-### Guidance
+## Guidance
 
 *   Divination
 *   **Level:** Clr 0, Drd 0
@@ -1066,7 +1070,7 @@ _Focus:_ A small silver rod.
 
 This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.
 
-### Gust of Wind
+## Gust of Wind
 
 *   Evocation \[Air\]
 *   **Level:** Drd 2, Sor/Wiz 2

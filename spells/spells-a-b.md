@@ -1,8 +1,11 @@
-v3.5 SRD / Spells / Spells (A-B)
+---
+aliases: spells-a-b
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
-
-SPELLS (A-B)
+Spells (A-B)
 ============
 
 Table of Contents

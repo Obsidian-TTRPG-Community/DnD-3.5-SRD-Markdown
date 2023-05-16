@@ -1,10 +1,14 @@
-v3.5 SRD / Spells / Spells (D-E)
+---
+aliases: Spells (D-E)
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# SPELLS (D-E)
+## Spells (D-E)
 
-## Table of Contents
+### Table of Contents
 
 *   [Dancing Lights](#dancing-lights)
 *   [Darkness](#darkness)
@@ -80,7 +84,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [Explosive Runes](#explosive-runes)
 *   [Eyebite](#eyebite)
 
-### Dancing Lights
+#### Dancing Lights
 
 *   Evocation \[Light\]
 *   **Level:** Brd 0, Sor/Wiz 0
@@ -96,7 +100,7 @@ Depending on the version selected, you create up to four lights that resemble la
 
 _Dancing lights_ can be made permanent with a _permanency_ spell.
 
-### Darkness
+#### Darkness
 
 *   Evocation \[Darkness\]
 *   **Level:** Brd 2, Clr 2, Sor/Wiz 2
@@ -118,7 +122,7 @@ _Darkness_ counters or dispels any light spell of equal or lower spell level.
 
 _Arcane Material Component:_ A bit of bat fur and either a drop of pitch or a piece of coal.
 
-### Darkvision
+#### Darkvision
 
 *   Transmutation
 *   **Level:** Rgr 3, Sor/Wiz 2
@@ -136,7 +140,7 @@ _Darkvision_ can be made permanent with a _permanency_ spell.
 
 _Material Component:_ Either a pinch of dried carrot or an agate.
 
-### Daylight
+#### Daylight
 
 *   Evocation \[Light\]
 *   **Level:** Brd 3, Clr 3, Drd 3, Pal 3, Sor/Wiz 3
@@ -156,7 +160,7 @@ _Daylight_ brought into an area of magical darkness (or vice versa) is temporari
 
 _Daylight_ counters or dispels any darkness spell of equal or lower level, such as _darkness._
 
-## Daze
+### Daze
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 0, Sor/Wiz 0
@@ -172,7 +176,7 @@ This enchantment clouds the mind of a humanoid creature with 4 or fewer Hit Dice
 
 _Material Component:_ A pinch of wool or similar substance.
 
-### Daze Monster
+#### Daze Monster
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 2, Sor/Wiz 2
@@ -181,7 +185,7 @@ _Material Component:_ A pinch of wool or similar substance.
 
 This spell functions like _daze,_ but _daze monster_ can affect any one living creature of any type. Creatures of 7 or more HD are not affected.
 
-### Death Knell
+#### Death Knell
 
 *   Necromancy \[Death, Evil\]
 *   **Level:** Clr 2, Death 2
@@ -195,7 +199,7 @@ This spell functions like _daze,_ but _daze monster_ can affect any one living c
 
 You draw forth the ebbing life force of a creature and use it to fuel your own power. Upon casting this spell, you touch a living creature that has –1 or fewer hit points. If the subject fails its saving throw, it dies, and you gain 1d8 temporary hit points and a +2 bonus to Strength. Additionally, your effective caster level goes up by +1, improving spell effects dependent on caster level. (This increase in effective caster level does not grant you access to more spells.) These effects last for 10 minutes per HD of the subject creature.
 
-### Death Ward
+#### Death Ward
 
 *   Necromancy
 *   **Level:** Clr 4, Death 4, Drd 5, Pal 4
@@ -213,7 +217,7 @@ This spell doesn’t remove negative levels that the subject has already gained,
 
 _Death ward_ does not protect against other sorts of attacks even if those attacks might be lethal.
 
-### Deathwatch
+#### Deathwatch
 
 *   Necromancy \[Evil\]
 *   **Level:** Clr 1
@@ -229,7 +233,7 @@ Using the foul sight granted by the powers of unlife, you can determine the cond
 
 _Deathwatch_ sees through any spell or ability that allows creatures to feign death.
 
-### Deep Slumber
+#### Deep Slumber
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 3, Sor/Wiz 3
@@ -237,7 +241,7 @@ _Deathwatch_ sees through any spell or ability that allows creatures to feign de
 
 This spell functions like _sleep,_ except that it affects 10 HD of creatures.
 
-### Deeper Darkness
+#### Deeper Darkness
 
 *   Evocation \[Darkness\]
 *   **Level:** Clr 3
@@ -249,7 +253,7 @@ _Daylight_ brought into an area of _deeper darkness_ (or vice versa) is temporar
 
 _Deeper darkness_ counters and dispels any light spell of equal or lower level, including _daylight_ and _light._
 
-### Delay Poison
+#### Delay Poison
 
 *   Conjuration (Healing)
 *   **Level:** Brd 2, Clr 2, Drd 2, Pal 2, Rgr 1
@@ -263,7 +267,7 @@ _Deeper darkness_ counters and dispels any light spell of equal or lower level, 
 
 The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell’s duration does not affect the subject until the spell’s duration has expired. _Delay poison_ does not cure any damage that poison may have already done.
 
-### Delayed Blast Fireball
+#### Delayed Blast Fireball
 
 *   Evocation \[Fire\]
 *   **Level:** Sor/Wiz 7
@@ -273,7 +277,7 @@ This spell functions like _fireball,_ except that it is more powerful and can de
 
 The glowing bead created by _delayed blast fireball_ can detonate immediately if you desire, or you can choose to delay the burst for as many as 5 rounds. You select the amount of delay upon completing the spell, and that time cannot change once it has been set unless someone touches the bead (see below). If you choose a delay, the glowing bead sits at its destination until it detonates. A creature can pick up and hurl the bead as a thrown weapon (range increment 10 feet). If a creature handles and moves the bead within 1 round of its detonation, there is a 25% chance that the bead detonates while being handled.
 
-### Demand
+#### Demand
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Sor/Wiz 8
@@ -286,7 +290,7 @@ The _demand_’s message to the creature must be twenty-five words or less, incl
 
 _Material Component:_ A short piece of copper wire and some small part of the subject—a hair, a bit of nail, or the like.
 
-### Desecrate
+#### Desecrate
 
 *   Evocation \[Evil\]
 *   **Level:** Clr 2, Evil 2
@@ -310,7 +314,7 @@ _Desecrate_ counters and dispels _consecrate_.
 
 _Material Component:_ A vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.
 
-### Destruction
+#### Destruction
 
 *   Necromancy \[Death\]
 *   **Level:** Clr 7, Death 7
@@ -326,7 +330,7 @@ This spell instantly slays the subject and consumes its remains (but not its equ
 
 _Focus:_ A special holy (or unholy) symbol of silver marked with verses of anathema (cost 500 gp).
 
-### Detect Animals or Plants
+#### Detect Animals or Plants
 
 *   Divination
 *   **Level:** Drd 1, Rgr 1
@@ -360,14 +364,14 @@ If a creature falls into more than one category, the spell indicates the weaker 
 
 Each round you can turn to detect a kind of animal or plant in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-### Detect Chaos
+#### Detect Chaos
 
 *   Divination
 *   **Level:** Clr 1
 
 This spell functions like _detect evil_, except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.
 
-### Detect Evil
+#### Detect Evil
 
 *   Divination
 *   **Level:** Clr 1
@@ -483,21 +487,21 @@ Animals, traps, poisons, and other potential perils are not evil, and as such th
 
 Each round, you can turn to detect evil in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-### Detect Good
+#### Detect Good
 
 *   Divination
 *   **Level:** Clr 1
 
 This spell functions like _detect evil_, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil. Healing potions, antidotes, and similar beneficial items are not good.
 
-### Detect Law
+#### Detect Law
 
 *   Divination
 *   **Level:** Clr 1
 
 This spell functions like _detect evil_, except that it detects the auras of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are vulnerable to an overwhelming lawful aura if you are chaotic.
 
-### Detect Magic
+#### Detect Magic
 
 *   Divination
 *   **Level:** Brd 0, Clr 0, Drd 0, Sor/Wiz 0
@@ -581,7 +585,7 @@ Each round, you can turn to detect magic in a new area. The spell can penetrate 
 
 _Detect magic_ can be made permanent with a _permanency_ spell.
 
-### Detect Poison
+#### Detect Poison
 
 *   Divination
 *   **Level:** Clr 0, Drd 0, Pal 1, Rgr 1, Sor/Wiz 0
@@ -597,7 +601,7 @@ You determine whether a creature, object, or area has been poisoned or is poison
 
 The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-### Detect Scrying
+#### Detect Scrying
 
 *   Divination
 *   **Level:** Brd 4, Sor/Wiz 4
@@ -615,7 +619,7 @@ If the scrying attempt originates within the area, you also know its location; o
 
 _Material Component:_ A small piece of mirror and a miniature brass hearing trumpet.
 
-### Detect Secret Doors
+#### Detect Secret Doors
 
 *   Divination
 *   **Level:** Brd 1, Knowledge 1, Sor/Wiz 1
@@ -635,7 +639,7 @@ _2nd Round:_ Number of secret doors and the location of each. If an aura is outs
 
 _Each Additional Round:_ The mechanism or trigger for one particular secret portal closely examined by you. Each round, you can turn to detect secret doors in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-### Detect Snares and Pits
+#### Detect Snares and Pits
 
 *   Divination
 *   **Level:** Drd 1, Rgr 1
@@ -661,7 +665,7 @@ _Each Additional Round:_ The general type and trigger for one particular hazard 
 
 Each round, you can turn to detect snares and pits in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-### Detect Thoughts
+#### Detect Thoughts
 
 *   Divination \[Mind-Affecting\]
 *   **Level:** Brd 2, Knowledge 2, Sor/Wiz 2
@@ -685,7 +689,7 @@ Each round, you can turn to detect thoughts in a new area. The spell can penetra
 
 _Arcane Focus:_ A copper piece.
 
-### Detect Undead
+#### Detect Undead
 
 *   Divination
 *   **Level:** Clr 1, Pal 1, Sor/Wiz 1
@@ -753,7 +757,7 @@ Each round, you can turn to detect undead in a new area. The spell can penetrate
 
 _Arcane Material Component:_ A bit of earth from a grave.
 
-### Dictum
+#### Dictum
 
 *   Evocation \[Lawful, Sonic\]
 *   **Level:** Clr 7, Law 7
@@ -801,7 +805,7 @@ Furthermore, if you are on your home plane when you cast this spell, nonlawful e
 
 Creatures whose HD exceed your caster level are unaffected by _dictum._
 
-### Dimension Door
+#### Dimension Door
 
 *   Conjuration (Teleportation)
 *   **Level:** Brd 4, Sor/Wiz 4, Travel 4
@@ -819,7 +823,7 @@ If you arrive in a place that is already occupied by a solid body, you and each 
 
 If there is no free space within 100 feet, you and each creature traveling with you take an additional 2d6 points of damage and are shunted to a free space within 1,000 feet. If there is no free space within 1,000 feet, you and each creature travelling with you take an additional 4d6 points of damage and the spell simply fails.
 
-### Dimensional Anchor
+#### Dimensional Anchor
 
 *   Abjuration
 *   **Level:** Clr 4, Sor/Wiz 4
@@ -835,7 +839,7 @@ A green ray springs from your outstretched hand. You must make a ranged touch at
 
 A _dimensional anchor_ does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms. Also, _dimensional anchor_ does not prevent summoned creatures from disappearing at the end of a summoning spell.
 
-### Dimensional Lock
+#### Dimensional Lock
 
 *   Abjuration
 *   **Level:** Clr 8, Sor/Wiz 8
@@ -851,7 +855,7 @@ You create a shimmering emerald barrier that completely blocks extradimensional 
 
 A _dimensional lock_ does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms. Also, the spell does not prevent summoned creatures from disappearing at the end of a summoning spell.
 
-### Diminish Plants
+#### Diminish Plants
 
 *   Transmutation
 *   **Level:** Drd 3, Rgr 3
@@ -877,7 +881,7 @@ _Diminish plants_ counters _plant growth_.
 
 This spell has no effect on plant creatures.
 
-### Discern Lies
+#### Discern Lies
 
 *   Divination
 *   **Level:** Clr 4, Pal 3
@@ -893,7 +897,7 @@ Each round, you concentrate on one subject, who must be within range. You know i
 
 Each round, you may concentrate on a different subject.
 
-### Discern Location
+#### Discern Location
 
 *   Divination
 *   **Level:** Clr 8, Knowledge 8, Sor/Wiz 8
@@ -909,7 +913,7 @@ A _discern location_ spell is among the most powerful means of locating creature
 
 To find a creature with the spell, you must have seen the creature or have some item that once belonged to it. To find an object, you must have touched it at least once.
 
-### Disguise Self
+#### Disguise Self
 
 *   Illusion (Glamer)
 *   **Level:** Brd 1, Sor/Wiz 1, Trickery 1
@@ -927,7 +931,7 @@ If you use this spell to create a disguise, you get a +10 bonus on the Disguise 
 
 A creature that interacts with the glamer gets a Will save to recognize it as an illusion.
 
-### Disintegrate
+#### Disintegrate
 
 *   Transmutation
 *   **Level:** Destruction 7, Sor/Wiz 6
@@ -949,7 +953,7 @@ Only the first creature or object struck can be affected; that is, the ray affec
 
 _Arcane Material Component:_ A lodestone and a pinch of dust.
 
-### Dismissal
+#### Dismissal
 
 *   Abjuration
 *   **Level:** Clr 4, Sor/Wiz 5
@@ -963,14 +967,14 @@ _Arcane Material Component:_ A lodestone and a pinch of dust.
 
 This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell’s save DC – creature’s HD + your caster level). If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.
 
-### Dispel Chaos
+#### Dispel Chaos
 
 *   Abjuration \[Lawful\]
 *   **Level:** Clr 5, Law 5, Pal 4
 
 This spell functions like _dispel evil_, except that you are surrounded by constant, blue, lawful energy, and the spell affects chaotic creatures and spells rather than evil ones.
 
-### Dispel Evil
+#### Dispel Evil
 
 *   Abjuration \[Good\]
 *   **Level:** Clr 5, Good 5, Pal 4
@@ -990,21 +994,21 @@ Second, on making a successful melee touch attack against an evil creature from 
 
 Third, with a touch you can automatically dispel any one enchantment spell cast by an evil creature or any one evil spell. _Exception:_ Spells that can’t be dispelled by _dispel magic_ also can’t be dispelled by _dispel evil_. Saving throws and spell resistance do not apply to this effect. This use discharges and ends the spell.
 
-### Dispel Good
+#### Dispel Good
 
 *   Abjuration \[Evil\]
 *   **Level:** Clr 5, Evil 5
 
 This spell functions like _dispel evil_, except that you are surrounded by dark, wavering, unholy energy, and the spell affects good creatures and spells rather than evil ones.
 
-### Dispel Law
+#### Dispel Law
 
 *   Abjuration \[Chaotic\]
 *   **Level:** Chaos 5, Clr 5
 
 This spell functions like _dispel evil_, except that you are surrounded by flickering, yellow, chaotic energy, and the spell affects lawful creatures and spells rather than evil ones.
 
-### Dispel Magic
+#### Dispel Magic
 
 *   Abjuration
 *   **Level:** Brd 3, Clr 3, Drd 4, Magic 3, Pal 3, Sor/Wiz 3
@@ -1046,7 +1050,7 @@ You may choose to automatically succeed on dispel checks against any spell that 
 
 _Counterspell:_ When _dispel magic_ is used in this way, the spell targets a spellcaster and is cast as a counterspell. Unlike a true counterspell, however, _dispel magic_ may not work; you must make a dispel check to counter the other spellcaster’s spell.
 
-### Dispel Magic, Greater
+#### Dispel Magic, Greater
 
 *   Abjuration
 *   **Level:** Brd 5, Clr 6, Drd 6, Sor/Wiz 6
@@ -1055,7 +1059,7 @@ This spell functions like _dispel magic_, except that the maximum caster level o
 
 Additionally, _greater dispel magic_ has a chance to dispel any effect that _remove curse_ can remove, even if _dispel magic_ can’t dispel that effect.
 
-### Displacement
+#### Displacement
 
 *   Illusion (Glamer)
 *   **Level:** Brd 3, Sor/Wiz 3
@@ -1071,7 +1075,7 @@ The subject of this spell appears to be about 2 feet away from its true location
 
 _Material Component:_ A small strip of leather twisted into a loop.
 
-### Disrupt Undead
+#### Disrupt Undead
 
 *   Necromancy
 *   **Level:** Sor/Wiz 0
@@ -1085,7 +1089,7 @@ _Material Component:_ A small strip of leather twisted into a loop.
 
 You direct a ray of positive energy. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.
 
-### Disrupting Weapon
+#### Disrupting Weapon
 
 *   Transmutation
 *   **Level:** Clr 5
@@ -1099,7 +1103,7 @@ You direct a ray of positive energy. You must make a ranged touch attack to hit,
 
 This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level must succeed on a Will save or be destroyed utterly if struck in combat with this weapon. Spell resistance does not apply against the destruction effect.
 
-### Divination
+#### Divination
 
 *   Divination
 *   **Level:** Clr 4, Knowledge 4
@@ -1115,7 +1119,7 @@ As with _augury_, multiple _divinations_ about the same topic by the same caster
 
 _Material Component:_ Incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp.
 
-### Divine Favor
+#### Divine Favor
 
 *   Evocation
 *   **Level:** Clr 1, Pal 1
@@ -1127,7 +1131,7 @@ _Material Component:_ Incense and a sacrificial offering appropriate to your rel
 
 Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +6). The bonus doesn’t apply to spell damage.
 
-### Divine Power
+#### Divine Power
 
 *   Evocation
 *   **Level:** Clr 4, War 4
@@ -1139,7 +1143,7 @@ Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on att
 
 Calling upon the divine power of your patron, you imbue yourself with strength and skill in combat. Your base attack bonus becomes equal to your character level (which may give you additional attacks), you gain a +6 enhancement bonus to Strength, and you gain 1 temporary hit point per caster level.
 
-### Dominate Animal
+#### Dominate Animal
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Animal 3, Drd 3
@@ -1155,7 +1159,7 @@ You can enchant an animal and direct it with simple commands such as “Attack,�
 
 _Dominate animal_ establishes a mental link between you and the subject creature. The animal can be directed by silent mental command as long as it remains in range. You need not see the creature to control it. You do not receive direct sensory input from the creature, but you know what it is experiencing. Because you are directing the animal with your own intelligence, it may be able to undertake actions normally beyond its own comprehension. You need not concentrate exclusively on controlling the creature unless you are trying to direct it to do something it normally couldn’t do. Changing your instructions or giving a _dominated_ creature a new command is the equivalent of redirecting a spell, so it is a move action.
 
-### Dominate Monster
+#### Dominate Monster
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Sor/Wiz 9
@@ -1163,7 +1167,7 @@ _Dominate animal_ establishes a mental link between you and the subject creature
 
 This spell functions like _dominate person,_ except that the spell is not restricted by creature type.
 
-### Dominate Person
+#### Dominate Person
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level:** Brd 4, Sor/Wiz 5
@@ -1229,7 +1233,7 @@ Creatures who don’t sleep (such as elves, but not half-elves) or don’t dream
 
 The messenger is unaware of its own surroundings or of the activities around it while in the trance. It is defenseless both physically and mentally (always fails any saving throw) while in the trance.
 
-### Eagle’s Splendor
+#### Eagle’s Splendor
 
 *   Transmutation
 *   **Level:** Brd 2, Clr 2, Pal 2, Sor/Wiz 2
@@ -1245,7 +1249,7 @@ The transmuted creature becomes more poised, articulate, and personally forceful
 
 _Arcane Material Component:_ A few feathers or a pinch of droppings from an eagle.
 
-### Eagle’s Splendor, Mass
+#### Eagle’s Splendor, Mass
 
 *   Transmutation
 *   **Level:** Brd 6, Clr 6, Sor/Wiz 6
@@ -1254,7 +1258,7 @@ _Arcane Material Component:_ A few feathers or a pinch of droppings from an eagl
 
 This spell functions like _eagle’s splendor_, except that it affects multiple creatures.
 
-### Earthquake
+#### Earthquake
 
 *   Evocation \[Earth\]
 *   **Level:** Clr 8, Destruction 8, Drd 8, Earth 7
@@ -1280,7 +1284,7 @@ _River, Lake, or Marsh:_ Fissures open underneath the water, draining away the w
 
 _Pinned beneath Rubble:_ Any creature pinned beneath rubble takes 1d6 points of nonlethal damage per minute while pinned. If a pinned character falls unconscious, he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or dead.
 
-### Elemental Swarm
+#### Elemental Swarm
 
 *   Conjuration (Summoning) \[see text\]
 *   **Level:** Air 9, Drd 9, Earth 9, Fire 9, Water 9
@@ -1300,7 +1304,7 @@ The elementals obey you explicitly and never attack you, even if someone else ma
 
 When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.
 
-### Endure Elements
+#### Endure Elements
 
 *   Abjuration
 *   **Level:** Clr 1, Drd 1, Pal 1, Rgr 1, Sor/Wiz 1, Sun 1
@@ -1316,7 +1320,7 @@ A creature protected by _endure elements_ suffers no harm from being in a hot or
 
 _Endure elements_ doesn’t provide any protection from fire or cold damage, nor does it protect against other environmental hazards such as smoke, lack of air, and so forth.
 
-### Energy Drain
+#### Energy Drain
 
 *   Necromancy
 *   **Level:** Clr 9, Sor/Wiz 9
@@ -1328,7 +1332,7 @@ There is no saving throw to avoid gaining the negative levels, but 24 hours afte
 
 An undead creature struck by the ray gains 2d4x5 temporary hit points for 1 hour.
 
-### Enervation
+#### Enervation
 
 *   Necromancy
 *   **Level:** Sor/Wiz 4
@@ -1350,7 +1354,7 @@ Assuming the subject survives, it regains lost levels after a number of hours eq
 
 An undead creature struck by the ray gains 1d4x5 temporary hit points for 1 hour.
 
-### Enlarge Person
+#### Enlarge Person
 
 *   Transmutation
 *   **Level:** Sor/Wiz 1, Strength 1
@@ -1378,7 +1382,7 @@ _Enlarge person_ can be made permanent with a _permanency_ spell.
 
 _Material Component:_ A pinch of powdered iron.
 
-### Enlarge Person, Mass
+#### Enlarge Person, Mass
 
 *   Transmutation
 *   **Level:** Sor/Wiz 4
@@ -1386,7 +1390,7 @@ _Material Component:_ A pinch of powdered iron.
 
 This spell functions like _enlarge person_, except that it affects multiple creatures.
 
-### Entangle
+#### Entangle
 
 *   Transmutation
 *   **Level:** Drd 1, Plant 1, Rgr 1
@@ -1402,7 +1406,7 @@ Grasses, weeds, bushes, and even trees wrap, twist, and entwine about creatures 
 
 _Note:_ The effects of the spell may be altered somewhat, based on the nature of the entangling plants.
 
-### Enthrall
+#### Enthrall
 
 *   Enchantment (Charm) \[Language Dependent, Mind-Affecting, Sonic\]
 *   **Level:** Brd 2, Clr 2
@@ -1424,7 +1428,7 @@ If those not _enthralled_ have unfriendly or hostile attitudes toward you, they 
 
 If any member of the audience is attacked or subjected to some other overtly hostile act, the spell ends and the previously _enthralled_ members become immediately unfriendly toward you. Each creature with 4 or more HD or with a Wisdom score of 16 or higher becomes hostile.
 
-### Entropic Shield
+#### Entropic Shield
 
 *   Abjuration
 *   **Level:** Clr 1, Luck 1
@@ -1453,7 +1457,7 @@ _Erase_ removes writings of either magical or mundane nature from a scroll or fr
 
 Magic writing must be touched to be erased, and you also must succeed on a caster level check (1d20 + caster level) against DC 15. (A natural 1 or 2 is always a failure on this check.) If you fail to erase _explosive runes_, a _glyph of warding_, or a _sepia snake sigil_, you accidentally activate that writing instead.
 
-### Ethereal Jaunt
+#### Ethereal Jaunt
 
 *   Transmutation
 *   **Level:** Clr 7, Sor/Wiz 7
@@ -1473,7 +1477,7 @@ Treat other ethereal creatures and ethereal objects as if they were material.
 
 If you end the spell and become material while inside a material object (such as a solid wall), you are shunted off to the nearest open space and take 1d6 points of damage per 5 feet that you so travel.
 
-### Etherealness
+#### Etherealness
 
 *   Transmutation
 *   **Level:** Clr 9, Sor/Wiz 9
@@ -1486,7 +1490,7 @@ This spell functions like _ethereal jaunt,_ except that you and other willing cr
 
 When the spell expires, all affected creatures on the Ethereal Plane return to material existence.
 
-### Expeditious Retreat
+#### Expeditious Retreat
 
 *   Transmutation
 *   **Level:** Brd 1, Sor/Wiz 1
@@ -1498,7 +1502,7 @@ When the spell expires, all affected creatures on the Ethereal Plane return to m
 
 This spell increases your base land speed by 30 feet. (This adjustment is treated as an enhancement bonus.) There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases your speed, this spell affects your jumping distance (see the Jump skill).
 
-### Explosive Runes
+#### Explosive Runes
 
 *   Abjuration \[Force\]
 *   **Level:** Sor/Wiz 3
@@ -1516,7 +1520,7 @@ You and any characters you specifically instruct can read the protected writing 
 
 _Note:_ Magic traps such as _explosive runes_ are hard to detect and disable. A rogue (only) can use the Search skill to find the _runes_ and Disable Device to thwart them. The DC in each case is 25 + spell level, or 28 for _explosive runes_.
 
-### Eyebite
+#### Eyebite
 
 *   Necromancy \[Evil\]
 *   **Level:** Brd 6, Sor/Wiz 6
