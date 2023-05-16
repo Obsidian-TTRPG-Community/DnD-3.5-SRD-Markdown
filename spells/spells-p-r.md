@@ -1,10 +1,14 @@
-v3.5 SRD / Spells / Spells (P-R)
+---
+aliases: Spells (P-R)
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# SPELLS (P-R)
+## Spells (P-R)
 
-## Table of Contents
+### Table of Contents
 
 - [Passwall](#passwall)
 - [Pass Without Trace](#pass-without-trace)
@@ -84,7 +88,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 - [Rope Trick](#rope-trick)
 - [Rusting Grasp](#rusting-grasp)
 
-### Passwall
+#### Passwall
 
 - Transmutation
 - **Level::** Sor/Wiz 5
@@ -100,7 +104,7 @@ You create a passage through wooden, plaster, or stone walls, but not through me
 
 _Material Component:_ A pinch of sesame seeds.
 
-### Pass Without Trace
+#### Pass Without Trace
 
 - Transmutation
 - **Level::** Drd 1, Rgr 1
@@ -114,7 +118,7 @@ _Material Component:_ A pinch of sesame seeds.
 
 The subject or subjects can move through any type of terrain and leave neither footprints nor scent. Tracking the subjects is impossible by nonmagical means.
 
-### Permanency
+#### Permanency
 
 - Universal
 - **Level::** Sor/Wiz 5
@@ -195,7 +199,7 @@ Spells cast on other creatures, objects, or locations (not on you) are vulnerabl
 
 _XP Cost:_ See tables above.
 
-### Permanent Image
+#### Permanent Image
 
 - Illusion (Figment)
 - **Level::** Brd 6, Sor/Wiz 6
@@ -206,7 +210,7 @@ This spell functions like _silent image,_ except that the figment includes visua
 
 _Material Component:_ A bit of fleece plus powdered jade worth 100 gp.
 
-### Persistent Image
+#### Persistent Image
 
 - Illusion (Figment)
 - **Level::** Brd 5, Sor/Wiz 5
@@ -216,7 +220,7 @@ This spell functions like _silent image,_ except that the figment includes visua
 
 _Material Component:_ A bit of fleece and several grains of sand.
 
-### Phantasmal Killer
+#### Phantasmal Killer
 
 - Illusion (Phantasm) \[Fear, Mind-Affecting\]
 - **Level::** Sor/Wiz 4
@@ -232,7 +236,7 @@ You create a phantasmal image of the most fearsome creature imaginable to the su
 
 If the subject of a _phantasmal killer_ attack succeeds in disbelieving and is wearing a _helm of telepathy,_ the beast can be turned upon you. You must then disbelieve it or become subject to its deadly fear attack.
 
-### Phantom Steed
+#### Phantom Steed
 
 - Conjuration (Creation)
 - **Level::** Brd 3, Sor/Wiz 3
@@ -258,7 +262,7 @@ _12th Level:_ The mount can use _air walk_ at will (as the spell, no action requ
 
 _14th Level:_ The mount can fly at its speed (average maneuverability).
 
-### Phantom Trap
+#### Phantom Trap
 
 - Illusion (Glamer)
 - **Level::** Sor/Wiz 2
@@ -276,7 +280,7 @@ If another _phantom trap_ is active within 50 feet when the spell is cast, the c
 
 _Material Component:_ A piece of iron pyrite touched to the object to be trapped while the object is sprinkled with a special dust requiring 50 gp to prepare.
 
-### Phase Door
+#### Phase Door
 
 - Conjuration (Creation)
 - **Level::** Sor/Wiz 7, Travel 8
@@ -296,7 +300,7 @@ You can allow other creatures to use the _phase door_ by setting some triggering
 
 _Phase door_ can be made permanent with a _permanency_ spell.
 
-### Planar Ally
+#### Planar Ally
 
 - Conjuration (Calling) \[see text for _lesser planar ally_\]
 - **Level::** Clr 6
@@ -306,7 +310,7 @@ This spell functions like _lesser planar ally_, except you may call a single cre
 
 _XP Cost:_ 250 XP.
 
-### Planar Ally, Greater
+#### Planar Ally, Greater
 
 - Conjuration (Calling) \[see text for _lesser planar ally_\]
 - **Level::** Clr 8
@@ -316,7 +320,7 @@ This spell functions like _lesser planar ally_, except that you may call a singl
 
 _XP Cost:_ 500 XP.
 
-### Planar Ally, Lesser
+#### Planar Ally, Lesser
 
 - Conjuration (Calling) \[see text\]
 - **Level::** Clr 4
@@ -344,7 +348,7 @@ _Note:_ When you use a calling spell that calls an air, chaotic, earth, evil, fi
 
 _XP Cost:_ 100 XP.
 
-### Planar Binding
+#### Planar Binding
 
 - Conjuration (Calling) \[see text for _lesser planar binding_\]
 - **Level::** Sor/Wiz 6
@@ -353,7 +357,7 @@ _XP Cost:_ 100 XP.
 
 This spell functions like _lesser planar binding,_ except that you may call a single creature of 12 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 12. Each creature gets a save, makes an independent attempt to escape, and must be individually persuaded to aid you.
 
-### Planar Binding, Greater
+#### Planar Binding, Greater
 
 - Conjuration (Calling) \[see text for _lesser planar binding_\]
 - **Level::** Sor/Wiz 8
@@ -362,7 +366,7 @@ This spell functions like _lesser planar binding,_ except that you may call a si
 
 This spell functions like _lesser planar binding,_ except that you may call a single creature of 18 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 18. Each creature gets a saving throw, makes independent attempts to escape, and must be persuaded to aid you individually.
 
-### Planar Binding, Lesser
+#### Planar Binding, Lesser
 
 - Conjuration (Calling) \[see text\]
 - **Level::** Sor/Wiz 5
@@ -386,7 +390,7 @@ Once the requested service is completed, the creature need only so inform you to
 
 When you use a calling spell to call an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-### Plane Shift
+#### Plane Shift
 
 - Conjuration (Teleportation)
 - **Level::** Clr 5, Sor/Wiz 7
@@ -404,7 +408,7 @@ _Note: Plane shift_ transports creatures instantaneously and then ends. The crea
 
 _Focus:_ A small, forked metal rod. The size and metal type dictates to which plane of existence or alternate dimension the spell sends the affected creatures.
 
-### Plant Growth
+#### Plant Growth
 
 - Transmutation
 - **Level::** Drd 3, Plant 3, Rgr 3
@@ -430,7 +434,7 @@ _Plant growth_ counters _diminish plants_.
 
 This spell has no effect on plant creatures.
 
-### Poison
+#### Poison
 
 - Necromancy
 - **Level::** Clr 4, Drd 3
@@ -444,7 +448,7 @@ This spell has no effect on plant creatures.
 
 Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack. The poison deals 1d10 points of temporary Constitution damage immediately and another 1d10 points of temporary Constitution damage 1 minute later. Each instance of damage can be negated by a Fortitude save (DC 10 + 1/2 your caster level + your Wis modifier).
 
-### Polar Ray
+#### Polar Ray
 
 - Evocation \[Cold\]
 - **Level::** Sor/Wiz 8
@@ -460,7 +464,7 @@ A blue-white ray of freezing air and ice springs from your hand. You must succee
 
 _Focus:_ A small, white ceramic cone or prism.
 
-### Polymorph
+#### Polymorph
 
 - Transmutation
 - **Level::** Sor/Wiz 4
@@ -482,7 +486,7 @@ Incorporeal or gaseous creatures are immune to being _polymorphed_, and a creatu
 
 _Material Component:_ An empty cocoon.
 
-### Polymorph Any Object
+#### Polymorph Any Object
 
 - Transmutation
 - **Level::** Sor/Wiz 8, Trickery 8
@@ -582,7 +586,7 @@ This spell can also be used to duplicate the effects of _baleful polymorph, poly
 
 _Arcane Material Component:_ Mercury, gum arabic, and smoke.
 
-### Power Word Blind
+#### Power Word Blind
 
 - Enchantment (Compulsion) \[Mind-Affecting\]
 - **Level::** Sor/Wiz 7, War 7
@@ -612,7 +616,7 @@ Permanent
 
 1d4+1 rounds
 
-### Power Word Kill
+#### Power Word Kill
 
 - Enchantment (Compulsion) \[Death, Mind-Affecting\]
 - **Level::** Sor/Wiz 9, War 9
@@ -626,7 +630,7 @@ Permanent
 
 You utter a single word of power that instantly kills one creature of your choice, whether the creature can hear the word or not. Any creature that currently has 101 or more hit points is unaffected by _power word kill_.
 
-### Power Word Stun
+#### Power Word Stun
 
 - Enchantment (Compulsion) \[Mind-Affecting\]
 - **Level::** Sor/Wiz 8, War 8
@@ -656,7 +660,7 @@ Duration
 
 1d4 rounds
 
-### Prayer
+#### Prayer
 
 - Enchantment (Compulsion) \[Mind-Affecting\]
 - **Level::** Clr 3, Pal 3
@@ -670,7 +674,7 @@ Duration
 
 You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and your each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a –1 penalty on such rolls.
 
-### Prestidigitation
+#### Prestidigitation
 
 - Universal
 - **Level::** Brd 0, Sor/Wiz 0
@@ -684,7 +688,7 @@ You bring special favor upon yourself and your allies while bringing disfavor to
 
 Prestidigitations are minor tricks that novice spellcasters use for practice. Once cast, a _prestidigitation_ spell enables you to perform simple magical effects for 1 hour. The effects are minor and have severe limitations. A prestidigitation can slowly lift 1 pound of material. It can color, clean, or soil items in a 1-foot cube each round. It can chill, warm, or flavor 1 pound of nonliving material. It cannot deal damage or affect the concentration of spellcasters. _Prestidigitation_ can create small objects, but they look crude and artificial. The materials created by a _prestidigitation_ spell are extremely fragile, and they cannot be used as tools, weapons, or spell components. Finally, a _prestidigitation_ lacks the power to duplicate any other spell effects. Any actual change to an object (beyond just moving, cleaning, or soiling it) persists only 1 hour.
 
-### Prismatic Sphere
+#### Prismatic Sphere
 
 - Abjuration
 - **Level::** Protection 9, Sor/Wiz 9, Sun 9
@@ -704,7 +708,7 @@ The colors of the sphere have the same effects as the colors of a _prismatic wal
 
 _Prismatic sphere_ can be made permanent with a _permanency_ spell.
 
-### Prismatic Spray
+#### Prismatic Spray
 
 - Evocation
 - **Level::** Sor/Wiz 7
@@ -770,7 +774,7 @@ Sent to another plane (Will negates)
 
 Struck by two rays; roll twice more, ignoring any “8” results.
 
-### Prismatic Wall
+#### Prismatic Wall
 
 - Abjuration
 - **Level::** Sor/Wiz 8
@@ -872,7 +876,7 @@ Dispel magic
 
 1 The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above).
 
-### Produce Flame
+#### Produce Flame
 
 - Evocation \[Fire\]
 - **Level::** Drd 1, Fire 2
@@ -890,7 +894,7 @@ In addition to providing illumination, the flames can be hurled or used to touch
 
 This spell does not function underwater.
 
-### Programmed Image
+#### Programmed Image
 
 - Illusion (Figment)
 - **Level::** Brd 6, Sor/Wiz 6
@@ -903,7 +907,7 @@ You set the triggering condition (which may be a special word) when casting the 
 
 _Material Component:_ A bit of fleece and jade dust worth 25 gp.
 
-### Project Image
+#### Project Image
 
 - Illusion (Shadow)
 - **Level::** Brd 6, Sor/Wiz 7
@@ -927,7 +931,7 @@ You must maintain line of effect to the projected image at all times. If your li
 
 _Material Component:_ A small replica of you (a doll), which costs 5 gp to create.
 
-### Protection From Arrows
+#### Protection From Arrows
 
 - Abjuration
 - **Level::** Sor/Wiz 2
@@ -943,14 +947,14 @@ The warded creature gains resistance to ranged weapons. The subject gains damage
 
 _Focus:_ A piece of shell from a tortoise or a turtle.
 
-### Protection From Chaos
+#### Protection From Chaos
 
 - Abjuration \[Lawful\]
 - **Level::** Clr 1, Law 1, Pal 1, Sor/Wiz 1
 
 This spell functions like _protection from evil_, except that the deflection and resistance bonuses apply to attacks from chaotic creatures, and chaotic summoned creatures cannot touch the subject.
 
-### Protection From Energy
+#### Protection From Energy
 
 - Abjuration
 - **Level::** Clr 3, Drd 3, Luck 3, Protection 3, Rgr 2, Sor/Wiz 3
@@ -966,7 +970,7 @@ _Protection from energy_ grants temporary immunity to the type of energy you spe
 
 _Note: Protection from energy_ overlaps (and does not stack with) _resist energy._ If a character is warded by _protection from energy_ and _resist energy,_ the _protection_ spell absorbs damage until its power is exhausted.
 
-### Protection From Evil
+#### Protection From Evil
 
 - Abjuration \[Good\]
 - **Level::** Clr 1, Good 1, Pal 1, Sor/Wiz 1
@@ -988,21 +992,21 @@ Third, the spell prevents bodily contact by summoned creatures. This causes the 
 
 _Arcane Material Component:_ A little powdered silver with which you trace a 3-foot -diameter circle on the floor (or ground) around the creature to be warded.
 
-### Protection From Good
+#### Protection From Good
 
 - Abjuration \[Evil\]
 - **Level::** Clr 1, Evil 1, Sor/Wiz 1
 
 This spell functions like _protection from evil_, except that the deflection and resistance bonuses apply to attacks from good creatures, and good summoned creatures cannot touch the subject.
 
-### Protection From Law
+#### Protection From Law
 
 - Abjuration \[Chaotic\]
 - **Level::** Chaos 1, Clr 1, Sor/Wiz 1
 
 This spell functions like _protection from evil_, except that the deflection and resistance bonuses apply to attacks from lawful creatures, and lawful summoned creatures cannot touch the subject.
 
-### Protection From Spells
+#### Protection From Spells
 
 - Abjuration
 - **Level::** Magic 8, Sor/Wiz 8
@@ -1020,7 +1024,7 @@ _Material Component:_ A diamond of at least 500 gp value, which must be crushed 
 
 _Focus:_ One 1,000 gp diamond per creature to be granted the protection. Each subject must carry one such gem for the duration of the spell. If a subject loses the gem, the spell ceases to affect him.
 
-### Prying Eyes
+#### Prying Eyes
 
 - Divination
 - **Level::** Sor/Wiz 5
@@ -1046,14 +1050,14 @@ The eyes exist for up to 1 hour per caster level or until they return to you. _D
 
 _Material Component:_ A handful of crystal marbles.
 
-### Prying Eyes, Greater
+#### Prying Eyes, Greater
 
 - Divination
 - **Level::** Sor/Wiz 8
 
 This spell functions like _prying eyes,_ except that the eyes can see all things as they actually are, just as if they had _true seeing_ with a range of 120 feet. Thus, they can navigate darkened areas at full normal speed. Also, a _greater prying eye_’s maximum Spot modifier is +25 instead of +15.
 
-### Purify Food and Drink
+#### Purify Food and Drink
 
 - Transmutation
 - **Level::** Clr 0, Drd 0
@@ -1069,7 +1073,7 @@ This spell makes spoiled, rotten, poisonous, or otherwise contaminated food and 
 
 _Note:_ Water weighs about 8 pounds per gallon. One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.
 
-### Pyrotechnics
+#### Pyrotechnics
 
 - Transmutation
 - **Level::** Brd 2, Sor/Wiz 2
@@ -1089,7 +1093,7 @@ _Smoke Cloud:_ A writhing stream of smoke billows out from the source, forming a
 
 _Material Component:_ The spell uses one fire source, which is immediately extinguished. A fire so large that it exceeds a 20-foot cube is only partly extinguished. Magical fires are not extinguished, although a fire-based creature used as a source takes 1 point of damage per caster level.
 
-### Quench
+#### Quench
 
 - Transmutation
 - **Level::** Drd 3
@@ -1122,7 +1126,7 @@ Rage
 
 Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC. The effect is otherwise identical with a barbarian’s rage except that the subjects aren’t fatigued at the end of the rage.
 
-### Rainbow Pattern
+#### Rainbow Pattern
 
 - Illusion (Pattern) \[Mind-Affecting\]
 - **Level::** Brd 4, Sor/Wiz 4
@@ -1146,7 +1150,7 @@ _Material Component:_ A piece of phosphor.
 
 _Focus:_ A crystal prism.
 
-### Raise Dead
+#### Raise Dead
 
 - Conjuration (Healing)
 - **Level::** Clr 5
@@ -1168,7 +1172,7 @@ A creature who has been turned into an undead creature or killed by a death effe
 
 _Material Component:_ Diamonds worth a total of least 5,000 gp.
 
-### Ray of Enfeeblement
+#### Ray of Enfeeblement
 
 - Necromancy
 - **Level::** Sor/Wiz 1
@@ -1182,7 +1186,7 @@ _Material Component:_ Diamonds worth a total of least 5,000 gp.
 
 A coruscating ray springs from your hand. You must succeed on a ranged touch attack to strike a target. The subject takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject’s Strength score cannot drop below 1.
 
-### Ray of Exhaustion
+#### Ray of Exhaustion
 
 - Necromancy
 - **Level::** Sor/Wiz 3
@@ -1204,7 +1208,7 @@ This spell has no effect on a creature that is already exhausted. Unlike normal 
 
 _Material Component:_ A drop of sweat.
 
-### Ray of Frost
+#### Ray of Frost
 
 - Evocation \[Cold\]
 - **Level::** Sor/Wiz 0
@@ -1218,7 +1222,7 @@ _Material Component:_ A drop of sweat.
 
 A ray of freezing air and ice projects from your pointing finger. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d3 points of cold damage.
 
-### Read Magic
+#### Read Magic
 
 - Divination
 - **Level::** Brd 0, Clr 0, Drd 0, Pal 1, Rgr 1, Sor/Wiz 0
@@ -1234,7 +1238,7 @@ _Read magic_ can be made permanent with a _permanency_ spell.
 
 _Focus:_ A clear crystal or mineral prism.
 
-### Reduce Animal
+#### Reduce Animal
 
 - Transmutation
 - **Level::** Drd 2, Rgr 3
@@ -1248,7 +1252,7 @@ _Focus:_ A clear crystal or mineral prism.
 
 This spell functions like _reduce person,_ except that it affects a single willing animal. Reduce the damage dealt by the animal’s natural attacks as appropriate for its new size.
 
-### Reduce Person
+#### Reduce Person
 
 - Transmutation
 - **Level::** Sor/Wiz 1
@@ -1276,7 +1280,7 @@ _Reduce person_ can be made permanent with a _permanency_ spell.
 
 _Material Component:_ A pinch of powdered iron.
 
-### Reduce Person, Mass
+#### Reduce Person, Mass
 
 - Transmutation
 - **Level::** Sor/Wiz 4
@@ -1284,7 +1288,7 @@ _Material Component:_ A pinch of powdered iron.
 
 This spell functions like _reduce person_, except that it affects multiple creatures.
 
-### Refuge
+#### Refuge
 
 - Conjuration (Teleportation)
 - **Level::** Clr 7, Sor/Wiz 9
@@ -1302,7 +1306,7 @@ You can alter the spell when casting it so that it transports you to within 10 f
 
 _Material Component:_ The specially prepared object, whose construction requires gems worth 1,500 gp.
 
-### Regenerate
+#### Regenerate
 
 - Conjuration (Healing)
 - **Level::** Clr 7, Drd 9, Healing 7
@@ -1318,7 +1322,7 @@ The subject’s severed body members (fingers, toes, hands, feet, arms, legs, ta
 
 _Regenerate_ also cures 4d8 points of damage +1 point per caster level (maximum +35), rids the subject of exhaustion and/or fatigue, and eliminates all nonlethal damage the subject has taken. It has no effect on nonliving creatures (including undead).
 
-### Reincarnate
+#### Reincarnate
 
 - Transmutation
 - **Level::** Drd 4
@@ -1508,7 +1512,7 @@ A _wish_ or a _miracle_ spell can restore a reincarnated character to his or her
 
 _Material Component:_ Rare oils and unguents worth a total of least 1,000 gp, spread over the remains.
 
-### Remove Blindness/Deafness
+#### Remove Blindness/Deafness
 
 - Conjuration (Healing)
 - **Level::** Clr 3, Pal 3
@@ -1524,7 +1528,7 @@ _Remove blindness/deafness_ cures blindness or deafness (your choice), whether t
 
 _Remove blindness/deafness_ counters and dispels _blindness/deafness_.
 
-### Remove Curse
+#### Remove Curse
 
 - Abjuration
 - **Level::** Brd 3, Clr 3, Pal 3, Sor/Wiz 4
@@ -1540,7 +1544,7 @@ _Remove curse_ instantaneously removes all curses on an object or a creature. _R
 
 _Remove curse_ counters and dispels _bestow curse_.
 
-### Remove Disease
+#### Remove Disease
 
 - Conjuration (Healing)
 - **Level::** Clr 3, Drd 3, Rgr 3
@@ -1556,7 +1560,7 @@ _Remove disease_ cures all diseases that the subject is suffering from. The spel
 
 _Note:_ Since the spell’s duration is instantaneous, it does not prevent reinfection after a new exposure to the same disease at a later date.
 
-### Remove Fear
+#### Remove Fear
 
 - Abjuration
 - **Level::** Brd 1, Clr 1
@@ -1572,7 +1576,7 @@ You instill courage in the subject, granting it a +4 morale bonus against _fear_
 
 _Remove fear_ counters and dispels _cause fear_.
 
-### Remove Paralysis
+#### Remove Paralysis
 
 - Conjuration (Healing)
 - **Level::** Clr 2, Pal 2
@@ -1588,7 +1592,7 @@ You can free one or more creatures from the effects of any temporary paralysis o
 
 The spell does not restore ability scores reduced by penalties, damage, or drain.
 
-### Repel Metal or Stone
+#### Repel Metal or Stone
 
 - Abjuration \[Earth\]
 - **Level::** Drd 8
@@ -1606,7 +1610,7 @@ Objects such as metal armor, swords, and the like are pushed back, dragging thei
 
 The waves of energy continue to sweep down the set path for the spell’s duration. After you cast the spell, the path is set, and you can then do other things or go elsewhere without affecting the spell’s power.
 
-### Repel Vermin
+#### Repel Vermin
 
 - Abjuration
 - **Level::** Brd 4, Clr 4, Drd 4, Rgr 3
@@ -1622,7 +1626,7 @@ An invisible barrier holds back vermin. A vermin with Hit Dice of less than one-
 
 A vermin with Hit Dice of one-third your level or more can penetrate the barrier if it succeeds on a Will save. Even so, crossing the barrier deals the vermin 2d6 points of damage, and pressing against the barrier causes pain, which deters most vermin.
 
-### Repel Wood
+#### Repel Wood
 
 - Transmutation
 - **Level::** Drd 6, Plant 6
@@ -1640,7 +1644,7 @@ Objects such as wooden shields, spears, wooden weapon shafts and hafts, and arro
 
 The waves of energy continue to sweep down the set path for the spell’s duration. After you cast the spell, the path is set, and you can then do other things or go elsewhere without affecting the spell’s power.
 
-### Repulsion
+#### Repulsion
 
 - Abjuration
 - **Level::** Clr 7, Protection 7, Sor/Wiz 6
@@ -1658,7 +1662,7 @@ They can fight other creatures and can cast spells and attack you with ranged we
 
 _Arcane Focus:_ A pair of small iron bars attached to two small canine statuettes, one black and one white, the whole array worth 50 gp.
 
-### Resilient Sphere
+#### Resilient Sphere
 
 - Evocation \[Force\]
 - **Level::** Sor/Wiz 4
@@ -1676,7 +1680,7 @@ The subject may struggle, but the sphere cannot be physically moved either by pe
 
 _Material Component:_ A hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic.
 
-### Resistance
+#### Resistance
 
 - Abjuration
 - **Level::** Brd 0, Clr 0, Drd 0, Pal 1, Sor/Wiz 0
@@ -1694,7 +1698,7 @@ _Resistance_ can be made permanent with a _permanency_ spell.
 
 _Arcane Material Component:_ A miniature cloak.
 
-### Resist Energy
+#### Resist Energy
 
 - Abjuration
 - **Level::** Clr 2, Drd 2, Fire 3, Pal 2, Rgr 1, Sor/Wiz 2
@@ -1712,7 +1716,7 @@ _Resist energy_ absorbs only damage. The subject could still suffer unfortunate 
 
 _Note: Resist energy_ overlaps (and does not stack with) _protection from energy._ If a character is warded by _protection from energy_ and _resist energy,_ the _protection_ spell absorbs damage until its power is exhausted.
 
-### Restoration
+#### Restoration
 
 - Conjuration (Healing)
 - **Level::** Clr 4, Pal 4
@@ -1726,7 +1730,7 @@ _Restoration_ does not restore levels or Constitution points lost due to death.
 
 _Material Component:_ Diamond dust worth 100 gp that is sprinkled over the target.
 
-### Restoration, Greater
+#### Restoration, Greater
 
 - Conjuration (Healing)
 - **Level::** Clr 7
@@ -1739,7 +1743,7 @@ _Greater restoration_ also dispels all magical effects penalizing the creature�
 
 _XP Cost:_ 500 XP.
 
-### Restoration, Lesser
+#### Restoration, Lesser
 
 - Conjuration (Healing)
 - **Level::** Clr 2, Drd 2, Pal 1
@@ -1753,7 +1757,7 @@ _XP Cost:_ 500 XP.
 
 _Lesser restoration_ dispels any magical effects reducing one of the subject’s ability scores or cures 1d4 points of temporary ability damage to one of the subject’s ability scores. It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.
 
-### Resurrection
+#### Resurrection
 
 - Conjuration (Healing)
 - **Level::** Clr 7
@@ -1769,7 +1773,7 @@ You can resurrect someone killed by a death effect or someone who has been turne
 
 _Material Component:_ A sprinkle of holy water and diamonds worth a total of at least 10,000 gp.
 
-### Reverse Gravity
+#### Reverse Gravity
 
 - Transmutation
 - **Level::** Drd 8, Sor/Wiz 7
@@ -1787,7 +1791,7 @@ Provided it has something to hold onto, a creature caught in the area can attemp
 
 _Arcane Material Component:_ A lodestone and iron filings.
 
-### Righteous Might
+#### Righteous Might
 
 - Transmutation
 - **Level::** Clr 5, Strength 5
@@ -1805,7 +1809,7 @@ All equipment you wear or carry is similarly enlarged by the spell. Melee and pr
 
 Multiple magical effects that increase size do not stack.
 
-### Rope Trick
+#### Rope Trick
 
 - Transmutation
 - **Level::** Sor/Wiz 2
@@ -1825,7 +1829,7 @@ _Note:_ It is hazardous to create an extradimensional space within an existing e
 
 _Material Component:_ Powdered corn extract and a twisted loop of parchment.
 
-### Rusting Grasp
+#### Rusting Grasp
 
 - Transmutation
 - **Level::** Drd 4

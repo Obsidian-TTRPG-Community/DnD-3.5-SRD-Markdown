@@ -1,8 +1,12 @@
-v3.5 SRD / Spells / Spell List II
+---
+aliases: spell-list-ii
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-SPELL LIST II
+Spell List Ii
 =============
 
 Table of Contents
@@ -127,7 +131,7 @@ Table of Contents
 Druid Spells
 ------------
 
-### 0-Level Druid Spells (Orisons)
+## 0-Level Druid Spells (Orisons)
 
 *   **Create Water:** Creates 2 gallons/level of pure water.
 *   **Cure Minor Wounds:** Cures 1 point of damage.
@@ -143,7 +147,7 @@ Druid Spells
 *   **Resistance:** Subject gains +1 bonus on saving throws.
 *   **Virtue:** Subject gains 1 temporary hp.
 
-### 1st-Level Druid Spells
+## 1st-Level Druid Spells
 
 *   **Calm Animals:** Calms (2d4 + level) HD of animals.
 *   **Charm Animal:** Makes one animal your friend.
@@ -166,7 +170,7 @@ Druid Spells
 *   **Speak with Animals:** You can communicate with animals.
 *   **Summon Nature’s Ally I:** Calls creature to fight.
 
-### 2nd-Level Druid Spells
+## 2nd-Level Druid Spells
 
 *   **Animal Messenger:** Sends a Tiny animal to a specific place.
 *   **Animal Trance:** Fascinates 2d6 HD of animals.
@@ -195,7 +199,7 @@ Druid Spells
 *   **Warp Wood:** Bends wood (shaft, handle, door, plank).
 *   **Wood Shape:** Rearranges wooden objects to suit you.
 
-### 3rd-Level Druid Spells
+## 3rd-Level Druid Spells
 
 *   **Call Lightning:** Calls down lightning bolts (3d6 per bolt) from sky.
 *   **Contagion:** Infects subject with chosen disease.
@@ -220,7 +224,7 @@ Druid Spells
 *   **Water Breathing:** Subjects can breathe underwater.
 *   **Wind Wall:** Deflects arrows, smaller creatures, and gases.
 
-### 4th-Level Druid Spells
+## 4th-Level Druid Spells
 
 *   **Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
 *   **Antiplant Shell:** Keeps animated plants at bay.
@@ -240,7 +244,7 @@ Druid Spells
 *   **Spike Stones:** Creatures in area take 1d8 damage, may be _slowed._
 *   **Summon Nature’s Ally IV:** Calls creature to fight.
 
-### 5th-Level Druid Spells
+## 5th-Level Druid Spells
 
 *   **Animal Growth:** One animal/two levels doubles in size.
 *   **Atonement:** Removes burden of misdeeds from subject.
@@ -262,7 +266,7 @@ Druid Spells
 *   **Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 *   **Wall of Thorns:** Thorns damage anyone who tries to pass.
 
-### 6th-Level Druid Spells
+## 6th-Level Druid Spells
 
 *   **Antilife Shell:** 10-ft.-radius field hedges out living creatures.
 *   **Bear’s Endurance, Mass:** As _bear’s endurance_, affects one subject/ level.
@@ -283,7 +287,7 @@ Druid Spells
 *   **Transport via Plants:** Move instantly from one plant to another of the same kind.
 *   **Wall of Stone:** Creates a stone wall that can be shaped.
 
-### 7th-Level Druid Spells
+## 7th-Level Druid Spells
 
 *   **Animate Plants:** One or more plants animate and fight for you.
 *   **Changestaff:** Your staff becomes a treant on command.
@@ -299,7 +303,7 @@ Druid Spells
 *   **True Seeing M:** Lets you see all things as they really are.
 *   **Wind Walk:** You and your allies turn vaporous and travel fast.
 
-### 8th-Level Druid Spells
+## 8th-Level Druid Spells
 
 *   **Animal Shapes:** One ally/level polymorphs into chosen animal.
 *   **Control Plants:** Control actions of one or more plant creatures.
@@ -313,7 +317,7 @@ Druid Spells
 *   **Whirlwind:** Cyclone deals damage and can pick up creatures.
 *   **Word of Recall:** Teleports you back to designated place.
 
-### 9th-Level Druid Spells
+## 9th-Level Druid Spells
 
 *   **Antipathy:** Object or location affected by spell repels certain creatures.
 *   **Cure Critical Wounds, Mass:** Cures 4d8 damage +1/level for many creatures.
@@ -329,7 +333,7 @@ Druid Spells
 Paladin Spells
 --------------
 
-### 1st-Level Paladin Spells
+## 1st-Level Paladin Spells
 
 *   **Bless:** Allies gain +1 on attack rolls and +1 on saves against fear.
 *   **Bless Water:** Makes holy water.
@@ -347,7 +351,7 @@ Paladin Spells
 *   **Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4 ability damage.
 *   **Virtue:** Subject gains 1 temporary hp.
 
-### 2nd-Level Paladin Spells
+## 2nd-Level Paladin Spells
 
 *   **Bull’s Strength:** Subject gains +4 to Str for 1 min./level.
 *   **Delay Poison:** Stops poison from harming subject for 1 hour/level.
@@ -359,7 +363,7 @@ Paladin Spells
 *   **Undetectable Alignment:** Conceals alignment for 24 hours.
 *   **Zone of Truth:** Subjects within range cannot lie.
 
-### 3rd-Level Paladin Spells
+## 3rd-Level Paladin Spells
 
 *   **Cure Moderate Wounds:** Cures 2d8 damage +1/level (max +10).
 *   **Daylight:** 60-ft. radius of bright light.
@@ -373,7 +377,7 @@ Paladin Spells
 *   **Remove Blindness/Deafness:** Cures normal or magical conditions.
 *   **Remove Curse:** Frees object or person from curse.
 
-### 4th-Level Paladin Spells
+## 4th-Level Paladin Spells
 
 *   **Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 *   **Cure Serious Wounds:** Cures 3d8 damage +1/level (max +15).
@@ -388,7 +392,7 @@ Paladin Spells
 Ranger Spells
 -------------
 
-### 1st-Level Ranger Spells
+## 1st-Level Ranger Spells
 
 *   **Alarm:** Wards an area for 2 hours/level.
 *   **Animal Messenger:** Sends a Tiny animal to a specific place.
@@ -410,7 +414,7 @@ Ranger Spells
 *   **Speak with Animals:** You can communicate with animals.
 *   **Summon Nature’s Ally I:** Calls animal to fight for you.
 
-### 2nd-Level Ranger Spells
+## 2nd-Level Ranger Spells
 
 *   **Barkskin:** Grants +2 (or higher) enhancement to natural armor.
 *   **Bear’s Endurance:** Subject gains +4 to Con for 1 min./level.
@@ -425,7 +429,7 @@ Ranger Spells
 *   **Summon Nature’s Ally II:** Calls animal to fight for you.
 *   **Wind Wall:** Deflects arrows, smaller creatures, and gases.
 
-### 3rd-Level Ranger Spells
+## 3rd-Level Ranger Spells
 
 *   **Command Plants:** Sway the actions of one or more plant creatures.
 *   **Cure Moderate Wounds:** Cures 2d8 damage +1/level (max +10).
@@ -441,7 +445,7 @@ Ranger Spells
 *   **Tree Shape:** You look exactly like a tree for 1 hour/level.
 *   **Water Walk:** Subject treads on water as if solid.
 
-### 4th-Level Ranger Spells
+## 4th-Level Ranger Spells
 
 *   **Animal Growth:** One animal/two levels doubles in size.
 *   **Commune with Nature:** Learn about terrain for 1 mile/level.
@@ -454,57 +458,57 @@ Ranger Spells
 Sorcerer/Wizard Spells
 ----------------------
 
-### 0-Level Sorcerer/Wizard Spells (Cantrips)
+## 0-Level Sorcerer/Wizard Spells (Cantrips)
 
-#### Abjur
+### Abjur
 
 *   **Resistance:** Subject gains +1 on saving throws.
 
-#### Conj
+### Conj
 
 *   **Acid Splash:** Orb deals 1d3 acid damage.
 
-#### Div
+### Div
 
 *   **Detect Poison:** Detects poison in one creature or small object.
 *   **Detect Magic:** Detects spells and magic items within 60 ft.
 *   **Read Magic:** Read scrolls and spellbooks.
 
-#### Ench
+### Ench
 
 *   **Daze:** Humanoid creature of 4 HD or less loses next action.
 
-#### Evoc
+### Evoc
 
 *   **Dancing Lights:** Creates torches or other lights.
 *   **Flare:** Dazzles one creature (–1 on attack rolls).
 *   **Light:** Object shines like a torch.
 *   **Ray of Frost:** Ray deals 1d3 cold damage.
 
-#### Illus
+### Illus
 
 *   **Ghost Sound:** Figment sounds.
 
-#### Necro
+### Necro
 
 *   **Disrupt Undead:** Deals 1d6 damage to one undead.
 *   **Touch of Fatigue:** Touch attack fatigues target.
 
-#### Trans
+### Trans
 
 *   **Mage Hand:** 5-pound telekinesis.
 *   **Mending:** Makes minor repairs on an object.
 *   **Message:** Whispered conversation at distance.
 *   **Open/Close:** Opens or closes small or light things.
 
-#### Univ
+### Univ
 
 *   **Arcane Mark:** Inscribes a personal rune (visible or invisible).
 *   **Prestidigitation:** Performs minor tricks.
 
-### 1st-Level Sorcerer/Wizard Spells
+## 1st-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Alarm:** Wards an area for 2 hours/level.
 *   **Endure Elements:** Exist comfortably in hot or cold environments.
@@ -512,7 +516,7 @@ Sorcerer/Wizard Spells
 *   **Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 *   **Shield:** Invisible disc gives +4 to AC, blocks _magic missiles._
 
-#### Conj
+### Conj
 
 *   **Grease:** Makes 10-ft. square or one object slippery.
 *   **Mage Armor:** Gives subject +4 armor bonus.
@@ -521,7 +525,7 @@ Sorcerer/Wizard Spells
 *   **Summon Monster I:** Calls extraplanar creature to fight for you.
 *   **Unseen Servant:** Invisible force obeys your commands.
 
-#### Div
+### Div
 
 *   **Comprehend Languages:** You understand all spoken and written languages.
 *   **Detect Secret Doors:** Reveals hidden doors within 60 ft.
@@ -529,20 +533,20 @@ Sorcerer/Wizard Spells
 *   **Identify M:** Determines properties of magic item.
 *   **True Strike:** +20 on your next attack roll.
 
-#### Ench
+### Ench
 
 *   **Charm Person:** Makes one person your friend.
 *   **Hypnotism:** Fascinates 2d4 HD of creatures.
 *   **Sleep:** Puts 4 HD of creatures into magical slumber.
 
-#### Evoc
+### Evoc
 
 *   **Burning Hands:** 1d4/level fire damage (max 5d4).
 *   **Floating Disk:** Creates 3-ft.-diameter horizontal disk that holds 100 lb./level.
 *   **Magic Missile:** 1d4+1 damage; +1 missile per two levels above 1st (max 5).
 *   **Shocking Grasp:** Touch delivers 1d6/level electricity damage (max 5d6).
 
-#### Illus
+### Illus
 
 *   **Color Spray:** Knocks unconscious, blinds, and/or stuns weak creatures.
 *   **Disguise Self:** Changes your appearance.
@@ -550,13 +554,13 @@ Sorcerer/Wizard Spells
 *   **Silent Image:** Creates minor illusion of your design.
 *   **Ventriloquism:** Throws voice for 1 min./level.
 
-#### Necro
+### Necro
 
 *   **Cause Fear:** One creature of 5 HD or less flees for 1d4 rounds.
 *   **Chill Touch:** One touch/level deals 1d6 damage and possibly 1 Str damage.
 *   **Ray of Enfeeblement:** Ray deals 1d6 +1 per two levels Str damage.
 
-#### Trans
+### Trans
 
 *   **Animate Rope:** Makes a rope move at your command.
 *   **Enlarge Person:** Humanoid creature doubles in size.
@@ -567,16 +571,16 @@ Sorcerer/Wizard Spells
 *   **Magic Weapon:** Weapon gains +1 bonus.
 *   **Reduce Person:** Humanoid creature halves in size.
 
-### 2nd-Level Sorcerer/Wizard Spells
+## 2nd-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Arcane Lock M:** Magically locks a portal or chest.
 *   **Obscure Object:** Masks object against scrying.
 *   **Protection from Arrows:** Subject immune to most ranged attacks.
 *   **Resist Energy:** Ignores first 10 (or more) points of damage/attack from specified energy type.
 
-#### Conj
+### Conj
 
 *   **Acid Arrow:** Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.
 *   **Fog Cloud:** Fog obscures vision.
@@ -585,19 +589,19 @@ Sorcerer/Wizard Spells
 *   **Summon Swarm:** Summons swarm of bats, rats, or spiders.
 *   **Web:** Fills 20-ft.-radius spread with sticky spiderwebs.
 
-#### Div
+### Div
 
 *   **Detect Thoughts:** Allows “listening” to surface thoughts.
 *   **Locate Object:** Senses direction toward object (specific or type).
 *   **See Invisibility:** Reveals invisible creatures or objects.
 
-#### Ench
+### Ench
 
 *   **Daze Monster:** Living creature of 6 HD or less loses next action.
 *   **Hideous Laughter:** Subject loses actions for 1 round/level.
 *   **Touch of Idiocy:** Subject takes 1d6 points of Int, Wis, and Cha damage.
 
-#### Evoc
+### Evoc
 
 *   **Continual Flame M:** Makes a permanent, heatless torch.
 *   **Darkness:** 20-ft. radius of supernatural shadow.
@@ -606,7 +610,7 @@ Sorcerer/Wizard Spells
 *   **Scorching Ray:** Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
 *   **Shatter:** Sonic vibration damages objects or crystalline creatures.
 
-#### Illus
+### Illus
 
 *   **Blur:** Attacks miss subject 20% of the time.
 *   **Hypnotic Pattern:** Fascinates (2d4 + level) HD of creatures.
@@ -617,7 +621,7 @@ Sorcerer/Wizard Spells
 *   **Misdirection:** Misleads divinations for one creature or object.
 *   **Phantom Trap M:** Makes item seem trapped.
 
-#### Necro
+### Necro
 
 *   **Blindness/Deafness:** Makes subject blinded or deafened.
 *   **Command Undead:** Undead creature obeys your commands.
@@ -627,7 +631,7 @@ Sorcerer/Wizard Spells
 *   **Scare:** Panics creatures of less than 6 HD.
 *   **Spectral Hand:** Creates disembodied glowing hand to deliver touch attacks.
 
-#### Trans
+### Trans
 
 *   **Alter Self:** Assume form of a similar creature.
 *   **Bear’s Endurance:** Subject gains +4 to Con for 1 min./level.
@@ -644,9 +648,9 @@ Sorcerer/Wizard Spells
 *   **Spider Climb:** Grants ability to walk on walls and ceilings.
 *   **Whispering Wind:** Sends a short message 1 mile/level.
 
-### 3rd-Level Sorcerer/Wizard Spells
+## 3rd-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Dispel Magic:** Cancels magical spells and effects.
 *   **Explosive Runes:** Deals 6d6 damage when read.
@@ -654,7 +658,7 @@ Sorcerer/Wizard Spells
 *   **Nondetection M:** Hides subject from divination, scrying.
 *   **Protection from Energy:** Absorb 12 points/level of damage from one kind of energy.
 
-#### Conj
+### Conj
 
 *   **Phantom Steed:** Magic horse appears for 1 hour/level.
 *   **Sepia Snake Sigil M:** Creates text symbol that immobilizes reader.
@@ -662,13 +666,13 @@ Sorcerer/Wizard Spells
 *   **Stinking Cloud:** Nauseating vapors, 1 round/level.
 *   **Summon Monster III:** Calls extraplanar creature to fight for you.
 
-#### Div
+### Div
 
 *   **Arcane Sight:** Magical auras become visible to you.
 *   **Clairaudience/Clairvoyance:** Hear or see at a distance for 1 min./level.
 *   **Tongues:** Speak any language.
 
-#### Ench
+### Ench
 
 *   **Deep Slumber:** Puts 10 HD of creatures to sleep.
 *   **Heroism:** Gives +2 bonus on attack rolls, saves, skill checks.
@@ -676,7 +680,7 @@ Sorcerer/Wizard Spells
 *   **Rage:** Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC.
 *   **Suggestion:** Compels subject to follow stated course of action.
 
-#### Evoc
+### Evoc
 
 *   **Daylight:** 60-ft. radius of bright light.
 *   **Fireball:** 1d6 damage per level, 20-ft. radius.
@@ -684,21 +688,21 @@ Sorcerer/Wizard Spells
 *   **Tiny Hut:** Creates shelter for ten creatures.
 *   **Wind Wall:** Deflects arrows, smaller creatures, and gases.
 
-#### Illus
+### Illus
 
 *   **Displacement:** Attacks miss subject 50%.
 *   **Illusory Script M:** Only intended reader can decipher.
 *   **Invisibility Sphere:** Makes everyone within 10 ft. invisible.
 *   **Major Image:** As _silent image_, plus sound, smell and thermal effects.
 
-#### Necro
+### Necro
 
 *   **Gentle Repose:** Preserves one corpse.
 *   **Halt Undead:** Immobilizes undead for 1 round/level.
 *   **Ray of Exhaustion:** Ray makes subject exhausted.
 *   **Vampiric Touch:** Touch deals 1d6/two levels damage; caster gains damage as hp.
 
-#### Trans
+### Trans
 
 *   **Blink:** You randomly vanish and reappear for 1 round/level.
 *   **Flame Arrow:** Arrows deal +1d6 fire damage.
@@ -712,9 +716,9 @@ Sorcerer/Wizard Spells
 *   **Slow:** One subject/level takes only one action/round, –1 to AC, reflex saves, and attack rolls.
 *   **Water Breathing:** Subjects can breathe underwater.
 
-### 4th-Level Sorcerer/Wizard Spells
+## 4th-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Dimensional Anchor:** Bars extradimensional movement.
 *   **Fire Trap M:** Opened object deals 1d4 damage +1/level.
@@ -722,7 +726,7 @@ Sorcerer/Wizard Spells
 *   **Remove Curse:** Frees object or person from curse.
 *   **Stoneskin M:** Ignore 10 points of damage per attack.
 
-#### Conj
+### Conj
 
 *   **Black Tentacles:** Tentacles grapple all within 20 ft. spread.
 *   **Dimension Door:** Teleports you short distance.
@@ -731,21 +735,21 @@ Sorcerer/Wizard Spells
 *   **Solid Fog:** Blocks vision and slows movement.
 *   **Summon Monster IV:** Calls extraplanar creature to fight for you.
 
-#### Div
+### Div
 
 *   **Arcane Eye:** Invisible floating eye moves 30 ft./round.
 *   **Detect Scrying:** Alerts you of magical eavesdropping.
 *   **Locate Creature:** Indicates direction to familiar creature.
 *   **Scrying F:** Spies on subject from a distance.
 
-#### Ench
+### Ench
 
 *   **Charm Monster:**Makes monster believe it is your ally.
 *   **Confusion:** Subjects behave oddly for 1 round/level.
 *   **Crushing Despair:** Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 *   **Geas, Lesser:** Commands subject of 7 HD or less.
 
-#### Evoc
+### Evoc
 
 *   **Fire Shield:** Creatures attacking you take fire damage; you’re protected from heat or cold.
 *   **Ice Storm:** Hail deals 5d6 damage in cylinder 40 ft. across.
@@ -754,7 +758,7 @@ Sorcerer/Wizard Spells
 *   **Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 *   **Wall of Ice:**_Ice plane_ creates wall with 15 hp +1/level, or _hemisphere_ can trap creatures inside.
 
-#### Illus
+### Illus
 
 *   **Hallucinatory Terrain:** Makes one type of terrain appear like another (field into forest, or the like).
 *   **Illusory Wall:** Wall, floor, or ceiling looks real, but anything can pass through.
@@ -763,7 +767,7 @@ Sorcerer/Wizard Spells
 *   **Rainbow Pattern:** Lights fascinate 24 HD of creatures.
 *   **Shadow Conjuration:** Mimics conjuration below 4th level, but only 20% real.
 
-#### Necro
+### Necro
 
 *   **Animate Dead M:** Creates undead skeletons and zombies.
 *   **Bestow Curse:** –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
@@ -777,15 +781,15 @@ Sorcerer/Wizard Spells
 *   **Reduce Person, Mass:** Reduces several creatures.
 *   **Stone Shape:** Sculpts stone into any shape.
 
-### 5th-Level Sorcerer/Wizard Spells
+## 5th-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 *   **Dismissal:** Forces a creature to return to native plane.
 *   **Mage’s Private Sanctum:** Prevents anyone from viewing or scrying an area for 24 hours.
 
-#### Conj
+### Conj
 
 *   **Cloudkill:** Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
 *   **Mage’s Faithful Hound:** Phantom dog can guard, attack.
@@ -796,13 +800,13 @@ Sorcerer/Wizard Spells
 *   **Teleport:** Instantly transports you as far as 100 miles/level.
 *   **Wall of Stone:** Creates a stone wall that can be shaped.
 
-#### Div
+### Div
 
 *   **Contact Other Plane:** Lets you ask question of extraplanar entity.
 *   **Prying Eyes:** 1d4 +1/level floating eyes scout for you.
 *   **Telepathic Bond:** Link lets allies communicate.
 
-#### Ench
+### Ench
 
 *   **Dominate Person:** Controls humanoid telepathically.
 *   **Feeblemind:** Subject’s Int and Cha drop to 1.
@@ -810,14 +814,14 @@ Sorcerer/Wizard Spells
 *   **Mind Fog:** Subjects in fog get –10 to Wis and Will checks.
 *   **Symbol of Sleep M:** Triggered rune puts nearby creatures into catatonic slumber.
 
-#### Evoc
+### Evoc
 
 *   **Cone of Cold:** 1d6/level cold damage.
 *   **Interposing Hand:** Hand provides cover against one opponent.
 *   **Sending:** Delivers short message anywhere, instantly.
 *   **Wall of Force:**Wall is immune to damage.
 
-#### Illus
+### Illus
 
 *   **Dream:** Sends message to anyone sleeping.
 *   **False Vision M:** Fools scrying with an illusion.
@@ -827,14 +831,14 @@ Sorcerer/Wizard Spells
 *   **Seeming:** Changes appearance of one person per two levels.
 *   **Shadow Evocation:** Mimics evocation below 5th level, but only 20% real.
 
-#### Necro
+### Necro
 
 *   **Blight:** Withers one plant or deals 1d6/level damage to plant creature.
 *   **Magic Jar F:** Enables possession of another creature.
 *   **Symbol of Pain M:** Triggered rune wracks nearby creatures with pain.
 *   **Waves of Fatigue:** Several targets become fatigued.
 
-#### Trans
+### Trans
 
 *   **Animal Growth:** One animal/two levels doubles in size.
 *   **Baleful Polymorph:** Transforms subject into harmless animal.
@@ -845,13 +849,13 @@ Sorcerer/Wizard Spells
 *   **Transmute Mud to Rock:** Transforms two 10-ft. cubes per level.
 *   **Transmute Rock to Mud:** Transforms two 10-ft. cubes per level.
 
-#### Univ
+### Univ
 
 *   **Permanency X:**Makes certain spells permanent.
 
-### 6th-Level Sorcerer/Wizard Spells
+## 6th-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Antimagic Field:** Negates magic within 10 ft.
 *   **Dispel Magic, Greater:** As _dispel magic,_ but +20 on check.
@@ -859,34 +863,34 @@ Sorcerer/Wizard Spells
 *   **Guards and Wards:** Array of magic effects protect area.
 *   **Repulsion:** Creatures can’t approach you.
 
-#### Conj
+### Conj
 
 *   **Acid Fog:** Fog deals acid damage.
 *   **Planar Binding:** As _lesser planar binding,_ but up to 12 HD.
 *   **Summon Monster VI:** Calls extraplanar creature to fight for you.
 *   **Wall of Iron M:** 30 hp/four levels; can topple onto foes.
 
-#### Div
+### Div
 
 *   **Analyze Dweomer F:** Reveals magical aspects of subject.
 *   **Legend Lore MF:** Lets you learn tales about a person, place, or thing.
 *   **True Seeing M:** Lets you see all things as they really are.
 
-#### Ench
+### Ench
 
 *   **Geas/Quest:** As _lesser geas,_ plus it affects any creature.
 *   **Heroism, Greater:** Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 *   **Suggestion, Mass:** As _suggestion,_ plus one subject/level.
 *   **Symbol of Persuasion M:** Triggered rune charms nearby creatures.
 
-#### Evoc
+### Evoc
 
 *   **Chain Lightning:** 1d6/level damage; 1 secondary bolt/level each deals half damage.
 *   **Contingency F:** Sets trigger condition for another spell.
 *   **Forceful Hand:** Hand pushes creatures away.
 *   **Freezing Sphere:** Freezes water or deals cold damage.
 
-#### Illus
+### Illus
 
 *   **Mislead:** Turns you invisible and creates illusory double.
 *   **Permanent Image:** Includes sight, sound, and smell.
@@ -894,7 +898,7 @@ Sorcerer/Wizard Spells
 *   **Shadow Walk:** Step into shadow to travel rapidly.
 *   **Veil:** Changes appearance of group of creatures.
 
-#### Necro
+### Necro
 
 *   **Circle of Death M:** Kills 1d4/level HD of creatures.
 *   **Create Undead M:** Creates ghouls, ghasts, mummies, or mohrgs.
@@ -902,7 +906,7 @@ Sorcerer/Wizard Spells
 *   **Symbol of Fear M:** Triggered rune panics nearby creatures.
 *   **Undeath to Death M:** Destroys 1d4/level HD of undead (max 20d4).
 
-#### Trans
+### Trans
 
 *   **Bear’s Endurance, Mass:** As _bear’s endurance_, affects one subject/level.
 *   **Bull’s Strength, Mass:** As _bull’s strength_, affects one subject/ level.
@@ -918,15 +922,15 @@ Sorcerer/Wizard Spells
 *   **Stone to Flesh:** Restores petrified creature.
 *   **Transformation M:** You gain combat bonuses.
 
-### 7th-Level Sorcerer/Wizard Spells
+## 7th-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Banishment:** Banishes 2 HD/level of extraplanar creatures.
 *   **Sequester:** Subject is invisible to sight and scrying; renders creature comatose.
 *   **Spell Turning:** Reflect 1d4+6 spell levels back at caster.
 
-#### Conj
+### Conj
 
 *   **Instant Summons M:** Prepared object appears in your hand.
 *   **Mage’s Magnificent Mansion F:** Door leads to extradimensional mansion.
@@ -936,20 +940,20 @@ Sorcerer/Wizard Spells
 *   **Teleport, Greater:** As _teleport,_ but no range limit and no off-target arrival.
 *   **Teleport Object:** As _teleport,_ but affects a touched object.
 
-#### Div
+### Div
 
 *   **Arcane Sight, Greater:** As _arcane sight_, but also reveals magic effects on creatures and objects.
 *   **Scrying, Greater:** As _scrying_, but faster and longer.
 *   **Vision MX:** As _legend lore_, but quicker and strenuous.
 
-#### Ench
+### Ench
 
 *   **Hold Person, Mass:** As _hold person_, but all within 30 ft.
 *   **Insanity:** Subject suffers continuous _confusion_.
 *   **Power Word Blind:** Blinds creature with 200 hp or less.
 *   **Symbol of Stunning M:** Triggered rune stuns nearby creatures.
 
-#### Evoc
+### Evoc
 
 *   **Delayed Blast Fireball:** 1d6/level fire damage; you can postpone blast for 5 rounds.
 *   **Forcecage M:** Cube or cage of force imprisons all inside.
@@ -957,41 +961,41 @@ Sorcerer/Wizard Spells
 *   **Mage’s Sword F:** Floating magic blade strikes opponents.
 *   **Prismatic Spray:** Rays hit subjects with variety of effects.
 
-#### Illus
+### Illus
 
 *   **Invisibility, Mass:** As _invisibility_, but affects all in range.
 *   **Project Image:** Illusory double can talk and cast spells.
 *   **Shadow Conjuration, Greater:** As _shadow conjuration,_ but up to 6th level and 60% real.
 *   **Simulacrum MX:** Creates partially real double of a creature.
 
-#### Necro
+### Necro
 
 *   **Control Undead:** Undead don’t attack you while under your command.
 *   **Finger of Death:** Kills one subject.
 *   **Symbol of Weakness M:** Triggered rune weakens nearby creatures.
 *   **Waves of Exhaustion:** Several targets become exhausted.
 
-#### Trans
+### Trans
 
 *   **Control Weather:** Changes weather in local area.
 *   **Ethereal Jaunt:** You become ethereal for 1 round/level.
 *   **Reverse Gravity:** Objects and creatures fall upward.
 *   **Statue:** Subject can become a statue at will.
 
-#### Univ
+### Univ
 
 *   **Limited Wish X:** Alters reality—within spell limits.
 
-### 8th-Level Sorcerer/Wizard Spells
+## 8th-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Dimensional Lock:** Teleportation and interplanar travel blocked for one day/level.
 *   **Mind Blank:** Subject is immune to mental/emotional magic and scrying.
 *   **Prismatic Wall:** Wall’s colors have array of effects.
 *   **Protection from Spells MF:** Confers +8 resistance bonus.
 
-#### Conj
+### Conj
 
 *   **Incendiary Cloud:** Cloud deals 4d6 fire damage/round.
 *   **Maze:** Traps subject in extradimensional maze.
@@ -999,13 +1003,13 @@ Sorcerer/Wizard Spells
 *   **Summon Monster VIII:** Calls extraplanar creature to fight for you.
 *   **Trap the Soul MF:** Imprisons subject within gem.
 
-#### Div
+### Div
 
 *   **Discern Location:** Reveals exact location of creature or object.
 *   **Moment of Prescience:** You gain insight bonus on single attack roll, check, or save.
 *   **Prying Eyes, Greater:** As _prying eyes_, but eyes have _true seeing_.
 
-#### Ench
+### Ench
 
 *   **Antipathy:** Object or location affected by spell repels certain creatures.
 *   **Binding M:** Utilizes an array of techniques to imprison a creature.
@@ -1016,82 +1020,82 @@ Sorcerer/Wizard Spells
 *   **Symbol of Insanity M:** Triggered rune renders nearby creatures insane.
 *   **Sympathy F:** Object or location attracts certain creatures.
 
-#### Evoc
+### Evoc
 
 *   **Clenched Fist:** Large hand provides cover, pushes, or attacks your foes.
 *   **Polar Ray:** Ranged touch attack deals 1d6/level cold damage.
 *   **Shout, Greater:** Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.
 *   **Sunburst:** Blinds all within 10 ft., deals 6d6 damage.
 
-#### Illus
+### Illus
 
 *   **Scintillating Pattern:** Twisting colors _confuse,_ stun, or render unconscious.
 *   **Screen:** Illusion hides area from vision, scrying.
 *   **Shadow Evocation, Greater:** As _shadow evocation,_ but up to 7th level and 60% real.
 *   **Telekinetic Sphere:** As _resilient sphere,_ but you move sphere telekinetically.
 
-#### Necro
+### Necro
 
 *   **Clone MF:** Duplicate awakens when original dies.
 *   **Create Greater Undead M:** Create shadows, wraiths, spectres, or devourers.
 *   **Horrid Wilting:** Deals 1d6/level damage within 30 ft.
 *   **Symbol of Death M:** Triggered rune slays nearby creatures.
 
-#### Trans
+### Trans
 
 *   **Iron Body:** Your body becomes living iron.
 *   **Polymorph Any Object:** Changes any subject into anything else.
 *   **Temporal Stasis M:** Puts subject into suspended animation.
 
-### 9th-Level Sorcerer/Wizard Spells
+## 9th-Level Sorcerer/Wizard Spells
 
-#### Abjur
+### Abjur
 
 *   **Freedom:** Releases creature from _imprisonment._
 *   **Imprisonment:** Entombs subject beneath the earth.
 *   **Mage’s Disjunction:** Dispels magic, disenchants magic items.
 *   **Prismatic Sphere:** As _prismatic wall_, but surrounds on all sides.
 
-#### Conj
+### Conj
 
 *   **Gate X:** Connects two planes for travel or summoning.
 *   **Refuge M:** Alters item to transport its possessor to you.
 *   **Summon Monster IX:** Calls extraplanar creature to fight for you.
 *   **Teleportation Circle M:** Circle teleports any creature inside to designated spot.
 
-#### Div
+### Div
 
 *   **Foresight:** “Sixth sense” warns of impending danger.
 
-#### Ench
+### Ench
 
 *   **Dominate Monster:** As _dominate person,_ but any creature.
 *   **Hold Monster, Mass:** As _hold monster,_ but all within 30 ft.
 *   **Power Word Kill:** Kills one creature with 100 hp or less.
 
-#### Evoc
+### Evoc
 
 *   **Crushing Hand:** Large hand provides cover, pushes, or crushes your foes.
 *   **Meteor Swarm:** Four exploding spheres each deal 6d6 fire damage.
 
-#### Illus
+### Illus
 
 *   **Shades:** As _shadow conjuration_, but up to 8th level and 80% real.
 *   **Weird:** As _phantasmal killer,_ but affects all within 30 ft.
 
-#### Necro
+### Necro
 
 *   **Astral Projection M:** Projects you and companions onto Astral Plane.
 *   **Energy Drain:** Subject gains 2d4 negative levels.
 *   **Soul Bind F:** Traps newly dead soul to prevent _resurrection_.
 *   **Wail of the Banshee:** Kills one creature/level.
 
-#### Trans
+### Trans
 
 *   **Etherealness:** Travel to Ethereal Plane with companions.
 *   **Shapechange F:** Transforms you into any creature, and change forms once per round.
 *   **Time Stop:** You act freely for 1d4+1 rounds.
 
-#### Univ
+### Univ
 
 *   **Wish X:** As _limited wish,_ but with fewer limits.

@@ -1,8 +1,11 @@
-v3.5 SRD / Spells / Spell List I
+---
+aliases: spell-list-i
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
-
-SPELL LIST I
+Spell List I
 ============
 
 An Mor Fappearing at the end of a spell’s name in the spell lists denotes a spell with a material or focus component, respectively, that is not normally included in a spell component pouch. An Xdenotes a spell with an XP component paid by the caster.
@@ -88,7 +91,7 @@ Table of Contents
 Bard Spells
 -----------
 
-### 0-Level Bard Spells (Cantrips)
+## 0-Level Bard Spells (Cantrips)
 
 *   **Dancing Lights:** Creates torches or other lights.
 *   **Daze:** Humanoid creature of 4 HD or less loses next action.
@@ -107,7 +110,7 @@ Bard Spells
 *   **Resistance:** Subject gains +1 on saving throws.
 *   **Summon Instrument:** Summons one instrument of the caster’s choice.
 
-### 1st-Level Bard Spells
+## 1st-Level Bard Spells
 
 *   **Alarm:** Wards an area for 2 hours/level.
 *   **Animate Rope:** Makes a rope move at your command.
@@ -136,7 +139,7 @@ Bard Spells
 *   **Unseen Servant:** Invisible force obeys your commands.
 *   **Ventriloquism:** Throws voice for 1 min./level.
 
-### 2nd-Level Bard Spells
+## 2nd-Level Bard Spells
 
 *   **Alter Self:** Assume form of a similar creature.
 *   **Animal Messenger:** Sends a Tiny animal to a specific place.
@@ -174,7 +177,7 @@ Bard Spells
 *   **Tongues:** Speak any language.
 *   **Whispering Wind:** Sends a short message 1 mile/level.
 
-### 3rd-Level Bard Spells
+## 3rd-Level Bard Spells
 
 *   **Blink:** You randomly vanish and reappear for 1 round/level.
 *   **Charm Monster:** Makes monster believe it is your ally.
@@ -207,7 +210,7 @@ Bard Spells
 *   **Summon Monster III:** Calls extraplanar creature to fight for you.
 *   **Tiny Hut:** Creates shelter for ten creatures.
 
-### 4th-Level Bard Spells
+## 4th-Level Bard Spells
 
 *   **Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 *   **Cure Critical Wounds:** Cures 4d8 damage +1/level (max +20).
@@ -231,7 +234,7 @@ Bard Spells
 *   **Summon Monster IV:** Calls extraplanar creature to fight for you.
 *   **Zone of Silence:** Keeps eavesdroppers from overhearing conversations.
 
-### 5th-Level Bard Spells
+## 5th-Level Bard Spells
 
 *   **Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many creatures.
 *   **Dispel Magic, Greater:** As _dispel magic,_ but +20 on check.
@@ -250,7 +253,7 @@ Bard Spells
 *   **Suggestion, Mass:** As _suggestion,_ plus one subject/level.
 *   **Summon Monster V:** Calls extraplanar creature to fight for you.
 
-### 6th-Level Bard Spells
+## 6th-Level Bard Spells
 
 *   **Analyze Dweomer F:** Reveals magical aspects of subject.
 *   **Animate Objects:** Objects attack your foes.
@@ -276,7 +279,7 @@ Bard Spells
 Cleric Spells
 -------------
 
-### 0-Level Cleric Spells (Orisons)
+## 0-Level Cleric Spells (Orisons)
 
 *   **Create Water:** Creates 2 gallons/level of pure water.
 *   **Cure Minor Wounds:** Cures 1 point of damage.
@@ -291,7 +294,7 @@ Cleric Spells
 *   **Resistance:** Subject gains +1 on saving throws.
 *   **Virtue:** Subject gains 1 temporary hp.
 
-### 1st-Level Cleric Spells
+## 1st-Level Cleric Spells
 
 *   **Bane:** Enemies take –1 on attack rolls and saves against fear.
 *   **Bless:** Allies gain +1 on attack rolls and saves against fear.
@@ -319,7 +322,7 @@ Cleric Spells
 *   **Shield of Faith:** Aura grants +2 or higher deflection bonus.
 *   **Summon Monster I:** Calls extraplanar creature to fight for you.
 
-### 2nd-Level Cleric Spells
+## 2nd-Level Cleric Spells
 
 *   **Aid:** +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 *   **Align Weapon:** Weapon becomes good, evil, lawful, or chaotic.
@@ -354,7 +357,7 @@ Cleric Spells
 *   **Undetectable Alignment:** Conceals alignment for 24 hours.
 *   **Zone of Truth:** Subjects within range cannot lie.
 
-### 3rd-Level Cleric Spells
+## 3rd-Level Cleric Spells
 
 *   **Animate Dead M:** Creates undead skeletons and zombies.
 *   **Bestow Curse:** –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
@@ -388,7 +391,7 @@ Cleric Spells
 *   **Water Walk:** Subject treads on water as if solid.
 *   **Wind Wall:** Deflects arrows, smaller creatures, and gases.
 
-### 4th-Level Cleric Spells
+## 4th-Level Cleric Spells
 
 *   **Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
 *   **Control Water:** Raises or lowers bodies of water.
@@ -414,7 +417,7 @@ Cleric Spells
 *   **Summon Monster IV:** Calls extraplanar creature to fight for you.
 *   **Tongues:** Speak any language.
 
-### 5th-Level Cleric Spells
+## 5th-Level Cleric Spells
 
 *   **Atonement FX:** Removes burden of misdeeds from subject.
 *   **Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
@@ -441,7 +444,7 @@ Cleric Spells
 *   **Unhallow M:** Designates location as unholy.
 *   **Wall of Stone:** Creates a stone wall that can be shaped.
 
-### 6th-Level Cleric Spells
+## 6th-Level Cleric Spells
 
 *   **Animate Objects:** Objects attack your foes.
 *   **Antilife Shell:** 10-ft. field hedges out living creatures.
@@ -470,7 +473,7 @@ Cleric Spells
 *   **Wind Walk:** You and your allies turn vaporous and travel fast.
 *   **Word of Recall:** Teleports you back to designated place.
 
-### 7th-Level Cleric Spells
+## 7th-Level Cleric Spells
 
 *   **Blasphemy:** Kills, paralyzes, weakens, or dazes nonevil subjects.
 *   **Control Weather:** Changes weather in local area.
@@ -491,7 +494,7 @@ Cleric Spells
 *   **Symbol of Weakness M:** Triggered rune weakens nearby creatures.
 *   **Word of Chaos:** Kills, _confuses,_ stuns, or deafens nonchaotic subjects.
 
-### 8th-Level Cleric Spells
+## 8th-Level Cleric Spells
 
 *   **Antimagic Field:** Negates magic within 10 ft.
 *   **Cloak of Chaos F:** +4 to AC, +4 resistance, and SR 25 against lawful spells.
@@ -511,7 +514,7 @@ Cleric Spells
 *   **Symbol of Insanity M:** Triggered rune renders nearby creatures insane.
 *   **Unholy Aura F:** +4 to AC, +4 resistance, and SR 25 against good spells.
 
-### 9th-Level Cleric Spells
+## 9th-Level Cleric Spells
 
 *   **Astral Projection M:** Projects you and companions onto Astral Plane.
 *   **Energy Drain:** Subject gains 2d4 negative levels.
@@ -528,11 +531,11 @@ Cleric Spells
 Cleric Domains
 --------------
 
-### Air Domain
+## Air Domain
 
 **Granted Powers:** Turn or destroy earth creatures as a good cleric turns undead. Rebuke, command, or bolster air creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
-#### Air Domain Spells
+### Air Domain Spells
 
 1
 
@@ -572,13 +575,13 @@ Cleric Domains
 
 \*Cast as an air spell only.
 
-### Animal Domain
+## Animal Domain
 
 **Granted Powers:** You can use _speak with animals_ once per day as a spell-like ability.
 
 Add Knowledge (nature) to your list of cleric class skills.
 
-#### Animal Domain Spells
+### Animal Domain Spells
 
 1
 
@@ -618,11 +621,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 \*Can only summon animals.
 
-### Chaos Domain
+## Chaos Domain
 
 **Granted Power:** You cast chaos spells at +1 caster level.
 
-#### Chaos Domain Spells
+### Chaos Domain Spells
 
 1
 
@@ -662,11 +665,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 \*Cast as a chaos spell only.
 
-### Death Domain
+## Death Domain
 
 **Granted Power:** You may use a death touch once per day. Your death touch is a supernatural ability that produces a death effect. You must succeed on a melee touch attack against a living creature (using the rules for touch spells). When you touch, roll 1d6 per cleric level you possess. If the total at least equals the creature’s current hit points, it dies (no save).
 
-#### Death Domain Spells
+### Death Domain Spells
 
 1
 
@@ -704,11 +707,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Wail of the Banshee:** Kills one creature/level.
 
-### Destruction Domain
+## Destruction Domain
 
 **Granted Power:** You gain the smite power, the supernatural ability to make a single melee attack with a +4 bonus on attack rolls and a bonus on damage rolls equal to your cleric level (if you hit). You must declare the smite before making the attack. This ability is usable once per day.
 
-#### Destruction Domain Spells
+### Destruction Domain Spells
 
 1
 
@@ -746,11 +749,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Implosion:** Kills one creature/round.
 
-### Earth Domain
+## Earth Domain
 
 **Granted Power:** Turn or destroy air creatures as a good cleric turns undead. Rebuke, command, or bolster earth creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
-#### Earth Domain Spells
+### Earth Domain Spells
 
 1
 
@@ -790,11 +793,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 \*Cast as an earth spell only.
 
-### Evil Domain
+## Evil Domain
 
 **Granted Power:** You cast evil spells at +1 caster level.
 
-#### Evil Domain Spells
+### Evil Domain Spells
 
 1
 
@@ -834,11 +837,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 \*Cast as an evil spell only.
 
-### Fire Domain
+## Fire Domain
 
 **Granted Power:** Turn or destroy water creatures as a good cleric turns undead. Rebuke, command, or bolster fire creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
-#### Fire Domain Spells
+### Fire Domain Spells
 
 1
 
@@ -880,11 +883,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 \*\*Cast as a fire spell only.
 
-### Good Domain
+## Good Domain
 
 **Granted Power:** You cast good spells at +1 caster level.
 
-#### Good Domain Spells
+### Good Domain Spells
 
 1
 
@@ -924,11 +927,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 \*Cast as a good spell only.
 
-### Healing Domain
+## Healing Domain
 
 **Granted Power:** You cast healing spells at +1 caster level.
 
-#### Healing Domain Spells
+### Healing Domain Spells
 
 1
 
@@ -966,13 +969,13 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Heal, Mass:** As _heal_, but with several subjects.
 
-### Knowledge Domain
+## Knowledge Domain
 
 **Granted Power:** Add all Knowledge skills to your list of cleric class skills.
 
 You cast divination spells at +1 caster level.
 
-#### Knowledge Domain Spells
+### Knowledge Domain Spells
 
 1
 
@@ -1010,11 +1013,11 @@ You cast divination spells at +1 caster level.
 
 **Foresight:** “Sixth sense” warns of impending danger.
 
-### Law Domain
+## Law Domain
 
 **Granted Power:** You cast law spells at +1 caster level.
 
-#### Law Domain Spells
+### Law Domain Spells
 
 1
 
@@ -1054,11 +1057,11 @@ You cast divination spells at +1 caster level.
 
 \*Cast as a law spell only.
 
-### Luck Domain
+## Luck Domain
 
 **Granted Power:** You gain the power of good fortune, which is usable once per day. This extraordinary ability allows you to reroll one roll that you have just made before the DM declares whether the roll results in success or failure. You must take the result of the reroll, even if it’s worse than the original roll.
 
-#### Luck Domain Spells
+### Luck Domain Spells
 
 1
 
@@ -1096,11 +1099,11 @@ You cast divination spells at +1 caster level.
 
 **Miracle X:** Requests a deity’s intercession.
 
-### Magic Domain
+## Magic Domain
 
 **Granted Power:** Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack.
 
-#### Magic Domain Spells
+### Magic Domain Spells
 
 1
 
@@ -1138,13 +1141,13 @@ You cast divination spells at +1 caster level.
 
 **Mage’s Disjunction:** Dispels magic, disenchants magic items.
 
-### Plant Domain
+## Plant Domain
 
 **Granted Powers:** Rebuke or command plant creatures as an evil cleric rebukes or commands undead. Use this ability a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 Add Knowledge (nature) to your list of cleric class skills.
 
-#### Plant Domain Spells
+### Plant Domain Spells
 
 1
 
@@ -1182,11 +1185,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Shambler:** Summons 1d4+2 shambling mounds to fight for you.
 
-### Protection Domain
+## Protection Domain
 
 **Granted Power:** You can generate a _protective ward_ as a supernatural ability. Grant someone you touch a resistance bonus equal to your cleric level on his or her next saving throw. Activating this power is a standard action. The _protective ward_ is an abjuration effect with a duration of 1 hour that is usable once per day.
 
-#### Protection Domain Spells
+### Protection Domain Spells
 
 1
 
@@ -1224,11 +1227,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Prismatic Sphere:** As _prismatic wall_, but surrounds on all sides.
 
-### Strength Domain
+## Strength Domain
 
 **Granted Power:** You can perform a feat of strength as a supernatural ability. You gain an enhancement bonus to Strength equal to your cleric level. Activating the power is a free action, the power lasts 1 round, and it is usable once per day.
 
-#### Strength Domain Spells
+### Strength Domain Spells
 
 1
 
@@ -1266,11 +1269,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Crushing Hand:** Large hand provides cover, pushes, or crushes your foes.
 
-### Sun Domain
+## Sun Domain
 
 **Granted Power:** Once per day, you can perform a greater turning against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead.
 
-#### Sun Domain Spells
+### Sun Domain Spells
 
 1
 
@@ -1308,7 +1311,7 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **Prismatic Sphere:** As _prismatic wall_, but surrounds on all sides.
 
-### Travel Domain
+## Travel Domain
 
 **Granted Powers:** For a total time per day of 1 round per cleric level you possess, you can act normally regardless of magical effects that impede movement as if you were affected by the spell _freedom of movement_. This effect occurs automatically as soon as it applies, lasts until it runs out or is no longer needed, and can operate multiple times per day (up to the total daily limit of rounds).
 
@@ -1316,7 +1319,7 @@ This granted power is a supernatural ability.
 
 Add Survival to your list of cleric class skills.
 
-#### Travel Domain Spells
+### Travel Domain Spells
 
 1
 
@@ -1354,11 +1357,11 @@ Add Survival to your list of cleric class skills.
 
 **Astral Projection M:** Projects you and companions onto Astral Plane.
 
-### Trickery Domain
+## Trickery Domain
 
 **Granted Power:** Add Bluff, Disguise, and Hide to your list of cleric class skills.
 
-#### Trickery Domain Spells
+### Trickery Domain Spells
 
 1
 
@@ -1396,11 +1399,11 @@ Add Survival to your list of cleric class skills.
 
 **Time Stop:** You act freely for 1d4+1 rounds.
 
-### War Domain
+## War Domain
 
 **Granted Power:** Free Martial Weapon Proficiency with deity’s favored weapon (if necessary) and Weapon Focus with the deity’s favored weapon.
 
-#### War Domain Spells
+### War Domain Spells
 
 1
 
@@ -1438,11 +1441,11 @@ Add Survival to your list of cleric class skills.
 
 **Power Word Kill:** Kills creature with 100 hp or less.
 
-### Water Domain
+## Water Domain
 
 **Granted Power:** Turn or destroy fire creatures as a good cleric turns undead. Rebuke, command, or bolster water creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
-#### Water Domain Spells
+### Water Domain Spells
 
 1
 

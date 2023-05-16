@@ -1,12 +1,12 @@
-v3.5 SRD / Spells / Spells (S)
+
 ---
-alias: [Spells S]
+aliase: [Spells S]
 tags: Compendium/3-5e/Spells/S
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# SPELLS (S)
+# Spells (S)
 
 ## Table of Contents
 

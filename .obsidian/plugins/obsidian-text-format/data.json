@@ -1,0 +1,18 @@
+{
+  "MergeParagraph_Newlines": true,
+  "MergeParagraph_Spaces": true,
+  "LowercaseFirst": true,
+  "RemoveBlanksWhenChinese": false,
+  "ZoteroNoteRegExp": "“(?<text>.*)” \\((?<item>.*?)\\) \\(\\[pdf\\]\\((?<pdf_url>.*?)\\)\\)",
+  "ZoteroNoteTemplate": "{text} [🔖]({pdf_url})",
+  "BulletPoints": "•–§",
+  "wrapperList": [
+    {
+      "name": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  ],
+  "RequestURL": "",
+  "toggleSequnce": "lowerCase\nupperCase\ncapitalizeSentence\ntitleCase"
+}

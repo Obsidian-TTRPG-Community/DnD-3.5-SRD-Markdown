@@ -1,10 +1,14 @@
-v3.5 SRD / Spells / Spells (M-O)
+---
+aliases: Spells (M-O)
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# SPELLS (M-O)
+## Spells (M-O)
 
-## Table of Contents
+### Table of Contents
 
 *   [Mage Armor](#mage-armor)
 *   [Mage Hand](#mage-hand)
@@ -63,7 +67,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [Owl’s Wisdom](#owls-wisdom)
 *   [Owl’s Wisdom, Mass](#owls-wisdom-mass)
 
-### Mage Armor
+#### Mage Armor
 
 *   Conjuration (Creation) \[Force\]
 *   **Level::** Sor/Wiz 1
@@ -81,7 +85,7 @@ Unlike mundane armor, _mage armor_ entails no armor check penalty, arcane spell 
 
 _Focus_:: A piece of cured leather.
 
-### Mage Hand
+#### Mage Hand
 
 *   Transmutation
 *   **Level::** Brd 0, Sor/Wiz 0
@@ -95,7 +99,7 @@ _Focus_:: A piece of cured leather.
 
 You point your finger at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell’s range.
 
-### Mage’s Disjunction
+#### Mage’s Disjunction
 
 *   Abjuration
 *   **Level::** Magic 9, Sor/Wiz 9
@@ -115,7 +119,7 @@ Even artifacts are subject to _disjunction,_ though there is only a 1% chance pe
 
 _Note:_ Destroying artifacts is a dangerous business, and it is 95% likely to attract the attention of some powerful being who has an interest in or connection with the device.
 
-### Mage’s Faithful Hound
+#### Mage’s Faithful Hound
 
 *   Conjuration (Creation)
 *   **Level::** Sor/Wiz 5
@@ -137,7 +141,7 @@ The spell lasts for 1 hour per caster level, but once the hound begins barking, 
 
 _Material Component:_ A tiny silver whistle, a piece of bone, and a thread.
 
-### Mage’s Lucubration
+#### Mage’s Lucubration
 
 *   Transmutation
 *   **Level::** Wiz 6
@@ -151,7 +155,7 @@ You instantly recall any one spell of 5th level or lower that you have used duri
 
 If the recalled spell requires material components, you must provide them. The recovered spell is not usable until the material components are available.
 
-### Mage’s Magnificent Mansion
+#### Mage’s Magnificent Mansion
 
 *   Conjuration (Creation)
 *   **Level::** Sor/Wiz 7
@@ -171,7 +175,7 @@ Since the place can be entered only through its special portal, outside conditio
 
 _Focus_:: A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon (each item worth 5 gp).
 
-### Mage’s Private Sanctum
+#### Mage’s Private Sanctum
 
 *   Abjuration
 *   **Level::** Sor/Wiz 5
@@ -193,7 +197,7 @@ _Mage’s private sanctum_ can be made permanent with a _permanency_ spell.
 
 _Material Component:_ A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite.
 
-### Mage’s Sword
+#### Mage’s Sword
 
 *   Evocation \[Force\]
 *   **Level::** Sor/Wiz 7
@@ -217,7 +221,7 @@ If an attacked creature has spell resistance, the resistance is checked the firs
 
 _Focus_:: A miniature platinum sword with a grip and pommel of copper and zinc. It costs 250 gp to construct.
 
-### Magic Aura
+#### Magic Aura
 
 *   Illusion (Glamer)
 *   **Level::** Brd 1, Magic 1, Sor/Wiz 1
@@ -239,14 +243,14 @@ _Note:_ A magic weapon, shield, or suit of armor must be a masterwork item, so a
 
 _Focus_:: A small square of silk that must be passed over the object that receives the aura.
 
-### Magic Circle Against Chaos
+#### Magic Circle Against Chaos
 
 *   Abjuration \[Lawful\]
 *   **Level::** Clr 3, Law 3, Pal 3, Sor/Wiz 3
 
 This spell functions like _magic circle against evil,_ except that it is similar to _protection from chaos_ instead of _protection from evil_, and it can imprison a nonlawful called creature.
 
-### Magic Circle Against Evil
+#### Magic Circle Against Evil
 
 *   Abjuration \[Good\]
 *   **Level::** Clr 3, Good 3, Pal 3, Sor/Wiz 3
@@ -272,21 +276,21 @@ This spell is not cumulative with _protection from evil_ and vice versa.
 
 _Arcane Material Component:_ A little powdered silver with which you trace a 3-footdiameter circle on the floor (or ground) around the creature to be warded.
 
-### Magic Circle Against Good
+#### Magic Circle Against Good
 
 *   Abjuration \[Evil\]
 *   **Level::** Clr 3, Evil 3, Sor/Wiz 3
 
 This spell functions like _magic circle against evil,_ except that it is similar to _protection from good_ instead of _protection from evil_, and it can imprison a nonevil called creature.
 
-### Magic Circle Against Law
+#### Magic Circle Against Law
 
 *   Abjuration \[Chaotic\]
 *   **Level::** Chaos 3, Clr 3, Sor/Wiz 3
 
 This spell functions like _magic circle against evil,_ except that it is similar to _protection from law_ instead of _protection from evil_, and it can imprison a nonchaotic called creature.
 
-### Magic Fang
+#### Magic Fang
 
 *   Transmutation
 *   **Level::** Drd 1, Rgr 1
@@ -302,7 +306,7 @@ _Magic fang_ gives one natural weapon of the subject a +1 enhancement bonus on a
 
 _Magic fang_ can be made permanent with a _permanency_ spell.
 
-### Magic Fang, Greater
+#### Magic Fang, Greater
 
 *   Transmutation
 *   **Level::** Drd 3, Rgr 3
@@ -316,7 +320,7 @@ Alternatively, you may imbue all of the creature’s natural weapons with a +1 e
 
 _Greater magic fang_ can be made permanent with a _permanency_ spell.
 
-### Magic Jar
+#### Magic Jar
 
 *   Necromancy
 *   **Level::** Sor/Wiz 5
@@ -348,7 +352,7 @@ If the spell ends while you are in the _magic jar,_ you return to your body (or 
 
 _Focus_:: A gem or crystal worth at least 100 gp.
 
-### Magic Missile
+#### Magic Missile
 
 *   Evocation \[Force\]
 *   **Level::** Sor/Wiz 1
@@ -366,7 +370,7 @@ The missile strikes unerringly, even if the target is in melee combat or has les
 
 For every two caster levels beyond 1st, you gain an additional missile—two at 3rd level, three at 5th, four at 7th, and the maximum of five missiles at 9th level or higher. If you shoot multiple missiles, you can have them strike a single creature or several creatures. A single missile can strike only one creature. You must designate targets before you check for spell resistance or roll damage.
 
-### Magic Mouth
+#### Magic Mouth
 
 *   Illusion (Glamer)
 *   **Level::** Brd 1, Sor/Wiz 2
@@ -388,7 +392,7 @@ _Magic mouth_ can be made permanent with a _permanency_ spell.
 
 _Material Component:_ A small bit of honeycomb and jade dust worth 10 gp.
 
-### Magic Stone
+#### Magic Stone
 
 *   Transmutation
 *   **Level::** Clr 1, Drd 1, Earth 1
@@ -402,7 +406,7 @@ _Material Component:_ A small bit of honeycomb and jade dust worth 10 gp.
 
 You transmute as many as three pebbles, which can be no larger than sling bullets, so that they strike with great force when thrown or slung. If hurled, they have a range increment of 20 feet. If slung, treat them as sling bullets (range increment 50 feet). The spell gives them a +1 enhancement bonus on attack and damage rolls. The user of the stones makes a normal ranged attack. Each stone that hits deals 1d6+1 points of damage (including the spell’s enhancement bonus), or 2d6+2 points against undead.
 
-### Magic Vestment
+#### Magic Vestment
 
 *   Transmutation
 *   **Level::** Clr 3, Strength 3, War 3
@@ -418,7 +422,7 @@ You imbue a suit of armor or a shield with an enhancement bonus of +1 per four c
 
 An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.
 
-### Magic Weapon
+#### Magic Weapon
 
 *   Transmutation
 *   **Level::** Clr 1, Pal 1, Sor/Wiz 1, War 1
@@ -434,7 +438,7 @@ _Magic weapon_ gives a weapon a +1 enhancement bonus on attack and damage rolls.
 
 You can’t cast this spell on a natural weapon, such as an unarmed strike (instead, see _magic fang_). A monk’s unarmed strike is considered a weapon, and thus it can be enhanced by this spell.
 
-### Magic Weapon, Greater
+#### Magic Weapon, Greater
 
 *   Transmutation
 *   **Level::** Clr 4, Pal 3, Sor/Wiz 3
@@ -452,7 +456,7 @@ Alternatively, you can affect as many as fifty arrows, bolts, or bullets. The pr
 
 _Arcane Material Component:_ Powdered lime and carbon.
 
-### Major Creation
+#### Major Creation
 
 *   Conjuration (Creation)
 *   **Level::** Sor/Wiz 5
@@ -488,7 +492,7 @@ Rare metal1
 
 1 Includes adamantine, alchemical silver, and mithral. You can’t use major creation to create a cold iron item.
 
-### Major Image
+#### Major Image
 
 *   Illusion (Figment)
 *   **Level::** Brd 3, Sor/Wiz 3
@@ -498,7 +502,7 @@ This spell functions like _silent image,_ except that sound, smell, and thermal 
 
 The image disappears when struck by an opponent unless you cause the illusion to react appropriately.
 
-### Make Whole
+#### Make Whole
 
 *   Transmutation
 *   **Level::** Clr 2
@@ -508,7 +512,7 @@ The image disappears when struck by an opponent unless you cause the illusion to
 
 This spell functions like _mending,_ except that _make whole_ completely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized, nor does it affect creatures (including constructs).
 
-### Mark of Justice
+#### Mark of Justice
 
 *   Necromancy
 *   **Level::** Clr 5, Pal 4
@@ -526,7 +530,7 @@ Since this spell takes 10 minutes to cast and involves writing on the target, yo
 
 Like the effect of _bestow curse_, a _mark of justice_ cannot be dispelled, but it can be removed with a _break enchantment_, _limited wish_, _miracle_, _remove curse_, or _wish_ spell. _Remove curse_ works only if its caster level is equal to or higher than your _mark of justice_ caster level. These restrictions apply regardless of whether the mark has activated.
 
-### Mass (Spell Name)
+#### Mass (Spell Name)
 
 *   Any spell whose name begins with _mass_ is alphabetized in this chapter according to the second word of the spell name. Thus, the description of a _mass_ spell appears near the description of the spell on which it is based. Spell chains that have _mass_ spells in them include those based on the spells _bear’s endurance, bull’s strength, cat’s grace, charm monster, cure critical wounds, cure light wounds, cure moderate wounds, cure serious wounds, eagle’s splendor, enlarge person, fox’s cunning, heal, hold monster, hold person, inflict critical wounds, inflict light wounds, inflict moderate wounds, inflict serious wounds, invisibility, owl’s wisdom, reduce person,_ and _suggestion._
 
@@ -547,7 +551,7 @@ You banish the subject into an extradimensional labyrinth of force planes. Each 
 
 On escaping or leaving the maze, the subject reappears where it had been when the _maze_ spell was cast. If this location is filled with a solid object, the subject appears in the nearest open space. Spells and abilities that move a creature within a plane, such as _teleport_ and _dimension door,_ do not help a creature escape a _maze_ spell, although a _plane shift_ spell allows it to exit to whatever plane is designated in that spell. Minotaurs are not affected by this spell.
 
-### Meld Into Stone
+#### Meld Into Stone
 
 *   Transmutation \[Earth\]
 *   **Level::** Clr 3, Drd 3
@@ -565,7 +569,7 @@ Any time before the duration expires, you can step out of the stone through the 
 
 The following spells harm you if cast upon the stone that you are occupying: _Stone to flesh_ expels you and deals you 5d6 points of damage. _Stone shape_ deals you 3d6 points of damage but does not expel you. _Transmute rock to mud_ expels you and then slays you instantly unless you make a DC 18 Fortitude save, in which case you are merely expelled. Finally, _passwall_ expels you without damage.
 
-### Mending
+#### Mending
 
 *   Transmutation
 *   **Level::** Brd 0, Clr 0, Drd 0, Sor/Wiz 0
@@ -581,7 +585,7 @@ _Mending_ repairs small breaks or tears in objects (but not warps, such as might
 
 Ceramic or wooden objects with multiple breaks can be invisibly rejoined to be as strong as new. A hole in a leather sack or a wineskin is completely healed over by _mending._ The spell can repair a magic item, but the item’s magical abilities are not restored. The spell cannot mend broken magic rods, staffs, or wands, nor does it affect creatures (including constructs).
 
-### Message
+#### Message
 
 *   Transmutation \[Language-Dependent\]
 *   **Level::** Brd 0, Sor/Wiz 0
@@ -599,7 +603,7 @@ _Note:_ To speak a message, you must mouth the words and whisper, possibly allow
 
 _Focus_:: A short piece of copper wire.
 
-### Meteor Swarm
+#### Meteor Swarm
 
 *   Evocation \[Fire\]
 *   **Level::** Sor/Wiz 9
@@ -617,7 +621,7 @@ If you aim a sphere at a specific creature, you may make a ranged touch attack t
 
 Once a sphere reaches its destination, it explodes in a 40-foot-radius spread, dealing 6d6 points of fire damage to each creature in the area. If a creature is within the area of more than one sphere, it must save separately against each. (Fire resistance applies to each sphere’s damage individually.)
 
-### Mind Blank
+#### Mind Blank
 
 *   Abjuration
 *   **Level::** Protection 8, Sor/Wiz 8
@@ -631,7 +635,7 @@ Once a sphere reaches its destination, it explodes in a 40-foot-radius spread, d
 
 The subject is protected from all devices and spells that detect, influence, or read emotions or thoughts. This spell protects against all mind-affecting spells and effects as well as information gathering by divination spells or effects. _Mind blank_ even foils _limited wish_, _miracle_, and _wish_ spells when they are used in such a way as to affect the subject’s mind or to gain information about it. In the case of scrying that scans an area the creature is in, such as _arcane eye,_ the spell works but the creature simply isn’t detected. Scrying attempts that are targeted specifically at the subject do not work at all.
 
-### Mind Fog
+#### Mind Fog
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level::** Brd 5, Sor/Wiz 5
@@ -649,7 +653,7 @@ A moderate wind (11+ mph) disperses the fog in four rounds; a strong wind (21+ m
 
 The fog is thin and does not significantly hamper vision.
 
-### Minor Creation
+#### Minor Creation
 
 *   Conjuration (Creation)
 *   **Level::** Sor/Wiz 4
@@ -667,7 +671,7 @@ Attempting to use any created object as a material component causes the spell to
 
 _Material Component:_ A tiny piece of matter of the same sort of item you plan to create with _minor creation_.
 
-### Minor Image
+#### Minor Image
 
 *   Illusion (Figment)
 *   **Level::** Brd 2, Sor/Wiz 2
@@ -675,7 +679,7 @@ _Material Component:_ A tiny piece of matter of the same sort of item you plan t
 
 This spell functions like _silent image_, except that _minor image_ includes some minor sounds but not understandable speech.
 
-### Miracle
+#### Miracle
 
 *   Evocation
 *   **Level::** Clr 9, Luck 9
@@ -710,7 +714,7 @@ A duplicated spell allows saving throws and spell resistance as normal, but the 
 
 _XP Cost:_ 5,000 XP (for some uses of the _miracle_ spell; see above).
 
-### Mirage Arcana
+#### Mirage Arcana
 
 *   Illusion (Glamer)
 *   **Level::** Brd 5, Sor/Wiz 5
@@ -721,7 +725,7 @@ _XP Cost:_ 5,000 XP (for some uses of the _miracle_ spell; see above).
 
 This spell functions like _hallucinatory terrain_, except that it enables you to make any area appear to be something other than it is. The illusion includes audible, visual, tactile, and olfactory elements. Unlike _hallucinatory terrain,_ the spell can alter the appearance of structures (or add them where none are present). Still, it can’t disguise, conceal, or add creatures (though creatures within the area might hide themselves within the illusion just as they can hide themselves within a real location).
 
-### Mirror Image
+#### Mirror Image
 
 *   Illusion (Figment)
 *   **Level::** Brd 2, Sor/Wiz 2
@@ -741,7 +745,7 @@ While moving, you can merge with and split off from figments so that enemies who
 
 An attacker must be able to see the images to be fooled. If you are invisible or an attacker shuts his or her eyes, the spell has no effect. (Being unable to see carries the same penalties as being blinded.)
 
-### Misdirection
+#### Misdirection
 
 *   Illusion (Glamer)
 *   **Level::** Brd 2, Sor/Wiz 2
@@ -755,7 +759,7 @@ An attacker must be able to see the images to be fooled. If you are invisible or
 
 By means of this spell, you misdirect the information from divination spells that reveal auras (_detect evil, detect magic, discern lies,_ and the like). On casting the spell, you choose another object within range. For the duration of the spell, the subject of _misdirection_ is detected as if it were the other object. (Neither the subject nor the other object gets a saving throw against this effect.) Detection spells provide information based on the second object rather than on the actual target of the detection unless the caster of the detection succeeds on a Will save. For instance, you could make yourself detect as a tree if one were within range at casting: not evil, not lying, not magical, neutral in alignment, and so forth. This spell does not affect other types of divination magic (_augury, detect thoughts, clairaudience/clairvoyance,_ and the like).
 
-### Mislead
+#### Mislead
 
 *   Illusion (Figment, Glamer)
 *   **Level::** Brd 5, Luck 6, Sor/Wiz 6, Trickery 6
@@ -771,7 +775,7 @@ You become invisible (as _improved invisibility_, a glamer), and at the same tim
 
 The illusory double lasts as long as you concentrate upon it, plus 3 additional rounds. After you cease concentration, the illusory double continues to carry out the same activity until the duration expires. The _improved invisibility_ lasts for 1 round per level, regardless of concentration.
 
-### Mnemonic Enhancer
+#### Mnemonic Enhancer
 
 *   Transmutation
 *   **Level::** Wiz 4
@@ -793,7 +797,7 @@ _Material Component:_ A piece of string, and ink consisting of squid secretion w
 
 _Focus_:: An ivory plaque of at least 50 gp value.
 
-### Modify Memory
+#### Modify Memory
 
 *   Enchantment (Compulsion) \[Mind-Affecting\]
 *   **Level::** Brd 4
@@ -816,7 +820,7 @@ Casting the spell takes 1 round. If the subject fails to save, you proceed with 
 
 A modified memory does not necessarily affect the subject’s actions, particularly if it contradicts the creature’s natural inclinations. An illogical modified memory is dismissed by the creature as a bad dream or a memory muddied by too much wine.
 
-### Moment of Prescience
+#### Moment of Prescience
 
 *   Divination
 *   **Level::** Luck 8, Sor/Wiz 8
@@ -847,7 +851,7 @@ You summon a light horse or a pony (your choice) to serve you as a mount. The st
 
 _Material Component:_ A bit of horse hair.
 
-### Move Earth
+#### Move Earth
 
 *   Transmutation \[Earth\]
 *   **Level::** Drd 6, Sor/Wiz 6
@@ -871,7 +875,7 @@ This spell has no effect on earth creatures.
 
 _Material Component:_ A mixture of soils (clay, loam, and sand) in a small bag, and an iron blade.
 
-### Neutralize Poison
+#### Neutralize Poison
 
 *   Conjuration (Healing)
 *   **Level::** Brd 4, Clr 4, Drd 3, Pal 4, Rgr 3
@@ -891,7 +895,7 @@ This spell can instead neutralize the poison in a poisonous creature or object f
 
 _Arcane Material Component:_ A bit of charcoal.
 
-### Nightmare
+#### Nightmare
 
 *   Illusion (Phantasm) \[Mind-Affecting, Evil\]
 *   **Level::** Brd 5, Sor/Wiz 5
@@ -957,7 +961,7 @@ You are defenseless, both physically and mentally, while in the trance. (You alw
 
 Creatures who don’t sleep (such as elves, but not half-elves) or dream are immune to this spell.
 
-### Nondetection
+#### Nondetection
 
 *   Abjuration
 *   **Level::** Rgr 4, Sor/Wiz 3, Trickery 3
@@ -975,7 +979,7 @@ If cast on a creature, _nondetection_ wards the creature’s gear as well as the
 
 _Material Component:_ A pinch of diamond dust worth 50 gp.
 
-### Obscure Object
+#### Obscure Object
 
 *   Abjuration
 *   **Level::** Brd 1, Clr 3, Sor/Wiz 2
@@ -991,7 +995,7 @@ This spell hides an object from location by divination (scrying) effects, such a
 
 _Arcane Material Component:_ A piece of chameleon skin.
 
-### Obscuring Mist
+#### Obscuring Mist
 
 *   Conjuration (Creation)
 *   **Level::** Air 1, Clr 1, Drd 1, Sor/Wiz 1, Water 1
@@ -1009,7 +1013,7 @@ A moderate wind (11+ mph), such as from a _gust of wind_ spell, disperses the fo
 
 This spell does not function underwater.
 
-### Open/Close
+#### Open/Close
 
 *   Transmutation
 *   **Level::** Brd 0, Sor/Wiz 0
@@ -1025,7 +1029,7 @@ You can open or close (your choice) a door, chest, box, window, bag, pouch, bott
 
 _Focus_:: A brass key.
 
-### Order’s Wrath
+#### Order’s Wrath
 
 *   Evocation \[Lawful\]
 *   **Level::** Law 4
@@ -1043,7 +1047,7 @@ The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to chao
 
 The spell deals only half damage to creatures who are neither chaotic nor lawful, and they are not dazed. They can reduce the damage in half again (down to one-quarter of the roll) with a successful Will save.
 
-### Overland Flight
+#### Overland Flight
 
 *   Transmutation
 *   **Level::** Sor/Wiz 5
@@ -1054,7 +1058,7 @@ The spell deals only half damage to creatures who are neither chaotic nor lawful
 
 This spell functions like a _fly_ spell, except you can fly at a speed of 40 feet (30 feet if wearing medium or heavy armor, or if carrying a medium or heavy load) with average maneuverability. When using this spell for long-distance movement, you can hustle without taking nonlethal damage (a forced march still requires Constitution checks). This means you can cover 64 miles in an eight-hour period of flight (or 48 miles at a speed of 30 feet).
 
-### Owl’s Wisdom
+#### Owl’s Wisdom
 
 *   Transmutation
 *   **Level::** Clr 2, Drd 2, Pal 2, Rgr 2, Sor/Wiz 2
@@ -1070,7 +1074,7 @@ The transmuted creature becomes wiser. The spell grants a +4 enhancement bonus t
 
 _Arcane Material Component:_ A few feathers, or a pinch of droppings, from an owl.
 
-### Owl’s Wisdom, Mass
+#### Owl’s Wisdom, Mass
 
 *   Transmutation
 *   **Level::** Clr 6, Drd 6, Sor/Wiz 6

@@ -1,8 +1,11 @@
-v3.5 SRD / Spells / Magic Overview
+---
+aliases: Magic Overview
+created: 2023-04-13
+tags: 
+updated: 2023-05-16
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
-
-# MAGIC OVERVIEW
+## Magic Overview
 
 
 A spell is a one-time magical effect. Spells come in two types: arcane (cast by bards, sorcerers, and wizards) and divine (cast by clerics, druids, and experienced paladins and rangers). Some spellcasters select their spells from a limited list of spells known, while others have access to a wide variety of options.
@@ -13,7 +16,7 @@ Despite these different ways that characters use to learn or prepare their spell
 
 Cutting across the categories of arcane and divine spells are the eight schools of magic. These schools represent the different ways that spells take effect.
 
-## Table of Contents
+### Table of Contents
 
 *   [Casting Spells](#casting-spells)
     *   [Choosing a Spell](#choosing-a-spell)
@@ -60,11 +63,11 @@ Cutting across the categories of arcane and divine spells are the eight schools 
     *   [New Divine Spells](#new-divine-spells)
 *   [Special Abilities](#special-abilities)
 
-## Casting Spells
+### Casting Spells
 
 Whether a spell is arcane or divine, and whether a character prepares spells in advance or chooses them on the spot, casting a spell works the same way.
 
-### Choosing a Spell
+#### Choosing a Spell
 
 First you must choose which spell to cast. If you’re a cleric, druid, experienced paladin, experienced ranger, or wizard, you select from among spells prepared earlier in the day and not yet cast (see Preparing Wizard Spells and Preparing Divine Spells).
 
@@ -76,7 +79,7 @@ If a spell has multiple versions, you choose which version to use when you cast 
 
 Once you’ve cast a prepared spell, you can’t cast it again until you prepare it again. (If you’ve prepared multiple copies of a single spell, you can cast each copy once.) If you’re a bard or sorcerer, casting a spell counts against your daily limit for spells of that spell level, but you can cast the same spell again if you haven’t reached your limit.
 
-### Concentration
+#### Concentration
 
 To cast a spell, you must concentrate. If something interrupts your concentration while you’re casting, you must make a Concentration check or lose the spell. The more distracting the interruption and the higher the level of the spell you are trying to cast, the higher the DC is. If you fail the check, you lose the spell just as if you had cast it to no effect.
 
@@ -102,7 +105,7 @@ If the spell interferes with you or distracts you in some other way, the DC is t
 
 **Entangled:** If you want to cast a spell while entangled in a net or by a tanglefoot bag or while you’re affected by a spell with similar effects, you must make a DC 15 Concentration check to cast the spell. You lose the spell if you fail.
 
-### Counterspells
+#### Counterspells
 
 It is possible to cast any spell as a counterspell. By doing so, you are using the spell’s energy to disrupt the casting of the same spell by another character. Counterspelling works even if one spell is divine and the other arcane.
 
@@ -118,7 +121,7 @@ To complete the action, you must then cast the correct spell. As a general rule,
 
 **_Dispel Magic_ as a Counterspell:** You can use _dispel magic_ to counterspell another spellcaster, and you don’t need to identify the spell he or she is casting. However, _dispel magic_ doesn’t always work as a counterspell (see the spell description).
 
-### Caster Level
+#### Caster Level
 
 A spell’s power often depends on its caster level, which for most spellcasting characters is equal to your class level in the class you’re using to cast the spell.
 
@@ -126,17 +129,17 @@ You can cast a spell at a lower caster level than normal, but the caster level y
 
 In the event that a class feature, domain granted power, or other special ability provides an adjustment to your caster level, that adjustment applies not only to effects based on caster level (such as range, duration, and damage dealt) but also to your caster level check to overcome your target’s spell resistance and to the caster level used in dispel checks (both the dispel check and the DC of the check).
 
-### Spell Failure
+#### Spell Failure
 
 If you ever try to cast a spell in conditions where the characteristics of the spell cannot be made to conform, the casting fails and the spell is wasted.
 
 Spells also fail if your concentration is broken and might fail if you’re wearing armor while casting a spell with somatic components.
 
-### The Spell’s Result
+#### The Spell’s Result
 
 Once you know which creatures (or objects or areas) are affected, and whether those creatures have made successful saving throws (if any were allowed), you can apply whatever results a spell entails.
 
-### Special Spell Effects
+#### Special Spell Effects
 
 Many special spell effects are handled according to the school of the spells in question Certain other special spell features are found across spell schools.
 
@@ -156,7 +159,7 @@ _Preventing Revivification:_ Enemies can take steps to make it more difficult fo
 
 _Revivification against One’s Will:_ A soul cannot be returned to life if it does not wish to be. A soul knows the name, alignment, and patron deity (if any) of the character attempting to revive it and may refuse to return on that basis.
 
-### Combining Magical Effects
+#### Combining Magical Effects
 
 Spells or magical effects usually work as described, no matter how many other spells or magical effects happen to be operating in the same area or on the same recipient. Except in special cases, a spell does not affect the way another spell operates. Whenever a spell has a specific effect on other spells, the spell description explains that effect. Several other general rules apply when spells or magical effects operate in the same place:
 
@@ -176,21 +179,21 @@ _Multiple Mental Control Effects:_ Sometimes magical effects that establish ment
 
 **Instantaneous Effects:** Two or more spells with instantaneous durations work cumulatively when they affect the same target.
 
-## Spell Descriptions
+### Spell Descriptions
 
 The description of each spell is presented in a standard format. Each category of information is explained and defined below.
 
-### Name
+#### Name
 
 The first line of every spell description gives the name by which the spell is generally known.
 
-### School (Subschool)
+#### School (Subschool)
 
 Beneath the spell name is a line giving the school of magic (and the subschool, if appropriate) that the spell belongs to.
 
 Almost every spell belongs to one of eight schools of magic. A school of magic is a group of related spells that work in similar ways. A small number of spells (_arcane mark, limited wish, permanency, prestidigitation,_ and _wish_) are universal, belonging to no school.
 
-#### Abjuration
+##### Abjuration
 
 Abjurations are protective spells. They create physical or magical barriers, negate magical or physical abilities, harm trespassers, or even banish the subject of the spell to another plane of existence.
 
@@ -198,7 +201,7 @@ If one abjuration spell is active within 10 feet of another for 24 hours or more
 
 If an abjuration creates a barrier that keeps certain types of creatures at bay, that barrier cannot be used to push away those creatures. If you force the barrier against such a creature, you feel a discernible pressure against the barrier. If you continue to apply pressure, you end the spell.
 
-#### Conjuration
+##### Conjuration
 
 Each conjuration spell belongs to one of five subschools. Conjurations bring manifestations of objects, creatures, or some form of energy to you (the summoning subschool), actually transport creatures from another plane of existence to your plane (calling), heal (healing), transport creatures or objects over great distances (teleportation), or create objects or effects on the spot (creation). Creatures you conjure usually, but not always, obey your commands.
 
@@ -220,7 +223,7 @@ When the spell that summoned a creature ends and the creature disappears, all th
 
 Teleportation is instantaneous travel through the Astral Plane. Anything that blocks astral travel also blocks teleportation.
 
-#### Divination
+##### Divination
 
 Divination spells enable you to learn secrets long forgotten, to predict the future, to find hidden things, and to foil deceptive spells.
 
@@ -232,7 +235,7 @@ Any creature with an Intelligence score of 12 or higher can notice the sensor by
 
 Lead sheeting or magical protection blocks a scrying spell, and you sense that the spell is so blocked.
 
-#### Enchantment
+##### Enchantment
 
 Enchantment spells affect the minds of others, influencing or controlling their behavior.
 
@@ -242,11 +245,11 @@ All enchantments are mind-affecting spells. Two types of enchantment spells gran
 
 **Compulsion:** A compulsion spell forces the subject to act in some manner or changes the way her mind works. Some compulsion spells determine the subject’s actions or the effects on the subject, some compulsion spells allow you to determine the subject’s actions when you cast the spell, and others give you ongoing control over the subject.
 
-#### Evocation
+##### Evocation
 
 Evocation spells manipulate energy or tap an unseen source of power to produce a desired end. In effect, they create something out of nothing. Many of these spells produce spectacular effects, and evocation spells can deal large amounts of damage.
 
-#### Illusion
+##### Illusion
 
 Illusion spells deceive the senses or minds of others. They cause people to see things that are not there, not see things that are there, hear phantom noises, or remember things that never happened.
 
@@ -270,15 +273,15 @@ A successful saving throw against an illusion reveals it to be false, but a figm
 
 A failed saving throw indicates that a character fails to notice something is amiss. A character faced with proof that an illusion isn’t real needs no saving throw. If any viewer successfully disbelieves an illusion and communicates this fact to others, each such viewer gains a saving throw with a +4 bonus.
 
-#### Necromancy
+##### Necromancy
 
 Necromancy spells manipulate the power of death, unlife, and the life force. Spells involving undead creatures make up a large part of this school.
 
-#### Transmutation
+##### Transmutation
 
 Transmutation spells change the properties of some creature, thing, or condition.
 
-### \[Descriptor\]
+#### \[Descriptor\]
 
 Appearing on the same line as the school and subschool, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor.
 
@@ -290,7 +293,7 @@ A language-dependent spell uses intelligible language as a medium for communicat
 
 A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
 
-### Level
+#### Level
 
 The next line of a spell description gives the spell’s level, a number between 0 and 9 that defines the spell’s relative power. This number is preceded by an abbreviation for the class whose members can cast the spell. The Level entry also indicates whether a spell is a domain spell and, if so, what its domain and its level as a domain spell are. A spell’s level affects the DC for any save allowed against the effect.
 
@@ -298,7 +301,7 @@ Names of spellcasting classes are abbreviated as follows: bard Brd; cleric Clr; 
 
 The domains a spell can be associated with include Air, Animal, Chaos, Death, Destruction, Earth, Evil, Fire, Good, Healing, Knowledge, Law, Luck, Magic, Plant, Protection, Strength, Sun, Travel, Trickery, War, and Water.
 
-### Components
+#### Components
 
 A spell’s components are what you must do or possess to cast it. The Components entry in a spell description includes abbreviations that tell you what type of components it has. Specifics for material, focus, and XP components are given at the end of the descriptive text. Usually you don’t worry about components, but when you can’t use a component for some reason or when a material or focus component is expensive, then the components are important.
 
@@ -316,7 +319,7 @@ If the Components line includes F/DF or M/DF, the arcane version of the spell ha
 
 **XP Cost (XP):** Some powerful spells entail an experience point cost to you. No spell can restore the XP lost in this manner. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to attain a new level, use those XP for casting a spell rather than keeping them and advancing a level. The XP are treated just like a material component—expended when you cast the spell, whether or not the casting succeeds.
 
-### Casting Time
+#### Casting Time
 
 Most spells have a casting time of 1 standard action. Others take 1 round or more, while a few require only a free action.
 
@@ -330,7 +333,7 @@ A spell with a casting time of 1 free action doesn’t count against your normal
 
 You make all pertinent decisions about a spell (range, target, area, effect, version, and so forth) when the spell comes into effect.
 
-### Range
+#### Range
 
 A spell’s range indicates how far from you it can reach, as defined in the Range entry of the spell description. A spell’s range is the maximum distance from you that the spell’s effect can occur, as well as the maximum distance at which you can designate the spell’s point of origin. If any portion of the spell’s area would extend beyond this range, that area is wasted. Standard ranges include the following.
 
@@ -348,7 +351,7 @@ A spell’s range indicates how far from you it can reach, as defined in the Ran
 
 **Range Expressed in Feet:** Some spells have no standard range category, just a range expressed in feet.
 
-### Aiming a Spell
+#### Aiming a Spell
 
 You must make some choice about whom the spell is to affect or where the effect is to originate, depending on the type of spell. The next entry in a spell description defines the spell’s target (or targets), its effect, or its area, as appropriate.
 
@@ -414,7 +417,7 @@ A burst, cone, cylinder, or emanation spell affects only an area, creatures, or 
 
 An otherwise solid barrier with a hole of at least 1 square foot through it does not block a spell’s line of effect. Such an opening means that the 5-foot length of wall containing the hole is no longer considered a barrier for purposes of a spell’s line of effect.
 
-### Duration
+#### Duration
 
 A spell’s Duration entry tells you how long the magical energy of the spell lasts.
 
@@ -442,7 +445,7 @@ Some touch spellsallow you to touch multiple targets as part of the spell. You c
 
 A spell that depends on concentration is dismissible by its very nature, and dismissing it does not take an action, since all you have to do to end the spell is to stop concentrating on your turn.
 
-### Saving Throw
+#### Saving Throw
 
 Usually a harmful spell allows a target to make a saving throw to avoid some or all of the effect. The Saving Throw entry in a spell description defines which type of saving throw the spell allows and describes how saving throws against the spell work.
 
@@ -489,7 +492,7 @@ If an item is not carried or worn and is not magical, it does not get a saving t
 | 1 In order of most likely to least likely to be affected. |                                                    |
 ^3-5eItemsAffectedMagicalAttacks
 
-### Spell Resistance
+#### Spell Resistance
 
 Spell resistance is a special defensive ability. If your spell is being resisted by a creature with spell resistance, you must make a caster level check (1d20 + caster level) at least equal to the creature’s spell resistance for the spell to affect that creature. The defender’s spell resistance is like an Armor Class against magical attacks. Include any adjustments to your caster level to this caster level check.
 
@@ -497,15 +500,15 @@ The Spell Resistance entry and the descriptive text of a spell description tell 
 
 The terms “object” and “harmless” mean the same thing for spell resistance as they do for saving throws. A creature with spell resistance must voluntarily lower the resistance (a standard action) in order to be affected by a spell noted as harmless. In such a case, you do not need to make the caster level check described above.
 
-### Descriptive Text
+#### Descriptive Text
 
 This portion of a spell description details what the spell does and how it works. If one of the previous entries in the description included “see text,” this is where the explanation is found.
 
-## Arcane Spells
+### Arcane Spells
 
 Wizards, sorcerers, and bards cast arcane spells. Compared to divine spells, arcane spells are more likely to produce dramatic results.
 
-### Preparing Wizard Spells
+#### Preparing Wizard Spells
 
 A wizard’s level limits the number of spells she can prepare and cast. Her high Intelligence score might allow her to prepare a few extra spells. She can prepare the same spell more than once, but each preparation counts as one spell toward her daily limit. To prepare a spell the wizard must have an Intelligence score of at least 10 + the spell’s level.
 
@@ -527,7 +530,7 @@ When preparing spells for the day, a wizard can leave some of these spell slots 
 
 **Death and Prepared Spell Retention:** If a spellcaster dies, all prepared spells stored in his or her mind are wiped away. Potent magic (such as _raise dead, resurrection,_ or _true resurrection_) can recover the lost energy when it recovers the character.
 
-### Arcane Magical Writings
+#### Arcane Magical Writings
 
 To record an arcane spell in written form, a character uses complex notation that describes the magical forces involved in the spell. The writer uses the same system no matter what her native language or culture. However, each character uses the system in her own way. Another person’s magical writing remains incomprehensible to even the most powerful wizard until she takes time to study and decipher it.
 
@@ -535,11 +538,11 @@ To decipher an arcane magical writing (such as a single spell in written form in
 
 Once a character deciphers a particular magical writing, she does not need to decipher it again. Deciphering a magical writing allows the reader to identify the spell and gives some idea of its effects (as explained in the spell description). If the magical writing was a scroll and the reader can cast arcane spells, she can attempt to use the scroll.
 
-#### Wizard Spells and Borrowed Spellbooks
+##### Wizard Spells and Borrowed Spellbooks
 
 A wizard can use a borrowed spellbook to prepare a spell she already knows and has recorded in her own spellbook, but preparation success is not assured. First, the wizard must decipher the writing in the book (see Arcane Magical Writings, above). Once a spell from another spellcaster’s book is deciphered, the reader must make a Spellcraft check (DC 15 + spell’s level) to prepare the spell. If the check succeeds, the wizard can prepare the spell. She must repeat the check to prepare the spell again, no matter how many times she has prepared it before. If the check fails, she cannot try to prepare the spell from the same source again until the next day. (However, as explained above, she does not need to repeat a check to decipher the writing.)
 
-#### Adding Spells to a Wizard’s Spellbook
+##### Adding Spells to a Wizard’s Spellbook
 
 Wizards can add new spells to their spellbooks through several methods. If a wizard has chosen to specialize in a school of magic, she can learn spells only from schools whose spells she can cast.
 
@@ -553,7 +556,7 @@ In most cases, wizards charge a fee for the privilege of copying spells from the
 
 **Independent Research:** A wizard also can research a spell independently, duplicating an existing spell or creating an entirely new one.
 
-#### Writing a New Spell Into a Spellbook
+##### Writing a New Spell Into a Spellbook
 
 Once a wizard understands a new spell, she can record it into her spellbook.
 
@@ -565,17 +568,17 @@ Once a wizard understands a new spell, she can record it into her spellbook.
 
 Note that a wizard does not have to pay these costs in time or gold for the spells she gains for free at each new level.
 
-#### Replacing and Copying Spellbooks
+##### Replacing and Copying Spellbooks
 
 A wizard can use the procedure for learning a spell to reconstruct a lost spellbook. If she already has a particular spell prepared, she can write it directly into a new book at a cost of 100 gp per page (as noted in Writing a New Spell into a Spellbook, above). The process wipes the prepared spell from her mind, just as casting it would. If she does not have the spell prepared, she can prepare it from a borrowed spellbook and then write it into a new book.
 
 Duplicating an existing spellbook uses the same procedure as replacing it, but the task is much easier. The time requirement and cost per page are halved.
 
-#### Selling a Spellbook
+##### Selling a Spellbook
 
 Captured spellbooks can be sold for a gp amount equal to one-half the cost of purchasing and inscribing the spells within (that is, one-half of 100 gp per page of spells). A spellbook entirely filled with spells (that is, with one hundred pages of spells inscribed in it) is worth 5,000 gp.
 
-### Sorcerers and Bards
+#### Sorcerers and Bards
 
 Sorcerers and bards cast arcane spells, but they do not have spellbooks and do not prepare their spells. A sorcerer’s or bard’s class level limits the number of spells he can cast (see these class descriptions). His high Charisma score might allow him to cast a few extra spells. A member of either class must have a Charisma score of at least 10 + a spell’s level to cast the spell.
 
@@ -585,11 +588,11 @@ Sorcerers and bards cast arcane spells, but they do not have spellbooks and do n
 
 **Adding Spells to a Sorcerer’s or Bard’s Repertoire:** A sorcerer or bard gains spells each time he attains a new level in his class and never gains spells any other way. When your sorcerer or bard gains a new level, consult Table: Bard Spells Known or Table: Sorcerer Spells Known to learn how many spells from the appropriate spell list he now knows. With permission, sorcerers and bards can also select the spells they gain from new and unusual spells that they have gained some understanding of.
 
-## Divine Spells
+### Divine Spells
 
 Clerics, druids, experienced paladins, and experienced rangers can cast divine spells. Unlike arcane spells, divine spells draw power from a divine source. Clerics gain spell power from deities or from divine forces. The divine force of nature powers druid and ranger spells. The divine forces of law and good power paladin spells. Divine spells tend to focus on healing and protection and are less flashy, destructive, and disruptive than arcane spells.
 
-### Preparing Divine Spells
+#### Preparing Divine Spells
 
 Divine spellcasters prepare their spells in largely the same manner as wizards do, but with a few differences. The relevant ability for divine spells is Wisdom. To prepare a divine spell, a character must have a Wisdom score of 10 + the spell’s level. Likewise, bonus spells are based on Wisdom.
 
@@ -609,11 +612,11 @@ These openings for daily spells are called spell slots. A spellcaster always has
 
 **Spontaneous Casting of _Summon Nature’s Ally_ Spells:** A druid can spontaneously cast a _summon nature’s ally_ spell in place of a prepared spell of the same level or higher. The divine energy of the spell that the _summon nature’s ally_ spell substitutes for is converted into the _summon_ spell as if that spell had been prepared all along.
 
-### Divine Magical Writings
+#### Divine Magical Writings
 
 Divine spells can be written down and deciphered just as arcane spells can (see Arcane Magical Writings, above). Any character with the Spellcraft skill can attempt to decipher the divine magical writing and identify it. However, only characters who have the spell in question (in its divine form) on their class spell list can cast a divine spell from a scroll.
 
-### New Divine Spells
+#### New Divine Spells
 
 Divine spellcasters most frequently gain new spells in one of the following two ways.
 
@@ -621,7 +624,7 @@ Divine spellcasters most frequently gain new spells in one of the following two 
 
 **Independent Research:** A divine spellcaster also can research a spell independently, much as an arcane spellcaster can. Only the creator of such a spell can prepare and cast it, unless he decides to share it with others.
 
-## Special Abilities
+### Special Abilities
 
 **Spell-Like Abilities:** Usually, a spell-like ability works just like the spell of that name. A few spell-like abilities are unique; these are explained in the text where they are described.
 
