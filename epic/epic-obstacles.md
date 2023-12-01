@@ -1,20 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Obstacles
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC OBSTACLES
-
-## Table of Contents
-
--   [Walls](#walls)
--   [Doors](#doors)
--   [Obstacles and Hazards](#obstacles-and-hazards)
--   [Slimes, Molds, and Fungi](#slimes-molds-and-fungi)
 
 ## Walls
 

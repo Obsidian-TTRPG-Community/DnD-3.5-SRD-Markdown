@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Divine / Divine Minions
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -14,13 +13,6 @@ minions who have accomplished some great deed in service to the deity.
 Such minions usually have the same alignment as the deity. No minion's
 alignment is opposed to the patron deity's alignment on either the
 law--chaos axis or the good--evil axis.
-
-## Table of Contents
-
--   [Proxies](#proxies)
--   [Petitioners](#petitioners)
--   [Creating a Petitioner](#creating-a-petitioner)
--   [Exceptional Petitioners](#exceptional-petitioners)
 
 ## Proxies
 

@@ -1,66 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Prestige Classes
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC PRESTIGE CLASS PROGRESSIONS
-
-## Table of Contents
-
--   [Epic Arcane Archer](#epic-arcane-archer)
--   [Epic Arcane Trickster](#epic-arcane-trickster)
--   [Epic Assassin](#epic-assassin)
--   [Epic Blackguard](#epic-blackguard)
--   [Epic Dragon Disciple](#epic-dragon-disciple)
--   [Epic Duelist](#epic-duelist)
--   [Epic Dwarven Defender](#epic-dwarven-defender)
--   [Epic Eldritch Knight](#epic-eldritch-knight)
--   [Epic Horizon Walker](#epic-horizon-walker)
--   [Epic Loremaster](#epic-loremaster)
--   [Epic Mystic Theurge](#epic-mystic-theurge)
--   [Epic Shadowdancer](#epic-shadowdancer)
--   [Epic Prestige Classes](#epic-prestige-classes)
--   [Agent Retriever](#agent-retriever)
-    -   [Requirements](#agent-retriever--requirements)
-    -   [Class Skills](#agent-retriever--class-skills)
-    -   [Class Features](#agent-retriever--class-features)
--   [Cosmic Descryer](#cosmic-descryer)
-    -   [Requirements](#cosmic-descryer--requirements)
-    -   [Class Skills](#cosmic-descryer--class-skills)
-    -   [Class Features](#cosmic-descryer--class-features)
--   [Divine Emissary](#divine-emissary)
-    -   [Requirements](#divine-emissary--requirements)
-    -   [Class Skills](#divine-emissary--class-skills)
-    -   [Table : the Divine Emissary](#table-the-divine-emissary)
-    -   [Class Features](#divine-emissary--class-features)
--   [Epic Infiltrator](#epic-infiltrator)
-    -   [Requirements](#epic-infiltrator--requirements)
-    -   [Class Skills](#epic-infiltrator--class-skills)
-    -   [Class Features](#epic-infiltrator--class-features)
--   [Guardian Paramount](#guardian-paramount)
-    -   [Requirements](#guardian-paramount--requirements)
-    -   [Class Skills](#guardian-paramount--class-skills)
-    -   [Class Features](#guardian-paramount--class-features)
--   [High Proselytizer](#high-proselytizer)
-    -   [Requirements](#high-proselytizer--requirements)
-    -   [Class Skills](#high-proselytizer--class-skills)
-    -   [Class Features](#high-proselytizer--class-features)
--   [Legendary Dreadnought](#legendary-dreadnought)
-    -   [Requirements](#legendary-dreadnought--requirements)
-    -   [Class Skills](#legendary-dreadnought--class-skills)
-    -   [Class Features](#legendary-dreadnought--class-features)
--   [Perfect Wight](#perfect-wight)
-    -   [Requirements](#perfect-wight--requirements)
-    -   [Class Skills](#perfect-wight--class-skills)
-    -   [Class Features](#perfect-wight--class-features)
--   [Union Sentinel](#union-sentinel)
-    -   [Requirements](#union-sentinel--requirements)
-    -   [Class Skills](#union-sentinel--class-skills)
-    -   [Class Features](#union-sentinel--class-features)
 
 ## Epic Arcane Archer
 
@@ -610,7 +556,7 @@ desires.
 
 **Hit Die:** d6.
 
-### Requirements {#agent-retriever--requirements}
+### Requirements
 
 To qualify to become an agent retriever, a character must fulfill all
 the following criteria.
@@ -622,7 +568,7 @@ ranks.
 
 **Feats:** Track.
 
-### Class Skills {#agent-retriever--class-skills}
+### Class Skills
 
 The agent retriever's class skills (and the key ability for each skill)
 are Appraise (Int), Decipher Script (Int), Diplomacy (Cha), Forgery
@@ -649,7 +595,7 @@ Knowledge (the planes) (Int), Listen (Wis), Search (Int), and Spot
 
   : Table: The Agent Retriever
 
-### Class Features {#agent-retriever--class-features}
+### Class Features
 
 The following are class features of the agent retriever prestige class.
 
@@ -719,7 +665,7 @@ Accuracy.
 
 **Hit Die:** d4.
 
-### Requirements {#cosmic-descryer--requirements}
+### Requirements
 
 To qualify to become a cosmic descryer, a character must fulfill all the
 following criteria.
@@ -736,7 +682,7 @@ binding* spell.
 **Special:** Must have previously traveled to any other plane of
 existence.
 
-### Class Skills {#cosmic-descryer--class-skills}
+### Class Skills
 
 The cosmic descryer's class skills (and the key ability for each skill)
 are Bluff (Cha), Concentration (Con), Craft (Int), Diplomacy (Cha),
@@ -762,7 +708,7 @@ planes) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft
 
   : Table: The Cosmic Descryer
 
-### Class Features {#cosmic-descryer--class-features}
+### Class Features
 
 The following are class features of the cosmic descryer prestige class.
 
@@ -834,7 +780,7 @@ spell.
 
 **Hit Die:** d10.
 
-### Requirements {#divine-emissary--requirements}
+### Requirements
 
 To become a divine emissary, the character must fulfill all the
 following criteria.
@@ -851,7 +797,7 @@ following criteria.
 emissary must complete some quest that furthers his or her deity's goals
 so much that it impresses the deity.
 
-### Class Skills {#divine-emissary--class-skills}
+### Class Skills
 
 The divine emissary's class skills (and the key ability for each) are:
 Concentration (Con), Craft (Int), Diplomacy (Cha), Disguise (Cha),
@@ -877,7 +823,7 @@ Spellcraft (Int), Spot (Wis), and Use Magic Device (Cha).
   10th    *Divine inspiration* 4/day
   ------- --------------------------------------------
 
-### Class Features {#divine-emissary--class-features}
+### Class Features
 
 All the following are features of the divine emissary prestige class.
 
@@ -942,7 +888,7 @@ additional time per day every ten levels thereafter.
 
 **Hit Die:** d6.
 
-### Requirements {#epic-infiltrator--requirements}
+### Requirements
 
 To qualify to become an epic infiltrator, a character must fulfill all
 the following criteria.
@@ -959,7 +905,7 @@ the following criteria.
 **Special:** Must have successfully spent one month using the Disguise
 skill to pose as someone else.
 
-### Class Skills {#epic-infiltrator--class-skills}
+### Class Skills
 
 The epic infiltrator's class skills (and the key ability for each skill)
 are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft
@@ -987,7 +933,7 @@ Sleight of Hand (Dex), and Spot (Wis).
 
   : Table: The Epic Infiltrator
 
-### Class Features {#epic-infiltrator--class-features}
+### Class Features
 
 The following are class features of the epic infiltrator prestige class.
 
@@ -1087,7 +1033,7 @@ works as the *mind blank* spell cast by a 15th-level caster.
 
 **Hit Die:** d10.
 
-### Requirements {#guardian-paramount--requirements}
+### Requirements
 
 To qualify to become a guardian paramount, a character must fulfill all
 the following criteria.
@@ -1102,7 +1048,7 @@ the following criteria.
 
 **Special:** Uncanny dodge, evasion.
 
-### Class Skills {#guardian-paramount--class-skills}
+### Class Skills
 
 The guardian paramount's class skills (and the key ability for each
 skill) are Bluff (Cha), Climb (Str), Diplomacy (Cha), Intimidate (Cha),
@@ -1126,7 +1072,7 @@ Jump (Str), Listen (Wis), Profession (Wis), and Spot (Wis).
 
   : Table: The Guardian Paramount
 
-### Class Features {#guardian-paramount--class-features}
+### Class Features
 
 The following are class features of the guardian paramount prestige
 class.
@@ -1203,7 +1149,7 @@ per day every six levels.
 
 **Hit Die:** d8.
 
-### Requirements {#high-proselytizer--requirements}
+### Requirements
 
 To qualify to become a high proselytizer, a character must fulfill all
 the following criteria.
@@ -1219,7 +1165,7 @@ or Knowledge (nature) 24 ranks.
 
 **Special:** Must have a patron deity.
 
-### Class Skills {#high-proselytizer--class-skills}
+### Class Skills
 
 The high proselytizer's class skills (and the key ability for each
 skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal
@@ -1244,7 +1190,7 @@ skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal
 
   : Table: The High Proselytizer
 
-### Class Features {#high-proselytizer--class-features}
+### Class Features
 
 The following are class features of the high proselytizer prestige
 class.
@@ -1354,7 +1300,7 @@ Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.
 
 **Hit Die:** d12.
 
-### Requirements {#legendary-dreadnought--requirements}
+### Requirements
 
 To qualify to become a legendary dreadnought, a character must fulfill
 all the following criteria.
@@ -1366,7 +1312,7 @@ all the following criteria.
 **Feats:** Combat Reflexes, Great Cleave, Improved Bull Rush, Improved
 Critical.
 
-### Class Skills {#legendary-dreadnought--class-skills}
+### Class Skills
 
 The legendary dreadnought's class skills (and the key ability for each
 skill) are Climb (Str), Craft (Int), Intimidate (Cha), Jump (Str), and
@@ -1390,7 +1336,7 @@ Swim (Str).
 
   : Table: The Legendary Dreadnought
 
-### Class Features {#legendary-dreadnought--class-features}
+### Class Features
 
 The following are class features of the legendary dreadnought prestige
 class.
@@ -1448,7 +1394,7 @@ Overwhelming Critical, Penetrate Damage Reduction.
 
 **Hit Die:** d6.
 
-### Requirements {#perfect-wight--requirements}
+### Requirements
 
 To qualify to become a perfect wight, a character must fulfill all the
 following criteria.
@@ -1459,7 +1405,7 @@ following criteria.
 
 **Special:** Sneak attack +10d6.
 
-### Class Skills {#perfect-wight--class-skills}
+### Class Skills
 
 The perfect wight's class skills (and the key ability for each skill)
 are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft
@@ -1487,7 +1433,7 @@ Use Rope (Dex).
 
   : Table: The Perfect Wight
 
-### Class Features {#perfect-wight--class-features}
+### Class Features
 
 The following are class features of the perfect wight prestige class.
 
@@ -1558,7 +1504,7 @@ Harrier, Superior Initiative, Uncanny Accuracy.
 
 **Hit Die:** d10.
 
-### Requirements {#union-sentinel--requirements}
+### Requirements
 
 To qualify to become a Union Sentinel, a character must fulfill all the
 following criteria.
@@ -1575,7 +1521,7 @@ following criteria.
 
 **Special:** Must reside in a demiplane-city.
 
-### Class Skills {#union-sentinel--class-skills}
+### Class Skills
 
 The Union Sentinel's class skills (and the key ability for each skill)
 are Diplomacy (Cha), Gather Information (Cha), Intimidate (Cha),
@@ -1600,7 +1546,7 @@ Sense Motive (Wis), and Spot (Wis).
 
   : Table: The Union Sentinel
 
-### Class Features {#union-sentinel--class-features}
+### Class Features
 
 The following are class features of the Union Sentinel prestige class.
 

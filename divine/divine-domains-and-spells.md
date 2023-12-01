@@ -1,56 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Divine / Divine Domains and Spells
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # DOMAINS AND SPELLS
-
-## Table of Contents
-
--   [Artifice Domain](#artifice-domain)
-    -   [Artifice Domain Spells](#artifice-domain-spells)
--   [Charm Domain](#charm-domain)
-    -   [Charm Domain Spells](#charm-domain-spells)
--   [Community Domain](#community-domain)
-    -   [Community Domain Spells](#community-domain-spells)
--   [Creation Domain](#creation-domain)
-    -   [Creation Domain Spells](#creation-domain-spells)
--   [Darkness Domain](#darkness-domain)
-    -   [Darkness Domain Spells](#darkness-domain-spells)
--   [Glory Domain](#glory-domain)
-    -   [Glory Domain Spells](#glory-domain-spells)
--   [Liberation Domain](#liberation-domain)
-    -   [Liberation Domain Spells](#liberation-domain-spells)
--   [Madness Domain](#madness-domain)
-    -   [Madness Domain Spells](#madness-domain-spells)
--   [Nobility Domain](#nobility-domain)
-    -   [Nobility Domain Spells](#nobility-domain-spells)
--   [Repose Domain](#repose-domain)
-    -   [Repose Domain Spells](#repose-domain-spells)
--   [Rune Domain](#rune-domain)
-    -   [Rune Domain Spells](#rune-domain-spells)
--   [Scalykind Domain](#scalykind-domain)
-    -   [Scalykind Domain Spells](#scalykind-domain-spells)
--   [Weather Domain](#weather-domain)
-    -   [Weather Domain Spells](#weather-domain-spells)
--   [New Spells](#new-spells)
--   [Armor of Darkness](#armor-of-darkness)
--   [Blacklight](#blacklight)
--   [Bolt of Glory](#bolt-of-glory)
--   [Bolts of Bedevilment](#bolts-of-bedevilment)
--   [Crown of Glory](#crown-of-glory)
--   [Genesis](#genesis)
--   [Hardening](#hardening)
--   [Maddening Scream](#maddening-scream)
--   [Rage](#rage)
--   [Surelife](#surelife)
--   [Touch of Madness](#touch-of-madness)
--   [True Creation](#true-creation)
--   [Undeath to Death](#undeath-to-death)
 
 ## Artifice Domain
 

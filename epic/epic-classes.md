@@ -1,36 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Classes
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC CLASS PROGRESSIONS
-
-## Table of Contents
-
--   [Epic Barbarian](#epic-barbarian)
--   [Epic Bard](#epic-bard)
--   [Epic Cleric](#epic-cleric)
--   [Epic Druid](#epic-druid)
--   [Epic Fighter](#epic-fighter)
--   [Epic Monk](#epic-monk)
--   [Epic Paladin](#epic-paladin)
--   [Epic Ranger](#epic-ranger)
--   [Epic Rogue](#epic-rogue)
--   [Epic Sorcerer](#epic-sorcerer)
--   [Epic Wizard](#epic-wizard)
-    -   [Familiars at Epic Level](#familiars-at-epic-level)
--   [Epic Psionic Class Progressions](#epic-psionic-class-progressions)
-    -   [No Epic Bonus Power
-        Progression](#no-epic-bonus-power-progression)
--   [Epic Psion](#epic-psion)
-    -   [Psicrystals at Epic Level](#psicrystals-at-epic-level)
--   [Epic Psychic Warrior](#epic-psychic-warrior)
--   [Epic Soulknife](#epic-soulknife)
--   [Epic Wilder](#epic-wilder)
 
 ## Epic Barbarian
 

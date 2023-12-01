@@ -1,35 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Magic Items 2
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC MAGIC ITEMS 2
-
-## Table of Contents
-
--   [Scrolls](#scrolls)
--   [Staffs](#staffs)
-    -   [Epic Staff Descriptions](#epic-staff-descriptions)
--   [Wondrous Items](#wondrous-items)
-    -   [Epic Wondrous Item
-        Descriptions](#epic-wondrous-item-descriptions)
--   [Intelligent Items](#intelligent-items)
-    -   [Market Price Modifier](#market-price-modifier)
-    -   [Intelligent Item Alignment](#intelligent-item-alignment)
-    -   [Item Communication](#item-communication)
-    -   [Intelligent Item Abilities](#intelligent-item-abilities)
-    -   [Special Purpose Items](#special-purpose-items)
-        -   [Purpose](#purpose)
-    -   [Special Purpose Power](#special-purpose-power)
-    -   [Item Ego](#item-ego)
-    -   [Items Against Characters](#items-against-characters)
--   [Artifacts](#artifacts)
-    -   [Minor Artifacts](#minor-artifacts)
--   [Major Artifacts](#major-artifacts)
 
 ## Scrolls
 

@@ -1,102 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Spells
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC SPELLS
-
-## Table of Contents
-
--   [What Are Epic Spells?](#what-are-epic-spells)
--   [Acquiring Epic Spells](#acquiring-epic-spells)
--   [Epic Spell Development](#epic-spell-development)
--   [Epic Spellcasting](#epic-spellcasting)
--   [Epic Spell Terms](#epic-spell-terms)
--   [Epic Spell Formulas and
-    Calculations](#epic-spell-formulas-and-calculations)
--   [Dispelling,Epic Spells,and Antimagic
-    Field](#dispelling-epic-spells-and-antimagic-field)
--   [Epic Spell Descriptions](#epic-spell-descriptions)
--   [Animus Blast](#animus-blast)
--   [Animus Blizzard](#animus-blizzard)
--   [Contingent Resurrection](#contingent-resurrection)
--   [Create Living Vault (Ritual)](#create-living-vault)
--   [Crown of Vermin](#crown-of-vermin)
--   [Damnation](#damnation)
--   [Demise Unseen](#demise-unseen)
--   [Dire Winter](#dire-winter)
--   [Dragon Knight (Ritual)](#dragon-knight)
--   [Dragon Strike (Ritual)](#dragon-strike)
--   [Dreamscape](#dreamscape)
--   [Eclipse](#eclipse)
--   [Eidolon](#eidolon)
--   [Enslave (Ritual)](#enslave)
--   [Epic Counterspell](#epic-counterspell)
--   [Epic Mage Armor](#epic-mage-armor)
--   [Epic Repulsion](#epic-repulsion)
--   [Epic Spell Reflection](#epic-spell-reflection)
--   [Eternal Freedom](#eternal-freedom)
--   [Greater Spell Resistance](#greater-spell-resistance)
--   [Greater Ruin](#greater-ruin)
--   [Hellball](#hellball)
--   [Kinetic Control](#kinetic-control)
--   [Let Go of Me](#let-go-of-me)
--   [Living Lightning](#living-lightning)
--   [Lord of Nightmares](#lord-of-nightmares)
--   [Mass Frog](#mass-frog)
--   [Momento Mori](#momento-mori)
--   [Mummy Dust](#mummy-dust)
--   [Nailed to the Sky](#nailed-to-the-sky)
--   [Origin of Species: Achaierai](#origin-of-species-achaierai)
--   [Peripety](#peripety)
--   [Pestilence](#pestilence)
--   [Rain of Fire](#rain-of-fire)
--   [Raise Island](#raise-island)
--   [Ruin](#ruin)
--   [Safe Time](#safe-time)
--   [Soul Dominion](#soul-dominion)
--   [Soul Scry](#soul-scry)
--   [Spell Worm](#spell-worm)
--   [Summon Behemoth](#summon-behemoth)
--   [Superb Dispelling](#superb-dispelling)
--   [Time Duplicate](#time-duplicate)
--   [Vengeful Gaze of God](#vengeful-gaze-of-god)
--   [Verdigris](#verdigris)
--   [Verdigris Tsunami](#verdigris-tsunami)
--   [Developing Epic Spells](#developing-epic-spells)
--   [Seed Descriptions](#seed-descriptions)
-    -   [Seed:Afflict](#seed-afflict)
-    -   [Seed:Animate](#seed-animate)
-    -   [Seed:Animate Dead](#seed-animate-dead)
-    -   [Seed: Armor](#seed-armor)
-    -   [Seed: Banish](#seed-banish)
-    -   [Seed: Compel](#seed-compel)
-    -   [Seed: Conceal](#seed-conceal)
-    -   [Seed: Conjure](#seed-conjure)
-    -   [Seed: Contact](#seed-contact)
-    -   [Seed: Delude](#seed-delude)
-    -   [Seed: Destroy](#seed-destroy)
-    -   [Seed: Dispel](#seed-dispel)
-    -   [Seed: Energy](#seed-energy)
-    -   [Seed: Foresee](#seed-foresee)
-    -   [Seed: Fortify](#seed-fortify)
-    -   [Seed: Heal](#seed-heal)
-    -   [Seed: Life](#seed-life)
-    -   [Seed: Reflect](#seed-reflect)
-    -   [Seed: Reveal](#seed-reveal)
-    -   [Seed: Slay](#seed-slay)
-    -   [Seed: Summon](#seed-summon)
-    -   [Seed: Transform](#seed-transform)
-    -   [Seed: Transport](#seed-transport)
-    -   [Seed: Ward](#seed-ward)
--   [Epic Psionic Powers](#epic-psionic-powers)
-    -   [Epic Psionic Seeds](#epic-psionic-seeds)
--   [Non-Epic Spell](#non-epic-spell)
-    -   [Genesis](#genesis)
 
 ## What Are Epic Spells?
 
@@ -232,7 +142,7 @@ determinations.
 
 **Saving Throw for an Epic Spell:** DC = 20 + key ability modifier.
 
-## Dispelling,Epic Spells,and Antimagic Field {#dispelling-epic-spells-and-antimagic-field}
+## Dispelling,Epic Spells,and Antimagic Field
 
 A lucky nonepic spellcaster casting *greater dispel magic* might be able
 to dispel an epic spell. The game mechanics do not change, and epic
@@ -350,7 +260,7 @@ level (or 1 point of Constitution if the subject was 1st level).
 *Contingent resurrection* does not work on a creature that has died of
 old age.
 
-## Create Living Vault [(Ritual)]{.small} {#create-living-vault}
+## Create Living Vault [(Ritual)]
 
 -   Conjuration (Creation)
 -   **Spellcraft DC:** 58
@@ -530,7 +440,7 @@ wind. The snow and wind produce a blizzard effect within the area.
 
 *XP Cost:* 10,000 XP.
 
-## Dragon Knight [(Ritual)]{.small} {#dragon-knight}
+## Dragon Knight [(Ritual)]
 
 -   Conjuration (Summoning) \[Fire\]
 -   **Spellcraft DC:** 38
@@ -555,7 +465,7 @@ to attack, to attack particular enemies, or to perform other actions.
 This is a ritual spell requiring two other spellcasters, each of which
 must contribute an unused 8th-level spell slot to the casting.
 
-## Dragon Strike [(Ritual)]{.small} {#dragon-strike}
+## Dragon Strike [(Ritual)]
 
 -   Conjuration (Summoning) \[Fire\]
 -   **Spellcraft DC:** 50
@@ -697,7 +607,7 @@ character with permanent level drain.
 
 *XP Cost:* 2,500 XP.
 
-## Enslave [(Ritual)]{.small} {#enslave}
+## Enslave [(Ritual)]
 
 -   Enchantment (Compulsion) \[Mind-Affecting\]
 -   **Spellcraft DC:** 80
@@ -1969,7 +1879,7 @@ Each seed description hereafter follows the same format used for 0- to
 DC of the Spellcraft check required to cast an epic spell with this
 seed.
 
-### Seed:Afflict {#seed-afflict}
+### Seed:Afflict
 
 -   Enchantment (Compulsion) \[Fear, Mind-Affecting\]
 -   **Spellcraft DC:** 14
@@ -2001,7 +1911,7 @@ If the target fails its saving throw, the sense selected doesn't
 function for the spell's duration, with all attendant penalties that
 apply for losing the specified sense.
 
-### Seed:Animate {#seed-animate}
+### Seed:Animate
 
 -   Transmutation
 -   **Spellcraft DC:** 25
@@ -2027,7 +1937,7 @@ Die granted to an animated object of a given size, increase the
 Spellcraft DC by +2. To animate attended objects (objects carried or
 worn by another creature), increase the Spellcraft DC by +10.
 
-### Seed:Animate Dead {#seed-animate-dead}
+### Seed:Animate Dead
 
 -   Necromancy \[Evil\]
 -   **Spellcraft DC:** 23

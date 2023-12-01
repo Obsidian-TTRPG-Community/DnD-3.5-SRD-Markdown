@@ -1,212 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Feats
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC FEATS
-
-## Table of Contents
-
--   [Acquiring Epic Feats](#acquiring-epic-feats)
--   [Prerequisites](#prerequisites)
--   [Types of Epic Feats](#types-of-epic-feats)
-    -   [Divine Feats](#divine-feats)
-    -   [Wild Feats](#wild-feats)
-    -   [Epic Psionic Feats](#epic-psionic-feats)
--   [Feats](#feats)
-    -   [Additional Magic Item Space
-        \[Epic\]](#additional-magic-item-space)
-    -   [Armor Skin \[Epic\]](#armor-skin)
-    -   [Augmented Alchemy \[Epic\]](#augmented-alchemy)
-    -   [Automatic Quicken Spell \[Epic\]](#automatic-quicken-spell)
-    -   [Automatic Silent Spell \[Epic\]](#automatic-silent-spell)
-    -   [Automatic Still Spell \[Epic\]](#automatic-still-spell)
-    -   [Bane of Enemies \[Epic\]](#bane-of-enemies)
-    -   [Blinding Speed \[Epic\]](#blinding-speed)
-    -   [Bonus Domain \[Epic\]](#bonus-domain)
-    -   [Bulwark of Defense \[Epic\]](#bulwark-of-defense)
-    -   [Chaotic Rage \[Epic\]](#chaotic-rage)
-    -   [Colossal Wild Shape \[Wild\]\[Epic\]](#colossal-wild-shape)
-    -   [Combat Archery \[Epic\]](#combat-archery)
-    -   [Craft Epic Magic Arms and Armor \[Item
-        Creation\]\[Epic\]](#craft-epic-magic-arms-and-armor)
-    -   [Craft Epic Rod \[Item Creation\]\[Epic\]](#craft-epic-rod)
-    -   [Craft Epic Staff \[Item Creation\]\[Epic\]](#craft-epic-staff)
-    -   [Craft Epic Wondrous Item \[Item
-        Creation\]\[Epic\]](#craft-epic-wondrous-item)
-    -   [Damage Reduction \[Epic\]](#damage-reduction)
-    -   [Deafening Song \[Epic\]](#deafening-song)
-    -   [Death of Enemies \[Epic\]](#death-of-enemies)
-    -   [Devastating Critical \[Epic\]](#devastating-critical)
-    -   [Dexterous Fortitude \[Epic\]](#dexterous-fortitude)
-    -   [Dexterous Will \[Epic\]](#dexterous-will)
-    -   [Diminutive Wild Shape \[Wild\]\[Epic\]](#diminutive-wild-shape)
-    -   [Dire Charge \[Epic\]](#dire-charge)
-    -   [Distant Shot \[Epic\]](#distant-shot)
-    -   [Dragon Wild Shape \[Wild\]\[Epic\]](#dragon-wild-shape)
-    -   [Efficient Item Creation \[Epic\]](#efficient-item-creation)
-    -   [Energy Resistance \[Epic\]](#energy-resistance)
-    -   [Enhance Spell \[Metamagic\]\[Epic\]](#enhance-spell)
-    -   [Epic Dodge \[Epic\]](#epic-dodge)
-    -   [Epic Endurance \[Epic\]](#epic-endurance)
-    -   [Epic Expanded Knowledge \[Epic,
-        Psionic\]](#epic-expanded-knowledge)
-    -   [Epic Fortitude\[Epic\]](#epic-fortitude)
-    -   [Epic Inspiration \[Epic\]](#epic-inspiration)
-    -   [Epic Leadership \[Epic\]](#epic-leadership)
-    -   [Epic Prowess \[Epic\]](#epic-prowess)
-    -   [Epic Psionic Focus \[Epic, Psionic\]](#epic-psionic-focus)
-    -   [Epic Reflexes \[Epic\]](#epic-reflexes)
-    -   [Epic Reputation \[Epic\]](#epic-reputation)
-    -   [Epic Skill Focus \[Epic\]](#epic-skill-focus)
-    -   [Epic Speed \[Epic\]](#epic-speed)
-    -   [Epic Spell Focus \[Epic\]](#epic-spell-focus)
-    -   [Epic Spell Penetration \[Epic\]](#epic-spell-penetration)
-    -   [Epic Spellcasting \[Epic\]](#epic-spellcasting)
-    -   [Epic Toughness \[Epic\]](#epic-toughness)
-    -   [Epic Weapon Focus \[Epic\]](#epic-weapon-focus)
-    -   [Epic Weapon Specialization
-        \[Epic\]](#epic-weapon-specialization)
-    -   [Epic Will \[Epic\]](#epic-will)
-    -   [Exceptional Deflection \[Epic\]](#exceptional-deflection)
-    -   [Extended Life Span \[Epic\]](#extended-life-span)
-    -   [Familiar Spell \[Epic\]](#familiar-spell)
-    -   [Fast Healing \[Epic\]](#fast-healing)
-    -   [Fine Wild Shape \[Wild\]\[Epic\]](#fine-wild-shape)
-    -   [Forge Epic Ring \[Item Creation\]\[Epic\]](#forge-epic-ring)
-    -   [Gargantuan Wild Shape \[Wild\]\[Epic\]](#gargantuan-wild-shape)
-    -   [Great Charisma \[Epic\]](#great-charisma)
-    -   [Great Constitution \[Epic\]](#great-constitution)
-    -   [Great Dexterity \[Epic\]](#great-dexterity)
-    -   [Great Intelligence \[Epic\]](#great-intelligence)
-    -   [Great Smiting \[Epic\]](#great-smiting)
-    -   [Great Strength \[Epic\]](#great-strength)
-    -   [Great Wisdom \[Epic\]](#great-wisdom)
-    -   [Group Inspiration \[Epic\]](#group-inspiration)
-    -   [Hindering Song \[Epic\]](#hindering-song)
-    -   [Holy Strike \[Epic\]](#holy-strike)
-    -   [Ignore Material Components
-        \[Epic\]](#ignore-material-components)
-    -   [Improved Alignment-Based Casting
-        \[Epic\]](#improved-alignment-based-casting)
-    -   [Improved Arrow of Death \[Epic\]](#improved-arrow-of-death)
-    -   [Improved Aura of Courage \[Epic\]](#improved-aura-of-courage)
-    -   [Improved Aura of Despair \[Epic\]](#improved-aura-of-despair)
-    -   [Improved Combat Casting \[Epic\]](#improved-combat-casting)
-    -   [Improved Combat Reflexes \[Epic\]](#improved-combat-reflexes)
-    -   [Improved Darkvision \[Epic\]](#improved-darkvision)
-    -   [Improved Death Attack \[Epic\]](#improved-death-attack)
-    -   [Improved Elemental Wild Shape
-        \[Wild\]\[Epic\]](#improved-elemental-wild-shape)
-    -   [Improved Favored Enemy \[Epic\]](#improved-favored-enemy)
-    -   [Improved Heighten Spell \[Epic\]](#improved-heighten-spell)
-    -   [Improved Ki Strike \[Epic\]](#improved-ki-strike)
-    -   [Improved Low-Light Vision \[Epic\]](#improved-low-light-vision)
-    -   [Improved Manifestation \[Epic,
-        Psionic\]](#improved-manifestation)
-    -   [Improved Manyshot \[Epic\]](#improved-manyshot)
-    -   [Improved Metamagic \[Epic\]](#improved-metamagic)
-    -   [Improved Metapsionics \[Epic,
-        Psionic\]](#improved-metapsionics)
-    -   [Improved Sneak Attack \[Epic\]](#improved-sneak-attack)
-    -   [Improved Spell Capacity \[Epic\]](#improved-spell-capacity)
-        -   [Spell Slots Above 9th Level](#spell-slots-above-9th-level)
-    -   [Improved Spell Resistance \[Epic\]](#improved-spell-resistance)
-    -   [Improved Stunning Fist \[Epic\]](#improved-stunning-fist)
-    -   [Improved Whirlwind Attack \[Epic\]](#improved-whirlwind-attack)
-    -   [Incite Rage \[Epic\]](#incite-rage)
-    -   [Infinite Deflection \[Epic\]](#infinite-deflection)
-    -   [Inspire Excellence \[Epic\]](#inspire-excellence)
-    -   [Instant Reload \[Epic\]](#instant-reload)
-    -   [Intensify Spell \[Metamagic\]\[Epic\]](#intensify-spell)
-    -   [Keen Strike \[Epic\]](#keen-strike)
-    -   [Lasting Inspiration \[Epic\]](#lasting-inspiration)
-    -   [Legendary Climber \[Epic\]](#legendary-climber)
-    -   [Legendary Commander \[Epic\]](#legendary-commander)
-    -   [Legendary Leaper \[Epic\]](#legendary-leaper)
-    -   [Legendary Rider \[Epic\]](#legendary-rider)
-    -   [Legendary Tracker \[Epic\]](#legendary-tracker)
-    -   [Legendary Wrestler \[Epic\]](#legendary-wrestler)
-    -   [Lingering Damage \[Epic\]](#lingering-damage)
-    -   [Magical Beast Companion
-        \[Wild\]\[Epic\]](#magical-beast-companion)
-        -   [1st Level (No Adjustment)](#1st-level)
-        -   [4th Level (-3)](#4th-level)
-        -   [7th Level (-6)](#7th-level)
-        -   [10th Level (-9)](#10th-level)
-        -   [13th Level (-12)](#13th-level)
-        -   [16th Level (-15)](#16th-level)
-    -   [Magical Beast Wild Shape
-        \[Wild\]\[Epic\]](#magical-beast-wild-shape)
-    -   [Master Staff \[Epic\]](#master-staff)
-    -   [Master Wand \[Epic\]](#master-wand)
-    -   [Mighty Rage \[Epic\]](#mighty-rage)
-    -   [Mobile Defense \[Epic\]](#mobile-defense)
-    -   [Multispell \[Epic\]](#multispell)
-    -   [Multiweapon Rend \[Epic\]](#multiweapon-rend)
-    -   [Music of the Gods \[Epic\]](#music-of-the-gods)
-    -   [Negative Energy Burst
-        \[Divine\]\[Epic\]](#negative-energy-burst)
-    -   [Overwhelming Critical \[Epic\]](#overwhelming-critical)
-    -   [Penetrate Damage Reduction
-        \[Epic\]](#penetrate-damage-reduction)
-    -   [Perfect Health \[Epic\]](#perfect-health)
-    -   [Perfect Multiweapon Fighting
-        \[Epic\]](#perfect-multiweapon-fighting)
-    -   [Perfect Two-Weapon Fighting
-        \[Epic\]](#perfect-two-weapon-fighting)
-    -   [Permanent Emanation \[Epic\]](#permanent-emanation)
-    -   [Planar Turning \[Epic\]](#planar-turning)
-    -   [Plant Wild Shape \[Wild\]\[Epic\]](#plant-wild-shape)
-    -   [Polyglot \[Epic\]](#polyglot)
-    -   [Positive Energy Aura \[Epic\]](#positive-energy-aura)
-    -   [Power Knowledge \[Epic, Psionic\]](#power-knowledge)
-    -   [Psicrystal Power \[Epic, Psionic\]](#psicrystal-power)
-    -   [Ranged Inspiration \[Epic\]](#ranged-inspiration)
-    -   [Rapid Inspiration \[Epic\]](#rapid-inspiration)
-    -   [Reactive Countersong \[Epic\]](#reactive-countersong)
-    -   [Reflect Arrows \[Epic\]](#reflect-arrows)
-    -   [Righteous Strike \[Epic\]](#righteous-strike)
-    -   [Ruinous Rage \[Epic\]](#ruinous-rage)
-    -   [Scribe Epic Scroll \[Item
-        Creation\]\[Epic\]](#scribe-epic-scroll)
-    -   [Self-Concealment \[Epic\]](#self-concealment)
-    -   [Shattering Strike \[Epic\]](#shattering-strike)
-    -   [Sneak Attack of Opportunity
-        \[Epic\]](#sneak-attack-of-opportunity)
-    -   [Spectral Strike \[Epic\]](#spectral-strike)
-    -   [Spell Knowledge \[Epic\]](#spell-knowledge)
-    -   [Spell Opportunity \[Epic\]](#spell-opportunity)
-    -   [Spell Stowaway \[Epic\]](#spell-stowaway)
-    -   [Spellcasting Harrier \[Epic\]](#spellcasting-harrier)
-    -   [Spontaneous Domain Access \[Epic\]](#spontaneous-domain-access)
-    -   [Spontaneous Spell \[Epic\]](#spontaneous-spell)
-    -   [Storm of Throws \[Epic\]](#storm-of-throws)
-    -   [Superior Initiative \[Epic\]](#superior-initiative)
-    -   [Swarm of Arrows \[Epic\]](#swarm-of-arrows)
-    -   [Terrifying Rage \[Epic\]](#terrifying-rage)
-    -   [Tenacious Magic \[Epic\]](#tenacious-magic)
-    -   [Thundering Rage \[Epic\]](#thundering-rage)
-    -   [Trap Sense \[Epic\]](#trap-sense)
-    -   [Two-Weapon Rend \[Epic\]](#two-weapon-rend)
-    -   [Uncanny Accuracy \[Epic\]](#uncanny-accuracy)
-    -   [Undead Mastery \[Divine\]\[Epic\]](#undead-mastery)
-    -   [Unholy Strike \[Epic\]](#unholy-strike)
-    -   [Vermin Wild Shape \[Wild\]\[Epic\]](#vermin-wild-shape)
-    -   [Vorpal Strike \[Epic\]](#vorpal-strike)
-    -   [Widen Aura of Courage \[Epic\]](#widen-aura-of-courage)
-    -   [Widen Aura of Despair \[Epic\]](#widen-aura-of-despair)
-    -   [Zone of Animation \[Divine\]\[Epic\]](#zone-of-animation)
-    -   [Greater Multiweapon Fighting
-        \[General\]](#greater-multiweapon-fighting)
-    -   [Improved Flyby Attack \[General\]](#improved-flyby-attack)
-    -   [Improved Multiattack \[General\]](#improved-multiattack)
-    -   [Improved Multiweapon Fighting
-        \[General\]](#improved-multiweapon-fighting)
 
 ## Acquiring Epic Feats
 
@@ -279,7 +79,7 @@ pay 2 power points less for a given metapsionic feat.
 
 ## Feats
 
-### Additional Magic Item Space [\[Epic\]]{.small} {#additional-magic-item-space}
+### Additional Magic Item Space (featType:: Epic)
 
 **Benefit:** Choose one type of magic item that has a limit on the
 number a character can simultaneously wear and gain its benefit. The
@@ -297,7 +97,7 @@ belt; and one pair of boots.
 the character takes the feat, it applies to a new type of wearable magic
 item.
 
-### Armor Skin [\[Epic\]]{.small} {#armor-skin}
+### Armor Skin (featType:: Epic)
 
 **Benefit:** The character gains a +1 natural armor bonus to Armor
 Class, or his or her existing natural armor bonus increases by 1.
@@ -305,7 +105,7 @@ Class, or his or her existing natural armor bonus increases by 1.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Augmented Alchemy [\[Epic\]]{.small} {#augmented-alchemy}
+### Augmented Alchemy (featType:: Epic)
 
 **Prerequisites:** Int 21, Craft(alchemy) 24 ranks.
 
@@ -320,7 +120,7 @@ its area. If the item or substance doesn't fit any of these categories,
 then it cannot be affected by this feat. See the Craft (alchemy) skill
 description.
 
-### Automatic Quicken Spell [\[Epic\]]{.small} {#automatic-quicken-spell}
+### Automatic Quicken Spell (featType:: Epic)
 
 **Prerequisites:** Quicken Spell, Spellcraft 30 ranks, ability to cast
 9th-level arcane or divine spells.
@@ -337,7 +137,7 @@ spell levels can now be quickened with no adjustment to their spell
 slots. This feat doesn't increase the casting time for those spells that
 normally become full-round actions when cast in metamagic form.
 
-### Automatic Silent Spell [\[Epic\]]{.small} {#automatic-silent-spell}
+### Automatic Silent Spell (featType:: Epic)
 
 **Prerequisites:** Silent Spell, Spellcraft 24 ranks, ability to cast
 9th-level arcane or divine spells.
@@ -353,7 +153,7 @@ normally become full-round actions when cast in metamagic form. However,
 since bard spells can't be enhanced with the Silent Spell feat, they
 can't be affected by this feat either.
 
-### Automatic Still Spell [\[Epic\]]{.small} {#automatic-still-spell}
+### Automatic Still Spell (featType:: Epic)
 
 **Prerequisites:** Still Spell, Spellcraft 27 ranks, ability to cast
 9th-level arcane or divine spells.
@@ -367,7 +167,7 @@ spell levels can now be stilled with no adjustment to their spell slots.
 This feat doesn't increase the casting time for those spells that
 normally become full-round actions when cast in metamagic form.
 
-### Bane of Enemies [\[Epic\]]{.small} {#bane-of-enemies}
+### Bane of Enemies (featType:: Epic)
 
 **Prerequisites:** Survival 24 ranks, five or more favored enemies.
 
@@ -376,7 +176,7 @@ favored enemies is treated as a bane weapon for that creature type
 (thus, its enhancement bonus is increased by +2 and it deals +2d6 points
 of damage). This ability doesn't stack with similar abilities.
 
-### Blinding Speed [\[Epic\]]{.small} {#blinding-speed}
+### Blinding Speed (featType:: Epic)
 
 **Prerequisite:** Dex 25.
 
@@ -388,7 +188,7 @@ this power is a free action.
 or she takes the feat, it grants an additional 5 rounds of *haste* per
 day.
 
-### Bonus Domain [\[Epic\]]{.small} {#bonus-domain}
+### Bonus Domain (featType:: Epic)
 
 **Prerequisites:** Wis 21, ability to cast 9th-level divine spells.
 
@@ -399,7 +199,7 @@ normal for his or her domain spells and the domain's granted powers.
 **Special:** A character can gain this feat multiple times. Each time he
 or she takes the feat, it applies to a different domain.
 
-### Bulwark of Defense [\[Epic\]]{.small} {#bulwark-of-defense}
+### Bulwark of Defense (featType:: Epic)
 
 **Prerequisites:** Con 25, defensive stance 3/day.
 
@@ -407,7 +207,7 @@ or she takes the feat, it applies to a different domain.
 Strength, +6 Constitution, +4 resistance bonus on all saves, and +6
 dodge bonus to AC.
 
-### Chaotic Rage [\[Epic\]]{.small} {#chaotic-rage}
+### Chaotic Rage (featType:: Epic)
 
 **Prerequisites:** Rage 5/day, chaotic alignment.
 
@@ -416,7 +216,7 @@ as an anarchic weapon (it is chaos-aligned and deals an extra 2d6 points
 of damage against creatures of lawful alignment). This ability does not
 stack with similar abilities.
 
-### Colossal Wild Shape [\[Wild\]\[Epic\]]{.small} {#colossal-wild-shape}
+### Colossal Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisite:** The ability to *wild shape* into a Gargantuan
 creature.
@@ -427,7 +227,7 @@ shape of a Colossal animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal of greater than Huge size.
 
-### Combat Archery [\[Epic\]]{.small} {#combat-archery}
+### Combat Archery (featType:: Epic)
 
 **Prerequisites:** Dodge, Mobility, Point Blank Shot.
 
@@ -438,7 +238,7 @@ firing a bow when threatened.
 opportunity from all opponents who threaten him or her whenever he or
 she uses a bow.
 
-### Craft Epic Magic Arms and Armor [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-magic-arms-and-armor}
+### Craft Epic Magic Arms and Armor (featType:: Item Creation\]\[Epic)
 
 **Prerequisites:** Craft Magic Arms and Armor, Knowledge (arcana) 28
 ranks, Spellcraft 28 ranks.
@@ -446,7 +246,7 @@ ranks, Spellcraft 28 ranks.
 **Benefit:** The character can craft magic arms and armor which exceed
 the normal limits for such items
 
-### Craft Epic Rod [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-rod}
+### Craft Epic Rod (featType:: Item Creation\]\[Epic)
 
 **Prerequisites:** Craft Rod, Knowledge (arcana) 32 ranks, Spellcraft 32
 ranks.
@@ -454,7 +254,7 @@ ranks.
 **Benefit:** The character can craft rods that exceed the normal limits
 for such items.
 
-### Craft Epic Staff [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-staff}
+### Craft Epic Staff (featType:: Item Creation\]\[Epic)
 
 **Prerequisites:** Craft Staff, Knowledge (arcana) 35 ranks, Spellcraft
 35 ranks.
@@ -462,7 +262,7 @@ for such items.
 **Benefit:** The character can craft staffs that exceed the normal
 limits for such items.
 
-### Craft Epic Wondrous Item [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-wondrous-item}
+### Craft Epic Wondrous Item (featType:: Item Creation\]\[Epic)
 
 **Prerequisites:** Craft Wondrous Item, Knowledge (arcana) 26 ranks,
 Spellcraft 26 ranks.
@@ -470,7 +270,7 @@ Spellcraft 26 ranks.
 **Benefit:** The character can craft wondrous items that exceed the
 normal limits for such items.
 
-### Damage Reduction [\[Epic\]]{.small} {#damage-reduction}
+### Damage Reduction (featType:: Epic)
 
 **Prerequisite:** Con 21.
 
@@ -482,7 +282,7 @@ permanent magical effects, class features, or this feat itself.
 **Special:** A character can gain this feat multiple times. Each time he
 or she gains the feat, his or her damage reduction increases by 3.
 
-### Deafening Song [\[Epic\]]{.small} {#deafening-song}
+### Deafening Song (featType:: Epic)
 
 **Prerequisites:** Perform 24 ranks, bardic music class feature.
 
@@ -498,7 +298,7 @@ ability for more details). The character may keep up the deafening song
 for a maximum of 10 rounds. Using the deafening song counts as one of
 the character's uses of song or poetics for the day.
 
-### Death of Enemies [\[Epic\]]{.small} {#death-of-enemies}
+### Death of Enemies (featType:: Epic)
 
 **Prerequisites:** Bane of Enemies, Survival 30 ranks, five or more
 favored enemies.
@@ -511,7 +311,7 @@ instantly.
 **Special:** Creatures immune to critical hits can't be affected by this
 feat.
 
-### Devastating Critical [\[Epic\]]{.small} {#devastating-critical}
+### Devastating Critical (featType:: Epic)
 
 **Prerequisites:** Str 25, Cleave, Great Cleave, Improved Critical
 (chosen weapon), Overwhelming Critical (chosen weapon), Power Attack,
@@ -526,7 +326,7 @@ character level + character's Strength modifier) or die instantly.
 do not stack. Each time a character takes the feat, it applies to a
 different type of weapon.
 
-### Dexterous Fortitude [\[Epic\]]{.small} {#dexterous-fortitude}
+### Dexterous Fortitude (featType:: Epic)
 
 **Prerequisites:** Dex 25, slippery mind class feature.
 
@@ -534,7 +334,7 @@ different type of weapon.
 Fortitude saving throw, the character may make a Reflex save instead to
 avoid the effect (evasion is not applicable).
 
-### Dexterous Will [\[Epic\]]{.small} {#dexterous-will}
+### Dexterous Will (featType:: Epic)
 
 **Prerequisites:** Dex 25, slippery mind class feature.
 
@@ -542,7 +342,7 @@ avoid the effect (evasion is not applicable).
 Will saving throw, the character may make a Reflex save instead to avoid
 the effect (evasion is not applicable).
 
-### Diminutive Wild Shape [\[Wild\]\[Epic\]]{.small} {#diminutive-wild-shape}
+### Diminutive Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisite:** Ability to *wild shape* into a Huge animal.
 
@@ -552,7 +352,7 @@ Diminutive animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal of smaller than Tiny size.
 
-### Dire Charge [\[Epic\]]{.small} {#dire-charge}
+### Dire Charge (featType:: Epic)
 
 **Prerequisite:** Improved Initiative.
 
@@ -563,14 +363,14 @@ it), he or she can make a full attack against the opponent charged.
 **Normal:** Without this feat, a character may only make a single attack
 as part of a charge.
 
-### Distant Shot [\[Epic\]]{.small} {#distant-shot}
+### Distant Shot (featType:: Epic)
 
 **Prerequisites:** Dex 25, Far Shot, Point Blank Shot, Spot 20 ranks.
 
 **Benefit:** The character may throw or fire a ranged weapon at any
 target within line of sight, with no penalty for range.
 
-### Dragon Wild Shape [\[Wild\]\[Epic\]]{.small} {#dragon-wild-shape}
+### Dragon Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisites:** Wis 30, Knowledge (nature) 30 ranks, *wild shape*
 6/day.
@@ -581,7 +381,7 @@ silver). The size limitation is the same as the character's limitation
 on animal size. The character gains all extraordinary and supernatural
 abilities of the dragon whose form he or she takes.
 
-### Efficient Item Creation [\[Epic\]]{.small} {#efficient-item-creation}
+### Efficient Item Creation (featType:: Epic)
 
 **Prerequisites:** Item creation feat to be selected, Knowledge (arcana)
 24 ranks, Spellcraft 24 ranks.
@@ -597,7 +397,7 @@ for each 1,000 gp of the item's market price.
 do not stack. Each time a character takes the feat, it applies to a
 different item creation feat.
 
-### Energy Resistance [\[Epic\]]{.small} {#energy-resistance}
+### Energy Resistance (featType:: Epic)
 
 **Benefit:** Choose a type of energy (acid, cold, electricity, fire, or
 sonic). The character gains resistance 10 to that type of energy, or the
@@ -608,7 +408,7 @@ or nonpermanent magical effects.
 **Special:** A character can gain this feat multiple times. If the same
 type of energy is chosen, the effects stack.
 
-### Enhance Spell [\[Metamagic\]\[Epic\]]{.small} {#enhance-spell}
+### Enhance Spell (featType:: Metamagic\]\[Epic)
 
 **Prerequisite:** Maximize Spell.
 
@@ -629,7 +429,7 @@ or she selects this feat, the damage cap increases by 10 dice or 5 dice,
 as appropriate to the spell, and the enhanced spell takes up a spell
 slot an additional four levels higher.
 
-### Epic Dodge [\[Epic\]]{.small} {#epic-dodge}
+### Epic Dodge (featType:: Epic)
 
 **Prerequisites:** Dex 25, Dodge, Tumble 30 ranks, improved evasion,
 defensive roll class feature.
@@ -638,7 +438,7 @@ defensive roll class feature.
 the character has designated as the object of his or her dodge, the
 character may automatically avoid all damage from the attack.
 
-### Epic Endurance [\[Epic\]]{.small} {#epic-endurance}
+### Epic Endurance (featType:: Epic)
 
 **Prerequisites:** Con 25, Endurance.
 
@@ -646,7 +446,7 @@ character may automatically avoid all damage from the attack.
 physical action that extends over a period of time, he or she gets a +10
 bonus on the check.
 
-### Epic Expanded Knowledge [\[Epic, Psionic\]]{.small} {#epic-expanded-knowledge}
+### Epic Expanded Knowledge (featType:: Epic, Psionic)
 
 You learn another power.
 
@@ -661,12 +461,12 @@ one that is part of another discipline's list or another class's list.
 one new power at any level up to the highest level of power you can
 manifest.
 
-### Epic Fortitude[\[Epic\]]{.small} {#epic-fortitude}
+### Epic Fortitude[\[Epic\]]
 
 **Benefit:** The character gains a +4 bonus on all Fortitude saving
 throws.
 
-### Epic Inspiration [\[Epic\]]{.small} {#epic-inspiration}
+### Epic Inspiration (featType:: Epic)
 
 **Prerequisites:** Cha 25, Perform 30 ranks, bardic music class feature.
 
@@ -678,7 +478,7 @@ additional bonus HD.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Epic Leadership [\[Epic\]]{.small} {#epic-leadership}
+### Epic Leadership (featType:: Epic)
 
 **Prerequisites:** Cha 25, Leadership, Leadership score 25.
 
@@ -767,14 +567,14 @@ good cohorts for epic characters.
 
   : Table: Example Special Epic Cohorts
 
-### Epic Prowess [\[Epic\]]{.small} {#epic-prowess}
+### Epic Prowess (featType:: Epic)
 
 **Benefit:** Gain a +1 bonus on all attacks.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Epic Psionic Focus [\[Epic, Psionic\]]{.small} {#epic-psionic-focus}
+### Epic Psionic Focus (featType:: Epic, Psionic)
 
 You can expend your psionic focus to greater effect.
 
@@ -791,16 +591,16 @@ cannot exceed the power point limit set by your manifester level.
 you can simultaneously use one additional feat that requires a psionic
 focus to be expended.
 
-### Epic Reflexes [\[Epic\]]{.small} {#epic-reflexes}
+### Epic Reflexes (featType:: Epic)
 
 **Benefit:** The character gains a +4 bonus on all Reflex saving throws.
 
-### Epic Reputation [\[Epic\]]{.small} {#epic-reputation}
+### Epic Reputation (featType:: Epic)
 
 **Benefit:** The character gains a +4 bonus on Bluff, Diplomacy, Gather
 Information, Intimidate, and Perform checks.
 
-### Epic Skill Focus [\[Epic\]]{.small} {#epic-skill-focus}
+### Epic Skill Focus (featType:: Epic)
 
 **Prerequisite:** 20 ranks in the skill selected.
 
@@ -811,7 +611,7 @@ that skill.
 do not stack. Each time a character takes the feat, it applies to a
 different skill.
 
-### Epic Speed [\[Epic\]]{.small} {#epic-speed}
+### Epic Speed (featType:: Epic)
 
 **Prerequisites:** Dex 21, Run.
 
@@ -822,7 +622,7 @@ nonpermanent magical effects.
 **Special:** This feat only functions when the character is wearing
 medium armor, light armor, or no armor.
 
-### Epic Spell Focus [\[Epic\]]{.small} {#epic-spell-focus}
+### Epic Spell Focus (featType:: Epic)
 
 **Prerequisites:** Greater Spell Focus and Spell Focus in the school
 selected, ability to cast at least one 9th-level spell of the school to
@@ -837,7 +637,7 @@ Focus.
 do not stack. Each time the character takes the feat, it applies to a
 different school of magic.
 
-### Epic Spell Penetration [\[Epic\]]{.small} {#epic-spell-penetration}
+### Epic Spell Penetration (featType:: Epic)
 
 **Prerequisites:** Greater Spell Penetration, Spell Penetration.
 
@@ -845,7 +645,7 @@ different school of magic.
 beat a creature's spell resistance. This stacks with the bonuses from
 Spell Penetration and Greater Spell Penetration.
 
-### Epic Spellcasting [\[Epic\]]{.small} {#epic-spellcasting}
+### Epic Spellcasting (featType:: Epic)
 
 **Prerequisite:** Spellcraft 24 ranks, Knowledge (arcana) 24 ranks,
 ability to cast 9th-level arcane spells. OR Spellcraft 24 ranks,
@@ -864,14 +664,14 @@ number of epic spells per day equal to his or her ranks in Knowledge
 the limit on the number of spells he or she may cast per day is
 cumulative.
 
-### Epic Toughness [\[Epic\]]{.small} {#epic-toughness}
+### Epic Toughness (featType:: Epic)
 
 **Benefit:** The character gains +30 hit points.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Epic Weapon Focus [\[Epic\]]{.small} {#epic-weapon-focus}
+### Epic Weapon Focus (featType:: Epic)
 
 **Prerequisite:** Weapon Focus in the chosen weapon.
 
@@ -882,7 +682,7 @@ using the selected weapon.
 do not stack. Each time the character takes the feat it applies to a
 different type of weapon.
 
-### Epic Weapon Specialization [\[Epic\]]{.small} {#epic-weapon-specialization}
+### Epic Weapon Specialization (featType:: Epic)
 
 **Prerequisites:** Epic Weapon Focus, Weapon Focus, Weapon
 Specialization (all in the chosen weapon).
@@ -895,11 +695,11 @@ if the target is within 30 feet.
 do not stack. Each time the character takes the feat, it applies to a
 different type of weapon.
 
-### Epic Will [\[Epic\]]{.small} {#epic-will}
+### Epic Will (featType:: Epic)
 
 **Benefit:** The character gains a +4 bonus on all Will saving throws.
 
-### Exceptional Deflection [\[Epic\]]{.small} {#exceptional-deflection}
+### Exceptional Deflection (featType:: Epic)
 
 **Prerequisites:** Dex 21, Wis 19, Deflect Arrows, Improved Unarmed
 Strike.
@@ -907,7 +707,7 @@ Strike.
 **Benefit:** The character can deflect any ranged attacks (including
 spells that require ranged touch attacks) as if they were arrows.
 
-### Extended Life Span [\[Epic\]]{.small} {#extended-life-span}
+### Extended Life Span (featType:: Epic)
 
 **Benefit:** Add one-half the maximum result of the character's race's
 maximum age modifier to the character's normal middle age, old, and
@@ -918,7 +718,7 @@ age category.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Familiar Spell [\[Epic\]]{.small} {#familiar-spell}
+### Familiar Spell (featType:: Epic)
 
 **Prerequisite:** Int 25 (if the character's spellcasting is controlled
 by Intelligence) or Cha 25 (if the character's spellcasting is
@@ -936,7 +736,7 @@ the character takes the feat, he or she can give his or her familiar a
 different spell-like ability or another daily use of the same spell-like
 ability.
 
-### Fast Healing [\[Epic\]]{.small} {#fast-healing}
+### Fast Healing (featType:: Epic)
 
 **Prerequisite:** Con 25.
 
@@ -946,7 +746,7 @@ healing granted by magic items or nonpermanent magical effects.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Fine Wild Shape [\[Wild\]\[Epic\]]{.small} {#fine-wild-shape}
+### Fine Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisite:** Ability to *wild shape* into a Diminutive creature.
 
@@ -956,7 +756,7 @@ shape of a Fine animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal smaller than Tiny size.
 
-### Forge Epic Ring [\[Item Creation\]\[Epic\]]{.small} {#forge-epic-ring}
+### Forge Epic Ring (featType:: Item Creation\]\[Epic)
 
 **Prerequisites:** Forge Ring, Knowledge (arcana) 35 ranks, Spellcraft
 35 ranks.
@@ -964,7 +764,7 @@ animal smaller than Tiny size.
 **Benefit:** The character can forge magic rings that exceed the normal
 limits for such items.
 
-### Gargantuan Wild Shape [\[Wild\]\[Epic\]]{.small} {#gargantuan-wild-shape}
+### Gargantuan Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisite:** Ability to *wild shape* into a Huge animal.
 
@@ -974,35 +774,35 @@ of a Gargantuan animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal greater than Huge size.
 
-### Great Charisma [\[Epic\]]{.small} {#great-charisma}
+### Great Charisma (featType:: Epic)
 
 **Benefit:** The character's Charisma increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Constitution [\[Epic\]]{.small} {#great-constitution}
+### Great Constitution (featType:: Epic)
 
 **Benefit:** The character's Constitution increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Dexterity [\[Epic\]]{.small} {#great-dexterity}
+### Great Dexterity (featType:: Epic)
 
 **Benefit:** The character's Dexterity increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Intelligence [\[Epic\]]{.small} {#great-intelligence}
+### Great Intelligence (featType:: Epic)
 
 **Benefit:** The character's Intelligence increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Smiting [\[Epic\]]{.small} {#great-smiting}
+### Great Smiting (featType:: Epic)
 
 **Prerequisites:** Cha 25, smite ability (from class feature or domain
 granted power).
@@ -1015,21 +815,21 @@ level).
 effects stack. Remember that two doublings equals a tripling, and so
 forth.
 
-### Great Strength [\[Epic\]]{.small} {#great-strength}
+### Great Strength (featType:: Epic)
 
 **Benefit:** The character's Strength increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Wisdom [\[Epic\]]{.small} {#great-wisdom}
+### Great Wisdom (featType:: Epic)
 
 **Benefit:** The character's Wisdom increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Group Inspiration [\[Epic\]]{.small} {#group-inspiration}
+### Group Inspiration (featType:: Epic)
 
 **Prerequisite:** Perform 30 ranks, bardic music class feature.
 
@@ -1041,7 +841,7 @@ choose different skills to inspire for different allies.
 **Special:** A character can gain this feat multiple times. Its effects
 stack. Remember that two doublings equals a tripling, and so forth.
 
-### Hindering Song [\[Epic\]]{.small} {#hindering-song}
+### Hindering Song (featType:: Epic)
 
 **Prerequisite:** Deafening Song, Perform 27 ranks, bardic music class
 feature.
@@ -1058,7 +858,7 @@ details). The character may keep up the hindering song for a maximum of
 10 rounds. Using the hindering song counts as one of the character's
 uses of song or poetics for the day.
 
-### Holy Strike [\[Epic\]]{.small} {#holy-strike}
+### Holy Strike (featType:: Epic)
 
 **Prerequisites:** Smite evil class feature, any good alignment.
 
@@ -1067,7 +867,7 @@ uses of song or poetics for the day.
 creatures of evil alignment).If the weapon already has an alignment,
 this feat has no effect on the weapon.
 
-### Ignore Material Components [\[Epic\]]{.small} {#ignore-material-components}
+### Ignore Material Components (featType:: Epic)
 
 **Prerequisites:** Eschew Materials, Spellcraft 25 ranks, ability to
 cast 9th-level arcane or divine spells.
@@ -1076,7 +876,7 @@ cast 9th-level arcane or divine spells.
 components. This feat does not affect the need for a focus or divine
 focus.
 
-### Improved Alignment-Based Casting [\[Epic\]]{.small} {#improved-alignment-based-casting}
+### Improved Alignment-Based Casting (featType:: Epic)
 
 **Prerequisites:** Access to domain of Chaos, Evil, Good, or Law,
 alignment must match domain chosen, ability to cast 9th-level divine
@@ -1092,7 +892,7 @@ this feat multiple times. Its effects do not stack. Each time a
 character takes the feat, it applies to a different alignment-based
 domain to which the character has access.
 
-### Improved Arrow of Death [\[Epic\]]{.small} {#improved-arrow-of-death}
+### Improved Arrow of Death (featType:: Epic)
 
 **Prerequisites:** Dex 19, Wis 19, Point Blank Shot, Precise Shot, arrow
 of death class feature.
@@ -1100,28 +900,28 @@ of death class feature.
 **Benefit:** Add +2 to the DC of the character's arrows of death. This
 feat may be taken multiple times. Its effects stack.
 
-### Improved Aura of Courage [\[Epic\]]{.small} {#improved-aura-of-courage}
+### Improved Aura of Courage (featType:: Epic)
 
 **Prerequisite:** Cha 25, aura of courage class ability.
 
 **Benefit:** The character's aura of courage grants a +8 morale bonus on
 saving throws against fear effects.
 
-### Improved Aura of Despair [\[Epic\]]{.small} {#improved-aura-of-despair}
+### Improved Aura of Despair (featType:: Epic)
 
 **Prerequisite:** Cha 25, aura of despair class ability.
 
 **Benefit:** The character's aura of despair causes a --4 morale penalty
 on all saving throws.
 
-### Improved Combat Casting [\[Epic\]]{.small} {#improved-combat-casting}
+### Improved Combat Casting (featType:: Epic)
 
 **Prerequisites:** Combat Casting, Concentration 25 ranks.
 
 **Benefit:** The character doesn't incur attacks of opportunity for
 casting spells when threatened.
 
-### Improved Combat Reflexes [\[Epic\]]{.small} {#improved-combat-reflexes}
+### Improved Combat Reflexes (featType:: Epic)
 
 **Prerequisites:** Dex 21, Combat Reflexes.
 
@@ -1129,7 +929,7 @@ casting spells when threatened.
 the character can make in one round. (the character still can't make
 more than one attack of opportunity for a given oppertunity.)
 
-### Improved Darkvision [\[Epic\]]{.small} {#improved-darkvision}
+### Improved Darkvision (featType:: Epic)
 
 **Prerequisite:** Darkvision.
 
@@ -1140,7 +940,7 @@ magical effects.
 **Special:** This feat may be taken multiple times. Its effects stack.
 Remember that two doublings equals a tripling, and so on.
 
-### Improved Death Attack [\[Epic\]]{.small} {#improved-death-attack}
+### Improved Death Attack (featType:: Epic)
 
 **Prerequisites:** Death attack class feature, sneak attack +5d6.
 
@@ -1148,7 +948,7 @@ Remember that two doublings equals a tripling, and so on.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Elemental Wild Shape [\[Wild\]\[Epic\]]{.small} {#improved-elemental-wild-shape}
+### Improved Elemental Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisites:** Wis 25, ability to *wild shape* into an elemental.
 
@@ -1162,7 +962,7 @@ or she takes.
 **Normal:** Without this feat, a character may only *wild shape* into a
 Small, Medium-size, or Large air, earth, fire, or water elemental.
 
-### Improved Favored Enemy [\[Epic\]]{.small} {#improved-favored-enemy}
+### Improved Favored Enemy (featType:: Epic)
 
 **Prerequisite:** Five or more favored enemies.
 
@@ -1172,7 +972,7 @@ enemies.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Heighten Spell [\[Epic\]]{.small} {#improved-heighten-spell}
+### Improved Heighten Spell (featType:: Epic)
 
 **Prerequisites:** Heighten Spell, Spellcraft 20 ranks.
 
@@ -1182,14 +982,14 @@ which the character can heighten the spell.
 **Normal:** Without this feat, a spell can only be heightened to a
 maximum of 9th level.
 
-### Improved Ki Strike [\[Epic\]]{.small} {#improved-ki-strike}
+### Improved Ki Strike (featType:: Epic)
 
 **Prerequisites:** Wis 21, *Ki* strike (adamantine).
 
 **Benefit:** The character's unarmed strikes are treated as epic magic
 weapons for the purposes of damage reduction.
 
-### Improved Low-Light Vision [\[Epic\]]{.small} {#improved-low-light-vision}
+### Improved Low-Light Vision (featType:: Epic)
 
 **Prerequisite:** Low-light vision.
 
@@ -1200,7 +1000,7 @@ nonpermanent magical effects.
 **Special:** This feat may be taken multiple times. Its effects stack.
 Remember that two doublings equals a tripling, and so on.
 
-### Improved Manifestation [\[Epic, Psionic\]]{.small} {#improved-manifestation}
+### Improved Manifestation (featType:: Epic, Psionic)
 
 You increase your power point reserve.
 
@@ -1213,7 +1013,7 @@ the normal maximum power level in at least one psionic class.
 you gain an additional number of power points equal to your previous
 benefit +2.
 
-### Improved Manyshot [\[Epic\]]{.small} {#improved-manyshot}
+### Improved Manyshot (featType:: Epic)
 
 **Prerequisites:** Dex 19, base attack bonus +21, Many-shot, Point Blank
 Shot, Rapid Shot
@@ -1232,7 +1032,7 @@ choice); all others deal normal damage.
 maximum of four arrows fired (when the character's base attack bonus is
 +16 or higher).
 
-### Improved Metamagic [\[Epic\]]{.small} {#improved-metamagic}
+### Improved Metamagic (featType:: Epic)
 
 **Prerequisites:** Four metamagic feats, Spellcraft 30 ranks.
 
@@ -1244,7 +1044,7 @@ effect on metamagic feats whose spell slot modifier is +1 or less.
 stack, though a character can't reduce any metamagic feat's spell slot
 modifier to less than +1.
 
-### Improved Metapsionics [\[Epic, Psionic\]]{.small} {#improved-metapsionics}
+### Improved Metapsionics (featType:: Epic, Psionic)
 
 You can manifest powers using metapsionic feats more easily than normal.
 
@@ -1261,7 +1061,7 @@ only 2 power points.
 though you can't lower the cost of any metapsionic power to less than 1
 power point.
 
-### Improved Sneak Attack [\[Epic\]]{.small} {#improved-sneak-attack}
+### Improved Sneak Attack (featType:: Epic)
 
 **Prerequisite:** Sneak attack +8d6.
 
@@ -1269,7 +1069,7 @@ power point.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Spell Capacity [\[Epic\]]{.small} {#improved-spell-capacity}
+### Improved Spell Capacity (featType:: Epic)
 
 **Prerequisite:** Ability to cast spells of the normal maximum spell
 level in at least one spellcasting class.
@@ -1350,7 +1150,7 @@ level, expand the table to follow the same patterns as shown.
 
   : Table: Expanded Ability Modifiers and Bonus Spells
 
-### Improved Spell Resistance [\[Epic\]]{.small} {#improved-spell-resistance}
+### Improved Spell Resistance (featType:: Epic)
 
 **Prerequisite:** Must have spell resistance from a feat, class feature,
 or other permanent effect.
@@ -1360,7 +1160,7 @@ or other permanent effect.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Improved Stunning Fist [\[Epic\]]{.small} {#improved-stunning-fist}
+### Improved Stunning Fist (featType:: Epic)
 
 **Prerequisite:** Dex 19, Wis 19, Improved Unarmed Strike, Stunning
 Fist.
@@ -1369,7 +1169,7 @@ Fist.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Whirlwind Attack [\[Epic\]]{.small} {#improved-whirlwind-attack}
+### Improved Whirlwind Attack (featType:: Epic)
 
 **Prerequisites:** Int 13, Dex 23, Combat Expertise, Dodge, Mobility,
 Spring Attack, Whirlwind Attack.
@@ -1393,7 +1193,7 @@ can't make a 5-foot step between any two of the attacks.
 a full attack action, and the character can take a 5-foot step between
 any two of the attacks.
 
-### Incite Rage [\[Epic\]]{.small} {#incite-rage}
+### Incite Rage (featType:: Epic)
 
 **Prerequisites:** Cha 25, greater rage class feature.
 
@@ -1409,7 +1209,7 @@ of the character. This is otherwise identical with normal barbarian rage
 
 **Special:** This is a mind-affecting effect.
 
-### Infinite Deflection [\[Epic\]]{.small} {#infinite-deflection}
+### Infinite Deflection (featType:: Epic)
 
 **Prerequisites:** Dex 25, Combat Reflexes, Deflect Arrows, Improved
 Unarmed Strike.
@@ -1417,7 +1217,7 @@ Unarmed Strike.
 **Benefit:** The character may perform any number of deflections each
 round, as the Deflect Arrows feat.
 
-### Inspire Excellence [\[Epic\]]{.small} {#inspire-excellence}
+### Inspire Excellence (featType:: Epic)
 
 **Prerequisite:** Perform 30 ranks, bardic music class feature.
 
@@ -1437,7 +1237,7 @@ the day.
 **Special:** This feat is treated as a bardic music inspiration ability
 for purposes of feats that affect such abilities.
 
-### Instant Reload [\[Epic\]]{.small} {#instant-reload}
+### Instant Reload (featType:: Epic)
 
 **Prerequisite:** Quick Draw, Rapid Reload, Weapon Focus (crossbow type
 to be selected).
@@ -1450,7 +1250,7 @@ attacks of opportunity.
 do not stack. Each time a character takes the feat, it applies to a
 different type of crossbow.
 
-### Intensify Spell \[Metamagic\][\[Epic\]]{.small} {#intensify-spell}
+### Intensify Spell \[Metamagic\][\[Epic\]]
 
 **Prerequisites:** Empower Spell, Maximize Spell, Spellcraft 30 ranks,
 ability to cast 9th-level arcane or divine spells.
@@ -1464,7 +1264,7 @@ slot seven levels higher than the spell's actual level. A character
 can't combine the effects of this feat with any other feat that affects
 the variable, numeric effects of a spell.
 
-### Keen Strike [\[Epic\]]{.small} {#keen-strike}
+### Keen Strike (featType:: Epic)
 
 **Prerequisites:** Str 23, Wis 23, Improved Critical (unarmed strike),
 Improved Unarmed Strike, Stunning fist, *ki* strike (adamantine).
@@ -1475,7 +1275,7 @@ can deal bludgeoning damage, but cannot then take advantage of the
 enhanced threat range). This ability doesn't stack with other abilities
 that expand that character's unarmed strike's threat range.
 
-### Lasting Inspiration [\[Epic\]]{.small} {#lasting-inspiration}
+### Lasting Inspiration (featType:: Epic)
 
 **Prerequisite:** Perform 25 ranks, bardic music class feature.
 
@@ -1484,7 +1284,7 @@ abilities last for ten times as long as normal after he or she stops
 singing. This feat has no effect on inspiration abilities that have no
 duration after the character stops singing.
 
-### Legendary Climber [\[Epic\]]{.small} {#legendary-climber}
+### Legendary Climber (featType:: Epic)
 
 **Prerequisites:** Dex 21, Balance 12 ranks, Climb 24 ranks.
 
@@ -1496,7 +1296,7 @@ checks when attempting to cover his or her full speed in climbing
 distance in a round, or a --20 penalty when attempting to cover twice
 his or her speed in climbing distance in a round.
 
-### Legendary Commander [\[Epic\]]{.small} {#legendary-commander}
+### Legendary Commander (featType:: Epic)
 
 **Prerequisites:** Cha 25, Epic Leadership, Leadership, Diplomacy 30
 ranks, must rule own kingdom and have a stronghold.
@@ -1504,7 +1304,7 @@ ranks, must rule own kingdom and have a stronghold.
 **Benefit:** Multiply the number of followers of each level that the
 character can lead by 10. This has no effect on cohorts.
 
-### Legendary Leaper [\[Epic\]]{.small} {#legendary-leaper}
+### Legendary Leaper (featType:: Epic)
 
 **Prerequisite:** Jump 24 ranks.
 
@@ -1514,7 +1314,7 @@ make a running jump.
 **Normal:** Without this feat, a character must move at least 20 feet in
 a straight line before attempting a running jump.
 
-### Legendary Rider [\[Epic\]]{.small} {#legendary-rider}
+### Legendary Rider (featType:: Epic)
 
 **Prerequisite:** Ride 24 ranks.
 
@@ -1528,7 +1328,7 @@ checks without a saddle, and must make a Ride check to control a mount
 in combat (and controlling a mount not trained for combat requires a
 move action).
 
-### Legendary Tracker [\[Epic\]]{.small} {#legendary-tracker}
+### Legendary Tracker (featType:: Epic)
 
 **Prerequisites:** Wis 25, Track, Knowledge (nature) 30 ranks, Survival
 30 ranks.
@@ -1544,14 +1344,14 @@ underwater, and air to the list of surfaces found under the Track feat:
   Air          120
   ------------ -----
 
-### Legendary Wrestler [\[Epic\]]{.small} {#legendary-wrestler}
+### Legendary Wrestler (featType:: Epic)
 
 **Prerequisite:** Str 21, Dex 21, Improved Unarmed Strike, Escape Artist
 15 ranks.
 
 **Benefit:** The character gains a +10 bonus on all grapple checks.
 
-### Lingering Damage [\[Epic\]]{.small} {#lingering-damage}
+### Lingering Damage (featType:: Epic)
 
 **Prerequisite:** Sneak attack +8d6, crippling strike class feature.
 
@@ -1559,24 +1359,24 @@ underwater, and air to the list of surfaces found under the Track feat:
 that target takes damage equal to the character's sneak attack bonus
 damage on the character's next turn as well.
 
-### Magical Beast Companion [\[Wild\]\[Epic\]]{.small} {#magical-beast-companion}
+### Magical Beast Companion (featType:: Wild\]\[Epic)
 
 **Prerequisites:** Knowledge (nature) 24 ranks, *wild shape* 6/day.
 
 **Benefit:** The following magical beasts are added to the lists of
 animal companions from which you can select.
 
-#### 1st Level (No Adjustment) {#1st-level}
+#### 1st Level (No Adjustment)
 
 -   Stirge
 -   Darkmantle
 
-#### 4th Level (-3) {#4th-level}
+#### 4th Level (-3)
 
 -   Hippogriff
 -   Shocker lizard
 
-#### 7th Level (-6) {#7th-level}
+#### 7th Level (-6)
 
 -   Cockatrice
 -   Ankheg
@@ -1584,20 +1384,20 @@ animal companions from which you can select.
 -   Owlbear
 -   Sea cat\*
 
-#### 10th Level (-9) {#10th-level}
+#### 10th Level (-9)
 
 -   Basilisk
 -   Digerster
 -   Girallon
 -   Spider eater
 
-#### 13th Level (-12) {#13th-level}
+#### 13th Level (-12)
 
 -   Bulette
 -   Chimera
 -   Remorhaz
 
-#### 16th Level (-15) {#16th-level}
+#### 16th Level (-15)
 
 -   Gorgon
 -   Gray render
@@ -1605,7 +1405,7 @@ animal companions from which you can select.
 **Special:** Creatures marked with an asterisk are available only in an
 aquatic environment.
 
-### Magical Beast Wild Shape [\[Wild\]\[Epic\]]{.small} {#magical-beast-wild-shape}
+### Magical Beast Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisites:** Wis 25, Knowledge (nature) 27 ranks, *wild shape*
 6/day.
@@ -1616,7 +1416,7 @@ same as the character's limitation on animal size. The character gains
 all supernatural abilities of the magical beast whose form he or she
 takes.
 
-### Master Staff [\[Epic\]]{.small} {#master-staff}
+### Master Staff (featType:: Epic)
 
 **Prerequisite:** Craft Staff, Spellcraft 15 ranks.
 
@@ -1630,7 +1430,7 @@ spell stored in the staff, including any level-increasing metamagic
 enhancements. A character cannot emulate a charge for a staff function
 that does not match a specific spell.
 
-### Master Wand [\[Epic\]]{.small} {#master-wand}
+### Master Wand (featType:: Epic)
 
 **Prerequisite:** Craft Wand, Spellcraft 15 ranks.
 
@@ -1642,7 +1442,7 @@ prepared spells from his or her school of specialty, if any). The spell
 slot lost must be equal to or higher in level than the spell stored in
 the wand, including any level-increasing metamagic enhancements.
 
-### Mighty Rage [\[Epic\]]{.small} {#mighty-rage}
+### Mighty Rage (featType:: Epic)
 
 **Prerequisites:** Str 21, Con 21, greater rage class feature, rage
 5/day.
@@ -1651,7 +1451,7 @@ the wand, including any level-increasing metamagic enhancements.
 Strength and Constitution and a +4 morale bonus on Will saves. (These
 bonuses replace the normal rage bonuses.)
 
-### Mobile Defense [\[Epic\]]{.small} {#mobile-defense}
+### Mobile Defense (featType:: Epic)
 
 **Prerequisites:** Dex 15, Dodge, Mobility, Spring Attack, defensive
 stance 3/day class feature.
@@ -1662,7 +1462,7 @@ stance 3/day class feature.
 **Normal:** Without this feat, a character can't move while in a
 defensive stance.
 
-### Multispell [\[Epic\]]{.small} {#multispell}
+### Multispell (featType:: Epic)
 
 **Prerequisites:** Quicken Spell, ability to cast 9th-level arcane or
 divine spells.
@@ -1673,7 +1473,7 @@ round.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Multiweapon Rend [\[Epic\]]{.small} {#multiweapon-rend}
+### Multiweapon Rend (featType:: Epic)
 
 **Prerequisites:** Dex 15, base attack bonus +9, three or more hands,
 Multiweapon Fighting.
@@ -1689,7 +1489,7 @@ makes.
 **Special:** This feat replaces the Two-Weapon Rend feat for creatures
 with more than two arms.
 
-### Music of the Gods [\[Epic\]]{.small} {#music-of-the-gods}
+### Music of the Gods (featType:: Epic)
 
 **Prerequisites:** Cha 25, Perform 30 ranks, bardic music class feature.
 
@@ -1697,7 +1497,7 @@ with more than two arms.
 immune to mind-affecting effects. However, such creatures gain a +10
 bonus on their Will saves to resist such effects.
 
-### Negative Energy Burst [\[Divine\]\[Epic\]]{.small} {#negative-energy-burst}
+### Negative Energy Burst (featType:: Divine\]\[Epic)
 
 **Prerequisites:** Cha 25, ability to rebuke or command undead, ability
 to cast *inflict critical wounds,*any evil alignment.
@@ -1711,7 +1511,7 @@ commanded by this check gains two negative levels. The Fortitude save DC
 to remove these levels one day later is equal to 10 + 1/2 the
 character's effective turning level + the character's Charisma modifier.
 
-### Overwhelming Critical [\[Epic\]]{.small} {#overwhelming-critical}
+### Overwhelming Critical (featType:: Epic)
 
 **Prerequisites:** Str 23, Cleave, Great Cleave, Improved Critical
 (chosen weapon), Power Attack, Weapon Focus (chosen weapon).
@@ -1727,7 +1527,7 @@ this feat.
 do not stack. Each time a character takes the feat, it applies to a
 different type of weapon.
 
-### Penetrate Damage Reduction [\[Epic\]]{.small} {#penetrate-damage-reduction}
+### Penetrate Damage Reduction (featType:: Epic)
 
 Select a special material, such as adamantine.
 
@@ -1742,14 +1542,14 @@ the feat is selected the character selects a different special material.
 The character's melee attacks are treated as being crafted of all chosen
 materials for the purposes of bypassing damage reduction.
 
-### Perfect Health [\[Epic\]]{.small} {#perfect-health}
+### Perfect Health (featType:: Epic)
 
 **Prerequisite:** Con 25, Great Fortitude.
 
 **Benefit:** The character is immune to all nonmagical diseases, as well
 as to all poisons whose Fortitude save DC is 25 or less.
 
-### Perfect Multiweapon Fighting [\[Epic\]]{.small} {#perfect-multiweapon-fighting}
+### Perfect Multiweapon Fighting (featType:: Epic)
 
 **Prerequisite:** Dex 25, three or more hands, Greater Multiweapon
 Fighting, Multiweapon Fighting.
@@ -1768,7 +1568,7 @@ the first extra attack has a cumulative --5 penalty.
 **Special:** This feat replaces the Perfect Two-Weapon Fighting feat for
 creatures with more than two arms.
 
-### Perfect Two-Weapon Fighting [\[Epic\]]{.small} {#perfect-two-weapon-fighting}
+### Perfect Two-Weapon Fighting (featType:: Epic)
 
 **Prerequisites:** Dex 25, Greater Two-Weapon Fighting, Improved
 Two-Weapon Fighting, Two-Weapon Fighting.
@@ -1783,7 +1583,7 @@ with an off-hand weapon (or two attacks with an off-hand weapon if he or
 she has Improved Two-Weapon Fighting, or three attacks with an off-hand
 weapon if he or she has Greater Two-Weapon Fighting).
 
-### Permanent Emanation [\[Epic\]]{.small} {#permanent-emanation}
+### Permanent Emanation (featType:: Epic)
 
 **Prerequisites:** Spellcraft 25 ranks, ability to cast the spell to be
 made permanent.
@@ -1797,7 +1597,7 @@ Effects that would normally dispel this spell instead suppress it for
 **Special:** This feat may be taken multiple times. Each time, select a
 different spell to become permanent.
 
-### Planar Turning [\[Epic\]]{.small} {#planar-turning}
+### Planar Turning (featType:: Epic)
 
 **Prerequisites:** Wis 25, Cha 25, ability to turn or rebuke undead.
 
@@ -1809,7 +1609,7 @@ nonevil outsiders. If the character can rebuke undead, he or she rebukes
 (or commands) all evil outsiders and turns (or destroys) all nonevil
 outsiders.
 
-### Plant Wild Shape [\[Wild\]\[Epic\]]{.small} {#plant-wild-shape}
+### Plant Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisites:** Knowledge (nature) 24 ranks, *wild shape* 4/day.
 
@@ -1817,7 +1617,7 @@ outsiders.
 ability to take the form of a plant. The size limitation is the same as
 the character's limitation on animal size.
 
-### Polyglot [\[Epic\]]{.small} {#polyglot}
+### Polyglot (featType:: Epic)
 
 **Prerequisites:** Int 25, Speak Language (five languages).
 
@@ -1825,7 +1625,7 @@ the character's limitation on animal size.
 literate, he or she can also read and write all languages (not including
 magical script).
 
-### Positive Energy Aura [\[Epic\]]{.small} {#positive-energy-aura}
+### Positive Energy Aura (featType:: Epic)
 
 **Prerequisites:** Cha 25, ability to turn undead, ability to cast
 *dispel evil.*
@@ -1840,7 +1640,7 @@ undead with Hit Dice equal to or less than the character's effective
 cleric level minus 20). Just as with normal turning, the character can't
 affect undead that have total cover relative to him or her.
 
-### Power Knowledge [\[Epic, Psionic\]]{.small} {#power-knowledge}
+### Power Knowledge (featType:: Epic, Psionic)
 
 You add two additional powers to your list of powers known.
 
@@ -1855,7 +1655,7 @@ class list or the list for your discipline.
 two new powers at any level up to the highest level of power you can
 manifest.
 
-### Psicrystal Power [\[Epic, Psionic\]]{.small} {#psicrystal-power}
+### Psicrystal Power (featType:: Epic, Psionic)
 
 Your psicrystal can manifest a power.
 
@@ -1876,7 +1676,7 @@ All power points gained by a psicrystal from multiple applications of
 this feat go into its reserve and can be used to manifest the powers it
 knows as you desire.
 
-### Ranged Inspiration [\[Epic\]]{.small} {#ranged-inspiration}
+### Ranged Inspiration (featType:: Epic)
 
 **Prerequisite:** Bardic music class feature, Perform 25 ranks
 
@@ -1888,7 +1688,7 @@ range the bard's ability may have.)
 **Special:** A character can gain this feat multiple times. Its effects
 stack. Remember that two doublings equals a tripling, and so forth.
 
-### Rapid Inspiration [\[Epic\]]{.small} {#rapid-inspiration}
+### Rapid Inspiration (featType:: Epic)
 
 **Prerequisite:** Perform 25 ranks, bardic music class feature.
 
@@ -1896,7 +1696,7 @@ stack. Remember that two doublings equals a tripling, and so forth.
 inspiration abilities as a standard action. The inspiration takes effect
 immediately after the character concludes the action.
 
-### Reactive Countersong [\[Epic\]]{.small} {#reactive-countersong}
+### Reactive Countersong (featType:: Epic)
 
 **Prerequisite:** Combat Reflexes, Perform 30 ranks, bardic music class
 feature.
@@ -1912,7 +1712,7 @@ Countersong if so desired).
 **Normal:** Without this feat, a character can only use counter-song on
 his or her turn.
 
-### Reflect Arrows [\[Epic\]]{.small} {#reflect-arrows}
+### Reflect Arrows (featType:: Epic)
 
 **Prerequisites:** Dex 25, Deflect Arrows, Improved Unarmed Strike.
 
@@ -1920,7 +1720,7 @@ his or her turn.
 attack, the attack is reflected back upon the attacker at the
 character's base ranged attack bonus.
 
-### Righteous Strike [\[Epic\]]{.small} {#righteous-strike}
+### Righteous Strike (featType:: Epic)
 
 **Prerequisites:** Wis 19, Improved Unarmed Strike, Stunning Fist, any
 lawful alignment.
@@ -1930,7 +1730,7 @@ weapon (it is lawfully aligned and deals an extra 2d6 points of damage
 against creatures of chaotic alignment). This ability doesn't stack with
 similar abilities.
 
-### Ruinous Rage [\[Epic\]]{.small} {#ruinous-rage}
+### Ruinous Rage (featType:: Epic)
 
 **Prerequisites:** Str 25, Improved Sunder, Power Attack, rage 5/day.
 
@@ -1940,7 +1740,7 @@ for the purposes of any Strength check made to break an object with
 sudden force rather than by dealing normal damage (including bursting
 bindings, such as ropes or manacles).
 
-### Scribe Epic Scroll [\[Item Creation\]\[Epic\]]{.small} {#scribe-epic-scroll}
+### Scribe Epic Scroll (featType:: Item Creation\]\[Epic)
 
 **Prerequisites:** Scribe Scroll, Knowledge (arcana) 24 ranks,
 Spellcraft 24 ranks.
@@ -1949,7 +1749,7 @@ Spellcraft 24 ranks.
 limits for such items. Even this feat does not allow the character to
 scribe a scroll with an epic spell.
 
-### Self-Concealment [\[Epic\]]{.small} {#self-concealment}
+### Self-Concealment (featType:: Epic)
 
 **Prerequisites:** Dex 30, Hide 30 ranks, Tumble 30 ranks, improved
 evasion.
@@ -1962,7 +1762,7 @@ whenever he or she would lose his or her Dexterity bonus to AC.
 taken, the miss chance increases by 10% to a maximum of 50% after it has
 been taken five times.
 
-### Shattering Strike [\[Epic\]]{.small} {#shattering-strike}
+### Shattering Strike (featType:: Epic)
 
 **Prerequisites:** Epic Weapon Focus (unarmed strike), Weapon Focus
 (unarmed strike), Concentration 25 ranks, *ki* strike (adamantine).
@@ -1975,14 +1775,14 @@ attacks of opportunity. The character can't use Shattering Strike to
 escape bonds (unless he or she is so bound as to allow the character to
 make an unarmed strike against his or her bindings).
 
-### Sneak Attack of Opportunity [\[Epic\]]{.small} {#sneak-attack-of-opportunity}
+### Sneak Attack of Opportunity (featType:: Epic)
 
 **Prerequisites:** Sneak attack +8d6, opportunist class feature.
 
 **Benefit:** Any attack of opportunity the character makes is considered
 a sneak attack.
 
-### Spectral Strike [\[Epic\]]{.small} {#spectral-strike}
+### Spectral Strike (featType:: Epic)
 
 **Prerequisites:** Wis 19, ability to turn or rebuke undead.
 
@@ -1992,7 +1792,7 @@ incorporeal creatures.
 **Normal:** Without this feat, even attacks that can damage an
 incorporeal creature have a 50% chance to deal no damage.
 
-### Spell Knowledge [\[Epic\]]{.small} {#spell-knowledge}
+### Spell Knowledge (featType:: Epic)
 
 **Prerequisite:** Ability to cast spells of the maximum normal spell
 level of an arcane spellcasting class.
@@ -2003,7 +1803,7 @@ additional spell slots.
 
 **Special:** A character can gain this feat multiple times.
 
-### Spell Opportunity [\[Epic\]]{.small} {#spell-opportunity}
+### Spell Opportunity (featType:: Epic)
 
 **Prerequisites:** Combat Casting, Combat Reflexes, Quicken Spell,
 Spellcraft 25 ranks.
@@ -2016,7 +1816,7 @@ character had cast the spell normally.
 **Normal:** Without this feat, a character can only make a melee attack
 as an attack of opportunity.
 
-### Spell Stowaway [\[Epic\]]{.small} {#spell-stowaway}
+### Spell Stowaway (featType:: Epic)
 
 **Prerequisites:** Spellcraft 24 ranks, caster level 12th.
 
@@ -2035,7 +1835,7 @@ original caster's level.
 do not stack. Each time a character takes the feat, it applies to a
 different spell or spell-like ability.
 
-### Spellcasting Harrier [\[Epic\]]{.small} {#spellcasting-harrier}
+### Spellcasting Harrier (featType:: Epic)
 
 **Prerequisite:** Combat Reflexes.
 
@@ -2043,7 +1843,7 @@ different spell or spell-like ability.
 an attack of opportunity if he or she tries to cast defensively. The
 character gets a +4 bonus on this attack roll.
 
-### Spontaneous Domain Access [\[Epic\]]{.small} {#spontaneous-domain-access}
+### Spontaneous Domain Access (featType:: Epic)
 
 **Prerequisites:** Wis 25, Spellcraft 30 ranks, ability to cast
 9th-level divine spells.
@@ -2056,7 +1856,7 @@ just as a cleric channels energy to convert spells into *cure* spells.
 **Special:** A character can gain this feat multiple times. Each time a
 character takes the feat, it applies to a different domain.
 
-### Spontaneous Spell [\[Epic\]]{.small} {#spontaneous-spell}
+### Spontaneous Spell (featType:: Epic)
 
 **Prerequisite:** Spellcraft 25 ranks, ability to cast the maximum
 normal spell level of at least one spell-casting class.
@@ -2069,7 +1869,7 @@ spells into *cure* spells.
 **Special:** A character can gain this feat multiple times. Each time he
 or she takes the feat, it applies to a different spell.
 
-### Storm of Throws [\[Epic\]]{.small} {#storm-of-throws}
+### Storm of Throws (featType:: Epic)
 
 **Prerequisite:** Dex 23, Point Blank Shot, Quick Draw, Rapid Shot.
 
@@ -2077,14 +1877,14 @@ or she takes the feat, it applies to a different spell.
 weapon at his or her full base attack bonus at each opponent within 30
 feet. All light weapons thrown need not be the same type.
 
-### Superior Initiative [\[Epic\]]{.small} {#superior-initiative}
+### Superior Initiative (featType:: Epic)
 
 **Prerequisite:** Improved Initiative.
 
 **Benefit:** The character gets a +8 bonus on initiative checks. This
 bonus overlaps (does not stack with) the bonus from Improved Initiative.
 
-### Swarm of Arrows [\[Epic\]]{.small} {#swarm-of-arrows}
+### Swarm of Arrows (featType:: Epic)
 
 **Prerequisites:** Dex 23, Point Blank Shot, Rapid Shot, Weapon Focus
 (type of bow used).
@@ -2092,7 +1892,7 @@ bonus overlaps (does not stack with) the bonus from Improved Initiative.
 **Benefit:** As a full-round action, the character may fire an arrow at
 his or her full base attack bonus at each opponent within 30 feet.
 
-### Terrifying Rage [\[Epic\]]{.small} {#terrifying-rage}
+### Terrifying Rage (featType:: Epic)
 
 **Prerequisites:** Intimidate 25 ranks, rage 5/day
 
@@ -2103,7 +1903,7 @@ or up to twice your character level) for 4d6 rounds. An enemy with Hit
 Dice greater than twice your character level is not affected by this
 feat.
 
-### Tenacious Magic [\[Epic\]]{.small} {#tenacious-magic}
+### Tenacious Magic (featType:: Epic)
 
 **Prerequisites:** Spellcraft 15 ranks.
 
@@ -2119,7 +1919,7 @@ dismissible) or dispel his or her own tenacious magic normally.
 or she takes the feat, it applies to a different spell or spell-like
 ability.
 
-### Thundering Rage [\[Epic\]]{.small} {#thundering-rage}
+### Thundering Rage (featType:: Epic)
 
 **Prerequisites:** Str 25, rage 5/day.
 
@@ -2128,7 +1928,7 @@ as a thundering weapon. The DC of the Fortitude save to resist deafness
 is equal to 10 + 1/2 the character's level. This ability does not stack
 with similar abilities.
 
-### Trap Sense [\[Epic\]]{.small} {#trap-sense}
+### Trap Sense (featType:: Epic)
 
 **Prerequisites:** Search 25 ranks, Spot 25 ranks, trapfinding class
 ability.
@@ -2137,7 +1937,7 @@ ability.
 is entitled to a Search check to notice it as if the character was
 actively looking for it.
 
-### Two-Weapon Rend [\[Epic\]]{.small} {#two-weapon-rend}
+### Two-Weapon Rend (featType:: Epic)
 
 **Prerequisites:** Dex 15, base attack bonus +9, Improved Two-Weapon
 Fighting, Two-Weapon Fighting.
@@ -2150,7 +1950,7 @@ damage includes an enhancement bonus on damage, if any. The character
 can only rend once per round, regardless of how many successful attacks
 he or she makes.
 
-### Uncanny Accuracy [\[Epic\]]{.small} {#uncanny-accuracy}
+### Uncanny Accuracy (featType:: Epic)
 
 **Prerequisites:** Dex 21, base attack bonus +11, Point Blank Shot,
 Precise Shot, Improved Precise Shot, Spot 20 ranks.
@@ -2166,14 +1966,14 @@ making a ranged attack against a target with total concealment.
 for this feat even if he or she does not have the prerequisites for it,
 but can only use it when wearing light or no armor.
 
-### Undead Mastery [\[Divine\]\[Epic\]]{.small} {#undead-mastery}
+### Undead Mastery (featType:: Divine\]\[Epic)
 
 **Prerequisites:** Cha 21, ability to rebuke or command undead.
 
 **Benefit:** The character may command up to ten times his or her level
 in HD of undead.
 
-### Unholy Strike [\[Epic\]]{.small} {#unholy-strike}
+### Unholy Strike (featType:: Epic)
 
 **Prerequisites:** Smite good class feature, any evil alignment.
 
@@ -2183,7 +1983,7 @@ against creatures of good alignment). This ability doesn't stack with
 similar abilities. If the weapon already has an alignment, this feat has
 no effect on the weapon.
 
-### Vermin Wild Shape [\[Wild\]\[Epic\]]{.small} {#vermin-wild-shape}
+### Vermin Wild Shape (featType:: Wild\]\[Epic)
 
 **Prerequisites:** Knowledge (nature) 24 ranks, *wild shape* 6/day.
 
@@ -2191,7 +1991,7 @@ no effect on the weapon.
 ability to take the form of a vermin. The size limitation is the same as
 the character's limitation on animal size.
 
-### Vorpal Strike [\[Epic\]]{.small} {#vorpal-strike}
+### Vorpal Strike (featType:: Epic)
 
 **Prerequisites:** Str 25, Wis 25, Improved Critical (unarmed strike),
 Improved Unarmed Strike, Keen Strike, Stunning Fist, *ki* strike
@@ -2202,21 +2002,21 @@ slashing vorpal weapon. (At the character's option, any unarmed strike
 can do bludgeoning damage instead, but it loses the vorpal quality.)
 This ability doesn't stack with similar abilities
 
-### Widen Aura of Courage [\[Epic\]]{.small} {#widen-aura-of-courage}
+### Widen Aura of Courage (featType:: Epic)
 
 **Prerequisite:** Cha 25, aura of courage class ability.
 
 **Benefit:** The character's aura of courage extends to all allies
 within 100 feet of the character.
 
-### Widen Aura of Despair [\[Epic\]]{.small} {#widen-aura-of-despair}
+### Widen Aura of Despair (featType:: Epic)
 
 **Prerequisite:** Cha 25, aura of despair class ability.
 
 **Benefit:** The character's aura of despair extends to all allies
 within 100 feet of the character.
 
-### Zone of Animation [\[Divine\]\[Epic\]]{.small} {#zone-of-animation}
+### Zone of Animation (featType:: Divine\]\[Epic)
 
 **Prerequisite:** Cha 25, Undead Mastery, ability to rebuke or command
 undead.
@@ -2236,7 +2036,7 @@ fresh, the animated undead are zombies. Otherwise, they are skeletons.
 These feats are not epic feats, so they may be selected by character any
 time he or she could select a new feat.
 
-### Greater Multiweapon Fighting [\[General\]]{.small} {#greater-multiweapon-fighting}
+### Greater Multiweapon Fighting (featType:: General)
 
 **Prerequisites:** Dex 19, three or more arms, Improved Multiweapon
 Fighting, Multiweapon Fighting, base attack bonus +15.
@@ -2248,7 +2048,7 @@ attack with each weapon.
 **Special:** This feat replaces the Greater Two-Weapon Fighting feat for
 creatures with more than two arms.
 
-### Improved Flyby Attack [\[General\]]{.small} {#improved-flyby-attack}
+### Improved Flyby Attack (featType:: General)
 
 **Prerequisite:** Fly speed, Dodge, Flyby Attack, Mobility.
 
@@ -2261,7 +2061,7 @@ target.
 Flyby Attack maneuver provokes attacks of opportunity as normal from
 moving out of squares threatened by its target.
 
-### Improved Multiattack [\[General\]]{.small} {#improved-multiattack}
+### Improved Multiattack (featType:: General)
 
 **Prerequisite:** Three or more natural weapons, Multiattack
 
@@ -2272,7 +2072,7 @@ if any, to damage dealt.
 **Normal:** Without this feat, the creature's secondary natural attacks
 have a --5 penalty (or a --2 penalty if it has the Multiattack feat).
 
-### Improved Multiweapon Fighting [\[General\]]{.small} {#improved-multiweapon-fighting}
+### Improved Multiweapon Fighting (featType:: General)
 
 **Prerequisites:** Dex 15, three or more arms, Multiweapon Fighting,
 base attack bonus +9.

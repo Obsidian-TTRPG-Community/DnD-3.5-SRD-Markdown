@@ -1,95 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Monsters (G-W)
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC MONSTERS (G-W)
-
-## Table of Contents
-
--   [Genius Loci](#genius-loci)
-    -   [Combat](#genius-loci--combat)
--   [Gibbering Orb](#gibbering-orb)
-    -   [Combat](#gibbering-orb--combat)
--   [Gloom](#gloom)
-    -   [Combat](#gloom--combat)
--   [Golem](#golem)
-    -   [Mithral Golem](#mithral-golem)
-        -   [Combat](#mithral-golem--combat)
-    -   [Construction](#golem--construction)
-    -   [Adamantine Golem](#adamantine-golem)
-        -   [Combat](#adamantine-golem--combat)
-        -   [Construction](#adamantine-golem--construction)
--   [Ha-Naga](#ha-naga)
-    -   [Combat](#ha-naga--combat)
--   [Hagunemnon (Protean)](#hagunemnon)
-    -   [Combat](#hagunemnon--combat)
--   [Hoary Hunter](#hoary-hunter)
-    -   [Combat](#hoary-hunter--combat)
-    -   [Hoary Steed](#hoary-steed)
-        -   [Combat](#hoary-steed--combat)
--   [Hunefer](#hunefer)
-    -   [Combat](#hunefer--combat)
--   [Lavawight](#lavawight)
-    -   [Combat](#lavawight--combat)
--   [Legendary Animal](#legendary-animal)
-    -   [Legendary Bear](#legendary-bear)
-        -   [Combat](#legendary-bear--combat)
-    -   [Legendary Tiger](#legendary-tiger)
-        -   [Combat](#legendary-tiger--combat)
--   [Leshay](#leshay)
-    -   [Combat](#leshay--combat)
--   [Living Vault](#living-vault)
-    -   [Combat](#living-vault--combat)
--   [Mercane](#mercane)
-    -   [Combat](#mercane--combat)
-    -   [Mercane Characters](#mercane-characters)
--   [Mu Spore](#mu-spore)
-    -   [Combat](#mu-spore--combat)
--   [Neh-Thalggu (Brain Collector)](#neh-thalggu)
-    -   [Combat](#neh-thalggu--combat)
--   [Paragon Creature](#paragon-creature)
-    -   [Creating a Paragon Creature](#creating-a-paragon-creature)
--   [Prismasaurus](#prismasaurus)
-    -   [Combat](#prismasaurus--combat)
--   [Pseudonatural Troll](#pseudonatural-troll)
-    -   [Combat](#pseudonatural-troll--combat)
--   [Creating a Pseudonatural
-    Creature](#creating-a-pseudonatural-creature)
--   [Ruin Swarm](#ruin-swarm)
-    -   [Combat](#ruin-swarm--combat)
--   [Shadow of the Void](#shadow-of-the-void)
-    -   [Combat](#shadow-of-the-void--combat)
--   [Shape of Fire](#shape-of-fire)
-    -   [Combat](#shape-of-fire--combat)
--   [Sirrush](#sirrush)
--   [Three-Headed Sirrush](#three-headed-sirrush)
-    -   [Combat](#three-headed-sirrush--combat)
--   [Tayellah](#tayellah)
-    -   [Combat](#tayellah--combat)
--   [Thorciasid](#thorciasid)
-    -   [Combat](#thorciasid--combat)
--   [Titan,Elder](#titan-elder)
-    -   [Combat](#titan-elder--combat)
--   [Treant,Elder](#treant-elder)
-    -   [Combat](#treant-elder--combat)
--   [Umbral Blot (Blackball)](#umbral-blot)
-    -   [Combat](#umbral-blot--combat)
--   [Uvuudaum](#uvuudaum)
-    -   [Combat](#uvuudaum--combat)
--   [Vermiurge](#vermiurge)
-    -   [Combat](#vermiurge--combat)
--   [Winterwight](#winterwight)
-    -   [Combat](#winterwight--combat)
--   [Worm That Walks](#worm-that-walks)
-    -   [Combat](#worm-that-walks--combat)
--   [Creating a Worm That Walks](#creating-a-worm-that-walks)
-    -   [Worm That Walks Characters](#worm-that-walks-characters)
-    -   [Gathering of Maggots](#gathering-of-maggots)
 
 ## Genius Loci
 
@@ -127,7 +44,7 @@ amiss, though it is difficult to tell exactly what. Genius loci do not
 speak directly, though they may do so through their currently enslaved
 thrall.
 
-### Combat {#genius-loci--combat}
+### Combat
 
 A genius loci can directly attack any creature standing on its surface
 with animated parts of itself, delivering slam attacks. It also directs
@@ -205,7 +122,7 @@ A gibbering orb can speak all languages.
 A gibbering orb's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#gibbering-orb--combat}
+### Combat
 
 The gibbering orb has the ability to bite its foes by extending a
 pseudopod with one of its mouths protruding from the end. The orb can
@@ -302,7 +219,7 @@ dagger.*
 A gloom's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#gloom--combat}
+### Combat
 
 **Fear Gaze (Su):** Viewing the gloom's face inspires terror. Creatures
 that meet the gloom's gaze must succeed at a Will save (DC 32) or suffer
@@ -391,7 +308,7 @@ a normal creature.
 A mithral golem's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-#### Combat {#mithral-golem--combat}
+#### Combat
 
 **Alacrity (Su):** Once per round, the mithral golem may take an extra
 standard action (either before or after its other actions in the round).
@@ -403,7 +320,7 @@ per level of the caster (maximum 10d6) or restores its alacrity, if
 previously negated by a *slow* spell. Multiple *slow* spells simply
 extend the duration of the effect.
 
-### Construction {#golem--construction}
+### Construction
 
 A mithral golem's body is sculpted from 8 1/2 tons of pure iron and is
 then polymorphed into mithral (using *polymorph any object).*A mithral
@@ -422,7 +339,7 @@ have any distinguishable odor.
 An adamantine golem's natural weapons are treated as epic for the
 purpose of overcoming damage reduction.
 
-#### Combat {#adamantine-golem--combat}
+#### Combat
 
 **Trample (Ex):** As a standard action during its turn each round, the
 adamantine golem can literally run over an opponent at least one size
@@ -434,7 +351,7 @@ The DC is Strength-based.
 **Magic Immunity (Ex):** An adamantine golem is immune to all magical
 and supernatural effects.
 
-#### Construction {#adamantine-golem--construction}
+#### Construction
 
 An adamantine golem's body is sculpted from 45,000 pounds of pure iron
 and is then polymorphed into adamantine (using *polymorph any
@@ -474,7 +391,7 @@ from the creator and requires *crushing hand, geas/quest,* and *wish.*
 A ha-naga's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#ha-naga--combat}
+### Combat
 
 **Flight (Su):** As per the *fly* spell, 120 ft. (perfect). This ability
 gives the ha-naga a +6 circumstance bonus on Move Silently checks.
@@ -498,7 +415,7 @@ successful grapple attack against Huge or smaller opponents.
 also cast cleric spells and spells from the domains of Chaos and Evil as
 arcane spells (save DC 33 + spell level). The DC is Charisma-based.
 
-## Hagunemnon (Protean) {#hagunemnon}
+## Hagunemnon (Protean)
 
   ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          Large Aberration (Shapechanger)
@@ -528,7 +445,7 @@ arcane spells (save DC 33 + spell level). The DC is Charisma-based.
 A hagunemnon's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#hagunemnon--combat}
+### Combat
 
 **Psionics (Sp):** At will *---detect thoughts, dimension door, ethereal
 jaunt, knock, nondetection, plane shift, suggestion.*Caster level 20th,
@@ -657,7 +574,7 @@ appropriate to the attack type.
 A hoary hunter's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#hoary-hunter--combat}
+### Combat
 
 A critical hit (or the blow that would kill or render a foe unconscious)
 from the hoary hunter's blade does not wound the hunter's prey. Instead,
@@ -680,7 +597,7 @@ spell has been exhausted for the day.
 A hoary steed's natural weapons are treated as magic for the purpose of
 overcoming damage reduction.
 
-#### Combat {#hoary-steed--combat}
+#### Combat
 
 **Air Walk (Su):** A hoary steed can ride through the air as well as on
 the ground, as though affected by a permanent *air walk* spell.
@@ -727,7 +644,7 @@ spells or abilities.
 Hunefers speak all spoken languages, though it takes one 1d4 rounds to
 switch between languages.
 
-### Combat {#hunefer--combat}
+### Combat
 
 **Despair (Su):** The mere sight of a hunefer requires viewers to
 succeed at a Will saving throw (DC 48) or be paralyzed with fear for 1d4
@@ -791,7 +708,7 @@ is willing.
 
 Lavawights speak Common and Infernal.
 
-### Combat {#lavawight--combat}
+### Combat
 
 **Rend (Ex):** If the lavawight hits with both of its claws, it latches
 onto the opponent's body and tears the flesh. This attack automatically
@@ -900,14 +817,14 @@ Damage reduction of 10/--.
 
 ### Legendary Bear
 
-#### Combat {#legendary-bear--combat}
+#### Combat
 
 **Improved Grab (Ex):** To use this ability, a legendary bear must hit
 with a claw attack.
 
 ### Legendary Tiger
 
-#### Combat {#legendary-tiger--combat}
+#### Combat
 
 **Pounce (Ex):** If a legendary tiger leaps upon a foe during the first
 round of combat, it can make a full attack even if it has already taken
@@ -954,7 +871,7 @@ Hide bonus improves to +16.
 A leshay's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#leshay--combat}
+### Combat
 
 **Spell-Like Abilities:** At will---*alter self, detect thoughts,
 displacement, freedom, greater dispelling, heal, greater invisibility,
@@ -1031,7 +948,7 @@ all the objects and creatures stored within immediately emerge.
 A living vault's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#living-vault--combat}
+### Combat
 
 ***Imprisonment* (Sp):** As a free action twice per day, a living vault
 can project a 60-foot cone. Creatures caught in the cone must make a
@@ -1110,7 +1027,7 @@ rounds.
 Mercanes speak Abyssal, Celestial, Draconic, Infernal, and at least two
 other languages.
 
-### Combat {#mercane--combat}
+### Combat
 
 **Spell-Like Abilities:** 3/day---*dimension door, invisibility;*
 1/day---*secret chest, plane shift.* Caster level 14th; save DC 12 +
@@ -1158,7 +1075,7 @@ Mu spores speak Common and Terran.
 A mu spore's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#mu-spore--combat}
+### Combat
 
 **Spore Cough (Su):** Once every 1d4 rounds a mu spore can release a
 cloud of burrowing spores. This spore cough is treated as a
@@ -1201,7 +1118,7 @@ those with natural attacks only) do not have this option.
 **Plant Traits:** Immune to poison, *sleep,* paralysis, stunning, and
 polymorphing; not subject to critical hits or mind-affecting effects.
 
-## Neh-Thalggu (Brain Collector) {#neh-thalggu}
+## Neh-Thalggu (Brain Collector)
 
   ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------
                          Huge Aberration (Extraplanar, Incorporeal)
@@ -1239,7 +1156,7 @@ any creature that has a language within 100 feet.
 A neh-thalggu's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#neh-thalggu--combat}
+### Combat
 
 **Poison (Ex):** A neh-thalggu's bite injects a debilitating poison (DC
 32) that Damages the victim's Constitution. He or she loses half his or
@@ -1409,7 +1326,7 @@ skill checks.
   Advancement:           61--90 HD (Huge); 91--150 HD (Gargantuan)
   ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Combat {#prismasaurus--combat}
+### Combat
 
 **Prismatic Emanations (Su):** The reflected and refracted light from
 the prismasaurus's crystalline ridge functions very similarly to the
@@ -1461,7 +1378,7 @@ Pseudotrolls speak Giant.
 A pseudotroll's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#pseudonatural-troll--combat}
+### Combat
 
 **Constant Insight (Su):** A pseudotroll makes all its attacks
 (including grapples) with a +15 insight bonus (calculated into the above
@@ -1630,7 +1547,7 @@ as base creature +13; 16+ HD, as base creature +10
   Advancement:           None
   ---------------------- ------------------------------------------------------------
 
-### Combat {#ruin-swarm--combat}
+### Combat
 
 **Blinding (Ex):** Any living creature that begins its turn with a ruin
 swarm in its space must make a Fortitude save (DC 51) or be blinded for
@@ -1705,7 +1622,7 @@ has darkvision (60-foot range).
 A shadow of the void's natural weapons are treated as epic for the
 purpose of overcoming damage reduction.
 
-### Combat {#shadow-of-the-void--combat}
+### Combat
 
 **Blightfire (Su):** Living creatures taking Damage from a shadow of the
 void's incorporeal touch attack find themselves ignited with blightfire;
@@ -1784,7 +1701,7 @@ points of cold Damage each round they remain within the cold aura.
 A shape of fire's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#shape-of-fire--combat}
+### Combat
 
 **Blazefire (Su):** Living creatures taking Damage from a shape of
 fire's incorporeal touch attack find them-selves ignited with blazefire;
@@ -1891,7 +1808,7 @@ Sirrushes speak Sylvan and Draconic.
 A sirrush's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#three-headed-sirrush--combat}
+### Combat
 
 **Stunning Roar (Ex):** Every 1d4 rounds, a sirrush can loose a sonic
 attack of such volume that it stuns all creatures in a 60-foot spread
@@ -1943,7 +1860,7 @@ or two fewer bite attacks when it makes a full attack).
 A tayellah's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#tayellah--combat}
+### Combat
 
 **Poison (Ex):** Sting, Fort save (DC 39); initial and secondary Damage
 2d10 temporary Con. The save DC is Constitution-based.
@@ -1992,7 +1909,7 @@ Thorciasids speak Common, Elven, Dwarven, and Giant.
 A thorciasid's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#thorciasid--combat}
+### Combat
 
 **Cocoon (Ex):** A thorciasid can eject a stream of noxious goo that
 hardens on contact, potentially fixing a subject in place and hindering
@@ -2027,7 +1944,7 @@ its Constitution that lasts for 24 hours. The negative levels similarly
 last for 24 hours, at which time the victim must make a Fortitude saving
 throw (DC 34) to avoid level loss. The save DC is Charisma-based.
 
-## Titan,Elder {#titan-elder}
+## Titan,Elder
 
   ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          Colossal Outsider (Extraplanar)
@@ -2057,7 +1974,7 @@ throw (DC 34) to avoid level loss. The save DC is Charisma-based.
 An elder titan's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#titan-elder--combat}
+### Combat
 
 **Spell-Like Abilities:** At will---*alter self, analyze dweomer,
 commune with nature, cure critical wounds, eyebite, freedom of movement,
@@ -2075,7 +1992,7 @@ the Knowledge and Magic domains. He will also possess the knowledge of
 at least three epic spells and the means by which to develop them,
 though he may not have done so himself.
 
-## Treant,Elder {#treant-elder}
+## Treant,Elder
 
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------
                          Colossal Plant
@@ -2106,7 +2023,7 @@ though he may not have done so himself.
 
 Elder treants speak the language of treants, plus Common and Sylvan.
 
-### Combat {#treant-elder--combat}
+### Combat
 
 ***Animate Trees* (Sp):** An elder treant can animate trees within 500
 feet at will, controlling up to six trees at a time. It takes a full
@@ -2135,7 +2052,7 @@ only), *plant growth, sunburst, wall of thorns;* 1/day---*shambler.*
 Caster level 23rd; save DC 22 + spell level. The save DCs are
 Charisma-based.
 
-## Umbral Blot (Blackball) {#umbral-blot}
+## Umbral Blot (Blackball)
 
   ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          Medium-Size Construct
@@ -2162,7 +2079,7 @@ Charisma-based.
   Advancement:           58--63 HD (Medium-size); 64--79 HD (Large); 80--95 HD (Huge); 96--171 HD (Gargantuan)
   ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Combat {#umbral-blot--combat}
+### Combat
 
 **Disintegrating Touch (Ex):** Any material object that comes into
 contact with a blackball is immediately disintegrated unless it succeeds
@@ -2238,7 +2155,7 @@ has a language.
 A uvuudaum's natural weapons are treated as epic and evil for the
 purpose of overcoming damage reduction.
 
-### Combat {#uvuudaum--combat}
+### Combat
 
 **Confusion Aura (Su):** This ability operates continuously, as the
 *confusion* spell but with a 30-foot radius. Potential victims can make
@@ -2299,7 +2216,7 @@ Vermiurges speak Terran.
 A vermiurge's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#vermiurge--combat}
+### Combat
 
 **Aura of Doom (Su):** A vermiurge is constantly affected as if by a
 *crown of vermin* spell (epic spell) cast by a 42nd-level caster. As per
@@ -2358,7 +2275,7 @@ Winterwights speak Common and Infernal.
 A winterwight's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#winterwight--combat}
+### Combat
 
 **Rend (Ex):** If the winterwight hits with both of its claws, it
 latches onto the opponent's body and tears the flesh. This attack
@@ -2429,7 +2346,7 @@ of cold Damage each round they remain within the cold aura.
 A worm that walks rarely speaks, although it retains knowledge of all
 languages it knew in life, as well as any it has learned since.
 
-### Combat {#worm-that-walks--combat}
+### Combat
 
 **Spells:** A worm that walks can cast any spells it could cast as a
 character. This sample worm was a 23rd-level wizard (spells per day:

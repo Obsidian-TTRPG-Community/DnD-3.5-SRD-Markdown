@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Level Basics
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -70,11 +69,6 @@ Although most of the tables only show information up to a certain level
 (often 30th), that level is by no means the limit of a character's
 advancement. It can be generally assumed that any patterns on a
 particular table continue infinitely.
-
-## Table of Contents
-
--   [Class Features](#class-features)
--   [Adding a Second Class](#adding-a-second-class)
 
 ## Class Features
 

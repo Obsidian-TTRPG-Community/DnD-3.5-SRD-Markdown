@@ -1,93 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Monsters (A-E)
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC MONSTERS (A-E)
-
-## Table of Contents
-
--   [Abomination](#abomination)
-    -   [Building Abominations](#building-abominations)
-        -   [Abomination Traits](#abomination-traits)
--   [Anaxim](#anaxim)
-    -   [Combat](#anaxim--combat)
--   [Atropal](#atropal)
-    -   [Combat](#atropal--combat)
--   [Chichimec](#chichimec)
-    -   [Combat](#chichimec--combat)
--   [Dream Larva](#dream-larva)
-    -   [Combat](#dream-larva--combat)
--   [Hecatoncheires](#hecatoncheires)
-    -   [Combat](#hecatoncheires--combat)
--   [Infernal](#infernal)
-    -   [Combat](#infernal--combat)
--   [Phaethon](#phaethon)
-    -   [Combat](#phaethon--combat)
--   [Phane](#phane)
-    -   [Combat](#phane--combat)
--   [Xixecal](#xixecal)
-    -   [Combat](#xixecal--combat)
--   [Behemoth](#behemoth)
-    -   [Behemoth Eagle](#behemoth-eagle)
-    -   [Behemoth Gorilla](#behemoth-gorilla)
-    -   [Combat](#behemoth--combat)
--   [Brachyurus](#brachyurus)
-    -   [Combat](#brachyurus--combat)
--   [Colossus](#colossus)
-    -   [Construction](#colossus--construction)
-    -   [Stone Colossus](#stone-colossus)
-        -   [Combat](#stone-colossus--combat)
-        -   [Construction](#stone-colossus--construction)
-    -   [Flesh Colossus](#flesh-colossus)
-        -   [Combat](#flesh-colossus--combat)
-        -   [Construction](#flesh-colossus--construction)
-    -   [Iron Colossus](#iron-colossus)
-        -   [Construction](#iron-colossus--construction)
--   [Demilich](#demilich)
-    -   [Combat](#demilich--combat)
-    -   [Creating a Demilich](#creating-a-demilich)
-    -   [Demilich Characters](#demilich-characters)
-    -   [Creating Soul Gems](#creating-soul-gems)
--   [Devastation Vermin](#devastation-vermin)
-    -   [Devastation Centipede](#devastation-centipede)
-    -   [Devastation Spider](#devastation-spider)
-    -   [Devastation Scorpion](#devastation-scorpion)
-    -   [Devastation Beetle](#devastation-beetle)
--   [Dragon, Advanced](#dragon-advanced)
--   [Dragon,Epic](#dragon-epic)
-    -   [Epic Dragon Age Categories](#epic-dragon-age-categories)
-    -   [Combat](#dragon-epic--combat)
-        -   [Epic Dragon Space and Reach](#epic-dragon-space-and-reach)
-        -   [Epic Dragon Attacks](#epic-dragon-attacks)
-        -   [Epic Dragon Breath Weapons](#epic-dragon-breath-weapons)
-        -   [Epic Dragon Overland Flying
-            Speeds](#epic-dragon-overland-flying-speeds)
-    -   [Force Dragon](#force-dragon)
-        -   [Force Dragons by Age](#force-dragons-by-age)
-        -   [Force Dragon Abilities by
-            Age](#force-dragon-abilities-by-age)
-        -   [Combat](#force-dragon-epic--combat)
-    -   [Sample Force Dragon,Adult](#sample-force-dragon-adult)
-    -   [Prismatic Dragon](#prismatic-dragon)
-        -   [Prismatic Dragons by Age](#prismatic-dragons-by-age)
-        -   [Prismatic Dragon Abilities by
-            Age](#prismatic-dragon-abilities-by-age)
-        -   [Combat](#prismatic-dragon-epic--combat)
-    -   [Sample Prismatic Dragon, Old](#sample-prismatic-dragon-old)
--   [Elemental,Primal](#elemental-primal)
-    -   [Primal Air Elemental](#primal-air-elemental)
-        -   [Combat](#primal-air-elemental-primal--combat)
-    -   [Primal Earth Elemental](#primal-earth-elemental)
-        -   [Combat](#primal-earth-elemental-primal--combat)
-    -   [Primal Fire Elemental](#primal-fire-elemental)
-        -   [Combat](#primal-fire-elemental-primal--combat)
-    -   [Primal Water Elemental](#primal-water-elemental)
-        -   [Combat](#primal-water-elemental--combat)
 
 ## Abomination
 
@@ -209,7 +128,7 @@ associated with their imprisonment.
 An anaxim's natural weapons are treated as epic and lawful-aligned for
 the purpose of overcoming damage reduction.
 
-### Combat {#anaxim--combat}
+### Combat
 
 **Sonic Blast (Ex):** As a standard action, an anaxim can emit a 60-foot
 cone of sonic energy that deals 20d6 points of sonic damage to all
@@ -275,7 +194,7 @@ less; cannot be raised or resurrected. Darkvision 60 ft.
 An atropal's natural weapons are treated as epic, evil, and
 lawful-aligned for the purpose of overcoming damage reduction.
 
-### Combat {#atropal--combat}
+### Combat
 
 **Spell-Like Abilities:** At will---*animate dead, blasphemy, create
 greater undead, create undead, cone of cold, desecrate, greater
@@ -369,7 +288,7 @@ is willing.
 An chichimec's natural weapons are treated as epic and evil-aligned for
 the purpose of overcoming damage reduction.
 
-### Combat {#chichimec--combat}
+### Combat
 
 **Spell-Like Abilities:** At will---*darkness, telekinesis;*
 *3/day---improved invisibility, control weather, call lightning,
@@ -424,7 +343,7 @@ seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
 A dream larvas's natural weapons are treated as epic, evil, and
 chaotic-aligned for the purpose of overcoming damage reduction.
 
-### Combat {#dream-larva--combat}
+### Combat
 
 **Worst Nightmare (Su):** Each time a living creature first views a
 specific dream larva from a distance of 30 feet or less (or from a
@@ -510,7 +429,7 @@ lawful weapons or weapons forged by a sleepwalking weaponsmith.
 A hecatoncheires' natural weapons are treated as epic, evil, and
 chaotic-aligned for the purpose of overcoming damage reduction.
 
-### Combat {#hecatoncheires--combat}
+### Combat
 
 **Superior Multiweapon Fighting (Ex):** A hecatoncheires fights with a
 greatsword or a boulder in each hand. The hecatoncheires does not suffer
@@ -574,7 +493,7 @@ An infernal's natural weapons are treated as epic, evil, and
 chaotic-aligned or lawful-aligned for the purpose of overcoming damage
 reduction.
 
-### Combat {#infernal--combat}
+### Combat
 
 **Improved Grab (Ex):** If an infernal hits with a claw, it deals normal
 damage and attempts to start a grapple as a free action without
@@ -651,7 +570,7 @@ versa.
 A phaethon's natural weapons are treated as epic and evil for the
 purpose of overcoming damage reduction.
 
-### Combat {#phaethon--combat}
+### Combat
 
 **Fiery Touch (Ex):** Touching or being touched by a phaethon deals 2d6
 points of fire damage.
@@ -725,7 +644,7 @@ and cold-forged weapons, and double damage from cold or ice weapons.
 A phanes' natural weapons are treated as epic, evil, and chaotic-aligned
 for the purpose of overcoming damage reduction.
 
-### Combat {#phane--combat}
+### Combat
 
 **Spell-Like Abilities:** At will---*detect good, detect magic, improved
 invisibility* (self only); *5/day---haste, slow, greater teleport,
@@ -830,7 +749,7 @@ time stream (if any).
 A xixecal's natural weapons are treated as epic, evil, and
 chaotic-aligned for the purpose of overcoming damage reduction.
 
-### Combat {#xixecal--combat}
+### Combat
 
 **Rend (Ex):** If the xixecal hits with both claw attacks, it latches
 onto the opponent's body and tears the flesh. This attack automatically
@@ -915,7 +834,7 @@ pounds; a medium load, 2,401--4,800 pounds; and a heavy load,
 
 ### Behemoth Gorilla
 
-### Combat {#behemoth--combat}
+### Combat
 
 **Rend (Ex):** A behemoth gorilla that hits with both claw attacks
 latches onto the opponent's body and tears the flesh. This automatically
@@ -948,7 +867,7 @@ deals an additional 8d8+20 points of damage.
   Advancement:           39--48 HD (Large); 49--58 HD (Huge); 59--66 HD (Gargantuan); 67--135 HD (Colossal)
   ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Combat {#brachyurus--combat}
+### Combat
 
 **Frightful Howl (Su):** As a standard action, a brachyurus can emit a
 howl in a 60-foot-radius spread that affects opponents with fewer Hit
@@ -991,7 +910,7 @@ an *antimagic* field cast by a 25th-level caster.
 A colossus's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Construction {#colossus--construction}
+### Construction
 
 The construction cost given for each colossus takes into account the
 physical body and all the materials and spell components that are
@@ -1027,7 +946,7 @@ golem.
 
 A stone colossus cannot speak or make any vocal noise.
 
-#### Combat {#stone-colossus--combat}
+#### Combat
 
 **Shatter (Su):** A stone colossus can use *shatter*(DC 7)as a free
 action once every 2 rounds against an opponent's weapon or other item as
@@ -1040,7 +959,7 @@ round, with no saving throw, while *transmute mud to rock* heals all its
 lost hit points. A *stone to flesh* spell has no effect on a stone
 colossus.
 
-#### Construction {#stone-colossus--construction}
+#### Construction
 
 A stone colossus's body is chiseled from a single block of hard stone,
 such as granite, weighing at least 375,000 pounds. The colossus costs
@@ -1058,7 +977,7 @@ acts as its control-ling spirit. When the controlling spirit is
 suppressed, it mutters in all the tongues spoken by its component
 corpses.
 
-#### Combat {#flesh-colossus--combat}
+#### Combat
 
 **Frightful Presence (Ex):** All who come within a mile of the flesh
 colossus must make Will saves (DC 55). Those who make their saves are
@@ -1094,7 +1013,7 @@ supernatural effects except those that use negative energy (see below).
 the colossus repairs damage taken by the colossus at the rate of 1d10
 hit points per level of the spell.
 
-#### Construction {#flesh-colossus--construction}
+#### Construction
 
 Only a master necromancer of surpassing power can create a flesh
 colossus. The bodies of not less than three hundred previously animated
@@ -1129,7 +1048,7 @@ otherwise deal.
 **Rustproof (Ex):** An iron colossus is not affected by rust attacks,
 unlike smaller iron golems.
 
-#### Construction {#iron-colossus--construction}
+#### Construction
 
 An iron colossus's body is sculpted from 150,000 pounds of pure iron.
 The colossus costs 1,000,000 gp to create, which includes 100,500 gp for
@@ -1172,7 +1091,7 @@ creatures.
 A demilich's natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#demilich--combat}
+### Combat
 
 **Trap the Soul (Su):** A demilich can trap the souls of up to eight
 living creatures per day. To use this power, it selects any target it
@@ -1631,7 +1550,7 @@ additional age category. For epic dragons, CR increases by 3 per
 additional age category. All other dragon statistics are as presented
 for dragons in general and specific dragon varieties.
 
-## Dragon,Epic {#dragon-epic}
+## Dragon,Epic
 
 All epic dragons speak Draconic.
 
@@ -1653,7 +1572,7 @@ All epic dragons speak Draconic.
   12   Great wyrm     2,401+
   ---- -------------- --------------
 
-### Combat {#dragon-epic--combat}
+### Combat
 
 Epic dragons share all the combat characteristics of standard dragons.
 Even wyrmling epic dragons are Huge, however, and are capable of making
@@ -1837,7 +1756,7 @@ A force dragon's natural weapons are treated as magic (wyrmling --
 juvenile) or epic (young adult -- great wyrm) for the purpose of
 overcoming damage reduction.
 
-#### Combat {#force-dragon-epic--combat}
+#### Combat
 
 **Breath Weapon (Su):** A force dragon has one type of breath weapon, a
 cone of force that tears through creatures and objects in its area to
@@ -1871,7 +1790,7 @@ contend with the dragon's *displacement* ability.
 **Spell-Like Abilities:** 3/day---*forcecage, maze, resilient sphere,
 telekinetic sphere, wall of force.*The DCs are Charisma-based.
 
-### Sample Force Dragon,Adult {#sample-force-dragon-adult}
+### Sample Force Dragon,Adult
 
 Gargantuan Dragon (Force)
 
@@ -2046,7 +1965,7 @@ A prismatic dragon's natural weapons are treated as magic (wyrmling --
 juvenile) or epic (young adult -- great wyrm) for the purpose of
 overcoming damage reduction.
 
-#### Combat {#prismatic-dragon-epic--combat}
+#### Combat
 
 **Breath Weapon (Su):** A prismatic dragon has one type of breath
 weapon, a *prismatic spray* effect. The breath weapon's cone is of the
@@ -2152,7 +2071,7 @@ stop, wish*
 
 *Possessions: Staff of the cosmos, ring of regeneration,* 15,563 gp.
 
-## Elemental,Primal {#elemental-primal}
+## Elemental,Primal
 
 **Elemental Traits:** Immune to poison, sleep, paralysis, and stunning.
 Not subject to critical hits.
@@ -2213,7 +2132,7 @@ Not subject to critical hits.
 
 Primal air elementals speak Auran.
 
-#### Combat {#primal-air-elemental-primal--combat}
+#### Combat
 
 **Air Mastery (Ex):** Airborne creatures take a --1 penalty on attack
 and damage rolls against an air elemental.
@@ -2247,7 +2166,7 @@ Concentration check (DC 53) to cast a spell. The DC is Strength-based.
 
 Earth elementals speak Terran.
 
-#### Combat {#primal-earth-elemental-primal--combat}
+#### Combat
 
 **Earth Mastery (Ex):** An earth elemental gains a +1 attack and damage
 bonus if both it and its foe touch the ground. If an opponent is
@@ -2266,7 +2185,7 @@ liquid. Unlike lesser fire elementals, a primal fire elemental may
 attempt to evaporate a lesser body of water if blocked. Fire elementals
 speak Ignan.
 
-#### Combat {#primal-fire-elemental-primal--combat}
+#### Combat
 
 **Burn (Ex):** Those hit by a primal fire elemental's slam attack must
 succeed at a Reflex save (DC 51) or catch fire. The flame burns for 1d4
@@ -2281,7 +2200,7 @@ is Constitution-based.
 A primal water elemental can't venture more than 360 feet from the body
 of water from which it emerged. Water elementals speak Aquan.
 
-#### Combat {#primal-water-elemental--combat}
+#### Combat
 
 **Water Mastery (Ex):** A water elemental gains a +1 bonus on attack and
 damage rolls if both it and its opponent touch water. If the opponent or

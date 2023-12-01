@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Divine / Divine Abilities and Feats
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -30,135 +29,6 @@ a salient divine ability does not provoke an attack of opportunity.
 **Salient Divine Abilities and Antimagic:** A salient divine ability
 functions normally within an antimagic field, and is never subject to
 spell resistance.
-
-## Table of Contents
-
--   [Salient Divine Ability
-    Descriptions](#salient-divine-ability-descriptions)
--   [Ability Name](#ability-name)
--   [Alter Form](#alter-form)
--   [Alter Reality](#alter-reality)
--   [Alter Size](#alter-size)
--   [Annihilating Strike](#annihilating-strike)
--   [Arcane Mastery](#arcane-mastery)
--   [Area Divine Shield](#area-divine-shield)
--   [Automatic Metamagic](#automatic-metamagic)
--   [Avatar](#avatar)
--   [Banestrike](#banestrike)
--   [Battlesense](#battlesense)
--   [Call Creatures](#call-creatures)
--   [Clearsight](#clearsight)
--   [Command Plants](#command-plants)
--   [Control Creatures](#control-creatures)
--   [Craft Artifact](#craft-artifact)
--   [Create Object](#create-object)
--   [Create Greater Object](#create-greater-object)
--   [Divine Air Mastery](#divine-air-mastery)
--   [Divine Archery](#divine-archery)
--   [Divine Armor Mastery](#divine-armor-mastery)
--   [Divine Bard](#divine-bard)
--   [Divine Battle Mastery](#divine-battle-mastery)
--   [Divine Blast](#divine-blast)
--   [Divine Blessing](#divine-blessing)
--   [Divine Celerity](#divine-celerity)
--   [Divine Creation](#divine-creation)
--   [Divine Dodge](#divine-dodge)
--   [Divine Druid](#divine-druid)
--   [Divine Earth Mastery](#divine-earth-mastery)
--   [Divine Fast Healing](#divine-fast-healing)
--   [Divine Fire Mastery](#divine-fire-mastery)
--   [Divine Glibness](#divine-glibness)
--   [Divine Inspiration](#divine-inspiration)
--   [Divine Monk](#divine-monk)
--   [Divine Paladin](#divine-paladin)
--   [Divine Radiance](#divine-radiance)
--   [Divine Rage](#divine-rage)
--   [Divine Ranger](#divine-ranger)
--   [Divine Recall](#divine-recall)
--   [Divine Rogue](#divine-rogue)
--   [Divine Shield](#divine-shield)
--   [Divine Skill Focus](#divine-skill-focus)
--   [Divine Sneak Attack](#divine-sneak-attack)
--   [Divine Spell Focus](#divine-spell-focus)
--   [Divine Spellcasting](#divine-spellcasting)
-    -   [Spell Slots Above 9th Level](#spell-slots-above-9th-level)
--   [Divine Splendor](#divine-splendor)
--   [Divine Storm](#divine-storm)
--   [Divine Water Mastery](#divine-water-mastery)
--   [Divine Weapon Focus](#divine-weapon-focus)
--   [Divine Weapon Mastery](#divine-weapon-mastery)
--   [Divine Weapon Specialization](#divine-weapon-specialization)
--   [Energy Burst](#energy-burst)
--   [Energy Storm](#energy-storm)
--   [Extra Domain](#extra-domain)
--   [Extra Energy Immunity](#extra-energy-immunity)
--   [Extra Sense Enhancement](#extra-sense-enhancement)
--   [Footsore](#footsore)
--   [Free Move](#free-move)
--   [Frightful Presence](#frightful-presence)
--   [Gift of Life](#gift-of-life)
--   [Grow Creature](#grow-creature)
--   [Hand of Death](#hand-of-death)
--   [Increased Damage Reduction](#increased-damage-reduction)
--   [Increased Energy Resistance](#increased-energy-resistance)
--   [Increased Spell Resistance](#increased-spell-resistance)
--   [Indomitable Strength](#indomitable-strength)
--   [Instant Counterspell](#instant-counterspell)
--   [Instant Move](#instant-move)
--   [Irresistible Blows](#irresistible-blows)
--   [Irresistible Performance](#irresistible-performance)
--   [Know Death](#know-death)
--   [Know Secrets](#know-secrets)
--   [Lay Curse](#lay-curse)
--   [Lay Quest](#lay-quest)
--   [Life and Death](#life-and-death)
--   [Life Drain](#life-drain)
--   [Mass Divine Blast](#mass-divine-blast)
--   [Mass Life and Death](#mass-life-and-death)
--   [Master Crafter](#master-crafter)
--   [Mind of the Beast](#mind-of-the-beast)
--   [Possess Mortal](#possess-mortal)
--   [Power of Luck](#power-of-luck)
--   [Power of Nature](#power-of-nature)
--   [Power of Truth](#power-of-truth)
--   [Rejuvenation](#rejuvenation)
--   [See Magic](#see-magic)
--   [Shapechange](#shapechange)
--   [Shift Form](#shift-form)
--   [Speak with Creatures](#speak-with-creatures)
--   [Spontaneous Wizard Spells](#spontaneous-wizard-spells)
--   [Stride](#stride)
--   [Sunder and Disjoin](#sunder-and-disjoin)
--   [Supreme Initiative](#supreme-initiative)
--   [True Knowledge](#true-knowledge)
--   [True Shapechange](#true-shapechange)
--   [Undead Mastery](#undead-mastery)
--   [Undead Qualities](#undead-qualities)
--   [Wave of Chaos](#wave-of-chaos)
--   [Wound Enemy](#wound-enemy)
--   [Feats](#feats)
-    -   [Blindsight,5-Ft.Radius \[General\]](#blindsight-5-ftradius)
-    -   [Disguise Spell \[Metamagic\]](#disguise-spell)
-    -   [Divine Might \[Divine \]](#divine-might)
-    -   [Divine Vengeance \[Divine \]](#divine-vengeance)
-    -   [Energy Substitution \[Metamagic\]](#energy-substitution)
-    -   [Extra Music \[General\]](#extra-music)
-    -   [Eyes in the Back of Your Head
-        \[General\]](#eyes-in-the-back-of-your-head)
-    -   [Fleet of Foot \[General\]](#fleet-of-foot)
-    -   [Hold the Line \[General\]](#hold-the-line)
-    -   [Jack of All Trades \[General\]](#jack-of-all-trades)
-    -   [Knock-Down \[General\]](#knock-down)
-    -   [Persistent Spell \[Metamagic\]](#persistent-spell)
-    -   [Plant Control \[General\]](#plant-control)
-    -   [Plant Defiance \[General\]](#plant-defiance)
-    -   [Power Critical \[General\]](#power-critical)
-    -   [Reach Spell \[Metamagic\]](#reach-spell)
-    -   [Repeat Spell \[Metamagic\]](#repeat-spell)
-    -   [Sacred Spell \[Metamagic\]](#sacred-spell)
-    -   [Sharp-Shooting \[General\]](#sharp-shooting)
-    -   [Subdual Substitution \[Metamagic\]](#subdual-substitution)
-    -   [Superior Expertise \[General\]](#superior-expertise)
 
 ## Salient Divine Ability Descriptions
 
@@ -2339,7 +2209,7 @@ deity can have this ability multiple times, and its effects stack.
 Deities can obtain the feats described here, in addition to any standard
 feats.
 
-### Blindsight,5-Ft.Radius [\[General\]]{.small} {#blindsight-5-ftradius}
+### Blindsight,5-Ft.Radius (featType:: General)
 
 **Prerequisites:** Base attack bonus +4, Blind-Fight, Wisdom 19.
 
@@ -2348,7 +2218,7 @@ vibrations, you detect the location of opponents who are no more than 5
 feet away from you. *Invisibility* and *darkness* are irrelevant, though
 it you discern incorporeal beings.
 
-### Disguise Spell [\[Metamagic\]]{.small} {#disguise-spell}
+### Disguise Spell (featType:: Metamagic)
 
 **Prerequisites:** Bardic music, Perform 12 ranks.
 
@@ -2362,7 +2232,7 @@ emanates from you or observers have some other means of determining its
 source, they don't know where the effect came from. A disguised spell
 uses up a spell slot one level higher than the spell's actual level.
 
-### Divine Might [\[Divine \]]{.small} {#divine-might}
+### Divine Might (featType:: Divine )
 
 **Prerequisites:** Str 13, turn or rebuke undead ability, Power Attack.
 
@@ -2370,7 +2240,7 @@ uses up a spell slot one level higher than the spell's actual level.
 attempts to add your Charisma bonus to your weapon damage for 1 full
 round.
 
-### Divine Vengeance [\[Divine \]]{.small} {#divine-vengeance}
+### Divine Vengeance (featType:: Divine )
 
 **Prerequisites:** Ability to turn undead, Extra Turning.
 
@@ -2379,7 +2249,7 @@ points of sacred energy damage to all your successful melee attacks
 against undead until the end of your next action. This is a supernatural
 ability.
 
-### Energy Substitution [\[Metamagic\]]{.small} {#energy-substitution}
+### Energy Substitution (featType:: Metamagic)
 
 **Prerequisites:** Any other metamagic feat, Knowledge (arcana) 5 ranks.
 
@@ -2395,7 +2265,7 @@ damage dealt.
 **Special:** You can gain this feat multiple times. Each time the feat
 applies to a different type of energy.
 
-### Extra Music [\[General\]]{.small} {#extra-music}
+### Extra Music (featType:: General)
 
 **Prerequisite:** Bardic music.
 
@@ -2407,7 +2277,7 @@ per day per level.
 **Special:** You can gain this feat multiple times, adding another four
 uses of bardic music each time.
 
-### Eyes in the Back of Your Head [\[General\]]{.small} {#eyes-in-the-back-of-your-head}
+### Eyes in the Back of Your Head (featType:: General)
 
 **Prerequisites:** Base attack bonus +3, Wis 19.
 
@@ -2416,7 +2286,7 @@ flanking you. This feat grants no effect whenever you are attacked
 without benefit of your Dexterity modifier to AC, such as when you are
 flat-footed or when you are the target of a rogue's sneak attack.
 
-### Fleet of Foot [\[General\]]{.small} {#fleet-of-foot}
+### Fleet of Foot (featType:: General)
 
 **Prerequisites:** Dex 15, Run.
 
@@ -2429,7 +2299,7 @@ turn to maintain the charge.
 **Normal:** Without this feat, you can run or charge only in a straight
 line.
 
-### Hold the Line [\[General\]]{.small} {#hold-the-line}
+### Hold the Line (featType:: General)
 
 **Prerequisites:** Combat Reflexes, base attack bonus +2.
 
@@ -2440,14 +2310,14 @@ happens immediately before the charge attack is resolved.
 **Normal:** You only get an attack of opportunity against a character
 that exits a square you threaten.
 
-### Jack of All Trades [\[General\]]{.small} {#jack-of-all-trades}
+### Jack of All Trades (featType:: General)
 
 **Prerequisite:** You must be at least 6th level.
 
 **Benefit:** You can use any skill untrained, even those that normally
 require training.
 
-### Knock-Down [\[General\]]{.small} {#knock-down}
+### Knock-Down (featType:: General)
 
 **Prerequisites:** Base attack bonus +2, Improved Trip, Str 15.
 
@@ -2455,7 +2325,7 @@ require training.
 opponent in melee, you make a trip attack as a free action against the
 same target.
 
-### Persistent Spell [\[Metamagic\]]{.small} {#persistent-spell}
+### Persistent Spell (featType:: Metamagic)
 
 **Prerequisite:** Extend Spell.
 
@@ -2470,7 +2340,7 @@ standard action that does not provoke an attack of opportunity. A
 persistent spell uses up a spell slot six levels higher than the spell's
 actual level.
 
-### Plant Control [\[General\]]{.small} {#plant-control}
+### Plant Control (featType:: General)
 
 **Prerequisites:** Plant Defiance, ability to cast *speak with plants.*
 
@@ -2481,7 +2351,7 @@ desired. This ability is usable a total number of times per day equal to
 3 + your Charisma modifier. You use your highest caster level to
 determine the level at which you rebuke plants.
 
-### Plant Defiance [\[General\]]{.small} {#plant-defiance}
+### Plant Defiance (featType:: General)
 
 **Prerequisite:** Ability to cast *detect animals or plants.*
 
@@ -2493,7 +2363,7 @@ number of times per day equal to 3 + your Charisma modifier. You use
 your highest caster level to determine the level at which you turns
 plants.
 
-### Power Critical [\[General\]]{.small} {#power-critical}
+### Power Critical (featType:: General)
 
 **Prerequisites:** Weapon focus (chosen weapon), base attack bonus +4
 
@@ -2507,7 +2377,7 @@ You can gain Power Critical multiple times. Each time you take the feat,
 it may be with a different weapon or the same weapon. If you take it
 with the same weapon, the effects of the feats stack.
 
-### Reach Spell [\[Metamagic\]]{.small} {#reach-spell}
+### Reach Spell (featType:: Metamagic)
 
 **Benefit:** You may cast a spell that normally has a range of touch at
 any distance up to 30 feet. The spell effectively becomes a ray, so you
@@ -2515,7 +2385,7 @@ must succeed at a ranged touch attack to bestow the spell upon the
 recipient. A reach spell uses up a spell slot two levels higher than the
 spell's actual level.
 
-### Repeat Spell [\[Metamagic\]]{.small} {#repeat-spell}
+### Repeat Spell (featType:: Metamagic)
 
 **Prerequisites:** Any other metamagic feat.
 
@@ -2530,7 +2400,7 @@ secondary spell fails to go off. A repeated spell uses up a spell slot
 three levels higher than the spell's actual level. Repeat Spell cannot
 be used on spells with a range of touch.
 
-### Sacred Spell [\[Metamagic\]]{.small} {#sacred-spell}
+### Sacred Spell (featType:: Metamagic)
 
 **Benefit:** Half of the damage dealt by a sacred spell results directly
 from divine power and is therefore not subject to being reduced by
@@ -2539,7 +2409,7 @@ dealt by the spell is as normal. A sacred spell uses up a spell slot two
 levels higher than the spell's actual level. Only divine spells can be
 cast as sacred spells.
 
-### Sharp-Shooting [\[General\]]{.small} {#sharp-shooting}
+### Sharp-Shooting (featType:: General)
 
 **Prerequisites:** Point Blank Shot, Precise Shot, base attack bonus +3.
 
@@ -2552,7 +2422,7 @@ cover.
 **Special:** A fighter may select Sharp-Shooting as one of his bonus
 feats.
 
-### Subdual Substitution [\[Metamagic\]]{.small} {#subdual-substitution}
+### Subdual Substitution (featType:: Metamagic)
 
 **Prerequisites:** Any other metamagic feat, Knowledge (arcana) 5 ranks.
 
@@ -2564,7 +2434,7 @@ uses a spell slot of the spell's normal level.
 The altered spell works normally in all respects except the type of
 damage dealt.
 
-### Superior Expertise [\[General\]]{.small} {#superior-expertise}
+### Superior Expertise (featType:: General)
 
 **Prerequisites:** Int 13, Combat Expertise, base attack bonus +6.
 

@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Magic Items 1
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -40,31 +39,6 @@ build them. Even an epic magic item can never grant a dodge bonus, and
 the maximum inherent bonus that can be applied to an ability score is
 +5. An epic magic item cannot be created that uses or mimics an epic
 spell. A major artifact might be able to mimic such a spell, however.
-
-## Table of Contents
-
--   [Creating Epic Magic Items](#creating-epic-magic-items)
--   [Caster Level](#caster-level)
--   [Prerequisites](#prerequisites)
--   [Market Price](#market-price)
-    -   [Experience Point Cost](#experience-point-cost)
-    -   [Magic Item Descriptions](#magic-item-descriptions)
--   [Armor](#armor)
-    -   [Epic Armor and Shield Base
-        Price](#epic-armor-and-shield-base-price)
-    -   [Epic Armor and Shield Special Ability
-        Descriptions](#epic-armor-and-shield-special-ability-descriptions)
-    -   [Specific Armors and Shields](#specific-armors-and-shields)
--   [Weapons](#weapons)
-    -   [Epic Weapon Base Price](#epic-weapon-base-price)
-    -   [Epic Weapon Special Ability
-        Descriptions](#epic-weapon-special-ability-descriptions)
-    -   [Specific Weapons](#specific-weapons)
--   [Rings](#rings)
-    -   [Nonepic Magic Item](#nonepic-magic-item)
-    -   [Epic Ring Descriptions](#epic-ring-descriptions)
--   [Rods](#rods)
-    -   [Epic Rod Descriptions](#epic-rod-descriptions)
 
 ## Creating Epic Magic Items
 
