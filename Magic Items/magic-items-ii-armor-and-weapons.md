@@ -106,14 +106,16 @@ or gauntlets.
 
   : Table: Random Shield Type
 
-**Caster Level for Armor and Shields:** The caster level of a magic
+### Caster Level for Armor and Shields
+The caster level of a magic
 shield or magic armor with a special ability is given in the item
 description. For an item with only an enhancement bonus, the caster
 level is three times the enhancement bonus. If an item has both an
 enhancement bonus and a special ability, the higher of the two caster
 level requirements must be met.
 
-**Shields:** Shield enhancement bonuses stack with armor enhancement
+### Shields
+Shield enhancement bonuses stack with armor enhancement
 bonuses. Shield enhancement bonuses do not act as attack or damage
 bonuses when the shield is used in a bash. The bashing special ability,
 however, does grant a +1 bonus on attack and damage rolls (see the
@@ -129,16 +131,19 @@ do not improve AC. A shield cannot have an effective bonus (enhancement
 plus special ability bonus equivalents) higher than +10. A shield with a
 special ability must have at least a +1 enhancement bonus.
 
-**Shield Hardness and Hit Points:** Each +1 of enhancement bonus adds 2
+### Shield Hardness and Hit Points
+Each +1 of enhancement bonus adds 2
 to a shield's hardness and +10 to its hit points.
 
-**Activation:** Usually a character benefits from magic armor and
+### Activation
+Usually a character benefits from magic armor and
 shields in exactly the way a character benefits from nonmagical armor
 and shields---by wearing them. If armor or a shield has a special
 ability that the user needs to activate then the user usually needs to
 utter the command word (a standard action).
 
-**Armor for Unusual Creatures:** The cost of armor for nonhumanoid
+### Armor for Unusual Creatures
+The cost of armor for nonhumanoid
 creatures, as well as for creatures who are neither Small nor Medium,
 varies. The cost of the masterwork quality and any magical enhancement
 remains the same.
@@ -236,7 +241,8 @@ bonus.
 
   : Table: Shield Special Abilities
 
-**Acid Resistance:** A suit of armor or a shield with this property
+### Acid Resistance
+A suit of armor or a shield with this property
 normally has a dull gray appearance. The armor absorbs the first 10
 points of acid damage per attack that the wearer would normally take
 (similar to the *resist energy* spell).
@@ -244,19 +250,22 @@ points of acid damage per attack that the wearer would normally take
 Faint abjuration; CL 3rd; Craft Magic Arms and Armor, *resist energy;*
 Price +18,000 gp.
 
-**Acid Resistance, Improved:** As acid resistance, except it absorbs the
+### Acid Resistance, Improved
+As acid resistance, except it absorbs the
 first 20 points of acid damage per attack.
 
 Moderate abjuration; CL 7th; Craft Magic Arms and Armor, *resist
 energy;* Price +42,000 gp.
 
-**Acid Resistance, Greater:** As acid resistance, except it absorbs the
+### Acid Resistance, Greater
+As acid resistance, except it absorbs the
 first 30 points of acid damage per attack.
 
 Moderate abjuration; CL 11th; Craft Magic Arms and Armor, *resist
 energy;* Price +66,000 gp.
 
-**Animated:** Upon command, an animated shield floats within 2 feet of
+### Animated
+Upon command, an animated shield floats within 2 feet of
 the wielder, protecting her as if she were using it herself but freeing
 up both her hands. Only one shield can protect a character at a time. A
 character with an animated shield still takes any penalties associated
@@ -266,7 +275,8 @@ chance, and nonproficiency.
 Strong transmutation; CL 12th; Craft Magic Arms and Armor, *animate
 objects;* Price +2 bonus.
 
-**Arrow Catching:** A shield with this ability attracts ranged weapons
+### Arrow Catching
+A shield with this ability attracts ranged weapons
 to it. It has a deflection bonus of +1 against ranged weapons because
 projectiles and thrown weapons veer toward it. Additionally, any
 projectile or thrown weapon aimed at a target within 5 feet of the
@@ -283,7 +293,8 @@ deactivate this ability with a command word.
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, *entropic
 shield*; Price +1 bonus.
 
-**Arrow Deflection:** This shield protects the wielder as if he had the
+### Arrow Deflection
+This shield protects the wielder as if he had the
 Deflect Arrows feat. Once per round when he would normally be struck by
 a ranged weapon, he can make a DC 20 Reflex save. If the ranged weapon
 has an enhancement bonus, the DC increases by that amount. If he
@@ -295,7 +306,8 @@ giants or *acid arrows*, can't be deflected.
 Faint abjuration; CL 5th; Craft Magic Arms and Armor, *shield;* Price +2
 bonus.
 
-**Bashing:** A shield with this special ability is designed to perform a
+### Bashing
+A shield with this special ability is designed to perform a
 shield bash. A bashing shield deals damage as if it were a weapon of two
 size categories larger (a Medium light shield thus deals 1d6 points of
 damage and a Medium heavy shield deals 1d8 points of damage). The shield
@@ -305,7 +317,8 @@ have this ability.)
 Moderate transmutation; CL 8th; Craft Magic Arms and Armor, *bull's
 strength;* Price +1 bonus.
 
-**Blinding:** A shield with this ability flashes with a brilliant light
+### Blinding
+A shield with this ability flashes with a brilliant light
 up to twice per day upon command of the wielder. Anyone within 20 feet
 except the wielder must make a DC 14 Reflex save or be blinded for 1d4
 rounds.
@@ -313,7 +326,8 @@ rounds.
 Moderate evocation; CL 7th; Craft Magic Arms and Armor, *searing light;*
 Price +1 bonus.
 
-**Cold Resistance:** A suit of armor or a shield with this property
+### Cold Resistance
+A suit of armor or a shield with this property
 normally has a bluish, icy hue or is adorned with furs and shaggy pelts.
 The armor absorbs the first 10 points of cold damage per attack that the
 wearer would normally take (similar to the *resist energy* spell).
@@ -321,19 +335,22 @@ wearer would normally take (similar to the *resist energy* spell).
 Faint abjuration; CL 3rd; Craft Magic Arms and Armor, *resist energy;*
 Price +18,000 gp.
 
-**Cold Resistance, Improved:** As cold resistance, except it absorbs the
+### Cold Resistance, Improved
+As cold resistance, except it absorbs the
 first 20 points of cold damage per attack.
 
 Moderate abjuration; CL 7th; Craft Magic Arms and Armor, *resist
 energy;* Price +42,000 gp.
 
-**Cold Resistance, Greater:** As cold resistance, except it absorbs the
+### Cold Resistance, Greater
+As cold resistance, except it absorbs the
 first 30 points of cold damage per attack.
 
 Moderate abjuration; CL 11th; Craft Magic Arms and Armor, *resist
 energy;* Price +66,000 gp.
 
-**Electricity Resistance:** A suit of armor or a shield with this
+### Electricity Resistance
+A suit of armor or a shield with this
 property normally has a bluish hue and often bears a storm or lightning
 motif. The armor absorbs the first 10 points of electricity damage per
 attack that the wearer would normally take (similar to the *resist
@@ -342,19 +359,22 @@ energy* spell).
 Faint abjuration; CL 3rd; Craft Magic Arms and Armor, *resist energy;*
 Price +18,000 gp.
 
-**Electricity Resistance, Improved:** As electricity resistance, except
+### Electricity Resistance, Improved
+As electricity resistance, except
 it absorbs the first 20 points of electricity damage per attack.
 
 Moderate abjuration; CL 7th; Craft Magic Arms and Armor, *resist
 energy;* Price +42,000 gp.
 
-**Electricity Resistance, Greater:** As electricity resistance, except
+### Electricity Resistance, Greater
+As electricity resistance, except
 it absorbs the first 30 points of electricity damage per attack.
 
 Moderate abjuration; CL 11th; Craft Magic Arms and Armor, *resist
 energy;* Price +66,000 gp.
 
-**Etherealness:** On command, this ability allows the wearer of the
+### Etherealness
+On command, this ability allows the wearer of the
 armor to become ethereal (as the *ethereal jaunt* spell) once per day.
 The character can remain ethereal for as long as desired, but once he
 returns to normal, he cannot become ethereal again that day.
@@ -362,7 +382,8 @@ returns to normal, he cannot become ethereal again that day.
 Strong transmutation; CL 13th; Craft Magic Arms and Armor, *ethereal
 jaunt;* Price +49,000 gp.
 
-**Fire Resistance:** A suit of armor with this ability normally has a
+### Fire Resistance
+A suit of armor with this ability normally has a
 reddish hue and often is decorated with a draconic motif. The armor
 absorbs the first 10 points of fire damage per attack that the wearer
 would normally take (similar to the *resist energy* spell).
@@ -370,19 +391,22 @@ would normally take (similar to the *resist energy* spell).
 Faint abjuration; CL 3rd; Craft Magic Arms and Armor, *resist energy;*
 Price +18,000 gp.
 
-**Fire Resistance, Improved:** As fire resistance, except it absorbs the
+### Fire Resistance, Improved
+As fire resistance, except it absorbs the
 first 20 points of fire damage per attack.
 
 Moderate abjuration; CL 7th; Craft Magic Arms and Armor, *resist
 energy;* Price +42,000 gp.
 
-**Fire Resistance, Greater:** As fire resistance, except it absorbs the
+### Fire Resistance, Greater
+As fire resistance, except it absorbs the
 first 30 points of fire damage per attack.
 
 Moderate abjuration; CL 11th; Craft Magic Arms and Armor, *resist
 energy;* Price +66,000 gp.
 
-**Fortification:** This suit of armor or shield produces a magical force
+### Fortification
+This suit of armor or shield produces a magical force
 that protects vital areas of the wearer more effectively. When a
 critical hit or sneak attack is scored on the wearer, there is a chance
 that the critical hit or sneak attack is negated and damage is instead
@@ -398,7 +422,8 @@ rolled normally.
 Strong abjuration; CL 13th; Craft Magic Arms and Armor, *limited wish*
 or *miracle;* Price varies (see above).
 
-**Ghost Touch:** This armor or shield seems almost translucent. Both its
+### Ghost Touch
+This armor or shield seems almost translucent. Both its
 enhancement bonus and its armor bonus count against the attacks of
 incorporeal creatures. It can be picked up, moved, and worn by
 incorporeal creatures at any time. Incorporeal creatures gain the armor
@@ -408,7 +433,8 @@ attacks, and they can still pass freely through solid objects.
 Strong transmutation; CL 15th; Craft Magic Arms and Armor,
 *etherealness;* Price +3 bonus.
 
-**Glamered:** A suit of armor with this ability appears normal. Upon
+### Glamered
+A suit of armor with this ability appears normal. Upon
 command, the armor changes shape and form to assume the appearance of a
 normal set of clothing. The armor retains all its properties (including
 weight) when glamered. Only a *true seeing* spell or similar magic
@@ -417,40 +443,46 @@ reveals the true nature of the armor when disguised.
 Moderate illusion; CL 10th; Craft Magic Arms and Armor, *disguise self;*
 Price +2,700 gp.
 
-**Invulnerability:** This suit of armor grants the wearer damage
+### Invulnerability
+This suit of armor grants the wearer damage
 reduction of 5/magic.
 
 Strong abjuration and perhaps evocation (if *miracle* is used); CL 18th;
 Craft Magic Arms and Armor, *stoneskin, wish* or *miracle;* Price +3
 bonus.
 
-**Reflecting:** This shield seems like a mirror. Its surface is
+### Reflecting
+This shield seems like a mirror. Its surface is
 completely reflective. Once per day, it can be called on to reflect a
 spell back at its caster exactly like the *spell turning* spell.
 
 Strong abjuration; CL 14th; Craft Magic Arms and Armor, *spell turning;*
 Price +5 bonus.
 
-**Shadow:** This armor is jet black and blurs the wearer whenever she
+### Shadow
+This armor is jet black and blurs the wearer whenever she
 tries to hide, granting a +5 competence bonus on Hide checks. (The
 armor's armor check penalty still applies normally.)
 
 Faint illusion; CL 5th; Craft Magic Arms and Armor, *invisibility;*
 Price +3,750 gp.
 
-**Shadow, Improved:** As shadow, except it grants a +10 competence bonus
+### Shadow, Improved
+As shadow, except it grants a +10 competence bonus
 on Hide checks.
 
 Moderate illusion; CL 10th; Craft Magic Arms and Armor, *invisibility;*
 Price +15,000 gp.
 
-**Shadow, Greater:** As shadow, except it grants a +15 competence bonus
+### Shadow, Greater
+As shadow, except it grants a +15 competence bonus
 on Hide checks.
 
 Moderate illusion; CL 15th; Craft Magic Arms and Armor, *invisibility;*
 Price +33,750 gp.
 
-**Silent Moves:** This armor is well oiled and magically constructed so
+### Silent Moves
+This armor is well oiled and magically constructed so
 that it not only makes little sound, but it dampens sound around it. It
 provides a +5 competence bonus on its wearer's Move Silently checks.
 (The armor's armor check penalty still applies normally.)
@@ -458,38 +490,44 @@ provides a +5 competence bonus on its wearer's Move Silently checks.
 Faint illusion; CL 5th; Craft Magic Arms and Armor, *silence;* Price
 +3,750 gp.
 
-**Silent Moves, Improved:** As silent moves, except it grants a +10
+### Silent Moves, Improved
+As silent moves, except it grants a +10
 competence bonus on Move Silently checks.
 
 Moderate illusion; CL 10th; Craft Magic Arms and Armor, *silence;* Price
 +15,000 gp.
 
-**Silent Moves, Greater:** As silent moves, except it grants a +15
+### Silent Moves, Greater
+As silent moves, except it grants a +15
 competence bonus on Move Silently checks.
 
 Moderate illusion; CL 15th; Craft Magic Arms and Armor, *silence;* Price
 +33,750 gp.
 
-**Slick:** Slick armor seems coated at all times with a slightly greasy
+### Slick
+Slick armor seems coated at all times with a slightly greasy
 oil. It provides a +5 competence bonus on its wearer's Escape Artist
 checks. (The armor's armor check penalty still applies normally.)
 
 Faint conjuration; CL 4th; Craft Magic Arms and Armor, *grease;* Price
 +3,750 gp.
 
-**Slick, Improved:** As slick, except it grants a +10 competence bonus
+### Slick, Improved
+As slick, except it grants a +10 competence bonus
 on Escape Artist checks.
 
 Moderate conjuration; CL 10th; Craft Magic Arms and Armor, *grease;*
 Price +15,000 gp.
 
-**Slick, Greater:** As slick, except it grants a +15 competence bonus on
+### Slick, Greater
+As slick, except it grants a +15 competence bonus on
 Escape Artist checks.
 
 Moderate conjuration; CL 15th; Craft Magic Arms and Armor, *grease;*
 Price +33,750 gp.
 
-**Sonic Resistance:** A suit of armor or a shield with this property
+### Sonic Resistance
+A suit of armor or a shield with this property
 normally has a glistening appearance. The armor absorbs the first 10
 points of sonic damage per attack that the wearer would normally take
 (similar to the *resist energy* spell).
@@ -497,19 +535,22 @@ points of sonic damage per attack that the wearer would normally take
 Faint abjuration; CL 3rd; Craft Magic Arms and Armor, *resist energy;*
 Price +18,000 gp.
 
-**Sonic Resistance, Improved:** As sonic resistance, except it absorbs
+### Sonic Resistance, Improved
+As sonic resistance, except it absorbs
 the first 20 points of sonic damage per attack.
 
 Moderate abjuration; CL 7th; Craft Magic Arms and Armor, *resist
 energy;* Price +42,000 gp.
 
-**Sonic Resistance, Greater:** As sonic resistance, except it absorbs
+### Sonic Resistance, Greater
+As sonic resistance, except it absorbs
 the first 30 points of sonic damage per attack.
 
 Moderate abjuration; CL 11th; Craft Magic Arms and Armor, *resist
 energy;* Price +66,000 gp.
 
-**Spell Resistance:** This property grants the armor's wearer spell
+### Spell Resistance
+This property grants the armor's wearer spell
 resistance while the armor is worn. The spell resistance can be 13, 15,
 17, or 19, depending on the armor.
 
@@ -517,7 +558,8 @@ Strong abjuration; CL 15th; Craft Magic Arms and Armor, *spell
 resistance;* Price +2 bonus (SR 13), +3 bonus (SR 15), +4 bonus (SR 17),
 or +5 bonus (SR 19).
 
-**Undead Controlling:** The wearer of a suit of armor or a shield with
+### Undead Controlling
+The wearer of a suit of armor or a shield with
 this property may control up to 26 HD of undead per day, as the *control
 undead* spell. At dawn each day, the wearer loses control of any undead
 still under his sway. Armor or a shield with this ability appears to be
@@ -527,7 +569,8 @@ effect on the armor.
 Strong necromancy; CL 13th; Craft Magic Arms and Armor, *control
 undead*; Price +49,000 gp.
 
-**Wild:** The wearer of a suit of armor or a shield with this ability
+### Wild
+The wearer of a suit of armor or a shield with this ability
 preserves his armor bonus (and any enhancement bonus) while in a wild
 shape. Armor and shields with this ability usually appear to be made
 covered in leaf patterns. While the wearer is in a wild shape, the armor
@@ -559,12 +602,14 @@ polymorph*; Price +3 bonus.
 The following specific suits of armor usually are preconstructed with
 exactly the qualities described here.
 
-**Adamantine Breastplate:** This nonmagical breastplate is made of
+### Adamantine Breastplate
+This nonmagical breastplate is made of
 adamantine, giving its wearer damage reduction of 2/--.
 
 No aura (nonmagical); Price 10,200 gp.
 
-**Banded Mail of Luck:** Ten 100-gp gems adorn this *+3 banded mail.*
+### Banded Mail of Luck
+Ten 100-gp gems adorn this *+3 banded mail.*
 Once per week, the armor allows its wearer to require that an attack
 roll made against him be rerolled. He must take whatever consequences
 come from the second roll. The wearer's player must decide whether to
@@ -573,7 +618,8 @@ have the attack roll rerolled before damage is rolled.
 Strong enchantment; CL 12th; Craft Magic Arms and Armor, *bless;* Price
 18,900 gp; Cost 10,150 gp + 700 XP.
 
-**Breastplate of Command:** This finely crafted *+2 breastplate*
+### Breastplate of Command
+This finely crafted *+2 breastplate*
 radiates a powerful aura of magic. When worn, the armor bestows a
 dignified and commanding aura upon its owner. The wearer gains a +2
 competence bonus on all Charisma checks, including turning checks and
@@ -586,7 +632,8 @@ herself in any way and still have the effect function.
 Strong enchantment; CL 15th; Craft Magic Arms and Armor, *mass charm
 monster;* Price 25,400 gp; Cost 10,975 gp + 850 XP.
 
-**Celestial Armor:** This bright silver or gold *+3 chainmail* is so
+### Celestial Armor
+This bright silver or gold *+3 chainmail* is so
 fine and light that it can be worn under normal clothing without
 betraying its presence. It has a maximum Dexterity bonus of +8, an armor
 check penalty of --2, and an arcane spell failure chance of 15%. It is
@@ -596,7 +643,8 @@ use *fly* on command (as the spell) once per day.
 Faint transmutation \[good\]; CL 5th; Craft Magic Arms and Armor,
 creator must be good, *fly;* Price 22,400 gp; Cost 12,550 gp + 1,004 XP.
 
-**Demon Armor:** This plate armor is fashioned to make the wearer appear
+### Demon Armor
+This plate armor is fashioned to make the wearer appear
 to be a demon. The helmet is shaped to look like a horned demon head,
 and its wearer looks out of the open, tooth-filled mouth. This *+4 full
 plate* allows the wearer to make claw attacks that deal 1d10 points of
@@ -614,18 +662,21 @@ level loss, but it cannot be overcome in any way (including
 Strong necromancy \[evil\]; CL 13th; Craft Magic Arms and Armor,
 *contagion;* Price 52,260 gp; Cost 26,130 gp + 2,090 XP.
 
-**Dragonhide Plate:** This suit of full plate is made of dragonhide,
+### Dragonhide Plate
+This suit of full plate is made of dragonhide,
 rather than metal, so druids can wear it. It is otherwise identical to
 masterwork full plate.
 
 No aura (nonmagical); Price 3,300 gp.
 
-**Dwarven Plate:** This full plate is made of adamantine, giving its
+### Dwarven Plate
+This full plate is made of adamantine, giving its
 wearer damage reduction of 3/--.
 
 No aura (nonmagical); Price 16,500 gp.
 
-**Elven Chain:** This extremely light chainmail is made of very fine
+### Elven Chain
+This extremely light chainmail is made of very fine
 mithral links. Speed while wearing elven chain is 30 feet for Medium
 creatures, or 20 feet for Small. The armor has an arcane spell failure
 chance of 20%, a maximum Dexterity bonus of +4, and an armor check
@@ -633,7 +684,8 @@ penalty of --2. It is considered light armor and weighs 20 pounds.
 
 No aura (nonmagical); Price 4,150 gp.
 
-**Mithral Full Plate of Speed:** As a free action, the wearer of this
+### Mithral Full Plate of Speed
+As a free action, the wearer of this
 fine set of *+1 mithral full plate* can activate it, enabling her to act
 as though affected by a *haste* spell for up to 10 rounds each day. The
 duration of the *haste* effect need not be consecutive rounds.
@@ -646,7 +698,8 @@ penalty of --3. It is considered medium armor and weighs 25 pounds.
 Faint transmutation; CL 5th; Craft Magic Arms and Armor, *haste*; Price
 26,500 gp.
 
-**Mithral Shirt:** This extremely light chain shirt is made of very fine
+### Mithral Shirt
+This extremely light chain shirt is made of very fine
 mithral links. Speed while wearing a mithral shirt is 30 feet for Medium
 creatures, or 20 feet for Small. The armor has an arcane spell failure
 chance of 10%, a maximum Dexterity bonus of +6, and no armor check
@@ -654,7 +707,8 @@ penalty. It is considered light armor and weighs 10 pounds.
 
 No aura (nonmagical); Price 1,100 gp.
 
-**Plate Armor of the Deep:** This *+1 full plate* is decorated with a
+### Plate Armor of the Deep
+This *+1 full plate* is decorated with a
 wave and fish motif. The wearer of *plate armor of the deep* is treated
 as unarmored for purposes of Swim checks. The wearer can breathe
 underwater and can converse with any creature with a language that
@@ -664,7 +718,8 @@ Moderate abjuration; CL 11th; Craft Magic Arms and Armor, *freedom of
 movement, water breathing, tongues;* Price 24,650 gp; Cost 17,150 gp +
 600 XP.
 
-**Rhino Hide:** This *+2 hide* armor is made from rhinoceros hide. In
+### Rhino Hide
+This *+2 hide* armor is made from rhinoceros hide. In
 addition to granting a +2 enhancement bonus to AC, it has a --1 armor
 check penalty and deals an additional 2d6 points of damage on any
 successful charge attack made by the wearer, including a mounted charge.
@@ -691,7 +746,8 @@ strength;* Price 5,165 gp; Cost 2,665 gp + 200 XP.
 The following specific shields usually are preconstructed with exactly
 the qualities described here.
 
-**Absorbing Shield:** This *+1 heavy steel shield* is flat black and
+### Absorbing Shield
+This *+1 heavy steel shield* is flat black and
 seems to absorb light. Once every two days, on command, it can
 *disintegrate* an object that it touches, as the spell but requiring a
 melee touch attack.
@@ -699,7 +755,8 @@ melee touch attack.
 Strong transmutation; CL 17th; Craft Magic Arms and Armor,
 *disintegrate;* Price 50,170 gp; Cost 25,170 gp + 2,000 XP.
 
-**Caster's Shield:** This *+1 light wooden shield* has a small leather
+### Caster's Shield
+This *+1 light wooden shield* has a small leather
 strip on the back on which a spellcaster can scribe a single spell as on
 a scroll. A spell so scribed has only half the base raw material cost.
 Experience point and component costs remain the same. The strip cannot
@@ -715,14 +772,16 @@ Moderate abjuration; CL 6th; Craft Magic Arms and Armor, Scribe Scroll,
 creator must be at least 6th level; Price 3,153 gp (plus the value of
 the scroll spell if one is currently scribed); Cost 1,653 gp + 120 XP.
 
-**Darkwood Buckler:** This nonmagical light wooden shield is made out of
+### Darkwood Buckler
+This nonmagical light wooden shield is made out of
 darkwood. It has no enhancement bonus, but its construction material
 makes it lighter than a normal wooden shield. It weighs 2-1/2 pounds and
 has no armor check penalty.
 
 No aura (nonmagical); Price 205 gp.
 
-**Darkwood Shield:** This nonmagical heavy wooden shield is made out of
+### Darkwood Shield
+This nonmagical heavy wooden shield is made out of
 darkwood. It has no enhancement bonus, but its construction material
 makes it lighter than a normal wooden shield.
 
@@ -730,7 +789,8 @@ It weighs 5 pounds and has no armor check penalty.
 
 No aura (nonmagical); Price 257 gp.
 
-**Lion's Shield:** This *+2 heavy steel shield* is fashioned to appear
+### Lion's Shield
+This *+2 heavy steel shield* is fashioned to appear
 to be a roaring lion's head. Three times per day as a free action, the
 lion's head can be commanded to attack (independently of the shield
 wearer), biting with the wielder's base attack bonus (including multiple
@@ -740,13 +800,15 @@ attack is in addition to any actions performed by the wielder.
 Moderate conjuration; CL 10th; Craft Magic Arms and Armor, *summon
 nature's ally IV;* Price 9,170 gp; Cost 4,670 gp + 360 XP.
 
-**Mithral Heavy Shield:** This heavy shield is made of mithral and thus
+### Mithral Heavy Shield
+This heavy shield is made of mithral and thus
 is much lighter than a standard steel shield. It has a 5% arcane spell
 failure chance and no armor check penalty. It weighs 5 pounds.
 
 No aura (nonmagical); Price 1,020 gp.
 
-**Spined Shield:** This *+1 heavy steel shield* is covered in spines. It
+### Spined Shield
+This *+1 heavy steel shield* is covered in spines. It
 acts as a normal spiked shield. On command up to three times per day,
 the shield's wearer can fire one of the shield's spines. A fired spine
 has a +1 enhancement bonus, a range increment of 120 feet, and deals
@@ -755,7 +817,8 @@ has a +1 enhancement bonus, a range increment of 120 feet, and deals
 Moderate evocation; CL 6th; Craft Magic Arms and Armor, *magic missile;*
 Price 5,580 gp; Cost 2,740 gp + 223 XP.
 
-**Winged Shield:** This round heavy wooden shield has a +3 enhancement
+### Winged Shield
+This round heavy wooden shield has a +3 enhancement
 bonus. Small, feathered wings encircle the shield.
 
 Once per day it can be commanded to *fly* (as the spell), carrying the
@@ -789,18 +852,21 @@ A weapon or a kind of ammunition may be made of an unusual material.
 Roll d%: 01--95 indicates that the item is of a standard sort, and
 96--100 indicates that it is made of a special material.
 
-**Caster Level for Weapons:** The caster level of a weapon with a
+### Caster Level for Weapons
+The caster level of a weapon with a
 special ability is given in the item description. For an item with only
 an enhancement bonus and no other abilities, the caster level is three
 times the enhancement bonus. If an item has both an enhancement bonus
 and a special ability, the higher of the two caster level requirements
 must be met.
 
-**Additional Damage Dice:** Some magic weapons deal additional dice of
+### Additional Damage Dice
+Some magic weapons deal additional dice of
 damage. Unlike other modifiers to damage, additional dice of damage are
 not multiplied when the attacker scores a critical hit.
 
-**Ranged Weapons and Ammunition:** The enhancement bonus from a ranged
+### Ranged Weapons and Ammunition
+The enhancement bonus from a ranged
 weapon does not stack with the enhancement bonus from ammunition. Only
 the higher of the two enhancement bonuses applies.
 
@@ -810,30 +876,35 @@ damage reduction. Similarly, ammunition fired from a projectile weapon
 with an alignment gains the alignment of that projectile weapon (in
 addition to any alignment it may already have).
 
-**Magic Ammunition and Breakage:** When a magic arrow, crossbow bolt, or
+### Magic Ammunition and Breakage
+When a magic arrow, crossbow bolt, or
 sling bullet misses its target, there is a 50% chance it breaks or
 otherwise is rendered useless. A magic arrow, bolt, or bullet that hits
 is destroyed.
 
-**Light Generation:** Fully 30% of magic weapons shed light equivalent
+### Light Generation
+Fully 30% of magic weapons shed light equivalent
 to a *light* spell (bright light in a 20-foot radius, shadowy light in a
 40-foot radius). These glowing weapons are quite obviously magical. Such
 a weapon can't be concealed when drawn, nor can its light be shut off.
 Some of the specific weapons detailed below always or never glow, as
 defined in their descriptions.
 
-**Hardness and Hit Points:** An attacker cannot damage a magic weapon
+### Hardness and Hit Points
+An attacker cannot damage a magic weapon
 that has an enhancement bonus unless his own weapon has at least as high
 an enhancement bonus as the weapon or shield struck. Each +1 of
 enhancement bonus also adds 1 to the weapon's or shield's hardness and
 hit points.
 
-**Activation:** Usually a character benefits from a magic weapon in the
+### Activation
+Usually a character benefits from a magic weapon in the
 same way a character benefits from a mundane weapon---by attacking with
 it. If a weapon has a special ability that the user needs to activate
 then the user usually needs to utter a command word (a standard action).
 
-**Magic Weapons and Critical Hits:** Some weapon qualities and some
+### Magic Weapons and Critical Hits
+Some weapon qualities and some
 specific weapons have an extra effect on a critical hit. This special
 effect functions against creatures not subject to critical hits, such as
 undead, elementals, and constructs. When fighting against such
@@ -1036,11 +1107,13 @@ damage.
 
   : Table: Ranged Weapon Special Abilities
 
-**Weapons for Unusually Sized Creatures:** The cost of weapons for
+### Weapons for Unusually Sized Creatures
+The cost of weapons for
 creatures who are neither Small nor Medium varies. The cost of the
 masterwork quality and any magical enhancement remains the same.
 
-**Special Qualities:** Roll d%. If the item is a melee weapon, a 01--30
+### Special Qualities
+Roll d%. If the item is a melee weapon, a 01--30
 result indicates that the item sheds light, 31--45 indicates that
 something (a design, inscription, or the like) provides a clue to the
 weapon's function, and 46--100 indicates no special qualities.
@@ -1055,7 +1128,8 @@ In addition to enhancement bonuses, weapons can have one or more of the
 special abilities detailed below. A weapon with a special ability must
 have at least a +1 enhancement bonus.
 
-**Anarchic:** An anarchic weapon is chaotically aligned and infused with
+### Anarchic
+An anarchic weapon is chaotically aligned and infused with
 the power of chaos. It makes the weapon chaos-aligned and thus bypasses
 the corresponding damage reduction. It deals an extra 2d6 points of
 damage against all of lawful alignment. It bestows one negative level on
@@ -1069,7 +1143,8 @@ bestow the chaotic power upon their ammunition.
 Moderate evocation \[chaotic\]; CL 7th; Craft Magic Arms and Armor,
 *chaos hammer,* creator must be chaotic; Price +2 bonus.
 
-**Axiomatic:** An axiomatic weapon is lawfully aligned and infused with
+### Axiomatic
+An axiomatic weapon is lawfully aligned and infused with
 the power of law. It makes the weapon law-aligned and thus bypasses the
 corresponding damage reduction. It deals an extra 2d6 points of damage
 against all of chaotic alignment. It bestows one negative level on any
@@ -1083,7 +1158,8 @@ bestow the lawful power upon their ammunition.
 Moderate evocation \[lawful\]; CL 7th; Craft Magic Arms and Armor,
 *order's wrath,* creator must be lawful; Price +2 bonus.
 
-**Bane:** A bane weapon excels at attacking one type or subtype of
+### Bane
+A bane weapon excels at attacking one type or subtype of
 creature. Against its designated foe, its effective enhancement bonus is
 +2 better than its normal enhancement bonus. It deals an extra 2d6
 points of damage against the foe. Bows, crossbows, and slings so crafted
@@ -1128,7 +1204,8 @@ weapon's designated foe, roll on the following table.
 Moderate conjuration; CL 8th; Craft Magic Arms and Armor, *summon
 monster I*; Price +1 bonus.
 
-**Brilliant Energy:** A brilliant energy weapon has its significant
+### Brilliant Energy
+A brilliant energy weapon has its significant
 portion transformed into light, although this does not modify the item's
 weight. It always gives off light as a torch (20-foot radius). A
 brilliant energy weapon ignores nonliving matter. Armor and shield
@@ -1142,7 +1219,8 @@ ammunition.
 Strong transmutation; CL 16th; Craft Magic Arms and Armor, *gaseous
 form, continual flame;* Price +4 bonus.
 
-**Dancing:** As a standard action, a dancing weapon can be loosed to
+### Dancing
+As a standard action, a dancing weapon can be loosed to
 attack on its own. It fights for 4 rounds using the base attack bonus of
 the one who loosed it and then drops. While dancing, it cannot make
 attacks of opportunity, and the person who activated it is not
@@ -1160,7 +1238,8 @@ own) again for 4 rounds.
 Strong transmutation; CL 15th; Craft Magic Arms and Armor, *animate
 objects;* Price +4 bonus.
 
-**Defending:** A defending weapon allows the wielder to transfer some or
+### Defending
+A defending weapon allows the wielder to transfer some or
 all of the sword's enhancement bonus to his AC as a bonus that stacks
 with all others. As a free action, the wielder chooses how to allocate
 the weapon's enhancement bonus at the start of his turn before using the
@@ -1169,7 +1248,8 @@ weapon, and the effect to AC lasts until his next turn.
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, *shield* or
 *shield of faith;* Price +1 bonus.
 
-**Disruption:** A weapon of disruption is the bane of all undead. Any
+### Disruption
+A weapon of disruption is the bane of all undead. Any
 undead creature struck in combat must succeed on a DC 14 Will save or be
 destroyed. A weapon of disruption must be a bludgeoning weapon. (If you
 roll this property randomly for a piercing or slashing weapon, reroll.)
@@ -1177,14 +1257,16 @@ roll this property randomly for a piercing or slashing weapon, reroll.)
 Strong conjuration; CL 14th; Craft Magic Arms and Armor, *heal;* Price
 +2 bonus.
 
-**Distance:** This property can only be placed on a ranged weapon. A
+### Distance
+This property can only be placed on a ranged weapon. A
 weapon of distance has double the range increment of other weapons of
 its kind.
 
 Moderate divination; CL 6th; Craft Magic Arms and Armor,
 *clairaudience/clairvoyance;* Price +1 bonus.
 
-**Flaming:** Upon command, a flaming weapon is sheathed in fire. The
+### Flaming
+Upon command, a flaming weapon is sheathed in fire. The
 fire does not harm the wielder. The effect remains until another command
 is given. A flaming weapon deals an extra 1d6 points of fire damage on a
 successful hit. Bows, crossbows, and slings so crafted bestow the fire
@@ -1193,7 +1275,8 @@ energy upon their ammunition.
 Moderate evocation; CL 10th; Craft Magic Arms and Armor and *flame
 blade, flame strike,* or *fireball;* Price +1 bonus.
 
-**Flaming Burst:** A flaming burst weapon functions as a flaming weapon
+### Flaming Burst
+A flaming burst weapon functions as a flaming weapon
 that also explodes with flame upon striking a successful critical hit.
 The fire does not harm the wielder. In addition to the extra fire damage
 from the flaming ability (see above), a flaming burst weapon deals an
@@ -1209,7 +1292,8 @@ extra fire damage on a successful critical hit.
 Strong evocation; CL 12th; Craft Magic Arms and Armor and *flame blade,
 flame strike,* or *fireball;* Price +2 bonus.
 
-**Frost:** Upon command, a frost weapon is sheathed in icy cold. The
+### Frost
+Upon command, a frost weapon is sheathed in icy cold. The
 cold does not harm the wielder. The effect remains until another command
 is given. A frost weapon deals an extra 1d6 points of cold damage on a
 successful hit. Bows, crossbows, and slings so crafted bestow the cold
@@ -1218,7 +1302,8 @@ energy upon their ammunition.
 Moderate evocation; CL 8th; Craft Magic Arms and Armor, *chill metal* or
 *ice storm;* Price +1 bonus.
 
-**Ghost Touch:** A ghost touch weapon deals damage normally against
+### Ghost Touch
+A ghost touch weapon deals damage normally against
 incorporeal creatures, regardless of its bonus. (An incorporeal
 creature's 50% chance to avoid damage does not apply to attacks with
 ghost touch weapons.) The weapon can be picked up and moved by an
@@ -1230,7 +1315,8 @@ beneficial to the wielder.
 Moderate conjuration; CL 9th; Craft Magic Arms and Armor, *plane shift;*
 Price +1 bonus.
 
-**Holy:** A holy weapon is imbued with holy power. This power makes the
+### Holy
+A holy weapon is imbued with holy power. This power makes the
 weapon good-aligned and thus bypasses the corresponding damage
 reduction. It deals an extra 2d6 points of damage against all of evil
 alignment. It bestows one negative level on any evil creature attempting
@@ -1244,7 +1330,8 @@ ammunition.
 Moderate evocation \[good\]; CL 7th; Craft Magic Arms and Armor, *holy
 smite,* creator must be good; Price +2 bonus.
 
-**Icy Burst:** An icy burst weapon functions as a frost weapon that also
+### Icy Burst
+An icy burst weapon functions as a frost weapon that also
 explodes with frost upon striking a successful critical hit. The frost
 does not harm the wielder. In addition to the extra damage from the
 frost ability, an icy burst weapon deals an extra 1d10 points of cold
@@ -1259,7 +1346,8 @@ extra cold damage on a successful critical hit.
 Moderate evocation; CL 10th; Craft Magic Arms and Armor, *chill metal*
 or *ice storm;* Price +2 bonus.
 
-**Keen:** This ability doubles the threat range of a weapon. Only
+### Keen
+This ability doubles the threat range of a weapon. Only
 piercing or slashing weapons can be keen. (If you roll this property
 randomly for an inappropriate weapon, reroll.) This benefit doesn't
 stack with any other effect that expands the threat range of a weapon
@@ -1268,7 +1356,8 @@ stack with any other effect that expands the threat range of a weapon
 Moderate transmutation; CL 10th; Craft Magic Arms and Armor, *keen
 edge;* Price +1 bonus.
 
-***Ki* Focus:** The magic weapon serves as a channel for the wielder's
+### *Ki* Focus
+The magic weapon serves as a channel for the wielder's
 *ki*, allowing her to use her special *ki* attacks through the weapon as
 if they were unarmed attacks. These attacks include the monk's stunning
 attack, *ki* strike, and quivering palm, as well as the Stunning Fist
@@ -1277,7 +1366,8 @@ feat. Only melee weapons can have the *ki* focus ability.
 Moderate transmutation; CL 8th; Craft Magic Arms and Armor, creator must
 be a monk; Price +1 bonus.
 
-**Merciful:** The weapon deals an extra 1d6 points of damage, and all
+### Merciful
+The weapon deals an extra 1d6 points of damage, and all
 damage it deals is nonlethal damage. On command, the weapon suppresses
 this ability until commanded to resume it. Bows, crossbows, and slings
 so crafted bestow the merciful effect upon their ammunition.
@@ -1285,13 +1375,15 @@ so crafted bestow the merciful effect upon their ammunition.
 Faint conjuration; CL 5th; Craft Magic Arms and Armor, *cure light
 wounds*; Price +1 bonus.
 
-**Mighty Cleaving:** A mighty cleaving weapon allows a wielder with the
+### Mighty Cleaving
+A mighty cleaving weapon allows a wielder with the
 Cleave feat to make one additional cleave attempt in a round.
 
 Moderate evocation; CL 8th; Craft Magic Arms and Armor, *divine power;*
 Price +1 bonus.
 
-**Returning:** This special ability can only be placed on a weapon that
+### Returning
+This special ability can only be placed on a weapon that
 can be thrown. A returning weapon flies through the air back to the
 creature that threw it. It returns to the thrower just before the
 creature's next turn (and is therefore ready to use again in that turn).
@@ -1304,7 +1396,8 @@ thrown.
 Moderate transmutation; CL 7th; Craft Magic Arms and Armor,
 *telekinesis;* Price +1 bonus.
 
-**Seeking:** Only ranged weapons can have the seeking ability. The
+### Seeking
+Only ranged weapons can have the seeking ability. The
 weapon veers toward its target, negating any miss chances that would
 otherwise apply, such as from concealment. (The wielder still has to aim
 the weapon at the right square. Arrows mistakenly shot into an empty
@@ -1314,7 +1407,8 @@ are nearby.)
 Strong divination; CL 12th; Craft Magic Arms and Armor, *true seeing*;
 Price +1 bonus.
 
-**Shock:** Upon command, a shock weapon is sheathed in crackling
+### Shock
+Upon command, a shock weapon is sheathed in crackling
 electricity. The electricity does not harm the wielder. The effect
 remains until another command is given. A shock weapon deals an extra
 1d6 points of electricity damage on a successful hit. Bows, crossbows,
@@ -1324,7 +1418,8 @@ ammunition.
 Moderate evocation; CL 8th; Craft Magic Arms and Armor, *call lightning*
 or *lightning bolt;* Price +1 bonus.
 
-**Shocking Burst:** A shocking burst weapon functions as a shock weapon
+### Shocking Burst
+A shocking burst weapon functions as a shock weapon
 that also explodes with electricity upon striking a successful critical
 hit. The electricity does not harm the wielder. In addition to the extra
 electricity damage from the shock ability, a shocking burst weapon deals
@@ -1340,7 +1435,8 @@ extra electricity damage on a successful critical hit.
 Moderate evocation; CL 10th; Craft Magic Arms and Armor, *call
 lightning* or *lightning bolt;* Price +2 bonus.
 
-**Speed:** When making a full attack action, the wielder of a speed
+### Speed
+When making a full attack action, the wielder of a speed
 weapon may make one extra attack with it. The attack uses the wielder's
 full base attack bonus, plus any modifiers appropriate to the situation.
 (This benefit is not cumulative with similar effects, such as a *haste*
@@ -1349,7 +1445,8 @@ spell.)
 Moderate transmutation; CL 7th; Craft Magic Arms and Armor, *haste;*
 Price +3 bonus.
 
-**Spell Storing:** A spell storing weapon allows a spellcaster to store
+### Spell Storing
+A spell storing weapon allows a spellcaster to store
 a single targeted spell of up to 3rd level in the weapon. (The spell
 must have a casting time of 1 standard action.) Any time the weapon
 strikes a creature and the creature takes damage from it, the weapon can
@@ -1366,7 +1463,8 @@ Strong evocation (plus aura of stored spell); CL 12th; Craft Magic Arms
 and Armor, creator must be a caster of at least 12th level; Price +1
 bonus.
 
-**Thundering:** A thundering weapon creates a cacophonous roar like
+### Thundering
+A thundering weapon creates a cacophonous roar like
 thunder upon striking a successful critical hit. The sonic energy does
 not harm the wielder. A thundering weapon deals an extra 1d8 points of
 sonic damage on a successful critical hit. If the weapon's critical
@@ -1379,14 +1477,16 @@ make a DC 14 Fortitude save or be deafened permanently.
 Faint necromancy; CL 5th; Craft Magic Arms and Armor,
 *blindness/deafness;* Price +1 bonus.
 
-**Throwing:** This ability can only be placed on a melee weapon. A melee
+### Throwing
+This ability can only be placed on a melee weapon. A melee
 weapon crafted with this ability gains a range increment of 10 feet and
 can be thrown by a wielder proficient in its normal use.
 
 Faint transmutation; CL 5th; Craft Magic Arms and Armor, *magic stone;*
 Price +1 bonus.
 
-**Unholy:** An unholy weapon is imbued with unholy power. This power
+### Unholy
+An unholy weapon is imbued with unholy power. This power
 makes the weapon evil-aligned and thus bypasses the corresponding damage
 reduction. It deals an extra 2d6 points of damage against all of good
 alignment. It bestows one negative level on any good creature attempting
@@ -1400,7 +1500,8 @@ ammunition.
 Moderate evocation \[evil\]; CL 7th; Craft Magic Arms and Armor, *unholy
 blight,* creator must be evil; Price +2 bonus.
 
-**Vicious:** When a vicious weapon strikes an opponent, it creates a
+### Vicious
+When a vicious weapon strikes an opponent, it creates a
 flash of disruptive energy that resonates between the opponent and the
 wielder. This energy deals an extra 2d6 points of damage to the opponent
 and 1d6 points of damage to the wielder. Only melee weapons can be
@@ -1409,7 +1510,8 @@ vicious.
 Moderate necromancy; CL 9th; Craft Magic Arms and Armor, *enervation*;
 Price +1 bonus.
 
-**Vorpal:** This potent and feared ability allows the weapon to sever
+### Vorpal
+This potent and feared ability allows the weapon to sever
 the heads of those it strikes. Upon a roll of natural 20 (followed by a
 successful roll to confirm the critical hit), the weapon severs the
 opponent's head (if it has one) from its body. Some creatures, such as
@@ -1422,7 +1524,8 @@ property randomly for an inappropriate weapon, reroll.)
 Strong necromancy and transmutation; CL 18th; Craft Magic Arms and
 Armor, *circle of death*, *keen edge;* Price +5 bonus.
 
-**Wounding:** A wounding weapon deals 1 point of Constitution damage
+### Wounding
+A wounding weapon deals 1 point of Constitution damage
 from blood loss when it hits a creature. A critical hit does not
 multiply the Constitution damage. Creatures immune to critical hits
 (such as plants and constructs) are immune to the Constitution damage
@@ -1476,24 +1579,28 @@ Price +2 bonus.
 The following specific weapons usually are preconstructed with exactly
 the qualities described here.
 
-**Adamantine Battleaxe:** This nonmagical axe is made out of adamantine.
+### Adamantine Battleaxe
+This nonmagical axe is made out of adamantine.
 As a masterwork weapon, it has a +1 enhancement bonus on attack rolls.
 
 No aura (nonmagical); Price 3,010 gp.
 
-**Adamantine Dagger:** This nonmagical dagger is made out of adamantine.
+### Adamantine Dagger
+This nonmagical dagger is made out of adamantine.
 As a masterwork weapon, it has a +1 enhancement bonus on attack rolls.
 
 No aura (nonmagical); Price 3,002 gp.
 
-**Assassin's Dagger:** This wicked-looking, curved *+2 dagger* provides
+### Assassin's Dagger
+This wicked-looking, curved *+2 dagger* provides
 a +1 bonus to the DC of a Fortitude save forced by the death attack of
 an assassin.
 
 Moderate necromancy; CL 9th; Craft Magic Arms and Armor, *slay living;*
 Price 18,302 gp; Cost 9,302 gp + 720 XP.
 
-**Dagger of Venom:** This black *+1 dagger* has a serrated edge. It
+### Dagger of Venom
+This black *+1 dagger* has a serrated edge. It
 allows the wielder to use a *poison* effect (as the spell, save DC 14)
 upon a creature struck by the blade once per day. The wielder can decide
 to use the power after he has struck. Doing so is a free action, but the
@@ -1503,7 +1610,8 @@ strikes.
 Faint necromancy; CL 5th; Craft Magic Arms and Armor, *poison;* Price
 8,302 gp; Cost 4,302 gp + 320 XP.
 
-**Dwarven Thrower:** This weapon commonly functions as a *+2 warhammer.*
+### Dwarven Thrower
+This weapon commonly functions as a *+2 warhammer.*
 In the hands of a dwarf, the warhammer gains an additional +1
 enhancement bonus (for a total enhancement bonus of +3) and gains the
 returning special ability. It can be hurled with a 30-foot range
@@ -1514,7 +1622,8 @@ Moderate evocation; CL 10th; Craft Magic Arms and Armor, creator must be
 a dwarf of at least 10th level; Price 60,312 gp; Cost 30,312 gp + 2,400
 XP.
 
-**Flame Tongue:** This is a *+1 flaming burst longsword.* Once per day,
+### Flame Tongue
+This is a *+1 flaming burst longsword.* Once per day,
 the sword can blast forth a fiery ray at any target within 30 feet as a
 ranged touch attack. The ray deals 4d6 points of fire damage on a
 successful hit.
@@ -1523,7 +1632,8 @@ Moderate evocation; CL 12th; Craft Magic Arms and Armor, *scorching
 ray,* and *flame blade, flame strike,* or *fireball;* Price 20,715 gp;
 Cost 10,515 gp + 816 XP.
 
-**Frost Brand:** This *+3 frost greatsword* sheds light as a torch when
+### Frost Brand
+This *+3 frost greatsword* sheds light as a torch when
 the temperature drops below 0°F. At such times it cannot be concealed
 when drawn, nor can its light be shut off. Its wielder is protected from
 fire; the sword absorbs the first 10 points of fire damage each round
@@ -1539,7 +1649,8 @@ Strong evocation; CL 14th; Craft Magic Arms and Armor, *ice storm,
 dispel magic, protection from energy;* Price 54,475 gp; Cost 27,375 gp
 and 5 sp + 2179 XP.
 
-**Holy Avenger:** This *+2 cold iron longsword* becomes a *+5 holy cold
+### Holy Avenger
+This *+2 cold iron longsword* becomes a *+5 holy cold
 iron longsword* in the hands of a paladin.
 
 It provides spell resistance of 5 + the paladin's level to the wielder
@@ -1551,13 +1662,15 @@ dispel or counterspell versions of *greater dispel magic.*)
 Strong abjuration; CL 18th; Craft Magic Arms and Armor, *holy aura,*
 creator must be good; Price 120,630 gp; Cost 60,630 gp + 4,800 XP.
 
-**Javelin of Lightning:** This javelin becomes a 5d6 *lightning bolt*
+### Javelin of Lightning
+This javelin becomes a 5d6 *lightning bolt*
 when thrown (Reflex DC 14 half ). It is consumed in the attack.
 
 Faint evocation; CL 5th; Craft Magic Arms and Armor, *lightning bolt;*
 Price 1,500 gp; Cost 750 gp + 30 XP.
 
-**Life-Drinker:** This *+1 greataxe* is favored by undead and
+### Life-Drinker
+This *+1 greataxe* is favored by undead and
 constructs, who do not suffer its drawback. A *life-drinker* bestows two
 negative levels on its target whenever it deals damage, just as if its
 target had been struck by an undead creature. One day after being
@@ -1571,7 +1684,8 @@ in this fashion lasts for 1 hour.
 Strong necromancy; CL 13th; Craft Magic Arms and Armor, *enervation;*
 Price 40,320 gp; Cost 20,320 gp + 1,600 XP.
 
-**Luck Blade:** This *+2 short sword* gives its possessor a +1 luck
+### Luck Blade
+This *+2 short sword* gives its possessor a +1 luck
 bonus on all saving throws. Its possessor also gains the power of good
 fortune, usable once per day. This extraordinary ability allows its
 possessor to reroll one roll that she just made. She must take the
@@ -1587,7 +1701,8 @@ gp (2 *wishes*), 142,960 gp (3 *wishes*); Cost 11,030 gp + 882 XP (0
 *wishes*), 31,180 gp + 2,494 XP (1 *wish*); 51,330 gp + 4,106 XP (2
 *wishes*), 71,480 gp + 5,718 XP (3 *wishes*).
 
-**Mace of Smiting:** This *+3 adamantine heavy mace* has a +5
+### Mace of Smiting
+This *+3 adamantine heavy mace* has a +5
 enhancement bonus against constructs, and any critical hit dealt to a
 construct completely destroys it (no saving throw). A critical hit dealt
 to an outsider deals x4 damage rather than x2.
@@ -1595,7 +1710,8 @@ to an outsider deals x4 damage rather than x2.
 Moderate transmutation; CL 11th; Craft Magic Arms and Armor,
 *disintegrate;* Price 75,312 gp; Cost 39,312 gp + 2,880 XP.
 
-**Mace of Terror:** On command, this *+2 heavy mace* causes the
+### Mace of Terror
+On command, this *+2 heavy mace* causes the
 wielder's clothes and appearance to transform into an illusion of
 darkest horror such that living creatures in a 30-foot cone become
 panicked as if by a *fear* spell (Will DC 16 partial). They take a --2
@@ -1605,13 +1721,15 @@ wielder may use this ability up to three times per day.
 Strong necromancy; CL 13th; Craft Magic Arms and Armor, *fear;* Price
 38,552 gp; Cost 19,276 gp + 1,542 XP.
 
-**Masterwork Cold Iron Longsword:** This nonmagical longsword is crafted
+### Masterwork Cold Iron Longsword
+This nonmagical longsword is crafted
 out of cold iron. As a masterwork weapon, it has a +1 enhancement bonus
 on attack rolls.
 
 No aura (nonmagical); Price 330 gp.
 
-**Nine Lives Stealer:** This longsword always performs as a *+2
+### Nine Lives Stealer
+This longsword always performs as a *+2
 longsword,* but it also has the power to draw the life force from an
 opponent. It can do this nine times before the ability is lost. At that
 point, the sword becomes a simple *+2 longsword* (with a hint of evil
@@ -1630,7 +1748,8 @@ way (including *restoration* spells) while the sword is wielded.
 Strong necromancy \[evil\]; CL 13th; Craft Magic Arms and Armor, *finger
 of death;* Price 23,057 gp; Cost 11,528 gp 5 sp + 922 XP.
 
-**Oathbow:** Of elven make, this white *+2 composite longbow* (+2 Str
+### Oathbow
+Of elven make, this white *+2 composite longbow* (+2 Str
 bonus) whispers "Swift defeat to my enemies" in Elven when nocked and
 pulled. Once per day, if the firer swears aloud to slay her target (a
 free action), the bow's whisper becomes the low shout "Swift death to
@@ -1653,7 +1772,8 @@ time he made the oath.
 Strong evocation; CL 15th; Craft Magic Arms and Armor, creator must be
 an elf; Price 25,600 gp; Cost 13,100 gp + 1,000 XP.
 
-**Rapier of Puncturing:** Three times per day, this *+2 wounding rapier*
+### Rapier of Puncturing
+Three times per day, this *+2 wounding rapier*
 allows the wielder to make a touch attack with the weapon that deals 1d6
 points of Constitution damage by draining blood. Creatures immune to
 critical hits are immune to the Constitution damage dealt by this
@@ -1662,7 +1782,8 @@ weapon.
 Strong necromancy; CL 13th; Craft Magic Arms and Armor, *harm;* Price
 50,320 gp; Cost 25,320 gp + 2,000 XP.
 
-**Screaming Bolt:** One of these *+2 bolts* screams when fired, forcing
+### Screaming Bolt
+One of these *+2 bolts* screams when fired, forcing
 all enemies of the wielder within 20 feet of the path of the bolt to
 succeed on a DC 14 Will save or become shaken. This is a mind-affecting
 fear effect.
@@ -1670,7 +1791,8 @@ fear effect.
 Faint enchantment; CL 5th; Craft Magic Arms and Armor, *doom;* Price
 267gp; Cost 128 gp and 5 sp + 10 XP.
 
-**Shatterspike:** Wielders without the Improved Sunder feat use
+### Shatterspike
+Wielders without the Improved Sunder feat use
 *Shatterspike* as a *+1 longsword* only; wielders with the Improved
 Sunder feat add a +4 bonus (including the sword's +1 enhancement bonus)
 to the opposed roll when attempting to strike a foe's weapon. If
@@ -1683,7 +1805,8 @@ Strong evocation; CL 13th; Str 13, Craft Arms and Armor, Power Attack,
 Improved Sunder, *shatter*; Price 4,315 gp; Cost 2,315 gp + 160 XP;
 Weight 4 lb.
 
-**Shifter's Sorrow:** This *+1/+1 two-bladed sword* has blades of
+### Shifter's Sorrow
+This *+1/+1 two-bladed sword* has blades of
 alchemical silver. The weapon deals an extra 2d6 points of damage
 against any creature with the shapechanger subtype. When a shapechanger
 or a creature in an alternate form (such as a druid using wild shape) is
@@ -1693,13 +1816,15 @@ natural form.
 Strong transmutation; CL 15th; Craft Arms and Armor, *baleful
 polymorph;* Price 12,780 gp; Cost 6,780 gp + 480 XP; Weight 10 lb.
 
-**Silver Dagger, Masterwork:** This masterwork alchemical silver dagger
+### Silver Dagger, Masterwork
+This masterwork alchemical silver dagger
 is nonmagical. As a masterwork weapon, it has a +1 enhancement bonus on
 attack rolls.
 
 No aura (nonmagical); Price 322 gp.
 
-**Slaying Arrow:** This *+1 arrow* is keyed to a particular type or
+### Slaying Arrow
+This *+1 arrow* is keyed to a particular type or
 subtype of creature. If it strikes such a creature, the target must make
 a DC 20 Fortitude save or die (or, in the case of unliving targets, be
 destroyed) instantly. Note that even creatures normally exempt from
@@ -1752,7 +1877,8 @@ gp + 162 XP (*greater slaying arrow*).
   99--100   Vermin
   --------- ----------------------------
 
-**Sleep Arrow:** This *+1 arrow* is painted white and has white
+### Sleep Arrow
+This *+1 arrow* is painted white and has white
 fletching. If it strikes a foe so that it would normally deal damage, it
 instead bursts into magical energy that deals nonlethal damage (in the
 same amount as would be lethal damage) and forces the target to make a
@@ -1761,7 +1887,8 @@ DC 11 Will save or fall asleep.
 Faint enchantment; CL 5th; Craft Magic Arms and Armor, *sleep;* Price
 132 gp; Cost 69 gp 5 sp + 5 XP.
 
-**Sun Blade:** This sword is the size of a bastard sword. However, a
+### Sun Blade
+This sword is the size of a bastard sword. However, a
 *sun blade* is wielded as if it were a short sword with respect to
 weight and ease of use. (In other words, the weapon appears to all
 viewers to be a bastard sword, and deals bastard sword damage, but the
@@ -1793,7 +1920,8 @@ any way (including *restoration* spells) while the sword is wielded.
 Moderate evocation; CL 10th; Craft Magic Arms and Armor, *daylight,*
 creator must be good; Price 50,335 gp; Cost 25,335 gp + 2,000 XP.
 
-**Sword of Life Stealing:** This black iron *+2 longsword* bestows a
+### Sword of Life Stealing
+This black iron *+2 longsword* bestows a
 negative level when it deals a critical hit. The sword wielder gains 1d6
 temporary hit points each time a negative level is bestowed on another.
 These temporary hit points last for 24 hours. One day after being
@@ -1803,7 +1931,8 @@ level or lose a character level.
 Strong necromancy; CL 17th; Craft Magic Arms and Armor, *enervation;*
 Price 25,715 gp; Cost 12,857 gp and 5 sp + 1,029 XP.
 
-**Sword of the Planes:** This longsword has an enhancement bonus of +1
+### Sword of the Planes
+This longsword has an enhancement bonus of +1
 on the Material Plane, but on any Elemental Plane its enhancement bonus
 increases to +2. (The +2 enhancement bonus also applies on the Material
 Plane when the weapon is used against elementals.) It operates as a *+3
@@ -1814,14 +1943,16 @@ or against any outsider, it functions as a *+4 longsword.*
 Strong evocation; CL 15th; Craft Magic Arms and Armor, *plane shift;*
 Price 22,315 gp; Cost 11,157 gp and 5 sp + 893 XP.
 
-**Sword of Subtlety:** A *+1 short sword* with a thin, dull gray blade,
+### Sword of Subtlety
+A *+1 short sword* with a thin, dull gray blade,
 this weapon provides a +4 bonus on its wielder's attack and damage rolls
 when he is making a sneak attack with it.
 
 Moderate illusion; CL 7th; Craft Magic Arms and Armor, *blur;* Price
 22,310 gp; Cost 11,155 gp + 892 XP.
 
-**Sylvan Scimitar:** This *+3 scimitar,* when used outdoors in a
+### Sylvan Scimitar
+This *+3 scimitar,* when used outdoors in a
 temperate climate, grants its wielder the use of the Cleave feat and
 deals an extra 1d6 points of damage.
 
@@ -1829,7 +1960,8 @@ Moderate evocation; CL 11th; Craft Magic Arms and Armor, *divine power*
 or creator must be a 7th-level druid; Price 47,315gp; Cost 23,657 gp and
 5 sp + 1,893 XP.
 
-**Trident of Fish Command:** The magical properties of this *+1 trident*
+### Trident of Fish Command
+The magical properties of this *+1 trident*
 with a 6-foot-long haft enable its wielder to *charm* up to 14 HD of
 aquatic animals (Will DC 16 negates, animals get a +5 bonus if currently
 under attack by the wielder or his allies), no two of which can be more
@@ -1842,7 +1974,8 @@ The trident can be used up to three times per day.
 Moderate enchantment; CL 7th; Craft Magic Arms and Armor, *speak with
 animals;* Price 18,650 gp; Cost 9,325 gp + 746 XP.
 
-**Trident of Warning:** A weapon of this type enables its wielder to
+### Trident of Warning
+A weapon of this type enables its wielder to
 determine the location, depth, kind, and number of aquatic predators
 within 680 feet. A *trident of warning* must be grasped and pointed in
 order for the character using it to gain such information, and it

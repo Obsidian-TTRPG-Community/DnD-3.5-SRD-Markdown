@@ -22,7 +22,8 @@ attack. As such, their natural weapons are treated as secondary attacks.
 The animal's attack and damage entries note this fact, with an
 explanatory footnote.
 
-**Animal Traits:** An animal possesses the following traits (unless
+### Animal Traits
+An animal possesses the following traits (unless
 otherwise noted in a creature's entry).
 
 ---Intelligence score of 1 or 2 (no creature with an Intelligence score
@@ -66,7 +67,8 @@ they kill and eat anything they can catch. An adult male ape is 5-1/2 to
 
 ### Combat
 
-**Skills:** Apes have a +8 racial bonus on Climb checks and can always
+### Skills
+Apes have a +8 racial bonus on Climb checks and can always
 choose to take 10 on Climb checks, even if rushed or threatened.
 
 ## Baboon
@@ -104,7 +106,8 @@ Males can be 2 to 4 feet long and weigh as much as 90 pounds.
 
 Baboons usually attack in groups.
 
-**Skills:** Baboons have a +8 racial bonus on Climb checks and can
+### Skills
+Baboons have a +8 racial bonus on Climb checks and can
 always choose to take 10 on Climb checks, even if rushed or threatened.
 
 ## Badger
@@ -140,12 +143,14 @@ forelimbs are armed with long claws for digging. An adult badger is 2 to
 
 Badgers attack with their sharp claws and teeth.
 
-**Rage (Ex):** A badger that takes damage in combat flies into a berserk
+### Rage (Ex)
+A badger that takes damage in combat flies into a berserk
 rage on its next turn, clawing and biting madly until either it or its
 opponent is dead. It gains +4 to Strength, +4 to Constitution, and --2
 to Armor Class. The creature cannot end its rage voluntarily.
 
-**Skills:** A badger has a +4 racial bonus on Escape Artist checks.
+### Skills
+A badger has a +4 racial bonus on Escape Artist checks.
 
 ## Bat
 
@@ -219,7 +224,8 @@ rarely more than 5 feet long.
 
 Black bears rip prey with their claws and teeth.
 
-**Skills:** A black bear has a +4 racial bonus on Swim checks.
+### Skills
+A black bear has a +4 racial bonus on Swim checks.
 
 ## Bear, Brown
 
@@ -255,11 +261,13 @@ big bear, including the grizzly.
 
 A brown bear attacks mainly by tearing at opponents with its claws.
 
-**Improved Grab (Ex):** To use this ability, a brown bear must hit with
+### Improved Grab (Ex)
+To use this ability, a brown bear must hit with
 a claw attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
-**Skills:** A brown bear has a +4 racial bonus on Swim checks.
+### Skills
+A brown bear has a +4 racial bonus on Swim checks.
 
 ## Bear, Polar
 
@@ -292,11 +300,13 @@ These long, lean carnivores are slightly taller than brown bears.
 
 Polar bears fight just as brown bears do.
 
-**Improved Grab (Ex):** To use this ability, a polar bear must hit with
+### Improved Grab (Ex)
+To use this ability, a polar bear must hit with
 a claw attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
-**Skills:** A polar bear has a +8 racial bonus on any Swim check to
+### Skills
+A polar bear has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line. \*A
@@ -336,7 +346,8 @@ almost any large herd animal.
 
 ### Combat
 
-**Stampede (Ex):** A frightened herd of bison flees as a group in a
+### Stampede (Ex)
+A frightened herd of bison flees as a group in a
 random direction (but always away from the perceived source of danger).
 They literally run over anything of Large size or smaller that gets in
 their way, dealing 1d12 points of damage for each five bison in the herd
@@ -374,7 +385,8 @@ the shoulder.
 
 ### Combat
 
-**Ferocity (Ex):** A boar is such a tenacious combatant that it
+### Ferocity (Ex)
+A boar is such a tenacious combatant that it
 continues to fight without penalty even while disabled or dying.
 
 ## Camel
@@ -412,7 +424,8 @@ two-humped, or Bactrian, camel is suited to cooler, rocky areas. It is
 stockier, slower (speed 40 feet), and has a higher Constitution score
 (16).
 
-**Carrying Capacity:** A light load for a camel is up to 300 pounds; a
+### Carrying Capacity
+A light load for a camel is up to 300 pounds; a
 medium load, 301--600 pounds; and a heavy load, 601--900 pounds. A camel
 can drag 4,500 pounds.
 
@@ -452,7 +465,8 @@ The statistics presented here describe a common housecat.
 
 Cats prefer to sneak up on their prey.
 
-**Skills:** Cats have a +4 racial bonus on Climb, Hide, and Move
+### Skills
+Cats have a +4 racial bonus on Climb, Hide, and Move
 Silently checks and a +8 racial bonus on Jump checks. Cats have a +8
 racial bonus on Balance checks. They use their Dexterity modifier
 instead of their Strength modifier for Climb and Jump checks. \*In areas
@@ -490,12 +504,14 @@ feet long and weighs 110 to 130 pounds.
 
 Cheetahs make sudden sprints to bring down prey.
 
-**Trip (Ex):** A cheetah that hits with a claw or bite attack can
+### Trip (Ex)
+A cheetah that hits with a claw or bite attack can
 attempt to trip the opponent (+3 check modifier) as a free action
 without making a touch attack or provoking an attack of opportunity. If
 the attempt fails, the opponent cannot react to trip the cheetah.
 
-**Sprint (Ex):** Once per hour, a cheetah can move ten times its normal
+### Sprint (Ex)
+Once per hour, a cheetah can move ten times its normal
 speed (500 feet) when it makes a charge.
 
 ## Crocodile
@@ -529,16 +545,19 @@ showing, waiting for prey to come within reach.
 
 ### Combat
 
-**Improved Grab (Ex):** To use this ability, a crocodile must hit with
+### Improved Grab (Ex)
+To use this ability, a crocodile must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, the crocodile establishes a hold on the opponent with its mouth
 and drags it into deep water, attempting to pin it to the bottom.
 
-**Hold Breath (Ex):** A crocodile can hold its breath for a number of
+### Hold Breath (Ex)
+A crocodile can hold its breath for a number of
 rounds equal to 4 x its Constitution score before it risks drowning.
 
-**Skills:** A crocodile has a +8 racial bonus on any Swim check to
+### Skills
+A crocodile has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line. \*A
@@ -610,7 +629,8 @@ as coyotes, jackals, and African wild dogs.
 Dogs generally hunt in packs, chasing and exhausting prey until they can
 drag it down.
 
-**Skills:** Dogs have a +4 racial bonus on Jump checks. \*Dogs have a +4
+### Skills
+Dogs have a +4 racial bonus on Jump checks. \*Dogs have a +4
 racial bonus on Survival checks when tracking by scent.
 
 ## Dog, Riding
@@ -641,7 +661,8 @@ racial bonus on Survival checks when tracking by scent.
 This category includes working breeds such as collies, huskies, and St.
 Bernards.
 
-**Carrying Capacity:** A light load for a riding dog is up to 100
+### Carrying Capacity
+A light load for a riding dog is up to 100
 pounds; a medium load, 101--200 pounds; and a heavy load, 201--300
 pounds. A riding dog can drag 1,500 pounds.
 
@@ -652,7 +673,8 @@ do (see the Wolf entry). A riding dog can fight while carrying a rider,
 but the rider cannot also attack unless he or she succeeds on a Ride
 check.
 
-**Skills:** Riding dogs have a +4 racial bonus on Jump checks. \*Riding
+### Skills
+Riding dogs have a +4 racial bonus on Jump checks. \*Riding
 dogs have a +4 racial bonus on Survival checks when tracking by scent.
 
 ## Donkey
@@ -683,7 +705,8 @@ dogs have a +4 racial bonus on Survival checks when tracking by scent.
 These long-eared, horselike creatures are surefooted and sturdy. The
 statistics presented here could also describe burros.
 
-**Carrying Capacity:** A light load for a donkey is up to 50 pounds; a
+### Carrying Capacity
+A light load for a donkey is up to 50 pounds; a
 medium load, 51--100 pounds; and a heavy load, 101--150 pounds. A donkey
 can drag 750 pounds.
 
@@ -691,7 +714,8 @@ can drag 750 pounds.
 
 A donkey bites only when it has no way to escape.
 
-**Skills:** Donkeys have a +2 racial bonus on Balance checks.
+### Skills
+Donkeys have a +2 racial bonus on Balance checks.
 
 ## Eagle
 
@@ -729,7 +753,8 @@ bird of prey.
 
 Eagles dive at prey, raking with their powerful talons.
 
-**Skills:** Eagles have a +8 racial bonus on Spot checks.
+### Skills
+Eagles have a +8 racial bonus on Spot checks.
 
 ## Elephant
 
@@ -769,7 +794,8 @@ mammoths and mastodons.
 
 Elephants tend to charge at threatening creatures.
 
-**Trample (Ex):** Reflex half DC 25. The save DC is Strength-based.
+### Trample (Ex)
+Reflex half DC 25. The save DC is Strength-based.
 
 ## Hawk
 
@@ -803,7 +829,8 @@ long, with wingspans of 6 feet or less.
 
 Hawks combine both talons into a single attack.
 
-**Skills:** Hawks have a +8 racial bonus on Spot checks.
+### Skills
+Hawks have a +8 racial bonus on Spot checks.
 
 ## Horse
 
@@ -845,7 +872,8 @@ The statistics presented here describe large breeds of working horses
 such as Clydesdales. These animals are usually ready for heavy work by
 age three. A heavy horse cannot fight while carrying a rider.
 
-**Carrying Capacity:** A light load for a heavy horse is up to 200
+### Carrying Capacity
+A light load for a heavy horse is up to 200
 pounds; a medium load, 201--400 pounds; and a heavy load, 401--600
 pounds. A heavy horse can drag 3,000 pounds.
 
@@ -878,7 +906,8 @@ such as quarter horses and Arabians as well as wild horses. These
 animals are usually ready for useful work by age two. A light horse
 cannot fight while carrying a rider.
 
-**Carrying Capacity:** A light load for a light horse is up to 150
+### Carrying Capacity
+A light load for a light horse is up to 150
 pounds; a medium load, 151--300 pounds; and a heavy load, 301--450
 pounds. A light horse can drag 2,250 pounds.
 
@@ -911,7 +940,8 @@ strength and aggression. A heavy warhorse can fight while carrying a
 rider, but the rider cannot also attack unless he or she succeeds on a
 Ride check.
 
-**Carrying Capacity:** A light load for a heavy warhorse is up to 300
+### Carrying Capacity
+A light load for a heavy warhorse is up to 300
 pounds; a medium load, 301--600 pounds; and a heavy load, 601--900
 pounds. A heavy warhorse can drag 4,500 pounds.
 
@@ -944,7 +974,8 @@ strength and aggression. They usually are not ready for warfare before
 age three. A light warhorse can fight while carrying a rider, but the
 rider cannot also attack unless he or she succeeds on a Ride check.
 
-**Carrying Capacity:** A light load for a light warhorse is up to 230
+### Carrying Capacity
+A light load for a light warhorse is up to 230
 pounds; a medium load, 231--460 pounds; and a heavy load, 461--690
 pounds. A light warhorse can drag 3,450 pounds.
 
@@ -982,12 +1013,14 @@ which is about 3 feet long and weighs about 120 pounds.
 A favorite tactic is to send a few individuals against the foe's front
 while the rest of the pack circles and attacks from the flanks or rear.
 
-**Trip (Ex):** A hyena that hits with its bite attack can attempt to
+### Trip (Ex)
+A hyena that hits with its bite attack can attempt to
 trip the opponent (+2 check modifier) as a free action without making a
 touch attack or provoking an attack of opportunity. If the attempt
 fails, the opponent cannot react to trip the hyena.
 
-**Skills:** \*Hyenas have a +4 racial bonus on Hide checks in areas of
+### Skills
+\*Hyenas have a +4 racial bonus on Hide checks in areas of
 tall grass or heavy undergrowth.
 
 ## Leopard
@@ -1021,17 +1054,21 @@ feline of similar size, such as jaguars, panthers, and mountain lions.
 
 ### Combat
 
-**Improved Grab (Ex):** To use this ability, a leopard must hit with its
+### Improved Grab (Ex)
+To use this ability, a leopard must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can rake.
 
-**Pounce (Ex):** If a leopard charges a foe, it can make a full attack,
+### Pounce (Ex)
+If a leopard charges a foe, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** Attack bonus +6 melee, damage 1d3+1.
+### Rake (Ex)
+Attack bonus +6 melee, damage 1d3+1.
 
-**Skills:** Leopards have a +8 racial bonus on Jump checks and a +4
+### Skills
+Leopards have a +8 racial bonus on Jump checks and a +4
 racial bonus on Hide and Move Silently checks. Leopards have a +8 racial
 bonus on Balance and Climb checks. A leopard can always choose to take
 10 on a Climb check, even if rushed or threatened. \*In areas of tall
@@ -1068,17 +1105,21 @@ smaller but use the same statistics.
 
 ### Combat
 
-**Pounce (Ex):** If a lion charges a foe, it can make a full attack,
+### Pounce (Ex)
+If a lion charges a foe, it can make a full attack,
 including two rake attacks.
 
-**Improved Grab (Ex):** To use this ability, a lion must hit with its
+### Improved Grab (Ex)
+To use this ability, a lion must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can rake.
 
-**Rake (Ex):** Attack bonus +7 melee, damage 1d4+2.
+### Rake (Ex)
+Attack bonus +7 melee, damage 1d4+2.
 
-**Skills:** Lions have a +4 racial bonus on Balance, Hide, and Move
+### Skills
+Lions have a +4 racial bonus on Balance, Hide, and Move
 Silently checks. \*In areas of tall grass or heavy undergrowth, the Hide
 bonus improves to +12.
 
@@ -1115,7 +1156,8 @@ perhaps a foot or two in length, such as an iguana.
 Lizards prefer flight to combat, but they can bite painfully if there is
 no other option.
 
-**Skills:** Lizards have a +8 racial bonus on Balance checks. They also
+### Skills
+Lizards have a +8 racial bonus on Balance checks. They also
 have a +8 racial bonus on Climb checks and can always choose to take 10
 on Climb checks, even if rushed or threatened. Lizards use their
 Dexterity modifier instead of their Strength modifier for Climb checks.
@@ -1153,7 +1195,8 @@ feet long.
 Monitor lizards can be aggressive, using their powerful jaws to tear at
 prey or enemies.
 
-**Skills:** A monitor lizard has a +8 racial bonus on any Swim check to
+### Skills
+A monitor lizard has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -1194,7 +1237,8 @@ water through their gaping, toothless maws.
 \*If threatened, a manta ray uses its size and weight to ram opponents.
 This is treated as a secondary attack.
 
-**Skills:** A manta ray has a +8 racial bonus on any Swim check to
+### Skills
+A manta ray has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -1232,7 +1276,8 @@ no bigger than a housecat, such as a colobus or capuchin.
 Monkeys generally flee into the safety of the trees, but if cornered can
 fight ferociously.
 
-**Skills:** Monkeys have a +8 racial bonus on Balance and Climb checks.
+### Skills
+Monkeys have a +8 racial bonus on Balance and Climb checks.
 They can always choose to take 10 on Climb checks, even if rushed or
 threatened. They use their Dexterity modifier instead of their Strength
 modifier for Climb checks.
@@ -1269,11 +1314,13 @@ to a light horse, but slightly stronger and more agile.
 
 A mule's powerful kick can be dangerous.
 
-**Carrying Capacity:** A light load for a mule is up to 230 pounds; a
+### Carrying Capacity
+A light load for a mule is up to 230 pounds; a
 medium load, 231--460 pounds; and a heavy load, 461--690 pounds. A mule
 can drag 3,450 pounds.
 
-**Skills:** Mules have a +2 racial bonus on Dexterity checks to avoid
+### Skills
+Mules have a +2 racial bonus on Dexterity checks to avoid
 slipping or falling.
 
 ## Octopus
@@ -1306,22 +1353,26 @@ disturbed, they usually try to escape.
 
 ### Combat
 
-**Improved Grab (Ex):** To use this ability, an octopus must hit an
+### Improved Grab (Ex)
+To use this ability, an octopus must hit an
 opponent of any size with its arms attack. It can then attempt to start
 a grapple as a free action without provoking an attack of opportunity.
 If it wins the grapple check, it establishes a hold and automatically
 deals bite damage.
 
-**Ink Cloud (Ex):** An octopus can emit a cloud of jet-black ink 10 feet
+### Ink Cloud (Ex)
+An octopus can emit a cloud of jet-black ink 10 feet
 high by 10 feet wide by 10 feet long once per minute as a free action.
 The cloud provides total concealment, which the octopus normally uses to
 escape a losing fight. All vision within the cloud is obscured.
 
-**Jet (Ex):** An octopus can jet backward once per round as a full-round
+### Jet (Ex)
+An octopus can jet backward once per round as a full-round
 action, at a speed of 200 feet. It must move in a straight line, but
 does not provoke attacks of opportunity while jetting.
 
-**Skills:** An octopus can change colors, giving it a +4 racial bonus on
+### Skills
+An octopus can change colors, giving it a +4 racial bonus on
 Hide checks. An octopus also can squeeze and contort its body, giving it
 a +10 racial bonus on Escape Artist checks. An octopus has a +8 racial
 bonus on any Swim check to perform some special action or avoid a
@@ -1370,25 +1421,30 @@ damage to the creature. A giant octopus usually withdraws from combat if
 it loses four tentacles. The creature regrows severed limbs in 1d10+10
 days.
 
-**Constrict (Ex):** A giant octopus deals 2d8+6 points of damage with a
+### Constrict (Ex)
+A giant octopus deals 2d8+6 points of damage with a
 successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, a giant octopus must hit an
+### Improved Grab (Ex)
+To use this ability, a giant octopus must hit an
 opponent of any size with a tentacle attack. It can then attempt to
 start a grapple as a free action without provoking an attack of
 opportunity. If it wins the grapple check, it establishes a hold and can
 constrict.
 
-**Ink Cloud (Ex):** A giant octopus can emit a cloud of jet-black ink 20
+### Ink Cloud (Ex)
+A giant octopus can emit a cloud of jet-black ink 20
 feet high by 20 feet wide by 20 feet long once per minute as a free
 action. The cloud provides total concealment, which the octopus normally
 uses to escape a losing fight. All vision within the cloud is obscured.
 
-**Jet (Ex):** A giant octopus can jet backward once per round as a
+### Jet (Ex)
+A giant octopus can jet backward once per round as a
 full-round action, at a speed of 200 feet. It must move in a straight
 line, but does not provoke attacks of opportunity while jetting.
 
-**Skills:** A giant octopus can change colors, giving it a +4 racial
+### Skills
+A giant octopus can change colors, giving it a +4 racial
 bonus on Hide checks. A giant octopus also can squeeze and contort its
 body, giving it a +10 racial bonus on Escape Artist checks. A giant
 octopus has a +8 racial bonus on any Swim check to perform some special
@@ -1429,7 +1485,8 @@ a single attack.
 
 Owls swoop quietly down onto prey, attacking with their powerful talons.
 
-**Skills:** Owls have a +8 racial bonus on Listen checks and a +14
+### Skills
+Owls have a +8 racial bonus on Listen checks and a +14
 racial bonus on Move Silently checks. \*They have a +8 racial bonus on
 Spot checks in areas of shadowy illumination.
 
@@ -1468,7 +1525,8 @@ fight while carrying a rider.
 but rather to run. Its hoof attack is treated as a secondary attack and
 adds only half the pony's Strength bonus to damage.
 
-**Carrying Capacity:** A light load for a pony is up to 75 pounds; a
+### Carrying Capacity
+A light load for a pony is up to 75 pounds; a
 medium load, 76--150 pounds; and a heavy load, 151--225 pounds. A pony
 can drag 1,125 pounds.
 
@@ -1505,7 +1563,8 @@ warhorses.
 A warpony can fight while carrying a rider, but the rider cannot also
 attack unless he or she succeeds on a Ride check.
 
-**Carrying Capacity:** A light load for a warpony is up to 100 pounds; a
+### Carrying Capacity
+A light load for a warpony is up to 100 pounds; a
 medium load, 101--200 pounds; and a heavy load, 201--300 pounds. A
 warpony can drag 1,500 pounds.
 
@@ -1540,16 +1599,19 @@ statistics presented here can describe any small whale of similar size.
 
 ### Combat
 
-**Blindsight (Ex):** Porpoises can "see" by emitting high-frequency
+### Blindsight (Ex)
+Porpoises can "see" by emitting high-frequency
 sounds, inaudible to most other creatures, that allow them to locate
 objects and creatures within 120 feet. A *silence* spell negates this
 and forces the porpoise to rely on its vision, which is approximately as
 good as a human's.
 
-**Hold Breath (Ex):** A porpoise can hold its breath for a number of
+### Hold Breath (Ex)
+A porpoise can hold its breath for a number of
 rounds equal to 6 x its Constitution score before it risks drowning.
 
-**Skills:** A porpoise has a +8 racial bonus on any Swim check to
+### Skills
+A porpoise has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line. \*A
@@ -1587,7 +1649,8 @@ These omnivorous rodents thrive almost anywhere.
 
 Rats usually run away. They bite only as a last resort.
 
-**Skills:** Rats have a +4 racial bonus on Hide and Move Silently
+### Skills
+Rats have a +4 racial bonus on Hide and Move Silently
 checks, and a +8 racial bonus on Balance, Climb, and Swim checks. A rat
 can always choose to take 10 on Climb checks, even if rushed or
 threatened. A rat uses its Dexterity modifier instead of its Strength
@@ -1666,7 +1729,8 @@ like).
 When it is harassed or annoyed, a rhinoceros lowers its head and
 charges.
 
-**Powerful Charge (Ex):** A rhinoceros deals 4d6+24 points of damage
+### Powerful Charge (Ex)
+A rhinoceros deals 4d6+24 points of damage
 when it makes a charge.
 
 ## Shark
@@ -1707,13 +1771,16 @@ exceed 20 feet in length.
 Sharks circle and observe potential prey, then dart in and bite with
 their powerful jaws.
 
-**Blindsense (Ex):** A shark can locate creatures underwater within a
+### Blindsense (Ex)
+A shark can locate creatures underwater within a
 30-foot radius. This ability works only when the shark is underwater.
 
-**Keen Scent (Ex):** A shark can notice creatures by scent in a 180-foot
+### Keen Scent (Ex)
+A shark can notice creatures by scent in a 180-foot
 radius and detect blood in the water at ranges of up to a mile.
 
-**Skills:** A shark has a +8 racial bonus on any Swim check to perform
+### Skills
+A shark has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -1722,7 +1789,8 @@ action while swimming, provided it swims in a straight line.
 
 Snakes usually are not aggressive and flee when confronted.
 
-**Skills:** Snakes have a +4 racial bonus on Hide, Listen, and Spot
+### Skills
+Snakes have a +4 racial bonus on Hide, Listen, and Spot
 checks and a +8 racial bonus on Balance and Climb checks. A snake can
 always choose to take 10 on a Climb check, even if rushed or threatened.
 Snakes use either their Strength modifier or Dexterity modifier for
@@ -1766,10 +1834,12 @@ that is too large to constrict.
 Constrictor snakes hunt by grabbing prey with their mouths and then
 squeezing it with their powerful bodies.
 
-**Constrict (Ex):** On a successful grapple check, a constrictor snake
+### Constrict (Ex)
+On a successful grapple check, a constrictor snake
 deals 1d3+4 points of damage.
 
-**Improved Grab (Ex):** To use this ability, a constrictor snake must
+### Improved Grab (Ex)
+To use this ability, a constrictor snake must
 hit with its bite attack. It can then attempt to start a grapple as a
 free action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict.
@@ -1904,22 +1974,26 @@ than sharks in some locales.
 
 ### Combat
 
-**Improved Grab (Ex):** To use this ability, a squid must hit an
+### Improved Grab (Ex)
+To use this ability, a squid must hit an
 opponent of any size with its arms attack. It can then attempt to start
 a grapple as a free action without provoking an attack of opportunity.
 If it wins the grapple check, it establishes a hold and automatically
 deals bite damage. \*A squid has a +4 racial bonus on grapple checks.
 
-**Ink Cloud (Ex):** A squid can emit a cloud of jet-black ink 10 feet
+### Ink Cloud (Ex)
+A squid can emit a cloud of jet-black ink 10 feet
 high by 10 feet wide by 10 feet long once per minute as a free action.
 The cloud provides total concealment, which the squid normally uses to
 escape a losing fight. All vision within the cloud is obscured.
 
-**Jet (Ex):** A squid can jet backward once per round as a full-round
+### Jet (Ex)
+A squid can jet backward once per round as a full-round
 action, at a speed of 240 feet. It must move in a straight line, but
 does not provoke attacks of opportunity while jetting.
 
-**Skills:** A squid has a +8 racial bonus on any Swim check to perform
+### Skills
+A squid has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line
@@ -1963,25 +2037,30 @@ one of a giant squid's tentacles deals 5 points of damage to the
 creature. A giant squid usually withdraws from combat if it loses five
 tentacles. The creature regrows severed limbs in 1d10+10 days.
 
-**Constrict (Ex):** A giant squid deals 1d6+8 points of damage with a
+### Constrict (Ex)
+A giant squid deals 1d6+8 points of damage with a
 successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, a giant squid must hit an
+### Improved Grab (Ex)
+To use this ability, a giant squid must hit an
 opponent of any size with a tentacle attack. It can then attempt to
 start a grapple as a free action without provoking an attack of
 opportunity. If it wins the grapple check, it establishes a hold and can
 constrict. \*A giant squid has a +4 racial bonus on grapple checks.
 
-**Ink Cloud (Ex):** A giant squid can emit a cloud of jet-black ink 20
+### Ink Cloud (Ex)
+A giant squid can emit a cloud of jet-black ink 20
 feet high by 20 feet wide by 20 feet long once per minute as a free
 action. The cloud provides total concealment, which the squid normally
 uses to escape a losing fight. All vision within the cloud is obscured.
 
-**Jet (Ex):** A giant squid can jet backward once per round as a
+### Jet (Ex)
+A giant squid can jet backward once per round as a
 full-round action, at a speed of 320 feet. It must move in a straight
 line, but does not provoke attacks of opportunity while jetting.
 
-**Skills:** A giant squid has a +8 racial bonus on any Swim check to
+### Skills
+A giant squid has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -2016,17 +2095,21 @@ about 9 feet long. They weigh from 400 to 600 pounds.
 
 ### Combat
 
-**Improved Grab (Ex):** To use this ability, a tiger must hit with a
+### Improved Grab (Ex)
+To use this ability, a tiger must hit with a
 claw or bite attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can rake.
 
-**Pounce (Ex):** If a tiger charges a foe, it can make a full attack,
+### Pounce (Ex)
+If a tiger charges a foe, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** Attack bonus +9 melee, damage 1d8+3.
+### Rake (Ex)
+Attack bonus +9 melee, damage 1d8+3.
 
-**Skills:** Tigers have a +4 racial bonus on Balance, Hide, and Move
+### Skills
+Tigers have a +4 racial bonus on Balance, Hide, and Move
 Silently checks. \*In areas of tall grass or heavy undergrowth, the Hide
 bonus improves to +8.
 
@@ -2058,7 +2141,8 @@ bonus improves to +8.
 These diminutive amphibians are innocuous and beneficial, since they eat
 insects.
 
-**Skills:** A toad's coloration gives it a +4 racial bonus on Hide
+### Skills
+A toad's coloration gives it a +4 racial bonus on Hide
 checks.
 
 ## Weasel
@@ -2092,7 +2176,8 @@ to ferrets.
 
 ### Combat
 
-**Attach (Ex):** If a weasel hits with a bite attack, it uses its
+### Attach (Ex)
+If a weasel hits with a bite attack, it uses its
 powerful jaws to latch onto the opponent's body and automatically deals
 bite damage each round it remains attached. An attached weasel loses its
 Dexterity bonus to Armor Class and has an AC of 12. An attached weasel
@@ -2100,7 +2185,8 @@ can be struck with a weapon or grappled itself. To remove an attached
 weasel through grappling, the opponent must achieve a pin against the
 creature.
 
-**Skills:** Weasels have a +4 racial bonus on Move Silently checks and a
+### Skills
+Weasels have a +4 racial bonus on Move Silently checks and a
 +8 racial bonus on Balance and Climb checks. They use their Dexterity
 modifier for Climb checks. A weasel can always choose to take 10 on a
 Climb check, even if rushed or threatened.
@@ -2111,16 +2197,19 @@ Some varieties of these seagoing mammals are among the largest animals
 known. Relatively small whales (such as the orca presented here) can be
 vicious predators, attacking virtually anything they detect.
 
-**Blindsight (Ex):** Whales can "see" by emitting high-frequency sounds,
+### Blindsight (Ex)
+Whales can "see" by emitting high-frequency sounds,
 inaudible to most other creatures, that allow them to locate objects and
 creatures within 120 feet. A *silence* spell negates this and forces the
 whale to rely on its vision, which is approximately as good as a
 human's.
 
-**Hold Breath (Ex):** A whale can hold its breath for a number of rounds
+### Hold Breath (Ex)
+A whale can hold its breath for a number of rounds
 equal to 8 x its Constitution score before it risks drowning.
 
-**Skills:** A whale has a +8 racial bonus on any Swim check to perform
+### Skills
+A whale has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line. \*A whale
@@ -2242,12 +2331,14 @@ Wolves are pack hunters known for their persistence and cunning.
 A favorite tactic is to send a few individuals against the foe's front
 while the rest of the pack circles and attacks from the flanks or rear.
 
-**Trip (Ex):** A wolf that hits with a bite attack can attempt to trip
+### Trip (Ex)
+A wolf that hits with a bite attack can attempt to trip
 the opponent (+1 check modifier) as a free action without making a touch
 attack or provoking an attack of opportunity. If the attempt fails, the
 opponent cannot react to trip the wolf.
 
-**Skills:** \*Wolves have a +4 racial bonus on Survival checks when
+### Skills
+\*Wolves have a +4 racial bonus on Survival checks when
 tracking by scent.
 
 ## Wolverine
@@ -2280,10 +2371,12 @@ even more ferocious.
 
 ## Combat
 
-**Rage (Ex):** A wolverine that takes damage in combat flies into a
+### Rage (Ex)
+A wolverine that takes damage in combat flies into a
 berserk rage on its next turn, clawing and biting madly until either it
 or its opponent is dead. It gains +4 to Strength, +4 to Constitution,
 and --2 to Armor Class. The creature cannot end its rage voluntarily.
 
-**Skills:** Wolverines have a +8 racial bonus on Climb checks and can
+### Skills
+Wolverines have a +8 racial bonus on Climb checks and can
 always choose to take 10 on Climb checks, even if rushed or threatened.

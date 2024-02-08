@@ -15,21 +15,25 @@ Activating a psionic item is a standard action unless the item description indic
 
 The four ways to activate psionic items are described below.
 
-**Power Completion:** This is the activation method for power stones. A power stone holds a power that is mostly finished. All that's left to do is perform the short, simple, finishing parts of the manifestation (the final mental coda, as it were). To use a power completion item safely, a character must be of high enough level in the appropriate class to manifest the power already. If he can't already manifest the power, there's a chance he'll make a mistake (see Brainburn in the power stone description). Activating a power completion item is a standard action and provokes attacks of opportunity exactly as manifesting a power does.
+### Power Completion
+This is the activation method for power stones. A power stone holds a power that is mostly finished. All that's left to do is perform the short, simple, finishing parts of the manifestation (the final mental coda, as it were). To use a power completion item safely, a character must be of high enough level in the appropriate class to manifest the power already. If he can't already manifest the power, there's a chance he'll make a mistake (see Brainburn in the power stone description). Activating a power completion item is a standard action and provokes attacks of opportunity exactly as manifesting a power does.
 
 Powers stored in power completion items are usually not augmented, because the manifester level of such an item is assumed to be the minimum necessary to manifest the stored power. However, an item's description may specify otherwise (some power stones have manifester levels higher than the minimum required to manifest the stored power, and are then assumed to be augmented as well).
 
-**Power Trigger:** This is the activation method for dorjes and psicrowns. It requires the special knowledge of power manifestation that a character of the appropriate class would know, and the formation of the appropriate command thought. If a power is on a character's power list, the character knows how to use a power trigger item that stores that power. The user must still determine what power is stored in the item before she can activate it. Activating a power trigger item is a standard action that does not provoke attacks of opportunity.
+### Power Trigger
+This is the activation method for dorjes and psicrowns. It requires the special knowledge of power manifestation that a character of the appropriate class would know, and the formation of the appropriate command thought. If a power is on a character's power list, the character knows how to use a power trigger item that stores that power. The user must still determine what power is stored in the item before she can activate it. Activating a power trigger item is a standard action that does not provoke attacks of opportunity.
 
 Powers stored in power trigger items are not augmented. Such powers are assumed to be stored in the item at the minimum manifester level necessary to manifest the power. However, certain items may specify a higher manifester level than necessary. If such an item holds a power that deals hit point damage, the power is assumed to be augmented to the maximum allowed by the power and the manifester level.
 
-**Command Thought:** If no activation method is suggested either in the psionic item description or by the nature of the item, assume that a command thought is needed to activate it. Command thought activation means that a character mentally projects a thought, and the item activates. No other special knowledge is needed. Activating a command thought psionic item is a standard action that does not provoke attacks of opportunity.
+### Command Thought
+If no activation method is suggested either in the psionic item description or by the nature of the item, assume that a command thought is needed to activate it. Command thought activation means that a character mentally projects a thought, and the item activates. No other special knowledge is needed. Activating a command thought psionic item is a standard action that does not provoke attacks of opportunity.
 
 Sometimes the command thought to activate an item is mentally imprinted within it and is whispered into the mind of a creature who picks it up. Other items are silent, but a Knowledge (psionics) or Knowledge (history) check might be useful in helping to identify command thoughts. A successful DC 30 check is needed to come up with the command thought in this case. The power *psionic identify* reveals command thoughts.
 
 Powers stored in command thought items are usually not augmented, because the manifester level of such an item is assumed to be the minimum possible to manifest the stored power.
 
-**Use-Activated:** This type of psionic item simply has to be used to activate. Use activation is generally straightforward and self-explanatory.
+### Use-Activated
+This type of psionic item simply has to be used to activate. Use activation is generally straightforward and self-explanatory.
 
 Many use-activated items are objects that a character wears. Some items made for wearing must still be activated. Although this activation sometimes requires a command thought (see above), usually it means mentally willing the activation to happen (a free action). The description of an item states whether a command thought is needed in such a case.
 
@@ -109,9 +113,11 @@ Some individual items, notably those that simply store psionic powers, don't get
 
 Items with full descriptions have their abilities detailed, and each of the following aspects of these items is summarized at the end of the description.
 
-**Aura:** Most of the time, a *detect psionics* power will reveal the discipline associated with a psionic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item's notational entry in the form of a phrase. See the *detect psionics* power description for more information.
+### Aura
+Most of the time, a *detect psionics* power will reveal the discipline associated with a psionic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item's notational entry in the form of a phrase. See the *detect psionics* power description for more information.
 
-**Manifester Level:** The next entry in the summary indicates the level of the creator (or the manifester level of the powers placed within the item, if this level is lower than the actual level of the creator). The manifester level provides the item's saving throw bonus, as well as range and other level-dependent aspects of the powers of the item (if variable).
+### Manifester Level
+The next entry in the summary indicates the level of the creator (or the manifester level of the powers placed within the item, if this level is lower than the actual level of the creator). The manifester level provides the item's saving throw bonus, as well as range and other level-dependent aspects of the powers of the item (if variable).
 
 It also determines the level that must be contended with should the item come under the effect of a *dispel psionics* power or a similar situation. This information is given in the form "ML x," where "ML" is an abbreviation for manifester
 
@@ -119,7 +125,8 @@ level and "x" is an ordinal number representing the manifester level itself.
 
 For psionic tattoos, power stones, and dorjes, the creator can set the manifester level of an item at any number high enough to manifest the stored power and not higher than her own manifester level. For other psionic items, the item itself determines the manifester level. In this case, the creator's manifester level must be as high as the item's manifester level (and prerequisites may effectively put a higher minimum on the creator's level).
 
-**Prerequisites:** Certain requirements must be met in order for a character to create a psionic item. These include feats, powers, and miscellaneous requirements such as level, alignment, and race or kind. The prerequisites for creation of an item are given in the summary immediately following the item's manifester level.
+### Prerequisites
+Certain requirements must be met in order for a character to create a psionic item. These include feats, powers, and miscellaneous requirements such as level, alignment, and race or kind. The prerequisites for creation of an item are given in the summary immediately following the item's manifester level.
 
 A power prerequisite can be provided by a character who knows the power, or through the use of a power completion or power trigger psionic item or a psi-like ability that produces the desired power effect. For each day that passes during the creation process, the creator must expend one power completion item (such as a power stone) or 1 charge from a power trigger item (such as a dorje), if either of those objects is used to supply a prerequisite.
 
@@ -129,11 +136,14 @@ If two or more characters cooperate to create an item, they must agree among the
 
 Typically, a list of prerequisites includes one feat and one or more powers (or some other requirement in addition to the feat). When two powers at the end of a list are separated by "or," one of those powers is required in addition to every other power mentioned prior to the last two.
 
-**Market Price:** This gold piece value, given in the summary following the word "Price," represents the price someone should expect to pay to buy the item. Market prices are also included on the random generation tables for easy reference. The market price of an item that can be constructed with a psionic item creation feat is usually equal to the base price + the price for any components (special materials or experience point expenditure).
+### Market Price
+This gold piece value, given in the summary following the word "Price," represents the price someone should expect to pay to buy the item. Market prices are also included on the random generation tables for easy reference. The market price of an item that can be constructed with a psionic item creation feat is usually equal to the base price + the price for any components (special materials or experience point expenditure).
 
-**Cost to Create:** The cost in gold pieces and experience points to create the item is given in the summary following the word "Cost." This information appears only for items with components (material or experience points) that make their market prices higher than their base prices. The cost to create includes the costs derived from the base cost plus the cost of the components. Items without components do not have a "Cost" entry. For them, the market price and base price are the same. The cost in gold pieces is 1/2 the market price, and the cost in experience points is 1/25 the market price.
+### Cost to Create
+The cost in gold pieces and experience points to create the item is given in the summary following the word "Cost." This information appears only for items with components (material or experience points) that make their market prices higher than their base prices. The cost to create includes the costs derived from the base cost plus the cost of the components. Items without components do not have a "Cost" entry. For them, the market price and base price are the same. The cost in gold pieces is 1/2 the market price, and the cost in experience points is 1/25 the market price.
 
-**Weight:** The notational entry for many items ends with a value for the item's weight. When a weight figure is not given, the item has no weight worth noting (for the purpose of determining how much of a load a character can carry).
+### Weight
+The notational entry for many items ends with a value for the item's weight. When a weight figure is not given, the item has no weight worth noting (for the purpose of determining how much of a load a character can carry).
 
 #### Random Psionic Items
 
@@ -161,7 +171,8 @@ In general, psionic armor and shields follow the rules for the equivalent magic 
 
 Psionic armor and shields differ from standard and magical equivalents in that psionic armor and shields incorporate one or more crystals into their construction. Particularly powerful armor and shields may be entirely composed of brightly hued or transparent crystals.
 
-**Special Qualities:** Roll d%. An 01 result indicates the item is intelligent, an 02--31 result indicates that the command thought (if any) is psionically imprinted and whispers itself into the user's mind on acquisition, and 32--100 indicates no special qualities.
+### Special Qualities
+Roll d%. An 01 result indicates the item is intelligent, an 02--31 result indicates that the command thought (if any) is psionically imprinted and whispers itself into the user's mind on acquisition, and 32--100 indicates no special qualities.
 
 Intelligent items have extra abilities and sometimes also extraordinary powers and special purposes. Substitute manifesting for spellcasting as required.
 
@@ -217,67 +228,82 @@ Intelligent items have extra abilities and sometimes also extraordinary powers a
 
 Most psionic armor and shields have only enhancement bonuses. Such items can also have one or more of the special abilities detailed below. Armor or a shield with a special ability must have at least a +1 enhancement bonus.
 
-**Aporter:** As a standard action, a suit of aporter armor or an aporter shield transports the wearer and her equipment to any spot within 800 feet that she can visualize or specify, as the *psionic dimension door* power. The armor or shield can transport the wearer in this fashion twice per day.
+### Aporter
+As a standard action, a suit of aporter armor or an aporter shield transports the wearer and her equipment to any spot within 800 feet that she can visualize or specify, as the *psionic dimension door* power. The armor or shield can transport the wearer in this fashion twice per day.
 
 Moderate psychoportation; ML 10th; Craft Psionic Arms and Armor, *psionic dimension door;* Price +40,320 gp.
 
-**Averter:** On command, up to three times per day, any creature to whom the wearer presents an averter shield must succeed on a DC 14 Will save or be overcome by a powerful aversion to the wielder (actually the shield), and will not approach within 30 feet. This is a mind-affecting compulsion effect, as the *aversion* power.
+### Averter
+On command, up to three times per day, any creature to whom the wearer presents an averter shield must succeed on a DC 14 Will save or be overcome by a powerful aversion to the wielder (actually the shield), and will not approach within 30 feet. This is a mind-affecting compulsion effect, as the *aversion* power.
 
 Faint telepathy; ML 5th; Craft Psionic Arms and Armor, *aversion;* Price +12,960 gp.
 
-**Ectoplasmic:** As a standard action, ectoplasmic armor converts itself, its wearer, and all the wearer's equipment into *ectoplasmic form* for up to 5 minutes once per day, as the power of the same name. In this semisolid state, the wearer gains damage reduction 10/psionics.
+### Ectoplasmic
+As a standard action, ectoplasmic armor converts itself, its wearer, and all the wearer's equipment into *ectoplasmic form* for up to 5 minutes once per day, as the power of the same name. In this semisolid state, the wearer gains damage reduction 10/psionics.
 
 Faint psychometabolism; ML 5th; Craft Psionic Arms and Armor, *ectoplasmic form;* Price +10,800 gp.
 
-**Floating:** This kind of armor is psionically buoyant in water or a similar liquid, negating the normal penalty for wearing armor when making Swim checks. Additionally, it grants a +4 circumstance bonus on Swim checks.
+### Floating
+This kind of armor is psionically buoyant in water or a similar liquid, negating the normal penalty for wearing armor when making Swim checks. Additionally, it grants a +4 circumstance bonus on Swim checks.
 
 Faint psychoportation; ML 4th; Craft Psionic Arms and Armor, *float;* Price +4,000 gp.
 
-**Gleaming:** This kind of armor is usually made of crystal, though it doesn't have to be. Gleams and flashes from the armor give the wearer and his armor a "fuzzy" appearance, granting the wearer concealment.
+### Gleaming
+This kind of armor is usually made of crystal, though it doesn't have to be. Gleams and flashes from the armor give the wearer and his armor a "fuzzy" appearance, granting the wearer concealment.
 
 Faint metacreativity; ML 5th; Craft Psionic Arms and Armor, *concealing amorpha;* Price +3 bonus.
 
-**Heartening:** This kind of shield grants the wearer up to 5 temporary hit points per day on command. These temporary hit points fade after 4 minutes. The wearer can activate this power as an immediate action at any time.
+### Heartening
+This kind of shield grants the wearer up to 5 temporary hit points per day on command. These temporary hit points fade after 4 minutes. The wearer can activate this power as an immediate action at any time.
 
 Faint psychometabolism; ML 4th; Craft Psionic Arms and Armor, *vigor;* Price +720 gp.
 
-**Landing:** A suit of armor with this capability allows the wearer to ignore any damage dealt by the first 60 feet of a fall. Regardless of the height of a fall, the wearer always lands on her feet.
+### Landing
+A suit of armor with this capability allows the wearer to ignore any damage dealt by the first 60 feet of a fall. Regardless of the height of a fall, the wearer always lands on her feet.
 
 Faint psychoportation; ML 4th; Craft Psionic Arms and Armor, *catfall;* Price +4,000 gp.
 
-**Linked:** This kind of armor or shield allows the wearer to form a telepathic bond with other wearers of linked armor or shields within 10 miles. This ability is otherwise similar to the *mindlink* power.
+### Linked
+This kind of armor or shield allows the wearer to form a telepathic bond with other wearers of linked armor or shields within 10 miles. This ability is otherwise similar to the *mindlink* power.
 
 Moderate telepathy; ML 6th; Craft Psionic Arms and Armor, *mindlink;* Price +6,000 gp.
 
-**Manifester:** This kind of shield generates 3 power points once per day that the wearer can use when manifesting a power he knows. These power points must all be used on the same power. As usual, a psionic character cannot pay a power's cost with power points from more than one source, so the power points in the shield must be used for discrete manifestations.
+### Manifester
+This kind of shield generates 3 power points once per day that the wearer can use when manifesting a power he knows. These power points must all be used on the same power. As usual, a psionic character cannot pay a power's cost with power points from more than one source, so the power points in the shield must be used for discrete manifestations.
 
 Moderate clairsentience; ML 6th; Craft Psionic Arms and Armor, knowledge of any 2nd-level power; Price +10,800 gp.
 
-**Mindarmor:** This kind of armor or shield grants the wearer a +3 insight bonus on Will saving throws to resist all mind-affecting and/or compulsion powers.
+### Mindarmor
+This kind of armor or shield grants the wearer a +3 insight bonus on Will saving throws to resist all mind-affecting and/or compulsion powers.
 
 Faint psychokinesis; ML 5th; Craft Psionic Arms and Armor, *empty mind;* Price +24,000 gp.
 
-**Phasing:** The wearer of this kind of armor can move through wooden, plaster, or stone walls, but not other materials. The wearer can call on this special ability as a standard action. When the phasing ability is active, the wearer can pass through a wall or some other kind of appropriate object for a total distance of 60 feet per day (see below), breaking this distance up into several smaller passages or one long one, as desired. A wearer who exceeds this daily distance limit while inside solid material is ejected from the material at the point of entry, ending up prone in front of the now impassable barrier.
+### Phasing
+The wearer of this kind of armor can move through wooden, plaster, or stone walls, but not other materials. The wearer can call on this special ability as a standard action. When the phasing ability is active, the wearer can pass through a wall or some other kind of appropriate object for a total distance of 60 feet per day (see below), breaking this distance up into several smaller passages or one long one, as desired. A wearer who exceeds this daily distance limit while inside solid material is ejected from the material at the point of entry, ending up prone in front of the now impassable barrier.
 
 Phasing through a wall that separates two adjacent squares on the grid counts as 5 feet of distance. Phasing through a wall or barrier of any greater thickness counts as a distance equal to the barrier's thickness plus 5 feet. feet of distance.
 
 Strong psychoportation; ML 13th; Craft Psionic Arms and Armor, *psionic phase door;* Price +65,520 gp.
 
-**Power Resistance:** This kind of armor or shield grants the wearer power resistance while it is worn. The power resistance can be 13, 15, 17, or 19, depending on the amount that was built into the armor or shield.
+### Power Resistance
+This kind of armor or shield grants the wearer power resistance while it is worn. The power resistance can be 13, 15, 17, or 19, depending on the amount that was built into the armor or shield.
 
 Moderate clairsentience; ML 9th; Craft Psionic Arms and Armor, *power resistance;* Price +2 bonus (PR 13); +3 bonus (PR 15); +4 bonus (PR 17); or +5 bonus (PR 19).
 
-**Quickness:** This kind of armor increases the wearer's speed by 5 feet. Thus, a character whose normal speed in armor is 20 feet moves 25 feet in *armor of quickness.*
+### Quickness
+This kind of armor increases the wearer's speed by 5 feet. Thus, a character whose normal speed in armor is 20 feet moves 25 feet in *armor of quickness.*
 
 Faint psychoportation; ML 4th; Craft Psionic Arms and Armor, *burst;* Price +1 bonus.
 
-**Radiant:** The wearer of this kind of armor gains resistance 10 against energy attacks (acid, cold, electricity, fire, or sonic). The armor absorbs the first 10 points of damage dealt by any such attack, and this absorption causes it to radiate light for a number of rounds equal to the points of damage absorbed. This light is sufficient to illuminate a 60-foot-radius area.
+### Radiant
+The wearer of this kind of armor gains resistance 10 against energy attacks (acid, cold, electricity, fire, or sonic). The armor absorbs the first 10 points of damage dealt by any such attack, and this absorption causes it to radiate light for a number of rounds equal to the points of damage absorbed. This light is sufficient to illuminate a 60-foot-radius area.
 
 If the armor absorbs more damage while it is radiating light, the newer radiant effect overlaps (does not stack with) the effect that was already in place.
 
 Moderate psychokinesis; ML 9th; Craft Psionic Arms and Armor; *energy adaptation;* Price +4 bonus.
 
-**Ranged:** The wielder of a ranged shield can throw it in combat, with a range increment of 30 feet. While in the air, the shield is treated in all ways as a ranged weapon and cannot be blocked or grabbed except by those with appropriate feats. No matter the size of the wielder, a buckler or light shield deals 1d6 points of damage and a heavy one 1d8 points. (A tower shield cannot be created with this special ability.) The wielder's Strength modifier and the shield's enhancement bonus add to the base damage.
+### Ranged
+The wielder of a ranged shield can throw it in combat, with a range increment of 30 feet. While in the air, the shield is treated in all ways as a ranged weapon and cannot be blocked or grabbed except by those with appropriate feats. No matter the size of the wielder, a buckler or light shield deals 1d6 points of damage and a heavy one 1d8 points. (A tower shield cannot be created with this special ability.) The wielder's Strength modifier and the shield's enhancement bonus add to the base damage.
 
 A ranged shield flies through the air back to the creature that threw it. It returns to the wielder just before the creature's next turn (and is therefore ready to use again in that turn).
 
@@ -285,19 +311,23 @@ Catching a ranged shield when it comes back is a free action. If the wielder can
 
 Faint psychokinesis; ML 5th; Craft Psionic Arms and Armor, *far hand;* Price +1 bonus.
 
-**Seeing:** This kind of armor grants a wider than normal field of vision, so that opponents flanking the wearer gain only a +1 bonus on their attack rolls instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on Spot checks but takes a --2 penalty on saves against gaze attacks.
+### Seeing
+This kind of armor grants a wider than normal field of vision, so that opponents flanking the wearer gain only a +1 bonus on their attack rolls instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on Spot checks but takes a --2 penalty on saves against gaze attacks.
 
 Faint clairsentience; ML 5th; Craft Psionic Arms and Armor, *ubiquitous vision;* Price +6,000 gp.
 
-**Time Buttress:** This kind of shield gives the wielder a chance to avoid telling blows by using time itself as a shield. Once per day, the wielder can use *timeless body* as though manifesting the power.
+### Time Buttress
+This kind of shield gives the wielder a chance to avoid telling blows by using time itself as a shield. Once per day, the wielder can use *timeless body* as though manifesting the power.
 
 Strong psychoportation; ML 17th; Craft Psionic Arms and Armor, *timeless body;* Price +5 bonus.
 
-**Vanishing:** On command, this suit of armor or shield renders its wearer and all the wearer's equipment invisible to the minds of others, as if he had manifested the power *cloud mind*. The wearer can use this ability twice per day.
+### Vanishing
+On command, this suit of armor or shield renders its wearer and all the wearer's equipment invisible to the minds of others, as if he had manifested the power *cloud mind*. The wearer can use this ability twice per day.
 
 Faint psychokinesis; ML 5th; Craft Psionic Arms and Armor, *cloud mind;* Price +3 bonus.
 
-**Wall:** As a standard action once per day, the wielder can drop this kind of shield at his feet and command a *wall of ectoplasm* (as the power) to come into being, with the shield as the point of origin for the effect. This effect forms a wall whose area is up to twelve 10-foot squares or a sphere or hemisphere with a radius of up to 12 feet. The wall dissipates after 7 minutes, or sooner if the wielder of the shield reclaims it (thus dismissing the effect).
+### Wall
+As a standard action once per day, the wielder can drop this kind of shield at his feet and command a *wall of ectoplasm* (as the power) to come into being, with the shield as the point of origin for the effect. This effect forms a wall whose area is up to twelve 10-foot squares or a sphere or hemisphere with a radius of up to 12 feet. The wall dissipates after 7 minutes, or sooner if the wielder of the shield reclaims it (thus dismissing the effect).
 
 Strong metacreativity; ML 12th; Craft Psionic Arms and Armor, *wall of ectoplasm*; Price +20,160 gp.
 
@@ -313,9 +343,11 @@ In addition to enhancement bonuses, psionic weapons can also have the special ab
 
 The rules for manifester level for weapons (called caster level), additional damage dice, ranged weapons and ammunition, ammunition and breakage, hardness and hit points, critical hits, and weapons for unusually sized creatures for psionic weapons are the same as for magic weapons. Psionic weapons do not have the chance to generate light (though some may be mentally audible; see below).
 
-**Mentally Audible:** Fully 30% of psionic weapons telepathically mutter, croon, recite battle poems, scream, or produce other mental "noises" when first drawn, at first blood, or when they slay a significant enemy. Such a weapon cannot be concealed from creatures within 15 feet when it is drawn, nor can its mental "soundtrack" be curbed.
+### Mentally Audible
+Fully 30% of psionic weapons telepathically mutter, croon, recite battle poems, scream, or produce other mental "noises" when first drawn, at first blood, or when they slay a significant enemy. Such a weapon cannot be concealed from creatures within 15 feet when it is drawn, nor can its mental "soundtrack" be curbed.
 
-**Activation:** Usually a character benefits from a psionic weapon in the same way a character benefits from a mundane weapon---by attacking with it. If a weapon has a special ability that the user needs to activate, then the user usually needs to project a command thought (a standard action).
+### Activation
+Usually a character benefits from a psionic weapon in the same way a character benefits from a mundane weapon---by attacking with it. If a weapon has a special ability that the user needs to activate, then the user usually needs to project a command thought (a standard action).
 
 |                                                                                                                                                                                                                                                                         |         |         |                     |                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|---------------------|---------------------|
@@ -366,59 +398,73 @@ The rules for manifester level for weapons (called caster level), additional dam
 
 Most psionic weapons have only enhancement bonuses. They can also have the special abilities detailed here. A weapon with a special ability must have at least a +1 enhancement bonus.
 
-**Bodyfeeder:** All feeder weapons have a special ability that functions only upon scoring a successful critical hit. A bodyfeeder weapon grants its wielder temporary hit points equal to the total damage dealt by a successful critical hit. These temporary hit points last for 10 minutes. Thus, if the wielder of a bodyfeeder weapon successfully scores a critical hit while the wielder still enjoys temporary hit points from a previous critical hit, the wielder gains only the better of the two values: either his current number of temporary hit points, or the new influx of temporary hit points, whichever is higher.
+### Bodyfeeder
+All feeder weapons have a special ability that functions only upon scoring a successful critical hit. A bodyfeeder weapon grants its wielder temporary hit points equal to the total damage dealt by a successful critical hit. These temporary hit points last for 10 minutes. Thus, if the wielder of a bodyfeeder weapon successfully scores a critical hit while the wielder still enjoys temporary hit points from a previous critical hit, the wielder gains only the better of the two values: either his current number of temporary hit points, or the new influx of temporary hit points, whichever is higher.
 
 Strong psychometabolism; ML 12th; Craft Psionic Arms and Armor, *claws of the vampire;* Price +3 bonus.
 
-**Collision:** Collision weapons psionically increase their own mass at the end point of each swing or shot. Such weapons deal an extra 5 points of damage on each successful strike, in addition to the weapon's enhancement bonus. Bows, crossbows, and slings bestow the extra damage upon their ammunition.
+### Collision
+Collision weapons psionically increase their own mass at the end point of each swing or shot. Such weapons deal an extra 5 points of damage on each successful strike, in addition to the weapon's enhancement bonus. Bows, crossbows, and slings bestow the extra damage upon their ammunition.
 
 Moderate metacreativity; ML 10th; Craft Psionic Arms and Armor, *matter manipulation;* Price +2 bonus.
 
-**Coup de Grace:** Coup de grace weapons are exceptionally dangerous. On a successful critical hit, the foe must succeed on a DC 27 Will save or be paralyzed for 1 round. While this ability does work on creatures that are immune to extra damage from critical hits, it does not work on creatures without an Intelligence score. Bows, crossbows, and slings bestow this ability on their ammunition.
+### Coup de Grace
+Coup de grace weapons are exceptionally dangerous. On a successful critical hit, the foe must succeed on a DC 27 Will save or be paralyzed for 1 round. While this ability does work on creatures that are immune to extra damage from critical hits, it does not work on creatures without an Intelligence score. Bows, crossbows, and slings bestow this ability on their ammunition.
 
 Strong telepathy; ML 19th; Craft Psionic Arms and Armor, *psionic dominate;* Price +5 bonus.
 
-**Dislocator:** The wielder of this kind of weapon can attempt to dislocate a designated foe up to three times per day. On a successful hit, the foe must succeed on a DC 17 Will save or be teleported 1--100 miles in a random direction. If the weapon misses, the use is wasted. Bows, crossbows, and slings bestow this ability on their ammunition.
+### Dislocator
+The wielder of this kind of weapon can attempt to dislocate a designated foe up to three times per day. On a successful hit, the foe must succeed on a DC 17 Will save or be teleported 1--100 miles in a random direction. If the weapon misses, the use is wasted. Bows, crossbows, and slings bestow this ability on their ammunition.
 
 Strong psychoportation; ML 12th; Craft Psionic Arms and Armor, *psionic teleport;* Price +3 bonus.
 
-**Dissipater:** This kind of weapon is devastating to creatures and objects composed of or originally formed from ectoplasm (such as astral constructs, walls of ectoplasm, creatures in ectoplasmic form, and items created using the metacreativity discipline). Against qualifying targets, a dissipater weapon ignores damage reduction and hardness, and treats all successful hits as critical hits.
+### Dissipater
+This kind of weapon is devastating to creatures and objects composed of or originally formed from ectoplasm (such as astral constructs, walls of ectoplasm, creatures in ectoplasmic form, and items created using the metacreativity discipline). Against qualifying targets, a dissipater weapon ignores damage reduction and hardness, and treats all successful hits as critical hits.
 
 Strong metacreativity; ML 12th; Craft Psionic Arms and Armor, *dismiss ectoplasm;* Price +1 bonus.
 
-**Great Dislocator:** The wielder of this kind of weapon can attempt to greatly dislocate a designated foe up to three times per day. On a successful hit, the foe must succeed on a DC 20 Will save or be cast into a random alternate plane of existence. If the weapon misses, the use is wasted. Bows, crossbows, and slings bestow this ability upon their ammunition.
+### Great Dislocator
+The wielder of this kind of weapon can attempt to greatly dislocate a designated foe up to three times per day. On a successful hit, the foe must succeed on a DC 20 Will save or be cast into a random alternate plane of existence. If the weapon misses, the use is wasted. Bows, crossbows, and slings bestow this ability upon their ammunition.
 
 Strong psychoportation; ML 12th; Craft Psionic Arms and Armor, *psionic plane shift*; Price +4 bonus.
 
-**Lucky:** A lucky weapon offers a second chance at success. Once per day, the wielder can reroll a failed attack roll (whether a single attack or one in a series of multiple attacks) as a free action. The rerolled attack uses the same bonuses or penalties as the missed roll.
+### Lucky
+A lucky weapon offers a second chance at success. Once per day, the wielder can reroll a failed attack roll (whether a single attack or one in a series of multiple attacks) as a free action. The rerolled attack uses the same bonuses or penalties as the missed roll.
 
 Moderate clairsentience; ML 8th; Craft Psionic Arms and Armor, *fate of one;* Price +1 bonus.
 
-**Manifester:** This kind of weapon generates 5 power points once per day that the wearer can use when manifesting a power he knows. These power points must all be used on the same power. As usual, a psionic character cannot pay a power's cost with power points from more than one source, so the power points in the shield must be used for discrete manifestations.
+### Manifester
+This kind of weapon generates 5 power points once per day that the wearer can use when manifesting a power he knows. These power points must all be used on the same power. As usual, a psionic character cannot pay a power's cost with power points from more than one source, so the power points in the shield must be used for discrete manifestations.
 
 Moderate clairsentience; ML 8th; Craft Psionic Arms and Armor, knowledge of any 3rd-level power; Price +16,000 gp.
 
-**Mindcrusher:** Any psionic creature struck in combat by a mindcrusher weapon loses a number of power points equal to half the amount of hit point damage the weapon deals (only the base damage of the weapon contributes to the power point loss; additional damage from high Strength or other sources does not cause additional power point loss). A psionic creature that is out of power points (or has none) must succeed on a DC 17 Will save or take 1d2 points of Wisdom damage.
+### Mindcrusher
+Any psionic creature struck in combat by a mindcrusher weapon loses a number of power points equal to half the amount of hit point damage the weapon deals (only the base damage of the weapon contributes to the power point loss; additional damage from high Strength or other sources does not cause additional power point loss). A psionic creature that is out of power points (or has none) must succeed on a DC 17 Will save or take 1d2 points of Wisdom damage.
 
 Strong psychometabolism; ML 12th; Craft Psionic Arms and Armor, *psychic vampire;* Price +2 bonus.
 
-**Mindfeeder:** All feeder weapons have a special ability that functions only upon scoring a successful critical hit. A mindfeeder weapon grants its wielder temporary power points equal to the total damage dealt by a successful critical hit. These temporary power points last for 10 minutes. The wielder gains power points even if the target has none (effectively, its hit point damage is converted to power points). Constructs and undead are not subject to mindfeeder weapons. As with temporary hit points, temporary power points do not stack with each other; they overlap. Thus, if a mindfeeder weapon successfully scores a critical hit while the wielder still enjoys temporary power points from a previous critical hit, the wielder gains only the better of the two values: either her current number of temporary power points, or the new influx of temporary power points, whichever is higher.
+### Mindfeeder
+All feeder weapons have a special ability that functions only upon scoring a successful critical hit. A mindfeeder weapon grants its wielder temporary power points equal to the total damage dealt by a successful critical hit. These temporary power points last for 10 minutes. The wielder gains power points even if the target has none (effectively, its hit point damage is converted to power points). Constructs and undead are not subject to mindfeeder weapons. As with temporary hit points, temporary power points do not stack with each other; they overlap. Thus, if a mindfeeder weapon successfully scores a critical hit while the wielder still enjoys temporary power points from a previous critical hit, the wielder gains only the better of the two values: either her current number of temporary power points, or the new influx of temporary power points, whichever is higher.
 
 Strong psychometabolism; ML 15th; Craft Psionic Arms and Armor, *psychic vampire;* Price +3 bonus.
 
-**Parrying:** A parrying weapon perceives an instant into the future, and of its own accord resists melee and ranged attacks aimed at the wielder, granting a +1 insight bonus to the wielder's Armor Class. The weapon is so adept at parrying that it even affects incoming powers, granting the wielder a +1 insight bonus on saving throws. The bonuses are granted whenever the wielder holds the weapon, even if flat-footed.
+### Parrying
+A parrying weapon perceives an instant into the future, and of its own accord resists melee and ranged attacks aimed at the wielder, granting a +1 insight bonus to the wielder's Armor Class. The weapon is so adept at parrying that it even affects incoming powers, granting the wielder a +1 insight bonus on saving throws. The bonuses are granted whenever the wielder holds the weapon, even if flat-footed.
 
 Faint clairsentience; ML 5th; Craft Psionic Arms and Armor, *defensive precognition;* Price +8,000 gp.
 
-**Power Storing:** A power storing weapon allows a manifester to store a single targeted power of up to 5 power points in the weapon. (The power must have a manifesting time of 1 standard action.) Any time the weapon strikes a creature and the creature takes damage from it, the weapon can immediately manifest the power on that creature as a swift action if the wielder desires. (This ability is an exception to the rule that manifesting a power from an item takes at least as long as manifesting that power normally.) Once the power is manifested, the weapon is empty, and a manifester can imbed any other targeted power of up to 5 power points into it. The weapon telepathically whispers to the wearer the name of the power currently stored within it. A randomly generated power storing weapon has a 50% chance to have a power stored in it already.
+### Power Storing
+A power storing weapon allows a manifester to store a single targeted power of up to 5 power points in the weapon. (The power must have a manifesting time of 1 standard action.) Any time the weapon strikes a creature and the creature takes damage from it, the weapon can immediately manifest the power on that creature as a swift action if the wielder desires. (This ability is an exception to the rule that manifesting a power from an item takes at least as long as manifesting that power normally.) Once the power is manifested, the weapon is empty, and a manifester can imbed any other targeted power of up to 5 power points into it. The weapon telepathically whispers to the wearer the name of the power currently stored within it. A randomly generated power storing weapon has a 50% chance to have a power stored in it already.
 
 Strong psychokinesis; ML 12th; Craft Psionic Arms and Armor, creator must be a manifester of at least 12th level; Price +1 bonus.
 
-**Psibane:** A psibane weapon is crafted to oppose psionic beings. When used against such creatures, its effective enhancement bonus is 2 higher than its actual enhancement bonus. It deals an extra 2d6 points of damage against psionic opponents. It bestows one negative level on any psionic creature attempting to wield it. This negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual level loss, but it cannot be overcome in any way while the weapon is wielded. Psibane bows, crossbows, and slings bestow this ability upon their ammunition.
+### Psibane
+A psibane weapon is crafted to oppose psionic beings. When used against such creatures, its effective enhancement bonus is 2 higher than its actual enhancement bonus. It deals an extra 2d6 points of damage against psionic opponents. It bestows one negative level on any psionic creature attempting to wield it. This negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual level loss, but it cannot be overcome in any way while the weapon is wielded. Psibane bows, crossbows, and slings bestow this ability upon their ammunition.
 
 Strong clairsentience; ML 15th; Craft Psionic Arms and Armor, *bend reality;* Price +2 bonus.
 
-**Psychic:** A psychic weapon's power depends on its wielder. In the hands of a nonpsionic creature, the weapon possesses the qualities of a nonmagical, nonpsionic masterwork weapon. When wielded by a psionic creature, this weapon has an enhancement bonus based on the wielder's current power point reserve, as shown on the following table. The weapon's enhancement bonus decreases as the wielder spends power points, and it increases whenever the wielder gains enough power points (by any means) to put his power point reserve into the next higher category.
+### Psychic
+A psychic weapon's power depends on its wielder. In the hands of a nonpsionic creature, the weapon possesses the qualities of a nonmagical, nonpsionic masterwork weapon. When wielded by a psionic creature, this weapon has an enhancement bonus based on the wielder's current power point reserve, as shown on the following table. The weapon's enhancement bonus decreases as the wielder spends power points, and it increases whenever the wielder gains enough power points (by any means) to put his power point reserve into the next higher category.
 
 |                     |                   |
 |---------------------|-------------------|
@@ -431,27 +477,33 @@ Strong clairsentience; ML 15th; Craft Psionic Arms and Armor, *bend reality;* Pr
 
 Strong clairsentience; ML 17th; Craft Psionic Arms and Armor, *reality revision;* Price +35,000.
 
-**Psychokinetic:** Upon command, a psychokinetic weapon glows from the inside with lethal psionic energy. The energy does not harm the hands that hold the weapon. Such a weapon deals an extra 1d4 points of damage on a successful hit. This extra damage is ectoplasmic in nature and is not affected by damage reduction. Bows, crossbows, and slings bestow this ability upon their ammunition.
+### Psychokinetic
+Upon command, a psychokinetic weapon glows from the inside with lethal psionic energy. The energy does not harm the hands that hold the weapon. Such a weapon deals an extra 1d4 points of damage on a successful hit. This extra damage is ectoplasmic in nature and is not affected by damage reduction. Bows, crossbows, and slings bestow this ability upon their ammunition.
 
 Moderate psychokinesis; ML 10th; Craft Psionic Arms and Armor, *concussion blast;* Price +1 bonus.
 
-**Psychokinetic Burst:** This weapon functions as a psychokinetic weapon that also releases a blast of destructive psionic energy upon scoring a successful critical hit. In addition to the extra damage of the psychokinetic ability (see above), a psychokinetic burst weapon deals an extra 1d6 points of damage on a successful critical hit. If the weapon's critical multiplier is x3, add 2d6 points of extra damage instead, and if the multiplier is x4, add 3d6 points of extra damage. This extra damage is ectoplasmic in nature and is not affected by damage reduction. Bows, crossbows, and slings bestow this ability upon their ammunition.
+### Psychokinetic Burst
+This weapon functions as a psychokinetic weapon that also releases a blast of destructive psionic energy upon scoring a successful critical hit. In addition to the extra damage of the psychokinetic ability (see above), a psychokinetic burst weapon deals an extra 1d6 points of damage on a successful critical hit. If the weapon's critical multiplier is x3, add 2d6 points of extra damage instead, and if the multiplier is x4, add 3d6 points of extra damage. This extra damage is ectoplasmic in nature and is not affected by damage reduction. Bows, crossbows, and slings bestow this ability upon their ammunition.
 
 Strong psychokinesis; ML 12th; Craft Psionic Arms and Armor, *concussion blast;* Price +2 bonus.
 
-**Soulbreaker:** This weapon has a special ability that functions only upon scoring a successful critical hit. On a successful critical hit, a soulbreaker weapon bestows one negative level on the foe. One day after being struck, if the negative levels have not been purged, the subject must succeed on a DC 18 Fortitude save for each negative level or lose a character level.
+### Soulbreaker
+This weapon has a special ability that functions only upon scoring a successful critical hit. On a successful critical hit, a soulbreaker weapon bestows one negative level on the foe. One day after being struck, if the negative levels have not been purged, the subject must succeed on a DC 18 Fortitude save for each negative level or lose a character level.
 
 Strong telepathy; ML 12th; Craft Psionic Arms and Armor, *mindwipe;* Price +3 bonus.
 
-**Sundering:** This kind of weapon allows a wielder to attack opponents' weapons as if he had the Improved Sunder feat.
+### Sundering
+This kind of weapon allows a wielder to attack opponents' weapons as if he had the Improved Sunder feat.
 
 Faint metacreativity; ML 5th; Craft Psionic Arms and Armor, Great Sunder, *metaphysical weapon;* Price +1 bonus.
 
-**Suppression:** An opponent or object struck by this kind of weapon is subject to a targeted *dispel psionics* power. The wielder makes a power check (1d20 + 5 + manifester level, maximum +15) against a DC of 11 + the manifester level of the power to be dispelled. Bows, crossbows, and slings bestow this ability upon their ammunition, but can do so only three times per day.
+### Suppression
+An opponent or object struck by this kind of weapon is subject to a targeted *dispel psionics* power. The wielder makes a power check (1d20 + 5 + manifester level, maximum +15) against a DC of 11 + the manifester level of the power to be dispelled. Bows, crossbows, and slings bestow this ability upon their ammunition, but can do so only three times per day.
 
 Moderate psychokinesis ML 10th; Craft Psionic Arms and Armor, *dispel psionics;* Price +2 bonus.
 
-**Teleporting:** This ability can be imbedded only in weapons that can be thrown. A teleporting weapon returns through the Astral Plane to the creature that threw it. It teleports into the throwing creature's empty hand in the round following the round when it was thrown, just before that creature's turn. It is therefore ready to use again on that turn.
+### Teleporting
+This ability can be imbedded only in weapons that can be thrown. A teleporting weapon returns through the Astral Plane to the creature that threw it. It teleports into the throwing creature's empty hand in the round following the round when it was thrown, just before that creature's turn. It is therefore ready to use again on that turn.
 
 Faint psychoportation; ML 5th; Craft Psionic Arms and Armor, *psionic dimension door;* Price +1 bonus.
 
@@ -459,9 +511,11 @@ Faint psychoportation; ML 5th; Craft Psionic Arms and Armor, *psionic dimension 
 
 *Cognizance crystals* store power points that psionic characters can use to pay for manifesting their powers.
 
-**Physical Description:** A *cognizance crystal* consists of a core crystal and two or three smaller crystals arranged in specific positions around it on strands of silver wire. The crystals give off a faint glow. A typical *cognizance crystal* weighs approximately 1 pound, has AC 7, 10 hit points, a hardness of 8, and a break DC of 16.
+### Physical Description
+A *cognizance crystal* consists of a core crystal and two or three smaller crystals arranged in specific positions around it on strands of silver wire. The crystals give off a faint glow. A typical *cognizance crystal* weighs approximately 1 pound, has AC 7, 10 hit points, a hardness of 8, and a break DC of 16.
 
-**Activation:** The user must merely hold or have a crystal on her person for a period of at least 10 minutes (which is long enough to attune oneself to the crystal). Thereafter, the owner can use power points stored in the crystal to manifest powers she knows.
+### Activation
+The user must merely hold or have a crystal on her person for a period of at least 10 minutes (which is long enough to attune oneself to the crystal). Thereafter, the owner can use power points stored in the crystal to manifest powers she knows.
 
 The maximum number of points a *cognizance crystal* can store is always an odd number and is never more than 17. It can store only as many power points as its original maximum, set at the time of its creation. When a *cognizance crystal's* power points are used up, the glow of the crystal dims. However, the user can recharge it by paying power points on a 1-for-1 basis. While doing this depletes the user's own power point reserve for the day, those power points remain available in the *cognizance crystal* until used.
 
@@ -488,9 +542,11 @@ Faint to strong psychokinesis; ML equal to maximum power point storage; Craft Co
 
 A dorje is a slender crystal that contains a single power. Each dorje has 50 charges when created, and each charge expended allows one use of that power. A dorje that runs out of charges is just a simple crystal.
 
-**Physical Description:** A typical dorje is an elongated crystal of one color (or colorless), between 8 inches and 10 inches long and about 1/2 inch thick, which can weigh up to 1/4 pound. Occasionally, a dorje is decorated with carvings or inscribed runes along a face of the crystal. A typical dorje has AC 7, 7 hit points, a hardness of 8, and a break DC of 18.
+### Physical Description
+A typical dorje is an elongated crystal of one color (or colorless), between 8 inches and 10 inches long and about 1/2 inch thick, which can weigh up to 1/4 pound. Occasionally, a dorje is decorated with carvings or inscribed runes along a face of the crystal. A typical dorje has AC 7, 7 hit points, a hardness of 8, and a break DC of 18.
 
-**Activation:** Dorjes use the power trigger activation method, so manifesting a power from a dorje is usually a standard action that does not provoke attacks of opportunity. (If the power being manifested has a manifesting time longer than 1 standard action, however, it takes that long to manifest the power from a dorje.) The user must have the power on his class list, even if he knows the command thought. Additionally, to activate a dorje, a character must hold it in hand and point it in the general direction of the target or area to be affected.
+### Activation
+Dorjes use the power trigger activation method, so manifesting a power from a dorje is usually a standard action that does not provoke attacks of opportunity. (If the power being manifested has a manifesting time longer than 1 standard action, however, it takes that long to manifest the power from a dorje.) The user must have the power on his class list, even if he knows the command thought. Additionally, to activate a dorje, a character must hold it in hand and point it in the general direction of the target or area to be affected.
 
 Dorjes are normally created at the minimum manifester level required to manifest the power, and powers that can be augmented are not augmented when stored in a dorje. A dorje's wielder cannot augment the power contained within the dorje. However, dorjes can be created at a higher manifester level than required to manifest the power. In this case, the dorje that holds an augmentable power is augmented, to the limit of the manifester level and the power's augmentation maximums, if any. The manifester level of a dorje cannot be more than five higher than the minimum manifester level to use the power it contains.
 
@@ -515,9 +571,11 @@ Dorjes are normally created at the minimum manifester level required to manifest
 
 A power stone stores a power (or collection of powers). A stored power can be used only once, "flushing" the stone. Using a power stone is basically like manifesting a power.
 
-**Physical Description:** A power stone is a thumb-sized chunk of crystal that possesses a barely detectable interior glow if it holds a low-level power. A stone imprinted with more than one power or a higher-level power glows more brightly, but never enough to provide illumination in its own right. A typical power stone has AC 7, 5 hit points, a hardness of 8, and a break DC of 20.
+### Physical Description
+A power stone is a thumb-sized chunk of crystal that possesses a barely detectable interior glow if it holds a low-level power. A stone imprinted with more than one power or a higher-level power glows more brightly, but never enough to provide illumination in its own right. A typical power stone has AC 7, 5 hit points, a hardness of 8, and a break DC of 20.
 
-**Activation:** To activate a power stone, a manifester must mentally address it, as described below. Once the power is known, the power stone is treated as a power completion item, except as noted below.
+### Activation
+To activate a power stone, a manifester must mentally address it, as described below. Once the power is known, the power stone is treated as a power completion item, except as noted below.
 
 *Addressing the Stone:* A power stone must be "addressed" before a character can use it or know exactly what power it contains. Doing this requires a successful Psicraft check (DC 15 + power level). Once a particular power stone has been addressed, it is not necessary to do so again. Addressing a power stone in advance lets a character proceed directly to the next step when the time comes to use it.
 
@@ -576,9 +634,11 @@ The manifester level for a standard power stone is the minimum manifester level 
 
 A psicrown is a special headband that stores several powers. Unlike dorjes, which can contain a wide variety of powers, each psicrown is of a certain kind and holds specific powers. Unless otherwise stated, a psicrown has power points equal to 50 x its manifester level when created. These power points can be spent only on the powers that are contained in the psicrown.
 
-**Physical Description:** A typical psicrown is large enough to fit on the head of a Medium creature. Some psicrowns are actually crownlike and heavily adorned, while others are simple headbands with crystal centerpieces. All psicrowns weigh less than 1 pound. Most psicrowns are metallic, but one could potentially be composed of any material. Metallic psicrowns have AC 10, 10 hit points, hardness 8, and a break DC of 28. Psicrowns made of psionically reinforced silk have AC 7, 10 hit points, hardness 2, and a break DC of 24. Psicrowns can be made from other, more exotic materials, but all have at least the strength and durability of psicrowns made of psionically reinforced silk.
+### Physical Description
+A typical psicrown is large enough to fit on the head of a Medium creature. Some psicrowns are actually crownlike and heavily adorned, while others are simple headbands with crystal centerpieces. All psicrowns weigh less than 1 pound. Most psicrowns are metallic, but one could potentially be composed of any material. Metallic psicrowns have AC 10, 10 hit points, hardness 8, and a break DC of 28. Psicrowns made of psionically reinforced silk have AC 7, 10 hit points, hardness 2, and a break DC of 24. Psicrowns can be made from other, more exotic materials, but all have at least the strength and durability of psicrowns made of psionically reinforced silk.
 
-**Activation:** Psicrowns use the power trigger activation method, so manifesting a power from a psicrown is usually a standard action that does not provoke attacks of opportunity. (If the power being manifested, however, has a longer manifesting time than 1 standard action, it takes that long to manifest the power from a psicrown.) When activating a psicrown, the user spends power points contained in the psicrown on any one of the psicrown's powers. Powers activated from a psicrown can be augmented with additional power points from the psicrown itself, so long as the total number of power points spent does not exceed the user's manifester level. The user can't manifest a power from a psicrown using his own power points.
+### Activation
+Psicrowns use the power trigger activation method, so manifesting a power from a psicrown is usually a standard action that does not provoke attacks of opportunity. (If the power being manifested, however, has a longer manifesting time than 1 standard action, it takes that long to manifest the power from a psicrown.) When activating a psicrown, the user spends power points contained in the psicrown on any one of the psicrown's powers. Powers activated from a psicrown can be augmented with additional power points from the psicrown itself, so long as the total number of power points spent does not exceed the user's manifester level. The user can't manifest a power from a psicrown using his own power points.
 
 |         |         |                    |              |
 |---------|---------|--------------------|--------------|
@@ -604,13 +664,15 @@ Unlike with other sorts of psionic items, the wearer can use his manifester leve
 
 The minimum manifester level of a psicrown is 8th. The manifester level of a psicrown cannot be more than five levels higher than the minimum manifester level for the highest-level power in the psicrown. Standard psicrowns are described below.
 
-**Astral Legion:** This psicrown has 900 power points. It is made from white silk interwoven with crystalline strands of thread. It allows use of the following power.
+### Astral Legion
+This psicrown has 900 power points. It is made from white silk interwoven with crystalline strands of thread. It allows use of the following power.
 
 -   *Astral construct*
 
 Strong metacreativity; ML 18th; Craft Psicrown, *astral construct;* Price 47,250 gp.
 
-**Beast:** This psicrown has 450 power points. It is made from a prickly collection of bear claws and snake fangs. It allows use of the following powers.
+### Beast
+This psicrown has 450 power points. It is made from a prickly collection of bear claws and snake fangs. It allows use of the following powers.
 
 -   *Claw of energy*
 -   *Duodimensional claw*
@@ -620,7 +682,8 @@ Strong metacreativity; ML 18th; Craft Psicrown, *astral construct;* Price 47,250
 
 Moderate psychometabolism; ML 9th; Craft Psicrown, *claw of energy, duodimensional claw, prevenom, psionic lion's charge, truevenom;* Price 33,750 gp.
 
-**Cautious Warrior:** This psicrown has 450 power points. It is made from a shining iron alloy, similar to the material of a metallic shield. It allows use of the following powers.
+### Cautious Warrior
+This psicrown has 450 power points. It is made from a shining iron alloy, similar to the material of a metallic shield. It allows use of the following powers.
 
 -   *Adapt body*
 -   *Body adjustment*
@@ -629,7 +692,8 @@ Moderate psychometabolism; ML 9th; Craft Psicrown, *claw of energy, duodimension
 
 Moderate psychometabolism; ML 9th; Craft Psicrown, *adapt body, body adjustment, defensive precognition, inertial barrier;* Price 32,063 gp.
 
-**Discerning Watcher:** This psicrown has 450 power points. It is made from pure transparent crystal. It allows use of the following powers.
+### Discerning Watcher
+This psicrown has 450 power points. It is made from pure transparent crystal. It allows use of the following powers.
 
 -   *Aura sight*
 -   *Clairtangent hand*
@@ -640,7 +704,8 @@ Moderate psychometabolism; ML 9th; Craft Psicrown, *adapt body, body adjustment,
 
 Moderate clairsentience; ML 9th; Craft Psicrown, *aura sight, clairtangent hand, clairvoyant sense, psionic darkvision, psionic true seeing, remote viewing;* Price 51,469 gp.
 
-**Dominator:** This psicrown has 450 power points. It is made from gray iron and is shaped into an intricately fluted crown. It allows use of the following powers.
+### Dominator
+This psicrown has 450 power points. It is made from gray iron and is shaped into an intricately fluted crown. It allows use of the following powers.
 
 -   *Charm, psionic*
 -   *Dominate, psionic*
@@ -648,7 +713,8 @@ Moderate clairsentience; ML 9th; Craft Psicrown, *aura sight, clairtangent hand,
 
 Moderate telepathy; ML 9th; Craft Psicrown, *psionic charm, psionic dominate, psionic suggestion;* Price 20,250 gp.
 
-**Evader:** This psicrown has 400 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material. It allows use of the following powers.
+### Evader
+This psicrown has 400 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material. It allows use of the following powers.
 
 -   *Catfall*
 -   *Hustle*
@@ -658,7 +724,8 @@ Moderate telepathy; ML 9th; Craft Psicrown, *psionic charm, psionic dominate, ps
 
 Moderate psychoportation; ML 8th; Craft Psicrown, *catfall, hustle, psionic fly, psionic freedom of movement, wall walker;* Price 28,500 gp.
 
-**Fiery Ruin:** This psicrown has 750 power points. It is made from reddish iron and is shaped into a twisted circlet studded with reddish crystals. It allows use of the following powers.
+### Fiery Ruin
+This psicrown has 750 power points. It is made from reddish iron and is shaped into a twisted circlet studded with reddish crystals. It allows use of the following powers.
 
 -   *Energy ball*
 -   *Energy cone*
@@ -668,7 +735,8 @@ Moderate psychoportation; ML 8th; Craft Psicrown, *catfall, hustle, psionic fly,
 
 Strong psychokinesis; ML 15th; Craft Psicrown, *energy ball, energy cone, energy missile, energy stun, fiery discorporation;* Price 67,500 gp.
 
-**Great Dominator:** This psicrown has 750 power points. It is made from black iron without further ornamentation. It allows use of the following powers.
+### Great Dominator
+This psicrown has 750 power points. It is made from black iron without further ornamentation. It allows use of the following powers.
 
 -   *Charm, psionic*
 -   *Suggestion, psionic*
@@ -676,7 +744,8 @@ Strong psychokinesis; ML 15th; Craft Psicrown, *energy ball, energy cone, energy
 
 Strong telepathy; ML 15th; Craft Psicrown, *psionic charm, psionic dominate, psionic suggestion;* Price 45,000 gp.
 
-**Temporal Juggler:** This psicrown has 850 power points. It is made from silk, usually dyed in several colors, with a clear crystal affixed to the material. It allows use of the following powers.
+### Temporal Juggler
+This psicrown has 850 power points. It is made from silk, usually dyed in several colors, with a clear crystal affixed to the material. It allows use of the following powers.
 
 -   *Temporal acceleration*
 -   *Time hop*
@@ -684,7 +753,8 @@ Strong telepathy; ML 15th; Craft Psicrown, *psionic charm, psionic dominate, psi
 
 Strong psychoportation; ML 17th; Craft Psicrown, *temporal acceleration, time hop, timeless body;* Price 95,625 gp.
 
-**Traveler:** This psicrown has 750 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material. It allows use of the following powers.
+### Traveler
+This psicrown has 750 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material. It allows use of the following powers.
 
 -   *Astral traveler*
 -   *Dimension door, psionic*
@@ -699,15 +769,19 @@ Psionic tattoos are designs scribed on the skin that manifest powers on their we
 
 Psionic tattoos can vary in size, but a creature can wear only a total of twenty tattoos at one time---attempting to add one more than this maximum causes all previously scribed tattoos to simultaneously activate. A psionic tattoo fades away after use.
 
-**Physical Description:** A typical psionic tattoo is a colorful pattern of tiny, interlacing lines within a larger design. This design can be as simple as a circle or a star, or as complex as an artist wishes to make it. Once it is scribed, a tattoo's design does not change. A psionic tattoo usually covers an area of skin no more than 5 inches in diameter (larger ones could be designed, but would have no added effect).
+### Physical Description
+A typical psionic tattoo is a colorful pattern of tiny, interlacing lines within a larger design. This design can be as simple as a circle or a star, or as complex as an artist wishes to make it. Once it is scribed, a tattoo's design does not change. A psionic tattoo usually covers an area of skin no more than 5 inches in diameter (larger ones could be designed, but would have no added effect).
 
-**Scribing and Transferring Tattoos:** The manifester level of a psionic tattoo is the minimum level required to manifest the scribed power. A psionic tattoo can contain only powers of 3rd level or lower.
+### Scribing and Transferring Tattoos
+The manifester level of a psionic tattoo is the minimum level required to manifest the scribed power. A psionic tattoo can contain only powers of 3rd level or lower.
 
 A psionic tattoo inscribed on a wearer is potentially more mobile than a mundane tattoo. As a standard action, the wearer can will the tattoo to move to a different part of his body or onto the skin of any willing (or unconscious) living creature he touches. If the wearer of a psionic tattoo is rendered unconscious or is slain, another sentient creature can touch the tattoo while willing it to leave the previous wearer and apply itself to the new creature as a standard action. Psionic tattoos cannot overlay one another.
 
-**Identifying Psionic Tattoos:** In addition to the standard methods of identification, the wearer of a tattoo can concentrate on it and attempt to gain some sense of how it would feel if activated. A successful DC 13 Intelligence check provides a hint to the tattoo's effect.
+### Identifying Psionic Tattoos
+In addition to the standard methods of identification, the wearer of a tattoo can concentrate on it and attempt to gain some sense of how it would feel if activated. A successful DC 13 Intelligence check provides a hint to the tattoo's effect.
 
-**Activation:** A psionic tattoo produces its effect when touched by its wearer and willed to do so. This activity, called "tapping" the tattoo, is a standard action that provokes attacks of opportunity. A psionic tattoo fades away after use.
+### Activation
+A psionic tattoo produces its effect when touched by its wearer and willed to do so. This activity, called "tapping" the tattoo, is a standard action that provokes attacks of opportunity. A psionic tattoo fades away after use.
 
 The following rules govern the use of psionic tattoos.
 
@@ -730,9 +804,11 @@ The manifester level for a standard psionic tattoo is the minimum manifester lev
 
 This is a catchall category for any psionic item that doesn't fall into the other groups. Anyone can use a universal item (unless specified otherwise in the description).
 
-**Physical Description:** Varies.
+### Physical Description
+Varies.
 
-**Activation:** Usually command thought, but details vary from item to item.
+### Activation
+Usually command thought, but details vary from item to item.
 
 |         |                                 |              |
 |---------|---------------------------------|--------------|
@@ -841,27 +917,33 @@ Universal items can be configured to do just about anything.
 
 Standard universal items are described below.
 
-**Amulet of Catapsi:** This copper amulet aids the wearer against other psionic characters. Once per day, the wearer can mentally command the *catapsi* power, which blankets a 30- foot-radius area surrounding the wearer in telepathic noise for 9 rounds. Each time other psionic characters within this range attempt to manifest a power, they must succeed on a DC 17 Will save or pay 4 more points than they otherwise would for each power manifestation. The limit on the number of power points a subject can spend on a power remains in effect, so the subject may not be able to manifest his or her highest-level powers.
+### Amulet of Catapsi
+This copper amulet aids the wearer against other psionic characters. Once per day, the wearer can mentally command the *catapsi* power, which blankets a 30- foot-radius area surrounding the wearer in telepathic noise for 9 rounds. Each time other psionic characters within this range attempt to manifest a power, they must succeed on a DC 17 Will save or pay 4 more points than they otherwise would for each power manifestation. The limit on the number of power points a subject can spend on a power remains in effect, so the subject may not be able to manifest his or her highest-level powers.
 
 Moderate telepathy; ML 9th; Craft Universal Item, *catapsi;* Price 16,200 gp.
 
-**Boots of Landing:** These boots allow the wearer to recover instantly from a fall and can absorb some damage from falling once per day. The wearer lands on her feet no matter how far she falls, and takes 2 fewer dice of damage from the fall than normal.
+### Boots of Landing
+These boots allow the wearer to recover instantly from a fall and can absorb some damage from falling once per day. The wearer lands on her feet no matter how far she falls, and takes 2 fewer dice of damage from the fall than normal.
 
 Faint psychoportation; ML 2nd; Craft Universal Item, *catfall;* Price 1,000 gp; Weight 1 lb.
 
-**Boots of Skating:** These boots allow the wearer to slide along the ground at will as if using the *skate* power.
+### Boots of Skating
+These boots allow the wearer to slide along the ground at will as if using the *skate* power.
 
 Faint psychoportation; ML 1st; Craft Universal Item, *skate;* Price 7,000 gp; Weight 1 lb.
 
-**Boots of Stomping:** These boots allow the wearer to use *stomp* as the power three times per day (Reflex save DC 13) when the wearer stomps her feet.
+### Boots of Stomping
+These boots allow the wearer to use *stomp* as the power three times per day (Reflex save DC 13) when the wearer stomps her feet.
 
 Faint psychokinesis; ML 3rd; Craft Universal Item, *stomp;* Price 600 gp; Weight 1 lb.
 
-**Boots of Temporal Acceleration:** These boots allow the wearer to speed up his own time frame for 2 rounds as if using the power *temporal acceleration*. The wearer can use this power once per day.
+### Boots of Temporal Acceleration
+These boots allow the wearer to speed up his own time frame for 2 rounds as if using the power *temporal acceleration*. The wearer can use this power once per day.
 
 Strong psychoportation; ML 15th; Craft Universal Item, *temporal acceleration;* Price 43,200 gp; Weight 1 lb.
 
-**Crawling Tattoos:** Crawling tattoos resemble standard psionic tattoos, but their effects are often harmful rather than beneficial. Like a psionic tattoo, a crawling tattoo can be scribed only with a power of no higher than 3rd level that targets one or more creatures. Exceptions are the *body adjustment* power, which can be scribed even though it affects only the manifester, and telepathy (compulsion) powers, which cannot be scribed at all. Powers that normally have an area affect only one target if scribed in a crawling tattoo. Powers with an experience point requirement cannot be scribed into a crawling tattoo. Otherwise, crawling tattoos are treated as psionic tattoos until they are activated by the wearer.
+### Crawling Tattoos
+Crawling tattoos resemble standard psionic tattoos, but their effects are often harmful rather than beneficial. Like a psionic tattoo, a crawling tattoo can be scribed only with a power of no higher than 3rd level that targets one or more creatures. Exceptions are the *body adjustment* power, which can be scribed even though it affects only the manifester, and telepathy (compulsion) powers, which cannot be scribed at all. Powers that normally have an area affect only one target if scribed in a crawling tattoo. Powers with an experience point requirement cannot be scribed into a crawling tattoo. Otherwise, crawling tattoos are treated as psionic tattoos until they are activated by the wearer.
 
 The wearer of a crawling tattoo can tap the tattoo as a standard action that provokes attacks of opportunity, mentally specifying a target (to which the wearer must have line of sight). Instead of manifesting its stored power, the tattoo animates, drops to the ground, and scuttles toward the target. The original wearer need no longer concentrate on the tattoo once animated.
 
@@ -888,7 +970,8 @@ Faint psychokinesis; ML 1st; Craft Universal Item, *concussion blast;* Price 50 
 
 Faint psychokinesis; ML 5th; Craft Universal Item, *energy bolt;* Price 750 gp.
 
-**Crystal Anchor:** A *crystal anchor* is a shaft of transparent crystal 4 to 5 feet in length, with a sharpened, spearlike head on one end. It ensnares the minds of those within range who manifest powers of a specified psionic discipline. The triggering discipline is specified at the time of creation.
+### Crystal Anchor
+A *crystal anchor* is a shaft of transparent crystal 4 to 5 feet in length, with a sharpened, spearlike head on one end. It ensnares the minds of those within range who manifest powers of a specified psionic discipline. The triggering discipline is specified at the time of creation.
 
 A *crystal anchor* is activated by plunging the sharp head into the ground, leaving the shaft freestanding. It projects an invisible, 30-foot-radius field. If a power from the speci- fied discipline is manifested within this range, the manifester must succeed on a Will save (DC 15 + power level) or become subject to an effect similar to *brain lock*, except that the effect is permanent until dispelled or dismissed by the individual who initially drove the *crystal anchor* into the earth. Any anchor can be pulled out of the ground and reused at a later time.
 
@@ -930,7 +1013,8 @@ Faint telepathy; ML 5th; Craft Universal Item, *brain lock, psionic contingency*
 
 Faint psychoportation; ML 5th; Craft Universal Item, *brain lock, psionic contingency*, any psychoportation power; Price 24,000 gp; Weight 3 lb.
 
-**Crystal Masks:** Each of the various types of crystal masks fits over the face of any Medium or Small humanoid, with slits for eyes and nostrils. The mask is transparent, although it distorts the wearer's features. Leather straps attached to small holes on the sides of a mask enable the owner to affix the mask to his face.
+### Crystal Masks
+Each of the various types of crystal masks fits over the face of any Medium or Small humanoid, with slits for eyes and nostrils. The mask is transparent, although it distorts the wearer's features. Leather straps attached to small holes on the sides of a mask enable the owner to affix the mask to his face.
 
 Crystal masks confer special abilities or improved skills on their wearers.
 
@@ -968,11 +1052,13 @@ Faint telepathy; ML 5th; Craft Universal Item, *conceal thoughts;* Price 10,667 
 
 Moderate clairsentience; ML 7th; Craft Universal Item, creator must have 10 ranks in Psicraft; Price 10,000 gp; Weight 1/2 lb.
 
-**Eyes of Expanded Vision:** These crystal lenses fit over the user's eyes to expand his field of vision. Flanking opponents gain only a +1 bonus when attacking the user instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on Spot checks but takes a --2 penalty on saves against gaze attacks.
+### Eyes of Expanded Vision
+These crystal lenses fit over the user's eyes to expand his field of vision. Flanking opponents gain only a +1 bonus when attacking the user instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on Spot checks but takes a --2 penalty on saves against gaze attacks.
 
 Faint clairsentience; ML 1st; Craft Universal Item, *ubiquitous vision;* Price 3,000 gp.
 
-**Eyes of Power Leech:** These crystal lenses fit over the user's eyes. Once per day, the wearer is able to drain power points from another psionic creature or character by meeting its gaze as if using *power leech*. A selected target within 40 feet must succeed on a DC 16 Will save, or a connection of crackling energy is formed between the wearer and the victim. The connection drains 1d6 power points from the target for every round in which the wearer maintains concentration (to a maximum of 7 rounds). The wearer gains 1 power point from those drained from the target each round (subject to his normal maximum; points he cannot gain immediately are lost).
+### Eyes of Power Leech
+These crystal lenses fit over the user's eyes. Once per day, the wearer is able to drain power points from another psionic creature or character by meeting its gaze as if using *power leech*. A selected target within 40 feet must succeed on a DC 16 Will save, or a connection of crackling energy is formed between the wearer and the victim. The connection drains 1d6 power points from the target for every round in which the wearer maintains concentration (to a maximum of 7 rounds). The wearer gains 1 power point from those drained from the target each round (subject to his normal maximum; points he cannot gain immediately are lost).
 
 If the wearer has only one lens, the DC of the Will save is 14 instead of 16.
 
@@ -980,47 +1066,58 @@ If the wearer has only one lens, the DC of the Will save is 14 instead of 16.
 
 Moderate telepathy; ML 7th; Craft Universal Item, *power leech;* Price 10,080 gp.
 
-**Eyes of Power Leech, Vampiric:** As *eyes of power leech,* except the wearer gains drained power points from the subject even if doing so would bring him over his normal maximum. The wearer of *vampiric eyes of power leech* can maintain concentration for up to 13 rounds. Power points the wearer gains in excess of his maximum fade after 8 hours if they are not spent before that time.
+### Eyes of Power Leech, Vampiric
+As *eyes of power leech,* except the wearer gains drained power points from the subject even if doing so would bring him over his normal maximum. The wearer of *vampiric eyes of power leech* can maintain concentration for up to 13 rounds. Power points the wearer gains in excess of his maximum fade after 8 hours if they are not spent before that time.
 
 Strong telepathy; ML 15th; Craft Universal Item, *bend reality, power leech;* Price 20,160 gp.
 
-**Gloves of Object Reading:** While wearing these gloves, the user can learn the details of an inanimate object's previous owner if he handles the object, as if manifesting the *object reading* power.
+### Gloves of Object Reading
+While wearing these gloves, the user can learn the details of an inanimate object's previous owner if he handles the object, as if manifesting the *object reading* power.
 
 Faint clairsentience; ML 1st; Craft Universal Item, *object reading;* Price 3,000 gp.
 
-**Gloves of Titan's Grip:** While wearing these oversize gloves, the user gains a +8 enhancement bonus on grapple checks. The power is activated when the user enters a grapple. The enhancement bonus lasts for a maximum of 7 rounds per use, up to three uses per day.
+### Gloves of Titan's Grip
+While wearing these oversize gloves, the user gains a +8 enhancement bonus on grapple checks. The power is activated when the user enters a grapple. The enhancement bonus lasts for a maximum of 7 rounds per use, up to three uses per day.
 
 Moderate psychometabolism; ML 9th; Craft Universal Item, *grip of iron;* Price 14,000 gp.
 
-**Mirror of Mind Switch:** This small hand mirror manifests its power once per day against a creature that sees its reflection within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 19 Will save, or its mind and the mind of the mirror's wielder switch, as if by the *mind switch* power. Because the mirror is small, only a single creature can meet its own gaze. The wielder of the mirror is not affected by seeing himself.
+### Mirror of Mind Switch
+This small hand mirror manifests its power once per day against a creature that sees its reflection within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 19 Will save, or its mind and the mind of the mirror's wielder switch, as if by the *mind switch* power. Because the mirror is small, only a single creature can meet its own gaze. The wielder of the mirror is not affected by seeing himself.
 
 Moderate telepathy; ML 11th; Craft Universal Item, *mind switch;* Price 19,800 gp; Weight 1/2 lb.
 
-**Mirror of Suggestion:** This small hand mirror manifests its power up to twice per day against creatures that see their reflections within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 13 Will save or be affected by a *suggestion* chosen by the mirror's wielder. Because the mirror is small, only a single creature can meet its own gaze each round. The wielder of the mirror is not affected by seeing herself.
+### Mirror of Suggestion
+This small hand mirror manifests its power up to twice per day against creatures that see their reflections within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 13 Will save or be affected by a *suggestion* chosen by the mirror's wielder. Because the mirror is small, only a single creature can meet its own gaze each round. The wielder of the mirror is not affected by seeing herself.
 
 Faint telepathy; ML 3rd; Craft Universal Item, *psionic suggestion;* Price 3,600 gp; Weight 1/2 lb.
 
-**Mirror of Time Hop:** This small hand mirror manifests its power up to twice per day against creatures that see their reflections within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 14 Will save or be pushed forward in time by 5 rounds, as if subject to the *time hop* power. Because the mirror is small, only a single creature can meet its own gaze each round. The wielder of the mirror is not affected by seeing herself.
+### Mirror of Time Hop
+This small hand mirror manifests its power up to twice per day against creatures that see their reflections within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 14 Will save or be pushed forward in time by 5 rounds, as if subject to the *time hop* power. Because the mirror is small, only a single creature can meet its own gaze each round. The wielder of the mirror is not affected by seeing herself.
 
 Faint psychoportation; ML 5th; Craft Universal Item, *time hop;* Price 9,000 gp; Weight 1/2 lb.
 
-**Pearl, Brain Lock:** This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 130 feet that he can see and to which he has line of effect. If the target fails a DC 13 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target stands mentally paralyzed, as if by *brain lock,* for 3 rounds. The use destroys the item.
+### Pearl, Brain Lock
+This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 130 feet that he can see and to which he has line of effect. If the target fails a DC 13 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target stands mentally paralyzed, as if by *brain lock,* for 3 rounds. The use destroys the item.
 
 Faint telepathy: ML 3rd; Craft Universal Item, *brain lock;* Price 300 gp.
 
-**Pearl, Breath Crisis:** This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 150 feet that he can see and to which he has line of effect. If the target fails a DC 14 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by *crisis of breath* for 5 minutes. The use destroys the item.
+### Pearl, Breath Crisis
+This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 150 feet that he can see and to which he has line of effect. If the target fails a DC 14 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by *crisis of breath* for 5 minutes. The use destroys the item.
 
 Faint telepathy; ML 5th; Craft Universal Item, *crisis of breath;* Price 750 gp.
 
-**Pearl, Mind Seed:** This tiny pearly sphere instantly takes on the skin tone and texture of whatever creature handles it. It speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 150 feet that he can see and to which he has line of effect. If the target fails a DC 22 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by a *mind seed* power, with the pearl's wielder acting as the manifester. The use destroys the item.
+### Pearl, Mind Seed
+This tiny pearly sphere instantly takes on the skin tone and texture of whatever creature handles it. It speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 150 feet that he can see and to which he has line of effect. If the target fails a DC 22 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by a *mind seed* power, with the pearl's wielder acting as the manifester. The use destroys the item.
 
 Strong telepathy; ML 15th; Craft Universal Item, *mind seed;* Cost 6,000 gp + 2,500 XP; Price 18,500 gp.
 
-**Pearl, Personality Parasite:** This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 130 feet that he can see and to which he has line of effect. If the target fails a DC 16 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by *personality parasite* for 5 rounds. The use destroys the item.
+### Pearl, Personality Parasite
+This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 130 feet that he can see and to which he has line of effect. If the target fails a DC 16 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by *personality parasite* for 5 rounds. The use destroys the item.
 
 Faint telepathy; ML 7th; Craft Universal Item, *personality parasite;* Price 1,400 gp.
 
-**Psionatrix:** Each of these multifaceted crystals is worn as an amulet. Unless noted otherwise, a psionatrix adds a +1 enhancement bonus to the save DC when the wearer uses powers of the discipline to which the psionatrix is keyed.
+### Psionatrix
+Each of these multifaceted crystals is worn as an amulet. Unless noted otherwise, a psionatrix adds a +1 enhancement bonus to the save DC when the wearer uses powers of the discipline to which the psionatrix is keyed.
 
 *Psionatrix of clairsentience:* Blue light glimmers in this crystal's heart.
 
@@ -1046,7 +1143,8 @@ Moderate psychoportation; ML 8th; Craft Universal Item, creator must be a nomad;
 
 Moderate telepathy; ML 8th; Craft Universal Item, creator must be a telepath; Price 8,000 gp.
 
-**Psionic Restraints:** Each of the various psionic restraints is an iron cuff that cunningly locks around the wrist (DC 27 Open Lock check). The cuff limits the total number of power points a psionic creature wearing it can use in 1 round (regardless of the creature's total power point reserve), or completely damps the ability to use psionics. All types of psionic restraints prevent the free manifesting of powers.
+### Psionic Restraints
+Each of the various psionic restraints is an iron cuff that cunningly locks around the wrist (DC 27 Open Lock check). The cuff limits the total number of power points a psionic creature wearing it can use in 1 round (regardless of the creature's total power point reserve), or completely damps the ability to use psionics. All types of psionic restraints prevent the free manifesting of powers.
 
 |                |                            |              |
 |----------------|----------------------------|--------------|
@@ -1058,7 +1156,8 @@ Moderate telepathy; ML 8th; Craft Universal Item, creator must be a telepath; Pr
 
 Strong psychokinesis; ML 16th; Craft Universal Item, *bend reality, dispel psionics;* Weight 1 lb.
 
-**Psychoactive Skins:** Psychoactive skins (also sometimes called ectoshells) are fistsized globs of psionically charged ectoplasm. As a standard action, a psychoactive skin spreads over and covers a Medium or smaller creature that projects the proper command thought; the same command thought causes the skin to shrink back down to its former size. Each of the various psychoactive skins is charged with one of a wide array of powers that constantly affect the wearer.
+### Psychoactive Skins
+Psychoactive skins (also sometimes called ectoshells) are fistsized globs of psionically charged ectoplasm. As a standard action, a psychoactive skin spreads over and covers a Medium or smaller creature that projects the proper command thought; the same command thought causes the skin to shrink back down to its former size. Each of the various psychoactive skins is charged with one of a wide array of powers that constantly affect the wearer.
 
 A deployed skin completely covers the wearer and all his equipment like a second skin, allowing the wearer to see, hear, and breathe normally. It rolls away from various parts of the body as needed, such as when the wearer needs to eat or access a backpack. Held items or items specifically excluded are not covered by a psychoactive skin.
 
@@ -1112,11 +1211,13 @@ Ring of Self-Sufficiency: This crystalline ring continually grants the wearer a 
 
 Moderate psychometabolism; ML 7th; Craft Universal Item, creator must have 10 ranks in Autohypnosis; Price 10,000 gp.
 
-**Shards:** These universal items are tiny fragments of cast-off crystal imprinted with minuscule bits of psionic power. Using a *shard* requires grasping it and projecting a command thought as a standard action (most *shards* telepathically whisper their command word into the minds of living creatures who handle them). A *shard* grants a temporary competence bonus on one specific skill, ranging from +1 to +10. The granted bonus lasts until the skill is used or 10 rounds pass, whichever comes first. Once its effect is activated, a *shard* disintegrates immediately, whether or not the bonus granted by the *shard* is eventually used.
+### Shards
+These universal items are tiny fragments of cast-off crystal imprinted with minuscule bits of psionic power. Using a *shard* requires grasping it and projecting a command thought as a standard action (most *shards* telepathically whisper their command word into the minds of living creatures who handle them). A *shard* grants a temporary competence bonus on one specific skill, ranging from +1 to +10. The granted bonus lasts until the skill is used or 10 rounds pass, whichever comes first. Once its effect is activated, a *shard* disintegrates immediately, whether or not the bonus granted by the *shard* is eventually used.
 
 Moderate psychometabolism; ML 7th; Craft Universal Item, creator must have ranks in the specified skill at least equal to the imprinted bonus; Price 10 gp (+1), 40 gp (+2), 90 gp (+3), 160 gp (+4), 250 gp (+5), 360 gp (+6), 490 gp (+7), 640 gp (+8), 810 gp (+9), or 1,000 gp (+10).
 
-**Third Eyes:** These objects appear as small crystals, always with at least one wide, flat facet, and contain a variety of powers. When the owner uses the proper command thought, the crystal adheres to the center of his forehead (the same command thought causes the *third eye* to disengage). Only one *third eye* can be worn at a time.
+### Third Eyes
+These objects appear as small crystals, always with at least one wide, flat facet, and contain a variety of powers. When the owner uses the proper command thought, the crystal adheres to the center of his forehead (the same command thought causes the *third eye* to disengage). Only one *third eye* can be worn at a time.
 
 A *third eye* is treated as eyewear or goggles for the purpose of determining which items can be worn on the body.
 
@@ -1166,19 +1267,22 @@ Faint clairsentience; ML 3rd; Craft Universal Item, *clairvoyant sense;* Price 2
 
 Moderate clairsentience; ML 7th; Craft Universal Item, *remote viewing;* Price 10,180 gp.
 
-**Torc of Free Will:** This item is a band inlaid with precious metal, worn around the neck or upper arm. The wearer of a *torc of free will* is not affected by the *brain lock* power or items that produce *brain lock* effects (such as *crystal anchors*).
+### Torc of Free Will
+This item is a band inlaid with precious metal, worn around the neck or upper arm. The wearer of a *torc of free will* is not affected by the *brain lock* power or items that produce *brain lock* effects (such as *crystal anchors*).
 
 A torc is treated as an amulet for the purpose of determining which items can be worn on the body.
 
 Faint telepathy; ML 3rd; Craft Universal Item, *brain lock;* Price 6,000 gp; Weight 2 lb.
 
-**Torc of Leech Freedom:** This item is a band inlaid with precious metal, worn around the neck or upper arm. The wearer of a *torc of leech freedom* automatically resists up to two uses of *power leech* against him per day.
+### Torc of Leech Freedom
+This item is a band inlaid with precious metal, worn around the neck or upper arm. The wearer of a *torc of leech freedom* automatically resists up to two uses of *power leech* against him per day.
 
 A torc is treated as an amulet for the purpose of determining which items can be worn on the body.
 
 Faint telepathy; ML 5th; Craft Universal Item, *power leech;* Price 12,000 gp; Weight 2 lb.
 
-**Torc of Power Preservation:** This item is a band inlaid with precious metal, worn around the neck or upper arm. The wearer of a *torc of power preservation* manifests all powers by paying power points equal to the standard cost minus 1 (minimum of 1).
+### Torc of Power Preservation
+This item is a band inlaid with precious metal, worn around the neck or upper arm. The wearer of a *torc of power preservation* manifests all powers by paying power points equal to the standard cost minus 1 (minimum of 1).
 
 A torc is treated as an amulet for the purpose of determining which items can be worn on the body.
 
@@ -1193,15 +1297,19 @@ Strong clairsentience; ML 15th; Craft Universal Item, *bend reality;* Price 36,0
 | 34--66  | Exhausting |
 | 67--100 | Subversive |
 
-**Backfire:** The imbedded psionic effect of the cursed item targets the user instead of its intended target.
+### Backfire
+The imbedded psionic effect of the cursed item targets the user instead of its intended target.
 
-**Exhausting:** A cursed item of this sort resembles a normal psionic item with a power that can be freely activated, but it instead drains the user of power points whenever he activates its power.
+### Exhausting
+A cursed item of this sort resembles a normal psionic item with a power that can be freely activated, but it instead drains the user of power points whenever he activates its power.
 
-**Subversive:** A cursed item of this sort appears identical to a standard psionic item. However, it holds an inner malice for the wearer, whose saving throws take a constant --2 penalty. The owner isn't instantly aware of this penalty but may become aware after a while, when it becomes clear that he fails saves that others make with the same result on the saving throw.
+### Subversive
+A cursed item of this sort appears identical to a standard psionic item. However, it holds an inner malice for the wearer, whose saving throws take a constant --2 penalty. The owner isn't instantly aware of this penalty but may become aware after a while, when it becomes clear that he fails saves that others make with the same result on the saving throw.
 
 ##### Specific Cursed Item
 
-**Reverse Capacitor:** A *reverse capacitor* doesn't store power points---it drains them, to the surprise and chagrin of a psionic character taken in by its resemblance to a *cognizance crystal.* Powers that identify psionic items incorrectly identify a *reverse capacitor* as a *cognizance crystal* 50% of the time.
+### Reverse Capacitor
+A *reverse capacitor* doesn't store power points---it drains them, to the surprise and chagrin of a psionic character taken in by its resemblance to a *cognizance crystal.* Powers that identify psionic items incorrectly identify a *reverse capacitor* as a *cognizance crystal* 50% of the time.
 
 A psionic character attempting to use the power points supposedly stored in a *reverse capacitor* instead loses 1d6 power points per round for 7 rounds. A crackling arc connects the brow of the character with the stone. If the character can put more than 40 feet between himself and the *reverse capacitor,* the effect ends. If the *reverse capacitor* drains more power points than the psionic character possesses, the draining effect ends.
 
@@ -1215,7 +1323,8 @@ Strong telepathy; ML 15th; Craft Universal Item, *bend reality, power leech;* Pr
 
 Minor artifacts are not necessarily unique items, Instead, they are psionic items that no longer can be made, at least by common mortal means.
 
-**Sutra of Tranquil Thought:** This monastic tome describes ancient techniques of mental focus and is highly prized by psionic practitioners. If a psionic character who is not evil studies the work during one week of solitary contemplation, he gains 17 bonus power points and experience points sufficient to place him halfway into the next level of experience. Those who use their powers for evil are punished for their impertinence, losing 5d6 x 1,000 XP for defiling the book. In addition, an evil reader must make an immediate DC 15 Will save or become permanently *confused* as if affected by the *insanity* power. Only *psychic chirurgery* or similarly extreme measures can restore sanity.
+### Sutra of Tranquil Thought
+This monastic tome describes ancient techniques of mental focus and is highly prized by psionic practitioners. If a psionic character who is not evil studies the work during one week of solitary contemplation, he gains 17 bonus power points and experience points sufficient to place him halfway into the next level of experience. Those who use their powers for evil are punished for their impertinence, losing 5d6 x 1,000 XP for defiling the book. In addition, an evil reader must make an immediate DC 15 Will save or become permanently *confused* as if affected by the *insanity* power. Only *psychic chirurgery* or similarly extreme measures can restore sanity.
 
 The minds of nonpsionic beings are too clouded to benefit from the secrets of this book. To anyone without psionic aptitude, the book's pages appear to contain nothing but elaborate patterns and drawings of mysterious beings. Once it is read, the book vanishes into the Astral Plane to an unknown destination. Even if it is found again, the same character cannot benefit twice from perusing its contents.
 
@@ -1225,7 +1334,8 @@ Strong telepathy; ML 20th; Weight 3 lb.
 
 Major artifacts are unique items---only one of each such item exists. They are difficult to find and dangerous to handle, but once found, are often even more difficult to destroy. A major psionic artifact has only a single, specific means of destruction.
 
-**Annulus:** This artifact is the ultimate psionic nullifier. Forged to keep enemies of vast psionic power at bay, the *Annulus* is an artifact that any psionic being should fear. It has been forgotten in the modern age, and merely finding it would precipitate a great upheaval across the planes.
+### Annulus
+This artifact is the ultimate psionic nullifier. Forged to keep enemies of vast psionic power at bay, the *Annulus* is an artifact that any psionic being should fear. It has been forgotten in the modern age, and merely finding it would precipitate a great upheaval across the planes.
 
 The *Annulus* is a 1-foot-diameter ring of silvery material. Tiny slots, antennae, spheres, and other intricate projections decorate the exterior of the hoop; however, two smoothed lengths of the ring provide an adequate surface for grasping the item.
 
@@ -1240,7 +1350,8 @@ The primary power of the *Annulus,* however, is psionic nullification. Once per 
 
 It is relatively easy to nullify a single target or a small group of targets, but nullifying a more powerful being (such as a demigod or greater entity) or another major artifact taxes the *Annulus* to its limits. If it is used to nullify such a target, the artifact succeeds but is destroyed in the process and cannot be retrieved by any means.
 
-**Psicrown of the Crystal Mind:** An elaborate crystalline psicrown etched with strange designs, this exceptional psicrown is so invested with power that it is considered an artifact.
+### Psicrown of the Crystal Mind
+An elaborate crystalline psicrown etched with strange designs, this exceptional psicrown is so invested with power that it is considered an artifact.
 
 The power points in the *Psicrown of the Crystal Mind* can be used to manifest any of the following powers at manifester level 20th (or at the wearer's manifester level if it is higher than 20th).
 
@@ -1334,7 +1445,8 @@ Item Creation Feat Required: Craft Universal Item.
 
 In addition to psionic items with imbedded powers, some substances have innate special properties.
 
-**Crystal, Deep:** Deep crystal is crystal of above-average quality found at the hearts of large veins or deposits of mundane crystal (see below). Deep crystal is renowned for its strength and its psionically resonant nature. Mundane crystal is used for many items of psionic manufacture, such as dorjes, power stones, and psicrystals. Deep crystal is a better grade.
+### Crystal, Deep
+Deep crystal is crystal of above-average quality found at the hearts of large veins or deposits of mundane crystal (see below). Deep crystal is renowned for its strength and its psionically resonant nature. Mundane crystal is used for many items of psionic manufacture, such as dorjes, power stones, and psicrystals. Deep crystal is a better grade.
 
 While a weapon made of deep crystal is no different from a mundane crystal weapon for a nonpsionic character, a psionic wielder of a deep crystal weapon can focus psionic power through it, increasing the damage that weapon deals. As a free action that does not provoke attacks of opportunity, the wielder can channel psionic power into a melee weapon or ranged weapon made of deep crystal. For 2 power points, the deep crystal weapon deals an extra 2d6 points of damage. The weapon will stay charged for 1 minute or until it scores its next hit. Bows, crossbows, and slings bestow this power on their ammunition. All missile weapons lose this effect if they miss. However, they may be recovered and charged again.
 
@@ -1342,7 +1454,8 @@ Any weapon made of deep crystal costs 1,000 gp more than its noncrystal counterp
 
 Deep crystal has 30 hit points per inch of thickness and a hardness of 10.
 
-**Crystal, Mundane:** Mundane crystal can be used in place of metal in weapons or armor, using a special forging process. The fortified crystal possesses the properties of a similar masterwork steel weapon or armor, except for visual appearance.
+### Crystal, Mundane
+Mundane crystal can be used in place of metal in weapons or armor, using a special forging process. The fortified crystal possesses the properties of a similar masterwork steel weapon or armor, except for visual appearance.
 
 Weapons and armor made of mundane crystal cost the same amount to make as their masterwork counterparts. Any item could potentially be made with mundane crystal. Because mundane crystal armor is considered to be made out of metal, druids cannot wear it.
 

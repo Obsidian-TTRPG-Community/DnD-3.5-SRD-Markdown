@@ -106,7 +106,8 @@ The first six alignments, lawful good through chaotic neutral, are the
 standard alignments for player characters. The three evil alignments are
 for monsters and villains.
 
-**Lawful Good, "Crusader":** A lawful good character acts as a good
+### Lawful Good, "Crusader"
+A lawful good character acts as a good
 person is expected or required to act. She combines a commitment to
 oppose evil with the discipline to fight relentlessly. She tells the
 truth, keeps her word, helps those in need, and speaks out against
@@ -116,14 +117,16 @@ unpunished.
 Lawful good is the best alignment you can be because it combines honor
 and compassion.
 
-**Neutral Good, "Benefactor":** A neutral good character does the best
+### Neutral Good, "Benefactor"
+A neutral good character does the best
 that a good person can do. He is devoted to helping others. He works
 with kings and magistrates but does not feel beholden to them..
 
 Neutral good is the best alignment you can be because it means doing
 what is good without bias for or against order.
 
-**Chaotic Good, "Rebel":** A chaotic good character acts as his
+### Chaotic Good, "Rebel"
+A chaotic good character acts as his
 conscience directs him with little regard for what others expect of him.
 He makes his own way, but he's kind and benevolent. He believes in
 goodness and right but has little use for laws and regulations. He hates
@@ -134,7 +137,8 @@ that of society.
 Chaotic good is the best alignment you can be because it combines a good
 heart with a free spirit.
 
-**Lawful Neutral, "Judge":** A lawful neutral character acts as law,
+### Lawful Neutral, "Judge"
+A lawful neutral character acts as law,
 tradition, or a personal code directs her. Order and organization are
 paramount to her. She may believe in personal order and live by a code
 or standard, or she may believe in order for all and favor a strong,
@@ -143,7 +147,8 @@ organized government.
 Lawful neutral is the best alignment you can be because it means you are
 reliable and honorable without being a zealot.
 
-**Neutral, "Undecided":** A neutral character does what seems to be a
+### Neutral, "Undecided"
+A neutral character does what seems to be a
 good idea. She doesn't feel strongly one way or the other when it comes
 to good vs. evil or law vs. chaos. Most neutral characters exhibit a
 lack of conviction or bias rather than a commitment to neutrality. Such
@@ -159,7 +164,8 @@ neutrality as the best, most balanced road in the long run.
 Neutral is the best alignment you can be because it means you act
 naturally, without prejudice or compulsion.
 
-**Chaotic Neutral, "Free Spirit":** A chaotic neutral character follows
+### Chaotic Neutral, "Free Spirit"
+A chaotic neutral character follows
 his whims. He is an individualist first and last. He values his own
 liberty but doesn't strive to protect others' freedom. He avoids
 authority, resents restrictions, and challenges traditions. A chaotic
@@ -173,7 +179,8 @@ likely to jump off a bridge as to cross it.
 Chaotic neutral is the best alignment you can be because it represents
 true freedom from both society's restrictions and a do-gooder's zeal.
 
-**Lawful Evil, "Dominator":** A lawful evil villain methodically takes
+### Lawful Evil, "Dominator"
+A lawful evil villain methodically takes
 what he wants within the limits of his code of conduct without regard
 for whom it hurts. He cares about tradition, loyalty, and order but not
 about freedom, dignity, or life. He plays by the rules but without mercy
@@ -201,7 +208,8 @@ epitome of lawful evil.
 Lawful evil is the most dangerous alignment because it represents
 methodical, intentional, and frequently successful evil.
 
-**Neutral Evil, "Malefactor":** A neutral evil villain does whatever she
+### Neutral Evil, "Malefactor"
+A neutral evil villain does whatever she
 can get away with. She is out for herself, pure and simple. She sheds no
 tears for those she kills, whether for profit, sport, or convenience.
 She has no love of order and holds no illusion that following laws,
@@ -216,7 +224,8 @@ secret societies.
 Neutral evil is the most dangerous alignment because it represents pure
 evil without honor and without variation.
 
-**Chaotic Evil, "Destroyer":** A chaotic evil character does whatever
+### Chaotic Evil, "Destroyer"
+A chaotic evil character does whatever
 his greed, hatred, and lust for destruction drive him to do. He is
 hot-tempered, vicious, arbitrarily violent, and unpredictable. If he is
 simply out for whatever he can get, he is ruthless and brutal. If he is

@@ -25,7 +25,8 @@ The skills below relate to the use of psionics. In addition to three new skills 
 
 You have trained your mind to gain mastery over your body and the mind's own deepest capabilities.
 
-**Check:** The DC and the effect of a successful check depend on the task you attempt.
+### Check
+The DC and the effect of a successful check depend on the task you attempt.
 
 |                          |     |
 |--------------------------|-----|
@@ -49,11 +50,14 @@ You have trained your mind to gain mastery over your body and the mind's own dee
 
 *Willpower:* If reduced to 0 hit points (disabled), you can make an Autohypnosis check. If successful, you can take a normal action while at 0 hit points without taking 1 point of damage. You must make a check for each strenuous action you want to take. A failed Autohypnosis check in this circumstance carries no direct penalty---you can choose not to take the strenuous action and thus avoid the hit point loss. If you do so anyway, you drop to --1 hit points, as normal when disabled.
 
-**Action:** None. Making an Autohypnosis check doesn't require an action; it is either a free action (when attempted reactively) or part of another action (when attempted actively).
+### Action
+None. Making an Autohypnosis check doesn't require an action; it is either a free action (when attempted reactively) or part of another action (when attempted actively).
 
-**Try Again:** Yes, for memorize and willpower uses, though a success doesn't cancel the effects of a previous failure. No for the other uses.
+### Try Again
+Yes, for memorize and willpower uses, though a success doesn't cancel the effects of a previous failure. No for the other uses.
 
-**Synergy:** If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on Knowledge (psionics) checks.
+### Synergy
+If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on Knowledge (psionics) checks.
 
 If you have 5 or more ranks in Concentration, you get a +2 bonus on Autohypnosis checks.
 
@@ -63,7 +67,8 @@ You are particularly good at focusing your mind.
 
 The following are additional uses for the concentration skill.
 
-**Check:** You must make a Concentration check whenever you might potentially be distracted (by taking damage, by harsh weather, and so on) while engaged in some action that requires your full attention. Such actions include manifesting a power, concentrating on an active power, directing a power, or using a psi-like ability.
+### Check
+You must make a Concentration check whenever you might potentially be distracted (by taking damage, by harsh weather, and so on) while engaged in some action that requires your full attention. Such actions include manifesting a power, concentrating on an active power, directing a power, or using a psi-like ability.
 
 If the Concentration check succeeds, you can continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of manifesting a power, the power points are lost. If you were concentrating on an active power, the power ends as if you had ceased concentrating on it. If you were directing a power, the direction fails but the power remains active. If you were using a psi-like ability, that use of the ability is lost.
 
@@ -91,15 +96,19 @@ If you have 1 or more power points available, you can meditate to attempt to bec
 
 Once you are psionically focused, you remain focused until you expend your focus, become unconscious, or go to sleep (or enter a meditative trance, in the case of elans), or until your power point reserve drops to 0.
 
-**Action:** Usually none. In most cases, making a Concentration check doesn't require an action; it is either a free action (when attempted reactively) or part of another action (when attempted actively). Meditating to gain psionic focus is a full-round action.
+### Action
+Usually none. In most cases, making a Concentration check doesn't require an action; it is either a free action (when attempted reactively) or part of another action (when attempted actively). Meditating to gain psionic focus is a full-round action.
 
-**Try Again:** Yes, though a success doesn't cancel the effects of a previous failure, such as the loss of the power points for a power being manifested or the disruption of a power being concentrated on.
+### Try Again
+Yes, though a success doesn't cancel the effects of a previous failure, such as the loss of the power points for a power being manifested or the disruption of a power being concentrated on.
 
-**Special:** You can use Concentration to manifest a power or use a psi-like ability defensively, so as to avoid attacks of opportunity altogether. The DC of the check is 15 + the power's level. If the Concentration check succeeds, you can manifest normally without provoking any attacks of opportunity. If the Concentration check fails, the power also automatically fails and the power points are wasted, just as if your concentration had been disrupted by a distraction.
+### Special
+You can use Concentration to manifest a power or use a psi-like ability defensively, so as to avoid attacks of opportunity altogether. The DC of the check is 15 + the power's level. If the Concentration check succeeds, you can manifest normally without provoking any attacks of opportunity. If the Concentration check fails, the power also automatically fails and the power points are wasted, just as if your concentration had been disrupted by a distraction.
 
 A character with the Combat Manifestation feat gets a +4 bonus on Concentration checks made to manifest a power or use a psi-like ability while on the defensive or while grappling or pinned.
 
-**Synergy:** If you have 5 or more ranks in Concentration, you get a +2 bonus on Autohypnosis checks.
+### Synergy
+If you have 5 or more ranks in Concentration, you get a +2 bonus on Autohypnosis checks.
 
 #### Knowledge (Psionics)[(Int)]
 
@@ -107,17 +116,20 @@ Like the Craft and Profession skills, Knowledge actually encompasses a number of
 
 Knowledge (psionics) covers ancient mysteries, psionic traditions, psychic symbols, cryptic phrases, astral constructs, and psionic races. You can use this skill to identify psionic monsters and their special powers or vulnerabilities.
 
-**Synergy:** If you have 5 or more ranks in Knowledge (psionics), you get a +2 bonus on Psicraft checks.
+### Synergy
+If you have 5 or more ranks in Knowledge (psionics), you get a +2 bonus on Psicraft checks.
 
 If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on Knowledge (psionics) checks.
 
-**Untrained:** An untrained Knowledge (psionics) check is simply an Intelligence check. Without actual training, you know only common knowledge (DC 10 or lower).
+### Untrained
+An untrained Knowledge (psionics) check is simply an Intelligence check. Without actual training, you know only common knowledge (DC 10 or lower).
 
 #### Psicraft [(Int; Trained Only)]
 
 Use this skill to identify powers as they are manifest or powers already in place.
 
-**Check:** You can identify powers and psionic effects. The DCs for Psicraft checks relating to various tasks are summarized on the table below.
+### Check
+You can identify powers and psionic effects. The DCs for Psicraft checks relating to various tasks are summarized on the table below.
 
 |                  |                                                                                                                                                                                                                         |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -134,15 +146,19 @@ Use this skill to identify powers as they are manifest or powers already in plac
 
 Additionally, certain powers allow you to gain information about psionic effects, provided that you make a successful Psicraft check as detailed in the power description.
 
-**Action:** Varies, as noted above.
+### Action
+Varies, as noted above.
 
-**Try Again:** See above.
+### Try Again
+See above.
 
-**Special:** A psion gains a +2 bonus on Psicraft checks when dealing with a power or effect from his discipline.
+### Special
+A psion gains a +2 bonus on Psicraft checks when dealing with a power or effect from his discipline.
 
 If you have the Psionic Affinity feat, you get a +2 bonus on Psicraft checks.
 
-**Synergy:** If you have 5 or more ranks in Psicraft, you get a +2 bonus on Use Psionic Device checks related to power stones.
+### Synergy
+If you have 5 or more ranks in Psicraft, you get a +2 bonus on Use Psionic Device checks related to power stones.
 
 If you have 5 or more ranks in Use Psionic Device, you get a +2 bonus on Psicraft checks to address power stones.
 
@@ -150,7 +166,8 @@ If you have 5 or more ranks in Use Psionic Device, you get a +2 bonus on Psicraf
 
 Use this skill to activate psionic devices, including power stones (chunks of crystal that store specific powers) and dorjes (slender crystal wands charged with several uses of the same power), that otherwise you could not activate.
 
-**Check:** You can use this skill to address a power stone (to learn what powers are encoded on it) or to activate a psionic item. This skill lets you use a psionic item as if you had the manifesting ability or class features of another class, as if you were a different race, or as if you were a different alignment.
+### Check
+You can use this skill to address a power stone (to learn what powers are encoded on it) or to activate a psionic item. This skill lets you use a psionic item as if you had the manifesting ability or class features of another class, as if you were a different race, or as if you were a different alignment.
 
 You make Use Psionic Device checks each time you activate a device such as a dorje. If you are using the check to emulate an alignment or some other quality in an ongoing manner, you need to make the relevant emulation checks once per hour.
 
@@ -190,16 +207,20 @@ If the class whose feature you are emulating has an alignment requirement, you m
 
 a power stone, you must first have addressed it to determine what powers it contains. In addition, manifesting a power from a power stone requires a minimum score (10 + power level) in the appropriate ability. If you don't have a high enough score, you must emulate the ability score with a separate check (see above). This use of the skill applies to other power completion psionic items.
 
-**Action:** None. The Use Psionic Device check is made as part of the action (if any) required to activate the psionic item.
+### Action
+None. The Use Psionic Device check is made as part of the action (if any) required to activate the psionic item.
 
-**Try Again:** Yes, but if you ever roll a natural 1 while attempting to activate an item and you fail, you can't try to activate it again for a day.
+### Try Again
+Yes, but if you ever roll a natural 1 while attempting to activate an item and you fail, you can't try to activate it again for a day.
 
-**Special:** You cannot take 10 with this skill.
+### Special
+You cannot take 10 with this skill.
 
 You can't aid another on Use Psionic Device checks. Only the user of the item can attempt such a check.
 
 A character with the Psionic Affinity feat gets a +2 bonus on Use Psionic Device checks.
 
-**Synergy:** If you have 5 or more ranks in Psicraft, you get a +2 bonus on Use Magic Device checks related to power stones.
+### Synergy
+If you have 5 or more ranks in Psicraft, you get a +2 bonus on Use Magic Device checks related to power stones.
 
 If you have 5 or more ranks in Use Psionic Device, you get a +2 bonus on Psicraft checks to address power stones.

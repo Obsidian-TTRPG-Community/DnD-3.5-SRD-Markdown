@@ -10,7 +10,8 @@ the terms of the Open Game License v1.0a.
 
 ## Heal [(Wis)]
 
-**Check:** The DC and effect depend on the task you attempt.
+### Check
+The DC and effect depend on the task you attempt.
 
   ------------------------------------------------------------- -------------------
   Task Heal                                                     DC
@@ -61,24 +62,28 @@ character. Every time he or she makes a saving throw against disease
 effects, you make a Heal check. The diseased character uses your check
 result or his or her saving throw, whichever is higher.
 
-**Action:** Providing first aid, treating a wound, or treating poison is
+### Action
+Providing first aid, treating a wound, or treating poison is
 a standard action. Treating a disease or tending a creature wounded by a
 *spike growth* or *spike stones* spell takes 10 minutes of work.
 Providing long-term care requires 8 hours of light activity.
 
-**Try Again:** Varies. Generally speaking, you can't try a Heal check
+### Try Again
+Varies. Generally speaking, you can't try a Heal check
 again without proof of the original check's failure. You can always
 retry a check to provide first aid, assuming the target of the previous
 attempt is still alive.
 
-**Special:** A character with the Self-Sufficient feat gets a +2 bonus
+### Special
+A character with the Self-Sufficient feat gets a +2 bonus
 on Heal checks.
 
 A healer's kit gives you a +2 circumstance bonus on Heal checks.
 
 ## Hide [(Dex; Armor Check Penalty)]
 
-**Check:** Your Hide check is opposed by the Spot check of anyone who
+### Check
+Your Hide check is opposed by the Spot check of anyone who
 might see you. You can move up to one-half your normal speed and hide at
 no penalty. When moving at a speed greater than one-half but less than
 your normal speed, you take a --5 penalty. It's practically impossible
@@ -112,11 +117,13 @@ after the shot.
 successful Bluff check can give you the momentary diversion you need to
 attempt a Hide check while people are aware of you.
 
-**Action:** Usually none. Normally, you make a Hide check as part of
+### Action
+Usually none. Normally, you make a Hide check as part of
 movement, so it doesn't take a separate action. However, hiding
 immediately after a ranged attack (see Sniping, above) is a move action.
 
-**Special:** If you are invisible, you gain a +40 bonus on Hide checks
+### Special
+If you are invisible, you gain a +40 bonus on Hide checks
 if you are immobile, or a +20 bonus on Hide checks if you're moving.
 
 If you have the Stealthy feat, you get a +2 bonus on Hide checks.
@@ -127,7 +134,8 @@ ranger can do this even while being observed.
 
 ## Intimidate [(Cha)]
 
-**Check:** You can change another's behavior with a successful check.
+### Check
+You can change another's behavior with a successful check.
 Your Intimidate check is opposed by the target's modified level check
 (1d20 + character level or Hit Dice + target's Wisdom bonus \[if any\] +
 target's modifiers on saves against fear). If you beat your target's
@@ -150,16 +158,19 @@ becomes shaken for 1 round. A shaken character takes a --2 penalty on
 attack rolls, ability checks, and saving throws. You can intimidate only
 an opponent that you threaten in melee combat and that can see you.
 
-**Action:** Varies. Changing another's behavior requires 1 minute of
+### Action
+Varies. Changing another's behavior requires 1 minute of
 interaction. Intimidating an opponent in combat is a standard action.
 
-**Try Again:** Optional, but not recommended because retries usually do
+### Try Again
+Optional, but not recommended because retries usually do
 not work. Even if the initial check succeeds, the other character can be
 intimidated only so far, and a retry doesn't help. If the initial check
 fails, the other character has probably become more firmly resolved to
 resist the intimidator, and a retry is futile.
 
-**Special:** You gain a +4 bonus on your Intimidate check for every size
+### Special
+You gain a +4 bonus on your Intimidate check for every size
 category that you are larger than your target. Conversely, you take a
 --4 penalty on your Intimidate check for every size category that you
 are smaller than your target.
@@ -170,12 +181,14 @@ creatures.
 If you have the Persuasive feat, you get a +2 bonus on Intimidate
 checks.
 
-**Synergy:** If you have 5 or more ranks in Bluff, you get a +2 bonus on
+### Synergy
+If you have 5 or more ranks in Bluff, you get a +2 bonus on
 Intimidate checks.
 
 ## Jump [(Str; Armor Check Penalty)]
 
-**Check:** The DC and the distance you can cover vary according to the
+### Check
+The DC and the distance you can cover vary according to the
 type of jump you are attempting (see below).
 
 Your Jump check is modified by your speed. If your speed is 30 feet then
@@ -279,12 +292,14 @@ the DC is not doubled if you do not get a running start.
 If you succeed on the check, you take falling damage as if you had
 dropped 10 fewer feet than you actually did.
 
-**Action:** None. A Jump check is included in your movement, so it is
+### Action
+None. A Jump check is included in your movement, so it is
 part of a move action. If you run out of movement mid-jump, your next
 action (either on this turn or, if necessary, on your next turn) must be
 a move action to complete the jump.
 
-**Special:** Effects that increase your movement also increase your
+### Special
+Effects that increase your movement also increase your
 jumping distance, since your check is modified by your speed.
 
 If you have the Run feat, you get a +4 bonus on Jump checks for any
@@ -295,7 +310,8 @@ agile and athletic.
 
 If you have the Acrobatic feat, you get a +2 bonus on Jump checks.
 
-**Synergy:** If you have 5 or more ranks in Tumble, you get a +2 bonus
+### Synergy
+If you have 5 or more ranks in Tumble, you get a +2 bonus
 on Jump checks.
 
 If you have 5 or more ranks in Jump, you get a +2 bonus on Tumble
@@ -328,7 +344,8 @@ Below are listed typical fields of study.
     the Ethereal Plane, outsiders, elementals, magic related to the
     planes)
 
-**Check:** Answering a question within your field of study has a DC of
+### Check
+Answering a question within your field of study has a DC of
 10 (for really easy questions), 15 (for basic questions), or 20 to 30
 (for really tough questions).
 
@@ -340,14 +357,17 @@ a bit of useful information about that monster.
 For every 5 points by which your check result exceeds the DC, you recall
 another piece of useful information.
 
-**Action:** Usually none. In most cases, making a Knowledge check
+### Action
+Usually none. In most cases, making a Knowledge check
 doesn't take an action---you simply know the answer or you don't.
 
-**Try Again:** No. The check represents what you know, and thinking
+### Try Again
+No. The check represents what you know, and thinking
 about a topic a second time doesn't let you know something that you
 never learned in the first place.
 
-**Synergy:** If you have 5 or more ranks in Knowledge (arcana), you get
+### Synergy
+If you have 5 or more ranks in Knowledge (arcana), you get
 a +2 bonus on Spellcraft checks.
 
 If you have 5 or more ranks in Knowledge (architecture and engineering),
@@ -383,13 +403,15 @@ bonus on Survival checks made while underground.
 If you have 5 or more ranks in Survival, you get a +2 bonus on Knowledge
 (nature) checks.
 
-**Untrained:** An untrained Knowledge check is simply an Intelligence
+### Untrained
+An untrained Knowledge check is simply an Intelligence
 check. Without actual training, you know only common knowledge (DC 10 or
 lower).
 
 ## Listen [(Wis)]
 
-**Check:** Your Listen check is either made against a DC that reflects
+### Check
+Your Listen check is either made against a DC that reflects
 how quiet the noise is that you might hear, or it is opposed by your
 target's Move Silently check.
 
@@ -418,15 +440,18 @@ In the case of people trying to be quiet, the DCs given on the table
 could be replaced by Move Silently checks, in which case the indicated
 DC would be their average check result.
 
-**Action:** Varies. Every time you have a chance to hear something in a
+### Action
+Varies. Every time you have a chance to hear something in a
 reactive manner (such as when someone makes a noise or you move into a
 new area), you can make a Listen check without using an action. Trying
 to hear something you failed to hear previously is a move action.
 
-**Try Again:** Yes. You can try to hear something that you failed to
+### Try Again
+Yes. You can try to hear something that you failed to
 hear previously with no penalty.
 
-**Special:** When several characters are listening to the same thing, a
+### Special
+When several characters are listening to the same thing, a
 single 1d20 roll can be used for all the individuals' Listen checks.
 
 A fascinated creature takes a --4 penalty on Listen checks made as
@@ -446,7 +471,8 @@ successful check awakens the sleeper.
 
 ## Move Silently [(Dex; Armor Check Penalty)]
 
-**Check:** Your Move Silently check is opposed by the Listen check of
+### Check
+Your Move Silently check is opposed by the Listen check of
 anyone who might hear you. You can move up to one-half your normal speed
 at no penalty. When moving at a speed greater than one-half but less
 than your full speed, you take a --5 penalty. It's practically
@@ -465,7 +491,8 @@ on your Move Silently check as indicated below.
 **Action:**None. A Move Silently check is included in your movement or
 other activity, so it is part of another action.
 
-**Special:** The master of a cat familiar gains a +3 bonus on Move
+### Special
+The master of a cat familiar gains a +3 bonus on Move
 Silently checks.
 
 A halfling has a +2 racial bonus on Move Silently checks.
@@ -480,7 +507,8 @@ Attempting an Open Lock check without a set of thieves' tools imposes a
 employed. If you use masterwork thieves' tools, you gain a +2
 circumstance bonus on the check.
 
-**Check:** The DC for opening a lock varies from 20 to 40, depending on
+### Check
+The DC for opening a lock varies from 20 to 40, depending on
 the quality of the lock, as given on the table below.
 
   ------------------ ---- -------------- ----
@@ -489,12 +517,15 @@ the quality of the lock, as given on the table below.
   Average lock       25   Amazing lock   40
   ------------------ ---- -------------- ----
 
-**Action:** Opening a lock is a full-round action.
+### Action
+Opening a lock is a full-round action.
 
-**Special:** If you have the Nimble Fingers feat, you get a +2 bonus on
+### Special
+If you have the Nimble Fingers feat, you get a +2 bonus on
 Open Lock checks.
 
-**Untrained:** You cannot pick locks untrained, but you might
+### Untrained
+You cannot pick locks untrained, but you might
 successfully force them open.
 
 ## Perform [(Cha)]
@@ -519,7 +550,8 @@ for each category below.
 -   Wind instruments (flute, pan pipes, recorder, shawm, trumpet)
 -   Sing (ballad, chant, melody)
 
-**Check:** You can impress audiences with your talent and skill.
+### Check
+You can impress audiences with your talent and skill.
 
   ------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Perform DC   Performance
@@ -533,17 +565,20 @@ for each category below.
 A masterwork musical instrument gives you a +2 circumstance bonus on
 Perform checks that involve its use.
 
-**Action:** Varies. Trying to earn money by playing in public requires
+### Action
+Varies. Trying to earn money by playing in public requires
 anywhere from an evening's work to a full day's performance. The bard's
 special Perform-based abilities are described in that class's
 description.
 
-**Try Again:** Yes. Retries are allowed, but they don't negate previous
+### Try Again
+Yes. Retries are allowed, but they don't negate previous
 failures, and an audience that has been unimpressed in the past is
 likely to be prejudiced against future performances. (Increase the DC by
 2 for each previous failure.)
 
-**Special:** A bard must have at least 3 ranks in a Perform skill to
+### Special
+A bard must have at least 3 ranks in a Perform skill to
 inspire courage in his allies, or to use his countersong or his
 *fascinate* ability. A bard needs 6 ranks in a Perform skill to inspire
 competence, 9 ranks to use his *suggestion* ability, 12 ranks to inspire
@@ -564,22 +599,26 @@ represents ability in creating or making an item, a Profession skill
 represents an aptitude in a vocation requiring a broader range of less
 specific knowledge.
 
-**Check:** You can practice your trade and make a decent living, earning
+### Check
+You can practice your trade and make a decent living, earning
 about half your Profession check result in gold pieces per week of
 dedicated work. You know how to use the tools of your trade, how to
 perform the profession's daily tasks, how to supervise helpers, and how
 to handle common problems.
 
-**Action:** Not applicable. A single check generally represents a week
+### Action
+Not applicable. A single check generally represents a week
 of work.
 
-**Try Again:** Varies. An attempt to use a Profession skill to earn an
+### Try Again
+Varies. An attempt to use a Profession skill to earn an
 income cannot be retried. You are stuck with whatever weekly wage your
 check result brought you. Another check may be made after a week to
 determine a new income for the next period of time. An attempt to
 accomplish some specific task can usually be retried.
 
-**Untrained:** Untrained laborers and assistants (that is, characters
+### Untrained
+Untrained laborers and assistants (that is, characters
 without any ranks in Profession) earn an average of 1 silver piece per
 day.
 
@@ -588,7 +627,8 @@ day.
 If you attempt to ride a creature that is ill suited as a mount, you
 take a --5 penalty on your Ride checks.
 
-**Check:** Typical riding actions don't require checks. You can saddle,
+### Check
+Typical riding actions don't require checks. You can saddle,
 mount, ride, and dismount from a mount without a problem.
 
 The following tasks do require checks.
@@ -652,11 +692,13 @@ fail the Ride check, mounting or dismounting is a move action. You can't
 use fast mount or dismount on a mount more than one size category larger
 than yourself.
 
-**Action:** Varies. Mounting or dismounting normally is a move action.
+### Action
+Varies. Mounting or dismounting normally is a move action.
 Other checks are a move action, a free action, or no action at all, as
 noted above.
 
-**Special:** If you are riding bareback, you take a --5 penalty on Ride
+### Special
+If you are riding bareback, you take a --5 penalty on Ride
 checks.
 
 If your mount has a military saddle you get a +2 circumstance bonus on
@@ -669,12 +711,14 @@ Trample.
 
 If you have the Animal Affinity feat, you get a +2 bonus on Ride checks.
 
-**Synergy:** If you have 5 or more ranks in Handle Animal, you get a +2
+### Synergy
+If you have 5 or more ranks in Handle Animal, you get a +2
 bonus on Ride checks.
 
 ## Search [(Int)]
 
-**Check:** You generally must be within 10 feet of the object or surface
+### Check
+You generally must be within 10 feet of the object or surface
 to be searched. The table below gives DCs for typical tasks involving
 the Search skill.
 
@@ -690,10 +734,12 @@ the Search skill.
   2 A successful Search check can find a footprint or similar sign of a creature's passage, but it won't let you find or follow a trail. See the Track feat for the appropriate DC.   
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------
 
-**Action:** It takes a full-round action to search a 5-foot-by-5-foot
+### Action
+It takes a full-round action to search a 5-foot-by-5-foot
 area or a volume of goods 5 feet on a side.
 
-**Special:** An elf has a +2 racial bonus on Search checks, and a
+### Special
+An elf has a +2 racial bonus on Search checks, and a
 half-elf has a +1 racial bonus. An elf (but not a half-elf) who simply
 passes within 5 feet of a secret or concealed door can make a Search
 check to find that door.
@@ -712,14 +758,16 @@ Active abjuration spells within 10 feet of each other for 24 hours or
 more create barely visible energy fluctuations. These fluctuations give
 you a +4 bonus on Search checks to locate such abjuration spells.
 
-**Synergy:** If you have 5 or more ranks in Search, you get a +2 bonus
+### Synergy
+If you have 5 or more ranks in Search, you get a +2 bonus
 on Survival checks to find or follow tracks.
 
 If you have 5 or more ranks in Knowledge (architecture and engineering),
 you get a +2 bonus on Search checks to find secret doors or hidden
 compartments.
 
-**Restriction:** While anyone can use Search to find a trap whose DC is
+### Restriction
+While anyone can use Search to find a trap whose DC is
 20 or lower, only a rogue can use Search to locate traps with higher
 DCs. (*Exception:* The spell *find traps* temporarily enables a cleric
 to use the Search skill as if he were a rogue.)
@@ -731,7 +779,8 @@ stonecunning ability.
 
 ## Sense Motive [(Wis)]
 
-**Check:** A successful check lets you avoid being bluffed (see the
+### Check
+A successful check lets you avoid being bluffed (see the
 Bluff skill). You can also use this skill to determine when "something
 is up" (that is, something odd is going on) or to assess someone's
 trustworthiness.
@@ -766,25 +815,30 @@ understand the message. If you fail by 4 or less, you don't detect any
 hidden communication. If you fail by 5 or more, you infer some false
 information.
 
-**Action:** Trying to gain information with Sense Motive generally takes
+### Action
+Trying to gain information with Sense Motive generally takes
 at least 1 minute, and you could spend a whole evening trying to get a
 sense of the people around you.
 
-**Try Again:** No, though you may make a Sense Motive check for each
+### Try Again
+No, though you may make a Sense Motive check for each
 Bluff check made against you.
 
-**Special:** A ranger gains a bonus on Sense Motive checks when using
+### Special
+A ranger gains a bonus on Sense Motive checks when using
 this skill against a favored enemy.
 
 If you have the Negotiator feat, you get a +2 bonus on Sense Motive
 checks.
 
-**Synergy:** If you have 5 or more ranks in Sense Motive, you get a +2
+### Synergy
+If you have 5 or more ranks in Sense Motive, you get a +2
 bonus on Diplomacy checks.
 
 ## Sleight of Hand [(Dex; Trained Only; Armor Check Penalty)]
 
-**Check:** A DC 10 Sleight of Hand check lets you palm a coin-sized,
+### Check
+A DC 10 Sleight of Hand check lets you palm a coin-sized,
 unattended object. Performing a minor feat of legerdemain, such as
 making a coin disappear, also has a DC of 10 unless an observer is
 determined to note where the item went.
@@ -825,22 +879,27 @@ elements of legerdemain, juggling, and the like.
   20                   Lift a small object from a person
   -------------------- -------------------------------------------------
 
-**Action:** Any Sleight of Hand check normally is a standard action.
+### Action
+Any Sleight of Hand check normally is a standard action.
 However, you may perform a Sleight of Hand check as a free action by
 taking a --20 penalty on the check.
 
-**Try Again:** Yes, but after an initial failure, a second Sleight of
+### Try Again
+Yes, but after an initial failure, a second Sleight of
 Hand attempt against the same target (or while you are being watched by
 the same observer who noticed your previous attempt) increases the DC
 for the task by 10.
 
-**Special:** If you have the Deft Hands feat, you get a +2 bonus on
+### Special
+If you have the Deft Hands feat, you get a +2 bonus on
 Sleight of Hand checks.
 
-**Synergy:** If you have 5 or more ranks in Bluff, you get a +2 bonus on
+### Synergy
+If you have 5 or more ranks in Bluff, you get a +2 bonus on
 Sleight of Hand checks.
 
-**Untrained:** An untrained Sleight of Hand check is simply a Dexterity
+### Untrained
+An untrained Sleight of Hand check is simply a Dexterity
 check. Without actual training, you can't succeed on any Sleight of Hand
 check with a DC higher than 10, except for hiding an object on your
 body.
@@ -872,9 +931,11 @@ body.
   Undercommon                            Drow                                        Elven
   -------------------------------------- ------------------------------------------- -----------
 
-**Action:** Not applicable.
+### Action
+Not applicable.
 
-**Try Again:** Not applicable. There are no Speak Language checks to
+### Try Again
+Not applicable. There are no Speak Language checks to
 fail.
 
 The Speak Language skill doesn't work like other skills. Languages work
@@ -915,15 +976,19 @@ place.
   30 or higher       Understand a strange or unique magical effect, such as the effects of a magic stream. Time required varies. No retry.
   ------------------ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Check:** You can identify spells and magic effects. The DCs for
+### Check
+You can identify spells and magic effects. The DCs for
 Spellcraft checks relating to various tasks are summarized on the table
 above.
 
-**Action:** Varies, as noted above.
+### Action
+Varies, as noted above.
 
-**Try Again:** See above.
+### Try Again
+See above.
 
-**Special:** If you are a specialist wizard, you get a +2 bonus on
+### Special
+If you are a specialist wizard, you get a +2 bonus on
 Spellcraft checks when dealing with a spell or effect from your
 specialty school. You take a --5 penalty when dealing with a spell or
 effect from a prohibited school (and some tasks, such as learning a
@@ -932,7 +997,8 @@ prohibited spell, are just impossible).
 If you have the Magical Aptitude feat, you get a +2 bonus on Spellcraft
 checks.
 
-**Synergy:** If you have 5 or more ranks in Knowledge (arcana), you get
+### Synergy
+If you have 5 or more ranks in Knowledge (arcana), you get
 a +2 bonus on Spellcraft checks.
 
 If you have 5 or more ranks in Use Magic Device, you get a +2 bonus on
@@ -947,7 +1013,8 @@ spell description.
 
 ## Spot [(Wis)]
 
-**Check:** The Spot skill is used primarily to detect characters or
+### Check
+The Spot skill is used primarily to detect characters or
 creatures who are hiding. Typically, your Spot check is opposed by the
 Hide check of the creature trying not to be seen. Sometimes a creature
 isn't intentionally hiding but is still difficult to see, so a
@@ -986,17 +1053,20 @@ the check fails by 5 or more, you draw some incorrect conclusion about
 the speech. The check is rolled secretly in this case, so that you don't
 know whether you succeeded or missed by 5.
 
-**Action:** Varies. Every time you have a chance to spot something in a
+### Action
+Varies. Every time you have a chance to spot something in a
 reactive manner you can make a Spot check without using an action.
 Trying to spot something you failed to see previously is a move action.
 To read lips, you must concentrate for a full minute before making a
 Spot check, and you can't perform any other action (other than moving at
 up to half speed) during this minute.
 
-**Try Again:** Yes. You can try to spot something that you failed to see
+### Try Again
+Yes. You can try to spot something that you failed to see
 previously at no penalty. You can attempt to read lips once per minute.
 
-**Special:** A fascinated creature takes a --4 penalty on Spot checks
+### Special
+A fascinated creature takes a --4 penalty on Spot checks
 made as reactions.
 
 If you have the Alertness feat, you get a +2 bonus on Spot checks.
@@ -1016,7 +1086,8 @@ or other darkened areas.
 
 ## Survival [(Wis)]
 
-**Check:** You can keep yourself and others safe and fed in the wild.
+### Check
+You can keep yourself and others safe and fed in the wild.
 The table below gives the DCs for various tasks that require Survival
 checks.
 
@@ -1032,11 +1103,13 @@ ranger or have the Track feat (see the Restriction section below).
   Varies        Follow tracks (see the Track feat).
   ------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Action:** Varies. A single Survival check may represent activity over
+### Action
+Varies. A single Survival check may represent activity over
 the course of hours or a full day. A Survival check made to find tracks
 is at least a full-round action, and it may take even longer.
 
-**Try Again:** Varies. For getting along in the wild or for gaining the
+### Try Again
+Varies. For getting along in the wild or for gaining the
 Fortitude save bonus noted in the table above, you make a Survival check
 once every 24 hours. The result of that check applies until the next
 check is made. To avoid getting lost or avoid natural hazards, you make
@@ -1045,12 +1118,14 @@ getting lost in a specific situation or to avoid a specific natural
 hazard are not allowed. For finding tracks, you can retry a failed check
 after 1 hour (outdoors) or 10 minutes(indoors) of searching.
 
-**Restriction:** While anyone can use Survival to find tracks
+### Restriction
+While anyone can use Survival to find tracks
 (regardless of the DC), or to follow tracks when the DC for the task is
 10 or lower, only a ranger (or a character with the Track feat) can use
 Survival to follow tracks when the task has a higher DC.
 
-**Special:** If you have 5 or more ranks in Survival, you can
+### Special
+If you have 5 or more ranks in Survival, you can
 automatically determine where true north lies in relation to yourself.
 
 A ranger gains a bonus on Survival checks when using this skill to find
@@ -1059,7 +1134,8 @@ or follow the tracks of a favored enemy.
 If you have the Self-Sufficient feat, you get a +2 bonus on Survival
 checks.
 
-**Synergy:** If you have 5 or more ranks in Survival, you get a +2 bonus
+### Synergy
+If you have 5 or more ranks in Survival, you get a +2 bonus
 on Knowledge (nature) checks.
 
 If you have 5 or more ranks in Knowledge (dungeoneering), you get a +2
@@ -1081,7 +1157,8 @@ checks to find or follow tracks.
 
 ## Swim [(Str; Armor Check Penalty)]
 
-**Check:** Make a Swim check once per round while you are in the water.
+### Check
+Make a Swim check once per round while you are in the water.
 Success means you may swim at up to one-half your speed (as a full-round
 action) or at one-quarter your speed (as a move action). If you fail by
 4 or less, you make no progress through the water. If you fail by 5 or
@@ -1114,11 +1191,13 @@ below.
 Each hour that you swim, you must make a DC 20 Swim check or take 1d6
 points of nonlethal damage from fatigue.
 
-**Action:** A successful Swim check allows you to swim one-quarter of
+### Action
+A successful Swim check allows you to swim one-quarter of
 your speed as a move action or one-half your speed as a full-round
 action.
 
-**Special:** Swim checks are subject to double the normal armor check
+### Special
+Swim checks are subject to double the normal armor check
 penalty and encumbrance penalty.
 
 If you have the Athletic feat, you get a +2 bonus on Swim checks.
@@ -1138,7 +1217,8 @@ provided that it swims in a straight line.
 You can't use this skill if your speed has been reduced by armor, excess
 equipment, or loot.
 
-**Check:** You can land softly when you fall or tumble past opponents.
+### Check
+You can land softly when you fall or tumble past opponents.
 You can also tumble to entertain an audience (as though using the
 Perform skill). The DCs for various tasks involving the Tumble skill are
 given on the table below.
@@ -1216,16 +1296,19 @@ below.
 quickly than normal. By accepting a --10 penalty on your Tumble checks,
 you can move at your full speed instead of one-half your speed.
 
-**Action:** Not applicable. Tumbling is part of movement, so a Tumble
+### Action
+Not applicable. Tumbling is part of movement, so a Tumble
 check is part of a move action.
 
-**Try Again:** Usually no. An audience, once it has judged a tumbler as
+### Try Again
+Usually no. An audience, once it has judged a tumbler as
 an uninteresting performer, is not receptive to repeat performances.
 
 You can try to reduce damage from a fall as an instant reaction only
 once per fall.
 
-**Special:** If you have 5 or more ranks in Tumble, you gain a +3 dodge
+### Special
+If you have 5 or more ranks in Tumble, you gain a +3 dodge
 bonus to AC when fighting defensively instead of the usual +2 dodge
 bonus to AC.
 
@@ -1235,7 +1318,8 @@ dodge bonus to AC.
 
 If you have the Acrobatic feat, you get a +2 bonus on Tumble checks.
 
-**Synergy:** If you have 5 or more ranks in Tumble, you get a +2 bonus
+### Synergy
+If you have 5 or more ranks in Tumble, you get a +2 bonus
 on Balance and Jump checks.
 
 If you have 5 or more ranks in Jump, you get a +2 bonus on Tumble
@@ -1245,7 +1329,8 @@ checks.
 
 Use this skill to activate magic
 
-**Check:** You can use this skill to read a spell or to activate a magic
+### Check
+You can use this skill to read a spell or to activate a magic
 item. Use Magic Device lets you use a magic item as if you had the spell
 ability or class features of another class, as if you were a different
 race, or as if you were of a different alignment.
@@ -1338,14 +1423,17 @@ your class spell list. This use of the skill allows you to use a wand as
 if you had a particular spell on your class spell list. This use of the
 skill also applies to other spell trigger magic items, such as staffs.
 
-**Action:** None. The Use Magic Device check is made as part of the
+### Action
+None. The Use Magic Device check is made as part of the
 action (if any) required to activate the magic item.
 
-**Try Again:** Yes, but if you ever roll a natural 1 while attempting to
+### Try Again
+Yes, but if you ever roll a natural 1 while attempting to
 activate an item and you fail, then you can't try to activate that item
 again for 24 hours.
 
-**Special:** You cannot take 10 with this skill.
+### Special
+You cannot take 10 with this skill.
 
 You can't aid another on Use Magic Device checks. Only the user of the
 item may attempt such a check.
@@ -1353,7 +1441,8 @@ item may attempt such a check.
 If you have the Magical Aptitude feat, you get a +2 bonus on Use Magic
 Device checks.
 
-**Synergy:** If you have 5 or more ranks in Spellcraft, you get a +2
+### Synergy
+If you have 5 or more ranks in Spellcraft, you get a +2
 bonus on Use Magic Device checks related to scrolls.
 
 If you have 5 or more ranks in Decipher Script, you get a +2 bonus on
@@ -1364,7 +1453,8 @@ Spellcraft checks made to decipher spells on scrolls.
 
 ## Use Rope [(Dex)]
 
-**Check:** Most tasks with a rope are relatively simple. The DCs for
+### Check
+Most tasks with a rope are relatively simple. The DCs for
 various tasks utilizing this skill are summarized on the table below.
 
   -------------------------------------------------------------------- ----------------------------------------------------------------------------------
@@ -1395,13 +1485,15 @@ You get a +10 bonus on this check because it is easier to bind someone
 than to escape from bonds. You don't even make your Use Rope check until
 someone tries to escape.
 
-**Action:** Varies. Throwing a grappling hook is a standard action that
+### Action
+Varies. Throwing a grappling hook is a standard action that
 provokes an attack of opportunity. Tying a knot, tying a special knot,
 or tying a rope around yourself one-handed is a full-round action that
 provokes an attack of opportunity. Splicing two ropes together takes 5
 minutes. Binding a character takes 1 minute.
 
-**Special:** A silk rope gives you a +2 circumstance bonus on Use Rope
+### Special
+A silk rope gives you a +2 circumstance bonus on Use Rope
 checks. If you cast an *animate rope* spell on a rope, you get a +2
 circumstance bonus on any Use Rope checks you make when using that rope.
 
@@ -1409,7 +1501,8 @@ These bonuses stack.
 
 If you have the Deft Hands feat, you get a +2 bonus on Use Rope checks.
 
-**Synergy:** If you have 5 or more ranks in Use Rope, you get a +2 bonus
+### Synergy
+If you have 5 or more ranks in Use Rope, you get a +2 bonus
 on Climb checks made to climb a rope, a knotted rope, or a rope-and-wall
 combination.
 

@@ -21,36 +21,45 @@ experience point penalties normally associated with multiclassing.
 
 Here are definitions of some terms used in this section.
 
-**Base Class:** One of the standard eleven classes.
+### Base Class
+One of the standard eleven classes.
 
-**Caster Level:** Generally equal to the number of class levels (see
+### Caster Level
+Generally equal to the number of class levels (see
 below) in a spellcasting class. Some prestige classes add caster levels
 to an existing class.
 
-**Character Level:** The total level of the character, which is the sum
+### Character Level
+The total level of the character, which is the sum
 of all class levels held by that character.
 
-**Class Level:** The level of a character in a particular class. For a
+### Class Level
+The level of a character in a particular class. For a
 character with levels in only one class, class level and character level
 are the same.
 
 ## Arcane Archer
 
-**Hit Die:** d8.
+### Hit Die
+d8.
 
 ### Requirements
 
 To qualify to become an arcane archer, a character must fulfill all the
 following criteria.
 
-**Race:** Elf or half-elf.
+### Race
+Elf or half-elf.
 
-**Base Attack Bonus:** +6.
+### Base Attack Bonus
++6.
 
-**Feats:** Point Blank Shot, Precise Shot, Weapon Focus (longbow or
+### Feats
+Point Blank Shot, Precise Shot, Weapon Focus (longbow or
 shortbow).
 
-**Spells:** Ability to cast 1st-level arcane spells.
+### Spells
+Ability to cast 1st-level arcane spells.
 
 ### Class Skills
 
@@ -58,7 +67,8 @@ The arcane archer's class skills (and the key ability for each skill)
 are Craft (Int), Hide (Dex). Listen (Wis), Move Silently (Dex), Ride
 (Dex), Spot (Wis), Survival (Wis), and Use Rope (Dex).
 
-**Skill Points at Each Level:** 4 + Int modifier.
+### Skill Points at Each Level
+4 + Int modifier.
 
   ----------- ----------- ----------- ----------- ----------- -----------
   Level       Base\       Fort\       Ref\        Will\       Special
@@ -101,10 +111,12 @@ are Craft (Int), Hide (Dex). Listen (Wis), Move Silently (Dex), Ride
 All of the following are Class Features of the arcane archer prestige
 class.
 
-**Weapon and Armor Proficiency:** An arcane archer is proficient with
+### Weapon and Armor Proficiency
+An arcane archer is proficient with
 all simple and martial weapons, light armor, medium armor, and shields.
 
-**Enhance Arrow (Su):** At 1st level, every nonmagical arrow an arcane
+### Enhance Arrow (Su)
+At 1st level, every nonmagical arrow an arcane
 archer nocks and lets fly becomes magical, gaining a +1 enhancement
 bonus. Unlike magic weapons created by normal means, the archer need not
 spend experience points or gold pieces to accomplish this task. However,
@@ -113,7 +125,8 @@ character advances past 1st level in the prestige class, the magic
 arrows she creates gain +1 greater potency (+1 at 1st level, +2 at 3rd
 level, +3 at 5th level, +4 at 7th level, and +5 at 9th level).
 
-***Imbue Arrow* (Sp):** At 2nd level, an arcane archer gains the ability
+### *Imbue Arrow* (Sp)
+At 2nd level, an arcane archer gains the ability
 to place an area spell upon an arrow. When the arrow is fired, the
 spell's area is centered on where the arrow lands, even if the spell
 could normally be centered only on the caster. This ability allows the
@@ -121,7 +134,8 @@ archer to use the bow's range rather than the spell's range. It takes a
 standard action to cast the spell and fire the arrow. The arrow must be
 fired in the round the spell is cast, or the spell is wasted.
 
-***Seeker Arrow* (Sp):** At 4th level, an arcane archer can launch an
+### *Seeker Arrow* (Sp)
+At 4th level, an arcane archer can launch an
 arrow once per day at a target known to her within range, and the arrow
 travels to the target, even around corners. Only an unavoidable obstacle
 or the limit of the arrow's range prevents the arrow's flight. This
@@ -129,7 +143,8 @@ ability negates cover and concealment modifiers, but otherwise the
 attack is rolled normally. Using this ability is a standard action (and
 shooting the arrow is part of the action).
 
-***Phase Arrow* (Sp):** At 6th level, an arcane archer can launch an
+### *Phase Arrow* (Sp)
+At 6th level, an arcane archer can launch an
 arrow once per day at a target known to her within range, and the arrow
 travels to the target in a straight path, passing through any nonmagical
 barrier or wall in its way. (Any magical barrier stops the arrow.) This
@@ -139,13 +154,15 @@ otherwise the attack is rolled normally.
 Using this ability is a standard action (and shooting the arrow is part
 of the action).
 
-***Hail of Arrows* (Sp):** In lieu of her regular attacks, once per day
+### *Hail of Arrows* (Sp)
+In lieu of her regular attacks, once per day
 an arcane archer of 8th level or higher can fire an arrow at each and
 every target within range, to a maximum of one target for every arcane
 archer level she has earned. Each attack uses the archer's primary
 attack bonus, and each enemy may only be targeted by a single arrow.
 
-***Arrow of Death* (Sp):** At 10th level, an arcane archer can create an
+### *Arrow of Death* (Sp)
+At 10th level, an arcane archer can create an
 *arrow of death* that forces the target, if damaged by the arrow's
 attack, to make a DC 20 Fortitude save or be slain immediately. It takes
 one day to make an *arrow of death*, and the arrow only functions for
@@ -155,22 +172,27 @@ at a time.
 
 ## Arcane Trickster
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Requirements
 
 To qualify to become an arcane trickster, a character must fulfill all
 of the following criteria.
 
-**Alignment:** Any nonlawful.
+### Alignment
+Any nonlawful.
 
-**Skills:** Decipher Script 7 ranks, Disable Device 7 ranks, Escape
+### Skills
+Decipher Script 7 ranks, Disable Device 7 ranks, Escape
 Artist 7 ranks, Knowledge (arcana) 4 ranks.
 
-**Spells:** Ability to cast *mage hand* and at least one arcane spell of
+### Spells
+Ability to cast *mage hand* and at least one arcane spell of
 3rd level or higher.
 
-**Special:** Sneak attack +2d6.
+### Special
+Sneak attack +2d6.
 
 ### Class Skills
 
@@ -184,7 +206,8 @@ Profession (Wis), Sense Motive (Wis), Search (Int), Sleight of Hand
 (Dex), Speak Language (Int), Spellcraft (Int), Spot (Wis), Swim (Str),
 Tumble (Dex), and Use Rope (Dex).
 
-**Skill Points at Each Level:** 4 + Int modifier.
+### Skill Points at Each Level
+4 + Int modifier.
 
   ---------- ---------- ---------- ---------- ---------- ------------- ----------
   Level      Base\      Fort\      Ref\       Will\      Special       Spells per
@@ -249,10 +272,12 @@ Tumble (Dex), and Use Rope (Dex).
 All of the following are Class Features of the arcane trickster prestige
 class.
 
-**Weapon and Armor Proficiency:** Arcane tricksters gain no proficiency
+### Weapon and Armor Proficiency
+Arcane tricksters gain no proficiency
 with any weapon or armor.
 
-**Spells per Day:** When a new arcane trickster level is gained, the
+### Spells per Day
+When a new arcane trickster level is gained, the
 character gains new spells per day as if he had also gained a level in a
 spellcasting class he belonged to before adding the prestige class. He
 does not, however, gain any other benefit a character of that class
@@ -261,7 +286,8 @@ spellcasting. If a character had more than one spellcasting class before
 becoming an arcane trickster, he must decide to which class he adds the
 new level for purposes of determining spells per day.
 
-**Ranged Legerdemain:** An arcane trickster can perform one of the
+### Ranged Legerdemain
+An arcane trickster can perform one of the
 following class skills at a range of 30 feet: Disable Device, Open Lock,
 or Sleight of Hand. Working at a distance increases the normal skill
 check DC by 5, and an arcane trickster cannot take 10 on this check. Any
@@ -272,12 +298,14 @@ twice per day upon attaining 5th level, and three times per day at 9th
 level or higher. He can make only one ranged legerdemain skill check
 each day, and only if he has at least 1 rank in the skill being used.
 
-**Sneak Attack:** This is exactly like the rogue ability of the same
+### Sneak Attack
+This is exactly like the rogue ability of the same
 name. The extra damage dealt increases by +1d6 every other level (2nd,
 4th, 6th, 8th, and 10th). If an arcane trickster gets a sneak attack
 bonus from another source the bonuses on damage stack.
 
-**Impromptu Sneak Attack:** Beginning at 3rd level, once per day an
+### Impromptu Sneak Attack
+Beginning at 3rd level, once per day an
 arcane trickster can declare one melee or ranged attack he makes to be a
 sneak attack (the target can be no more than 30 feet distant if the
 impromptu sneak attack is a ranged attack). The target of an impromptu
@@ -290,19 +318,23 @@ At 7th level, an arcane trickster can use this ability twice per day.
 
 ## Archmage
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Requirements
 
 To qualify to become an archmage, a character must fulfill all the
 following criteria.
 
-**Skills:** Knowledge (arcana) 15 ranks, Spellcraft 15 ranks.
+### Skills
+Knowledge (arcana) 15 ranks, Spellcraft 15 ranks.
 
-**Feats:** Skill Focus (Spellcraft), Spell Focus in two schools of
+### Feats
+Skill Focus (Spellcraft), Spell Focus in two schools of
 magic.
 
-**Spells:** Ability to cast 7th-level arcane spells, knowledge of
+### Spells
+Ability to cast 7th-level arcane spells, knowledge of
 5th-level or higher spells from at least five schools.
 
 ### Class Skills
@@ -312,7 +344,8 @@ Concentration (Con), Craft (alchemy) (Int), Knowledge (all skills taken
 individually) (Int), Profession (Wis), Search (Int), and Spellcraft
 (Int).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   -------- --------- -------- -------- -------- --------- -------------- --------
   Level    Base\     Fort\    Ref\     Will\    Special   Spells per Day 
@@ -356,10 +389,12 @@ individually) (Int), Profession (Wis), Search (Int), and Spellcraft
 
 All the following are **Class Features** of the archmage prestige class.
 
-**Weapon and Armor Proficiency:** Archmages gain no proficiency with any
+### Weapon and Armor Proficiency
+Archmages gain no proficiency with any
 weapon or armor.
 
-**Spells per Day/Spells Known:** When a new archmage level is gained,
+### Spells per Day/Spells Known
+When a new archmage level is gained,
 the character gains new spells per day (and spells known, if applicable)
 as if he had also gained a level in whatever arcane spellcasting class
 in which he could cast 7th-level spells before he added the prestige
@@ -369,7 +404,8 @@ spellcasting class in which he could cast 7th-level spells before he
 became an archmage, he must decide to which class he adds each level of
 archmage for the purpose of determining spells per day.
 
-**High Arcana:** An archmage gains the opportunity to select a special
+### High Arcana
+An archmage gains the opportunity to select a special
 ability from among those described below by permanently eliminating one
 existing spell slot (she cannot eliminate a spell slot of higher level
 than the highest-level spell she can cast). Each special ability has a
@@ -444,18 +480,22 @@ different spell.
 
 ## Assassin
 
-**Hit Die:** d6.
+### Hit Die
+d6.
 
 ### Requirements
 
 To qualify to become an assassin, a character must fulfill all the
 following criteria.
 
-**Alignment:** Any evil.
+### Alignment
+Any evil.
 
-**Skills:** Disguise 4 ranks, Hide 8 ranks, Move Silently 8 ranks.
+### Skills
+Disguise 4 ranks, Hide 8 ranks, Move Silently 8 ranks.
 
-**Special:** The character must kill someone for no other reason than to
+### Special
+The character must kill someone for no other reason than to
 join the assassins.
 
 ### Class Skills
@@ -469,7 +509,8 @@ Lock (Dex), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex),
 Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), and Use
 Rope (Dex).
 
-**Skill Points at Each Level:** 4 + Int modifier.
+### Skill Points at Each Level
+4 + Int modifier.
 
   ------- --------- ------- ------- ------- ---------- ---------------------------------------------------------------------------------------------------------- ------- ------- -------
                                                                                                        []{style="                                                                 
@@ -546,17 +587,20 @@ Rope (Dex).
 
 All of the following are Class Features of the assassin prestige class.
 
-**Weapon and Armor Proficiency:** Assassins are proficient with the
+### Weapon and Armor Proficiency
+Assassins are proficient with the
 crossbow (hand, light, or heavy), dagger (any type), dart, rapier, sap,
 shortbow (normal and composite), and short sword. Assassins are
 proficient with light armor but not with shields.
 
-**Sneak Attack:** This is exactly like the rogue ability of the same
+### Sneak Attack
+This is exactly like the rogue ability of the same
 name. The extra damage dealt increases by +1d6 every other level (2nd,
 4th, 6th, 8th, and 10th). If an assassin gets a sneak attack bonus from
 another source the bonuses on damage stack.
 
-**Death Attack:** If an assassin studies his victim for 3 rounds and
+### Death Attack
+If an assassin studies his victim for 3 rounds and
 then makes a sneak attack with a melee weapon that successfully deals
 damage, the sneak attack has the additional effect of possibly either
 paralyzing or killing the target (assassin's choice). While studying the
@@ -576,10 +620,12 @@ if the assassin does not launch the attack within 3 rounds of completing
 the study, 3 new rounds of study are required before he can attempt
 another death attack.
 
-**Poison Use:** Assassins are trained in the use of poison and never
+### Poison Use
+Assassins are trained in the use of poison and never
 risk accidentally poisoning themselves when applying poison to a blade.
 
-**Spells:** Beginning at 1st level, an assassin gains the ability to
+### Spells
+Beginning at 1st level, an assassin gains the ability to
 cast a number of arcane spells. To cast a spell, an assassin must have
 an Intelligence score of at least 10 + the spell's level, so an assassin
 with an Intelligence of 10 or lower cannot cast these spells. Assassin
@@ -626,11 +672,13 @@ that level.
 
   : Table: Assassin Spells Known
 
-**Save Bonus against Poison:** The assassin gains a natural saving throw
+### Save Bonus against Poison
+The assassin gains a natural saving throw
 bonus to all poisons gained at 2nd level that increases by +1 for every
 two additional levels the assassin gains.
 
-**Uncanny Dodge (Ex):** Starting at 2nd level, an assassin retains his
+### Uncanny Dodge (Ex)
+Starting at 2nd level, an assassin retains his
 Dexterity bonus to AC (if any) regardless of being caught flat-footed or
 struck by an invisible attacker. (He still loses any Dexterity bonus to
 AC if immobilized.)
@@ -638,7 +686,8 @@ AC if immobilized.)
 If a character gains uncanny dodge from a second class the character
 automatically gains improved uncanny dodge (see below).
 
-**Improved Uncanny Dodge (Ex):** At 5th level, an assassin can no longer
+### Improved Uncanny Dodge (Ex)
+At 5th level, an assassin can no longer
 be flanked, since he can react to opponents on opposite sides of him as
 easily as he can react to a single attacker. This defense denies rogues
 the ability to use flank attacks to sneak attack the assassin. The
@@ -650,7 +699,8 @@ character automatically gains improved uncanny dodge, and the levels
 from those classes stack to determine the minimum rogue level required
 to flank the character.
 
-**Hide in Plain Sight (Su):** At 8th level, an assassin can use the Hide
+### Hide in Plain Sight (Su)
+At 8th level, an assassin can use the Hide
 skill even while being observed. As long as he is within 10 feet of some
 sort of shadow, an assassin can hide himself from view in the open
 without having anything to actually hide behind.
@@ -677,22 +727,28 @@ memory, poison.*
 
 ## Blackguard
 
-**Hit Die:** d10.
+### Hit Die
+d10.
 
 ### Requirements
 
 To qualify to become a blackguard, a character must fulfill all the
 following criteria.
 
-**Alignment:** Any evil.
+### Alignment
+Any evil.
 
-**Base Attack Bonus:** +6.
+### Base Attack Bonus
++6.
 
-**Skills:** Hide 5 ranks, Knowledge (religion) 2 ranks.
+### Skills
+Hide 5 ranks, Knowledge (religion) 2 ranks.
 
-**Feats:** Cleave, Improved Sunder, Power Attack.
+### Feats
+Cleave, Improved Sunder, Power Attack.
 
-**Special:** The character must have made peaceful contact with an evil
+### Special
+The character must have made peaceful contact with an evil
 outsider who was summoned by him or someone else.
 
 ### Class Skills
@@ -702,7 +758,8 @@ Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha),
 Heal (Wis), Hide (Dex), Intimidate (Cha), Knowledge (religion) (Int),
 Profession (Wis), and Ride (Dex).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   ------- --------- ------- ------- ------- ----------- ---------------------------------------------------------------------------------------------------------- ------- ------- -------
                                                                                                         []{style="                                                                 
@@ -765,23 +822,29 @@ Profession (Wis), and Ride (Dex).
 All of the following are Class Features of the blackguard prestige
 class.
 
-**Weapon and Armor Proficiency:** Blackguards are proficient with all
+### Weapon and Armor Proficiency
+Blackguards are proficient with all
 simple and martial weapons, with all types of armor, and with shields.
 
-**Aura of Evil (Ex):** The power of a blackguard's aura of evil (see the
+### Aura of Evil (Ex)
+The power of a blackguard's aura of evil (see the
 *detect evil* spell) is equal to his class level plus his cleric level,
 if any.
 
-***Detect Good* (Sp):** At will, a blackguard can use *detect good* as a
+### *Detect Good* (Sp)
+At will, a blackguard can use *detect good* as a
 spell-like ability, duplicating the effect of the *detect good* spell.
 
-**Poison Use:** Blackguards are skilled in the use of poison and never
+### Poison Use
+Blackguards are skilled in the use of poison and never
 risk accidentally poisoning themselves when applying poison to a blade.
 
-**Dark Blessing (Su):** A blackguard applies his Charisma modifier (if
+### Dark Blessing (Su)
+A blackguard applies his Charisma modifier (if
 positive) as a bonus on all saving throws.
 
-**Spells:** A blackguard has the ability to cast a small number of
+### Spells
+A blackguard has the ability to cast a small number of
 divine spells. To cast a blackguard spell, a blackguard must have a
 Wisdom score of at least 10 + the spell's level, so a blackguard with a
 Wisdom of 10 or lower cannot cast these spells.
@@ -796,7 +859,8 @@ freely choose which to prepare, just as a cleric. A blackguard prepares
 and casts spells just as a cleric does (though a blackguard cannot
 spontaneously cast *cure* or *inflict* spells).
 
-**Smite Good (Su):** Once a day, a blackguard of 2nd level or higher may
+### Smite Good (Su)
+Once a day, a blackguard of 2nd level or higher may
 attempt to smite good with one normal melee attack.
 
 He adds his Charisma modifier (if positive) to his attack roll and deals
@@ -807,15 +871,18 @@ still used up for that day.
 At 5th level, and again at 10th level, a blackguard may smite good one
 additional time per day.
 
-**Aura of Despair (Su):** Beginning at 3rd level, the blackguard
+### Aura of Despair (Su)
+Beginning at 3rd level, the blackguard
 radiates a malign aura that causes enemies within 10 feet of him to take
 a --2 penalty on all saving throws.
 
-**Command Undead (Su):** When a blackguard reaches 3rd level, he gains
+### Command Undead (Su)
+When a blackguard reaches 3rd level, he gains
 the supernatural ability to command and rebuke undead. He commands
 undead as would a cleric of two levels lower.
 
-**Sneak Attack:** This ability, gained at 4th level, is like the rogue
+### Sneak Attack
+This ability, gained at 4th level, is like the rogue
 ability of the same name. The extra damage increases by +1d6 every third
 level beyond 4th (7th and 10th). If a blackguard gets a sneak attack
 bonus from another source the bonuses on damage stack.
@@ -934,7 +1001,8 @@ than normal animals of its kind.)
 The abilities mentioned in the "Special" column of the accompanying
 table are described below.
 
-**Empathic Link (Su):** The blackguard has an empathic link with his
+### Empathic Link (Su)
+The blackguard has an empathic link with his
 servant out to a distance of up to 1 mile. The blackguard cannot see
 through the servant's eyes, but they can communicate empathically.
 Because of the limited nature of the link, only general emotional
@@ -944,17 +1012,20 @@ Because of the empathic link between the servant and the blackguard, the
 blackguard has the same connection to a place or an item that the
 servant does.
 
-**Improved Evasion (Ex):** If the servant is subjected to an attack that
+### Improved Evasion (Ex)
+If the servant is subjected to an attack that
 normally allows a Reflex saving throw for half damage, it takes no
 damage on a successful saving throw and only half damage on a failed
 saving throw. Improved evasion is an extraordinary ability.
 
-**Share Saving Throws:** For each of its saving throws, the servant uses
+### Share Saving Throws
+For each of its saving throws, the servant uses
 either its own base save bonus or the blackguard's, whichever is higher.
 The servant applies its own ability modifiers to saves, and it doesn't
 share any other bonuses on saves that the blackguard might have.
 
-**Share Spells:** At the blackguard's option, he may have any spell (but
+### Share Spells
+At the blackguard's option, he may have any spell (but
 not any spell-like ability) he casts on himself also affect his servant.
 The servant must be within 5 feet at the time of casting to receive the
 benefit. If the spell has a duration other than instantaneous, it stops
@@ -966,18 +1037,21 @@ instead of on himself. A blackguard and his servant can share spells
 even if the spells normally do not affect creatures of the servant's
 type (magical beast).
 
-**Speak with Blackguard (Ex):** If the blackguard's character level is
+### Speak with Blackguard (Ex)
+If the blackguard's character level is
 13th or higher, the blackguard and servant can communicate verbally as
 if they were using a common language. Other creatures do not understand
 the communication without magical help.
 
-**Blood Bond (Ex):** If the blackguard's character level is 16th or
+### Blood Bond (Ex)
+If the blackguard's character level is 16th or
 higher, the servant gains a +2 bonus on all attack rolls, checks, and
 saves if it witnesses the blackguard being threatened or harmed.
 
 This bonus lasts as long as the threat is immediate and apparent.
 
-**Spell Resistance (Ex):** If the blackguard's character level is 19th
+### Spell Resistance (Ex)
+If the blackguard's character level is 19th
 or higher, the servant gains spell resistance equal to the blackguard's
 level + 5. To affect the servant with a spell, another spellcaster must
 get a result on a caster level check (1d20 + caster level) that equals
@@ -985,22 +1059,28 @@ or exceeds the servant's spell resistance.
 
 ## Dragon Disciple
 
-**Hit Die:** d12.
+### Hit Die
+d12.
 
 ### Requirements
 
 To qualify to become a dragon disciple, a character must fulfill all the
 following criteria.
 
-**Race:** Any nondragon (cannot already be a half-dragon).
+### Race
+Any nondragon (cannot already be a half-dragon).
 
-**Skills:** Knowledge (arcana) 8 ranks.
+### Skills
+Knowledge (arcana) 8 ranks.
 
-**Languages:** Draconic.
+### Languages
+Draconic.
 
-**Spellcasting:** Ability to cast arcane spells without preparation.
+### Spellcasting
+Ability to cast arcane spells without preparation.
 
-**Special:** The player chooses a dragon variety when taking the first
+### Special
+The player chooses a dragon variety when taking the first
 level in this prestige class.
 
 ### Class Skills
@@ -1011,7 +1091,8 @@ are Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist
 individually) (Int) Listen (Wis), Profession (Wis), Search (Int), Speak
 Language (Int), Spellcraft (Int), and Spot (Wis).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   ---------- ---------- ---------- ---------- ---------- ------------ ----------
   Level      Base\      Fort\      Ref\       Will\      Special      Bonus
@@ -1072,10 +1153,12 @@ Language (Int), Spellcraft (Int), and Spot (Wis).
 All of the following are Class Features of the dragon disciple prestige
 class.
 
-**Weapon and Armor Proficiency:** Dragon disciples gain no proficiency
+### Weapon and Armor Proficiency
+Dragon disciples gain no proficiency
 with any weapon or armor.
 
-**Bonus Spells:** Dragon disciples gain bonus spells as they gain levels
+### Bonus Spells
+Dragon disciples gain bonus spells as they gain levels
 in this prestige class, as if from having a high ability score, as given
 on Table: The Dragon Disciple. A bonus spell can be added to any level
 of spells the disciple already has the ability to cast.
@@ -1084,13 +1167,15 @@ If a character has more than one spellcasting class, he must decide to
 which class he adds each bonus spell as it is gained. Once a bonus spell
 has been applied, it cannot be shifted.
 
-**Natural Armor Increase (Ex):** At 1st, 4th, and 7th level, a gains an
+### Natural Armor Increase (Ex)
+At 1st, 4th, and 7th level, a gains an
 increase to the character's existing natural armor (if any), as
 indicated on Table: The Dragon Disciple (the numbers represent the total
 increase gained to that point). As his skin thickens, a dragon disciple
 takes on more and more of his progenitor's physical aspect.
 
-**Claws and Bite (Ex):** At 2nd level, a dragon disciple gains claw and
+### Claws and Bite (Ex)
+At 2nd level, a dragon disciple gains claw and
 bite attacks if he does not already have them. Use the values below or
 the disciple's base claw and bite damage values, whichever are greater.
 
@@ -1106,13 +1191,15 @@ making a full attack, a dragon disciple uses his full base attack bonus
 with his bite attack but takes a --5 penalty on claw attacks. The
 Multiattack feat reduces this penalty to only --2.
 
-**Ability Boost (Ex):** As a dragon disciple gains levels in this
+### Ability Boost (Ex)
+As a dragon disciple gains levels in this
 prestige class, his ability scores increase as noted on Table: The
 Dragon Disciple.
 
 These increases stack and are gained as if through level advancement.
 
-**Breath Weapon (Su):** At 3rd level, a dragon disciple gains a minor
+### Breath Weapon (Su)
+At 3rd level, a dragon disciple gains a minor
 breath weapon. The type and shape depend on the dragon variety whose
 heritage he enjoys (see below). Regardless of the ancestor, the breath
 weapon deals 2d8 points of damage of the appropriate energy type.
@@ -1143,7 +1230,8 @@ long. A cone-shaped breath weapon is 30 feet long.
   \* Other varieties of dragon disciple are possible, using other dragon varieties as ancestors.   
   ------------------------------------------------------------------------------------------------ ------------------------------
 
-**Blindsense (Ex):** At 5th level, the dragon disciple gains blindsense
+### Blindsense (Ex)
+At 5th level, the dragon disciple gains blindsense
 with a range of 30 feet. Using nonvisual senses the dragon disciple
 notices things it cannot see. He usually does not need to make Spot or
 Listen checks to notice and pinpoint the location of creatures within
@@ -1158,11 +1246,13 @@ still denied its Dexterity bonus to Armor Class against attacks from
 creatures it cannot see. At 10th level, the range of this ability
 increases to 60 feet.
 
-**Wings (Ex):** At 9th level, a dragon disciple grows a set of draconic
+### Wings (Ex)
+At 9th level, a dragon disciple grows a set of draconic
 wings. He may now fly at a speed equal to his normal land speed, with
 average maneuverability.
 
-**Dragon Apotheosis:** At 10th level, a dragon disciple takes on the
+### Dragon Apotheosis
+At 10th level, a dragon disciple takes on the
 half-dragon template. His breath weapon reaches full strength (as noted
 above), and he gains +4 to Strength and +2 to Charisma. His natural
 armor bonus increases to +4, and he acquires low-light vision, 60-foot
@@ -1171,18 +1261,22 @@ the energy type used by his breath weapon (see above).
 
 ## Duelist
 
-**Hit Die:** d10.
+### Hit Die
+d10.
 
 ### Requirements
 
 To qualify to become a duelist, a character must fulfill all the
 following criteria.
 
-**Base Attack Bonus:** +6.
+### Base Attack Bonus
++6.
 
-**Skills:** Perform 3 ranks, Tumble 5 ranks.
+### Skills
+Perform 3 ranks, Tumble 5 ranks.
 
-**Feats:** Dodge, Mobility, Weapon Finesse.
+### Feats
+Dodge, Mobility, Weapon Finesse.
 
 ### Class Skills
 
@@ -1190,7 +1284,8 @@ The duelist's class skills (and the key ability for each skill) are
 Balance (Dex), Bluff (Cha), Escape Artist (Dex), Jump (Str), Listen
 (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), and Tumble (Dex).
 
-**Skill Points at Each Level:** 4 + Int modifier.
+### Skill Points at Each Level
+4 + Int modifier.
 
   ----------- ----------- ----------- ----------- ----------- -----------
   Level       Base\       Fort\       Ref\        Will\       Special
@@ -1231,30 +1326,36 @@ Balance (Dex), Bluff (Cha), Escape Artist (Dex), Jump (Str), Listen
 
 ### Class Features
 
-**Weapon and Armor Proficiency:** The duelist is proficient with all
+### Weapon and Armor Proficiency
+The duelist is proficient with all
 simple and martial weapons, but no type of armor or shield.
 
-**Canny Defense (Ex):** When not wearing armor or using a shield, a
+### Canny Defense (Ex)
+When not wearing armor or using a shield, a
 duelist adds 1 point of Intelligence bonus (if any) per duelist class
 level to her Dexterity bonus to modify Armor Class while wielding a
 melee weapon. If a duelist is caught flat-footed or otherwise denied her
 Dexterity bonus, she also loses this bonus.
 
-**Improved Reaction (Ex):** At 2nd level, a duelist gains a +2 bonus on
+### Improved Reaction (Ex)
+At 2nd level, a duelist gains a +2 bonus on
 initiative checks.
 
 At 8th level, the bonus increases to +4. This bonus stacks with the
 benefit provided by the Improved Initiative feat.
 
-**Enhanced Mobility (Ex):** When wearing no armor and not using a
+### Enhanced Mobility (Ex)
+When wearing no armor and not using a
 shield, a duelist gains an additional +4 bonus to AC against attacks of
 opportunity caused when she moves out of a threatened square.
 
-**Grace (Ex):** At 4th level, a duelist gains an additional +2
+### Grace (Ex)
+At 4th level, a duelist gains an additional +2
 competence bonus on all Reflex saving throws. This ability functions for
 a duelist only when she is wearing no armor and not using a shield.
 
-**Precise Strike (Ex):** At 5th level, a duelist gains the ability to
+### Precise Strike (Ex)
+At 5th level, a duelist gains the ability to
 strike precisely with a light or one-handed piercing weapon, gaining an
 extra 1d6 damage added to her normal damage roll.
 
@@ -1266,13 +1367,15 @@ any item or ability that protects a creature from critical hitsalso
 protects a creature from a precise strike. At 10th level, the extra
 damage on a precise strike increases to +2d6.
 
-**Acrobatic Charge (Ex):** At 6th level, a duelist gains the ability to
+### Acrobatic Charge (Ex)
+At 6th level, a duelist gains the ability to
 charge in situations where others cannot. She may charge over difficult
 terrain that normally slows movement. Depending on the circumstance, she
 may still need to make appropriate checks to successfully move over the
 terrain.
 
-**Elaborate Parry (Ex):** At 7th level and higher, if a duelist chooses
+### Elaborate Parry (Ex)
+At 7th level and higher, if a duelist chooses
 to fight defensively or use total defense in melee combat, she gains an
 additional +1 dodge bonus to AC for each level of duelist she has.
 
@@ -1281,27 +1384,33 @@ Arrows feat when using a light or one-handed piercing weapon.
 
 ## Dwarven Defender
 
-**Hit Die:** d12.
+### Hit Die
+d12.
 
 ### Requirements
 
 To qualify to become a defender, a character must fulfill all the
 following criteria.
 
-**Race:** Dwarf.
+### Race
+Dwarf.
 
-**Alignment:** Any lawful.
+### Alignment
+Any lawful.
 
-**Base Attack Bonus:** +7.
+### Base Attack Bonus
++7.
 
-**Feats:** Dodge, Endurance, Toughness.
+### Feats
+Dodge, Endurance, Toughness.
 
 ### Class Skills
 
 The defender's class skills (and the key ability for each skill) are
 Craft (Int), Listen (Wis), Sense Motive (Wis), and Spot (Wis).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   ---------- ---------- ---------- ---------- ---------- ---------- -----------
   Level      Base\      Fort\      Ref\       Will\      AC Bonus   Special
@@ -1358,14 +1467,17 @@ Craft (Int), Listen (Wis), Sense Motive (Wis), and Spot (Wis).
 All of the following are Class Features of the dwarven defender prestige
 class.
 
-**AC Bonus (Ex):** The dwarven defender receives a dodge bonus to Armor
+### AC Bonus (Ex)
+The dwarven defender receives a dodge bonus to Armor
 Class that starts at +1 and improves as the defender gains levels, until
 it reaches +4 at 10th level.
 
-**Weapon and Armor Proficiency:** A dwarven defender is proficient with
+### Weapon and Armor Proficiency
+A dwarven defender is proficient with
 all simple and martial weapons, all types of armor, and shields.
 
-**Defensive Stance:** When he adopts a defensive stance, a defender
+### Defensive Stance
+When he adopts a defensive stance, a defender
 gains phenomenal strength and durability, but he cannot move from the
 spot he is defending. He gains +2 to Strength, +4 to Constitution, a +2
 resistance bonus on all saves, and a +4 dodge bonus to AC. The increase
@@ -1384,7 +1496,8 @@ per day as determined by his level (see Table: The Dwarven Defender).
 Using the defensive stance takes no time itself, but a defender can only
 do so during his action.
 
-**Uncanny Dodge (Ex):** Starting at 2nd level, a dwarven defender
+### Uncanny Dodge (Ex)
+Starting at 2nd level, a dwarven defender
 retains his Dexterity bonus to AC (if any) regardless of being caught
 flat-footed or struck by an invisible attacker. (He still loses any
 Dexterity bonus to AC if immobilized.)
@@ -1392,17 +1505,20 @@ Dexterity bonus to AC if immobilized.)
 If a character gains uncanny dodge from a second class, the character
 automatically gains improved uncanny dodge (see below).
 
-**Trap Sense (Ex):** At 4th level, a dwarven defender gains a +1 bonus
+### Trap Sense (Ex)
+At 4th level, a dwarven defender gains a +1 bonus
 on Reflex saves made to avoid traps and a +1 dodge bonus to AC against
 attacks by traps. At 8th level, these bonuses rise to +2. These bonuses
 stack with trap sense bonuses gained from other classes.
 
-**Damage Reduction (Ex):** At 6th level, a dwarven defender gains damage
+### Damage Reduction (Ex)
+At 6th level, a dwarven defender gains damage
 reduction. Subtract 3 points from the damage the dwarven defender takes
 each time he is dealt damage. At 10th level, this damage reduction rises
 to 6/--. Damage reduction can reduce damage to 0 but not below 0.
 
-**Improved Uncanny Dodge (Ex):** At 6th level, a dwarven defender can no
+### Improved Uncanny Dodge (Ex)
+At 6th level, a dwarven defender can no
 longer be flanked. This defense denies rogues the ability to use flank
 attacks to sneak attack the dwarven defender.
 
@@ -1415,23 +1531,27 @@ character automatically gains improved uncanny dodge, and the levels
 from those classes stack to determine the minimum rogue level required
 to flank the character.
 
-**Mobile Defense (Ex):** At 8th level, a dwarven defender can adjust his
+### Mobile Defense (Ex)
+At 8th level, a dwarven defender can adjust his
 position while maintaining a defensive stance. While in a defensive
 stance, he can take one 5-foot step each round without losing the
 benefit of the stance.
 
 ## Eldritch Knight
 
-**Hit Die:** d6.
+### Hit Die
+d6.
 
 ### Requirements
 
 To qualify to become an eldritch knight, a character must fulfill all
 the following criteria.
 
-**Weapon Proficiency:** Must be proficient with all martial weapons.
+### Weapon Proficiency
+Must be proficient with all martial weapons.
 
-**Spells:** Able to cast 3rd-level arcane spells.
+### Spells
+Able to cast 3rd-level arcane spells.
 
 ### Class Skills
 
@@ -1440,7 +1560,8 @@ are Concentration (Con), Craft (Int), Decipher Script (Int), Jump (Str),
 Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride
 (Dex), Sense Motive (Wis), Spellcraft (Int), and Swim (Str).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   ----------- ----------- ----------- ----------- ----------- --------------
   Level       Base\       Fort\       Ref\        Will\       Special
@@ -1510,17 +1631,20 @@ Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride
 
 All of the following are features of the eldritch knight prestige class.
 
-**Weapon and Armor Proficiency:** Eldritch knights gain no proficiency
+### Weapon and Armor Proficiency
+Eldritch knights gain no proficiency
 with any weapon or armor.
 
-**Bonus Feat:** At 1st level, an eldritch knight may choose a bonus feat
+### Bonus Feat
+At 1st level, an eldritch knight may choose a bonus feat
 from the list of feats available to fighters. This is in addition to the
 feats that a character of any class normally gets from advancing levels.
 The character must still meet any prerequisites for these bonus feats,
 including levels of fighter for the Weapon Specialization, Greater
 Weapon Focus, and Greater Weapon Specialization feats.
 
-**Spells per Day:** From 2nd level on, when a new eldritch knight level
+### Spells per Day
+From 2nd level on, when a new eldritch knight level
 is gained, the character gains new spells per day as if she had also
 gained a level in whatever arcane spellcasting class she belonged to
 before she added the prestige class. She does not, however, gain any
@@ -1535,18 +1659,22 @@ level of eldritch knight for the purpose of determining spells per day.
 
 ## Hierophant
 
-**Hit Die:** d8.
+### Hit Die
+d8.
 
 ### Requirements
 
 To qualify to become a hierophant, a character must fulfill all the
 following criteria.
 
-**Skills:** Knowledge (religion) 15 ranks.
+### Skills
+Knowledge (religion) 15 ranks.
 
-**Feats:** Any metamagic feat.
+### Feats
+Any metamagic feat.
 
-**Spells:** Able to cast 7th-level divine spells.
+### Spells
+Able to cast 7th-level divine spells.
 
 ### Class Skills
 
@@ -1555,7 +1683,8 @@ Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge
 (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), and
 Spellcraft (Int).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   ----------- ----------- ----------- ----------- ----------- -----------
   Level       Base\       Fort\       Ref\        Will\       Special
@@ -1584,15 +1713,18 @@ Spellcraft (Int).
 
 All the following are Class Features of the hierophant prestige class.
 
-**Weapon and Armor Proficiency:** Hierophants gain no proficiency with
+### Weapon and Armor Proficiency
+Hierophants gain no proficiency with
 any weapon or armor.
 
-**Spells and Caster Level:** Levels in the hierophant prestige class,
+### Spells and Caster Level
+Levels in the hierophant prestige class,
 even though they do not advance spell progression in the character's
 base class, still stack with the character's base spellcasting levels to
 determine caster level.
 
-**Special Ability:** Every level, a hierophant gains a special ability
+### Special Ability
+Every level, a hierophant gains a special ability
 of his choice from among the following.
 
 *Blast Infidel (Su):* A hierophant can use negative energy spells to
@@ -1692,16 +1824,19 @@ used) or to a different spell.
 
 ## Horizon Walker
 
-**Hit Die:** d8.
+### Hit Die
+d8.
 
 ### Requirements
 
 To qualify to become a horizon walker, a character must fulfill all the
 following criteria.
 
-**Skills:** Knowledge (geography) 8 ranks.
+### Skills
+Knowledge (geography) 8 ranks.
 
-**Feats:** Endurance.
+### Feats
+Endurance.
 
 ### Class Skills
 
@@ -1711,7 +1846,8 @@ Hide (Dex), Knowledge (geography) (Int), Listen (Wis), Move Silently
 (Dex), Profession (Wis), Ride (Dex), Speak Language (none), Spot (Wis),
 and Survival (Wis).
 
-**Skill Points at Each Level:** 4 + Int modifier.
+### Skill Points at Each Level
+4 + Int modifier.
 
   ----------- ----------- ----------- ----------- ----------- -----------
   Level       Base\       Fort\       Ref\        Will\       Special
@@ -1760,10 +1896,12 @@ and Survival (Wis).
 
 All of the following are features of the horizon walker prestige class.
 
-**Weapon and Armor Proficiency:** Horizon walkers gain no proficiency
+### Weapon and Armor Proficiency
+Horizon walkers gain no proficiency
 with any weapon or armor.
 
-**Terrain Mastery:** At each level, the Horizon Walker adds a new
+### Terrain Mastery
+At each level, the Horizon Walker adds a new
 terrain environment to their repertoire from those given below. Terrain
 mastery gives a horizon walker a bonus on checks involving a skill
 useful in that terrain, or some other appropriate benefit. A horizon
@@ -1778,64 +1916,78 @@ They retain their terrain mastery bonuses on skill checks, attack rolls,
 and damage rolls whether they're actually in the relevant terrain or
 not.
 
-**Planar Terrain Mastery:** Planar terrain mastery functions just like
+### Planar Terrain Mastery
+Planar terrain mastery functions just like
 terrain mastery, except that the horizon walker can choose one of the
 planar categories at each level. The horizon walker can take a
 non-planar terrain type instead, if she wishes.
 
 ### Terrain Mastery Benefits
 
-**Aquatic:** You gain a +4 competence bonus on Swim checks, or a
+### Aquatic
+You gain a +4 competence bonus on Swim checks, or a
 +10-foot bonus to your swim speed if you have one. You gain a +1 insight
 bonus on attack and damage rolls against aquatic creatures.
 
-**Desert:** You resist effects that tire you. You are immune to fatigue,
+### Desert
+You resist effects that tire you. You are immune to fatigue,
 and anything that would cause you to become exhausted makes you fatigued
 instead. You gain a +1 insight bonus on attack and damage rolls against
 desert creatures.
 
-**Forest:** You have a +4 competence bonus on Hide checks. You gain a +1
+### Forest
+You have a +4 competence bonus on Hide checks. You gain a +1
 insight bonus on attack and damage rolls against forest creatures.
 
-**Hills:** You gain a +4 competence bonus on Listen checks. You gain a
+### Hills
+You gain a +4 competence bonus on Listen checks. You gain a
 +1 insight bonus on attack and damage rolls against hills creatures.
 
-**Marsh:** You have a +4 competence bonus on Move Silently checks. You
+### Marsh
+You have a +4 competence bonus on Move Silently checks. You
 gain a +1 insight bonus on attack and damage rolls against marsh
 creatures.
 
-**Mountains:** You gain a +4 competence bonus on Climb checks, or a +10-
+### Mountains
+You gain a +4 competence bonus on Climb checks, or a +10-
 foot bonus to your climb speed if you have one. You gain a +1 insight
 bonus on attack and damage rolls against mountain creatures.
 
-**Plains:** You have a +4 competence bonus on Spot checks. You gain a +1
+### Plains
+You have a +4 competence bonus on Spot checks. You gain a +1
 insight bonus on attack and damage rolls against plains creatures.
 
-**Underground:** You have 60-foot darkvision, or 120-foot darkvision if
+### Underground
+You have 60-foot darkvision, or 120-foot darkvision if
 you already had darkvision from another source. You gain a +1 insight
 bonus on attack and damage rolls against underground creatures.
 
-**Fiery (Planar):** This kind of planar terrain mastery provides you
+### Fiery (Planar)
+This kind of planar terrain mastery provides you
 with resistance to fire 20. You gain a +1 insight bonus on attack and
 damage rolls against outsiders and elementals with the fire subtype.
 
-**Weightless (Planar):** You gain a +30-foot bonus to your fly speed on
+### Weightless (Planar)
+You gain a +30-foot bonus to your fly speed on
 planes with no gravity or subjective gravity. You gain a +1 insight on
 attack and damage rolls against creatures native to the Astral Plane,
 the Elemental Plane of Air, and the Ethereal Plane.
 
-**Cold (Planar):** This kind of planar terrain mastery provides you with
+### Cold (Planar)
+This kind of planar terrain mastery provides you with
 resistance to cold 20. You gain a +1 insight bonus on attack and damage
 rolls against outsiders and elementals with the cold subtype.
 
-**Shifting (Planar):** You instinctively anticipate shifts in the
+### Shifting (Planar)
+You instinctively anticipate shifts in the
 reality of the plane that bring you closer to your destination, giving
 you the spell-like ability to use *dimension door* (as the spell cast at
 your character level) once every 1d4 rounds. You gain a +1 insight bonus
 on attack and damage rolls against outsiders and elementals native to a
 shifting plane.
 
-**Aligned (Planar):** You have the instinctive ability to mimic the
+### Aligned (Planar)
+You have the instinctive ability to mimic the
 dominant alignment of the plane. You incur none of the penalties for
 having an alignment at odds with that of the plane, and spells and
 abilities that harm those of the opposite alignment don't affect you.
@@ -1843,26 +1995,32 @@ You have the dominant alignment of the plane with regard to magic, but
 your behavior and any alignment-related Class Features you have are
 unaffected.
 
-**Cavernous (Planar):** You gain tremorsense with a 30-foot range.
+### Cavernous (Planar)
+You gain tremorsense with a 30-foot range.
 
-**Other (Planar):** If other planes are in use additional Planar
+### Other (Planar)
+If other planes are in use additional Planar
 Terrains can be created.
 
 ## Loremaster
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Requirements
 
 To qualify to become a loremaster, a character must fulfill all the
 following criteria.
 
-**Skills:** Knowledge (any two) 10 ranks in each.
+### Skills
+Knowledge (any two) 10 ranks in each.
 
-**Feats:** Any three metamagic or item creation feats, plus Skill Focus
+### Feats
+Any three metamagic or item creation feats, plus Skill Focus
 (Knowledge \[any individual Knowledge skill\]).
 
-**Spells:** Able to cast seven different divination spells, one of which
+### Spells
+Able to cast seven different divination spells, one of which
 must be 3rd level or higher.
 
 ### Class Skills
@@ -1874,7 +2032,8 @@ Script (Int), Gather Information (Cha), Handle Animals (Cha), Heal
 Profession (Wis), Speak Language, Spellcraft (Int), and Use Magic Device
 (Cha).
 
-**Skill Points at Each Level:** 4 + Int modifier.
+### Skill Points at Each Level
+4 + Int modifier.
 
   ------------ ---------- ---------- ---------- ---------- ---------- ----------
   Table : The                                                         
@@ -1940,10 +2099,12 @@ Profession (Wis), Speak Language, Spellcraft (Int), and Use Magic Device
 All of the following are Class Features of the loremaster prestige
 class.
 
-**Weapon and Armor Proficiency:** Loremasters gain no proficiency with
+### Weapon and Armor Proficiency
+Loremasters gain no proficiency with
 any weapon or armor.
 
-**Spells per Day/Spells Known:** When a new loremaster level is gained,
+### Spells per Day/Spells Known
+When a new loremaster level is gained,
 the character gains new spells per day (and spells known, if applicable)
 as if she had also gained a level in a spellcasting class she belonged
 to before she added the prestige class. She does not, however, gain any
@@ -1952,26 +2113,31 @@ essentially means that she adds the level of loremaster to the level of
 some other spellcasting class the character has, then determines spells
 per day, spells known, and caster level accordingly.
 
-**Secret:** At 1st level and every two levels higher than 1st (3rd, 5th,
+### Secret
+At 1st level and every two levels higher than 1st (3rd, 5th,
 7th, and 9th), the loremaster chooses one
 
 secret from the table below. Her level plus Intelligence modifier
 determines the total number of secrets she can choose. She can't choose
 the same secret twice.
 
-**Lore:** At 2nd level, a loremaster gains the ability to know legends
+### Lore
+At 2nd level, a loremaster gains the ability to know legends
 or information regarding various topics, just as a bard can with bardic
 knowledge. The loremaster adds her level and her Intelligence modifier
 to the lore check, which functions otherwise exactly like a bardic
 knowledge check.
 
-**Bonus Languages:** A loremaster can choose any new language at 4th and
+### Bonus Languages
+A loremaster can choose any new language at 4th and
 8th level.
 
-**Greater Lore (Ex):** At 6th level, a loremaster gains the ability to
+### Greater Lore (Ex)
+At 6th level, a loremaster gains the ability to
 understand magic items, as with the *identify* spell.
 
-**True Lore (Ex):** At 10th level, once per day a loremaster can use her
+### True Lore (Ex)
+At 10th level, once per day a loremaster can use her
 knowledge to gain the effect of a *legend lore* spell or an *analyze
 dweomer* spell.
 
@@ -2016,16 +2182,19 @@ dweomer* spell.
 
 ## Mystic Theurge
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Requirements
 
 To qualify to become a mystic theurge, a character must fulfill all the
 following criteria.
 
-**Skills:** Knowledge (arcana) 6 ranks, Knowledge (religion) 6 ranks.
+### Skills
+Knowledge (arcana) 6 ranks, Knowledge (religion) 6 ranks.
 
-**Spells:** Able to cast 2nd-level divine spells and 2nd-level arcane
+### Spells
+Able to cast 2nd-level divine spells and 2nd-level arcane
 spells.
 
 ### Class Skills
@@ -2035,7 +2204,8 @@ are Concentration (Con), Craft (Int), Decipher Script (Int), Knowledge
 (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), Sense
 Motive (Wis), and Spellcraft (Int).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
 +-----------+-----------+-----------+-----------+-----------+-----------+
 | Level     | Base\     | Fort\     | Ref\      | Will\     | Spells    |
@@ -2289,10 +2459,12 @@ Motive (Wis), and Spellcraft (Int).
 
 All of the following are features of the mystic theurge prestige class.
 
-**Weapon and Armor Proficiency:** Mystic theurges gain no proficiency
+### Weapon and Armor Proficiency
+Mystic theurges gain no proficiency
 with any weapon or armor.
 
-**Spells per Day:** When a new mystic theurge level is gained, the
+### Spells per Day
+When a new mystic theurge level is gained, the
 character gains new spells per day as if he had also gained a level in
 any one arcane spellcasting class he belonged to before he added the
 prestige class and any one divine spellcasting class he belonged to
@@ -2308,17 +2480,20 @@ determining spells per day.
 
 ## Shadowdancer
 
-**Hit Die:** d8.
+### Hit Die
+d8.
 
 ### Requirements
 
 To qualify to become a shadowdancer, a character must fulfill all the
 following criteria.
 
-**Skills:** Move Silently 8 ranks, Hide 10 ranks, Perform (dance) 5
+### Skills
+Move Silently 8 ranks, Hide 10 ranks, Perform (dance) 5
 ranks.
 
-**Feats:** Combat Reflexes, Dodge, Mobility.
+### Feats
+Combat Reflexes, Dodge, Mobility.
 
 ### Class Skills
 
@@ -2329,7 +2504,8 @@ Disguise (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Listen
 (Int), Sleight of Hand (Dex), Spot (Wis), Tumble (Dex), and Use Rope
 (Dex).
 
-**Skill Points at Each Level:** 6 + Int modifier.
+### Skill Points at Each Level
+6 + Int modifier.
 
   ----------- ----------- ----------- ----------- ----------- -------------
   Level       Base\       Fort\       Ref\        Will\       Special
@@ -2378,28 +2554,33 @@ Disguise (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Listen
 
 All of the following are features of the shadowdancer prestige class.
 
-**Weapon and Armor Proficiency:** Shadowdancers are proficient with the
+### Weapon and Armor Proficiency
+Shadowdancers are proficient with the
 club, crossbow (hand, light, or heavy), dagger (any type), dart, mace,
 morningstar, quarterstaff, rapier, sap, shortbow (normal and composite),
 and short sword. Shadowdancers are proficient with light armor but not
 with shields.
 
-**Hide in Plain Sight (Su):** A shadowdancer can use the Hide skill even
+### Hide in Plain Sight (Su)
+A shadowdancer can use the Hide skill even
 while being observed. As long as she is within 10 feet of some sort of
 shadow, a shadowdancer can hide herself from view in the open without
 anything to actually hide behind. She cannot, however, hide in her own
 shadow.
 
-**Evasion (Ex):** At 2nd level, a shadowdancer gains evasion. If exposed
+### Evasion (Ex)
+At 2nd level, a shadowdancer gains evasion. If exposed
 to any effect that normally allows her to attempt a Reflex saving throw
 for half damage, she takes no damage with a successful saving throw. The
 evasion ability can only be used if the shadowdancer is wearing light
 armor or no armor.
 
-**Darkvision (Su):** At 2nd level, a shadowdancer can see in the dark as
+### Darkvision (Su)
+At 2nd level, a shadowdancer can see in the dark as
 though she were permanently under the effect of a *darkvision* spell.
 
-**Uncanny Dodge (Ex):** Starting at 2nd level, a shadowdancer retains
+### Uncanny Dodge (Ex)
+Starting at 2nd level, a shadowdancer retains
 her Dexterity bonus to AC (if any) regardless of being caught
 flat-footed or struck by an invisible attacker. (She still loses any
 Dexterity bonus to AC if immobilized.)
@@ -2407,11 +2588,13 @@ Dexterity bonus to AC if immobilized.)
 If a character gains uncanny dodge from a second class, the character
 automatically gains improved uncanny dodge (see below).
 
-***Shadow Illusion* (Sp):** When a shadowdancer reaches 3rd level, she
+### *Shadow Illusion* (Sp)
+When a shadowdancer reaches 3rd level, she
 can create visual illusions. This ability's effect is identical to that
 of the arcane spell *silent image* and may be employed once per day.
 
-**Summon Shadow (Su):** At 3rd level, a shadowdancer can summon a
+### Summon Shadow (Su)
+At 3rd level, a shadowdancer can summon a
 shadow, an undead shade. Unlike a normal shadow, this shadow's alignment
 matches that of the shadowdancer, and the creature cannot create spawn.
 The summoned shadow cannot be turned, rebuked, or commanded by any third
@@ -2428,7 +2611,8 @@ to 100 XP per prestige class level. The shadowdancer's XP total can
 never go below 0 as the result of a shadow's dismissal or destruction. A
 destroyed or dismissed shadow companion cannot be replaced for 30 days.
 
-**Shadow Jump (Su):** At 4th level, a shadowdancer gains the ability to
+### Shadow Jump (Su)
+At 4th level, a shadowdancer gains the ability to
 travel between shadows as if by means of a *dimension door* spell. The
 limitation is that the magical transport must begin and end in an area
 with at least some shadow. A shadowdancer can jump up to a total of 20
@@ -2438,7 +2622,8 @@ shadowdancer can jump each day doubles (40 feet at 6th, 80 feet at 8th,
 and 160 feet at 10th). This amount can be split among many jumps, but
 each one, no matter how small, counts as a 10-foot increment.
 
-**Defensive Roll (Ex):** Starting at 5th level, once per day, when a
+### Defensive Roll (Ex)
+Starting at 5th level, once per day, when a
 shadowdancer would be reduced to 0 hit points or less by damage in
 combat (from a weapon or other blow, not a spell or special ability),
 she can attempt to roll with the damage. She makes a Reflex saving throw
@@ -2447,7 +2632,8 @@ blow. She must be aware of the attack and able to react to it in order
 to execute her defensive roll. If she is in a situation that would deny
 her any Dexterity bonus to AC, she can't attempt a defensive roll.
 
-**Improved Uncanny Dodge (Ex):** At 5th level, a shadowdancer can no
+### Improved Uncanny Dodge (Ex)
+At 5th level, a shadowdancer can no
 longer be flanked. This defense denies rogues the ability to use flank
 attacks to sneak attack the shadowdancer. The exception to this defense
 is that a rogue at least four levels higher than the shadowdancer can
@@ -2458,13 +2644,15 @@ character automatically gains improved uncanny dodge, and the levels
 from those classes stack to determine the minimum rogue level required
 to flank the character.
 
-**Slippery Mind (Ex):** At 7th level, if a shadowdancer is affected by
+### Slippery Mind (Ex)
+At 7th level, if a shadowdancer is affected by
 an enchantment and fails her saving throw, 1 round later she can attempt
 her saving throw again. She only gets this one extra chance to succeed
 at her saving throw. If it fails as well, the spell's effects occur
 normally.
 
-**Improved Evasion (Ex):** This ability, gained at 10th level, works
+### Improved Evasion (Ex)
+This ability, gained at 10th level, works
 like evasion (see above). A shadowdancer takes no damage at all on
 successful saving throws against attacks that allow a Reflex saving
 throw for half damage. What's more, she takes only half damage even if
@@ -2472,16 +2660,19 @@ she fails her saving throw.
 
 ## Thaumaturgist
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Requirements
 
 To qualify to become a thaumaturgist, a character must fulfill all the
 following criteria.
 
-**Feats:** Spell Focus (conjuration).
+### Feats
+Spell Focus (conjuration).
 
-**Spells:** Able to cast *lesser planar ally*.
+### Spells
+Able to cast *lesser planar ally*.
 
 ### Class Skills
 
@@ -2490,7 +2681,8 @@ are Concentration (Con), Craft (Int), Diplomacy (Cha), Knowledge
 (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Sense
 Motive (Wis), Speak Language (none), and Spellcraft (Int).
 
-**Skill Points at Each Level:** 2 + Int modifier.
+### Skill Points at Each Level
+2 + Int modifier.
 
   ---------- ---------- ---------- ---------- ---------- ------------- --------------
   Level      Base\      Fort\      Ref\       Will\      Special       Spells per Day
@@ -2529,10 +2721,12 @@ Motive (Wis), Speak Language (none), and Spellcraft (Int).
 
 All of the following are features of the thaumaturgist prestige class.
 
-**Weapon and Armor Proficiency:** Thaumaturgists gain no proficiency
+### Weapon and Armor Proficiency
+Thaumaturgists gain no proficiency
 with any weapon or armor.
 
-**Spells per Day:** When a new thaumaturgist level is gained, the
+### Spells per Day
+When a new thaumaturgist level is gained, the
 character gains new spells per day as if he had also gained a level in
 whatever spellcasting class he belonged to before he added the prestige
 class. He does not, however, gain any other benefit a character of that
@@ -2545,7 +2739,8 @@ If a character had more than one spellcasting class before he became a
 thaumaturgist, he must decide to which class he adds each level of
 thaumaturgist for the purpose of determining spells per day.
 
-**Improved Ally:** When a thaumaturgist casts a *planar ally* spell
+### Improved Ally
+When a thaumaturgist casts a *planar ally* spell
 (including the *lesser* and *greater* versions), he makes a Diplomacy
 check to convince the creature to aid him for a reduced payment. If the
 thaumaturgist's Diplomacy check adjusts the creature's attitude to
@@ -2559,17 +2754,20 @@ thaumaturgist.
 A thaumaturgist can have only one such ally at a time, but he may
 bargain for tasks from other planar allies normally.
 
-**Augment Summoning:** At 2nd level, a thaumaturgist gains the Augment
+### Augment Summoning
+At 2nd level, a thaumaturgist gains the Augment
 Summoning feat.
 
-**Extended Summoning:** At 3rd level and higher, all spells from the
+### Extended Summoning
+At 3rd level and higher, all spells from the
 summoning subschool that the thaumaturgist casts have their durations
 doubled, as if the Extend Spell feat had been applied to them. The
 levels of the summoning spells don't change, however. This ability
 stacks with the effect of the Extend Spell feat, which does change the
 spell's level.
 
-**Contingent Conjuration:** A 4th-level thaumaturgist can prepare a
+### Contingent Conjuration
+A 4th-level thaumaturgist can prepare a
 summoning or calling spell ahead of time to be triggered by some other
 event. This functions as described for the *contingency* spell,
 including having the thaumaturgist cast the summoning or calling spell
@@ -2583,7 +2781,8 @@ regardless of whether the thaumaturgist wants it to, although most
 conjurations can be dismissed normally. A thaumaturgist can have only
 one contingent conjuration active at a time.
 
-**Planar Cohort:** A 5th-level thaumaturgist can use any of the *planar
+### Planar Cohort
+A 5th-level thaumaturgist can use any of the *planar
 ally* spells to call a creature to act as his cohort. The called
 creature serves loyally and well as long as the thaumaturgist continues
 to advance a cause important to the creature.

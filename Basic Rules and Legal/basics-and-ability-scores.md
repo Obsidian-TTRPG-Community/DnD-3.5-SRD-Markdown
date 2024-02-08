@@ -8,7 +8,8 @@ the terms of the Open Game License v1.0a.
 
 # THE BASICS
 
-**The Core Mechanic:** Whenever you attempt an action that has some
+### The Core Mechanic
+Whenever you attempt an action that has some
 chance of failure, you roll a twenty-sided die (d20). To determine if
 your character succeeds at a task you do this:
 
@@ -28,7 +29,8 @@ results together). The number immediately after the "d" tells you the
 type of die to use. Any number after that indicates a quantity that is
 added or subtracted from the result.
 
-**d%:** Percentile dice work a little differently. You generate a number
+### d%
+Percentile dice work a little differently. You generate a number
 between 1 and 100 by rolling two different ten-sided dice. One
 (designated before you roll) is the tens digit. The other is the ones
 digit. Two 0s represent 100.

@@ -12,7 +12,8 @@ These creatures operate on instinct, driven by simple needs such as food
 and reproduction. Except where noted, vermin attack only when hungry or
 threatened.
 
-**Vermin Traits:** Vermin possess the following traits (unless otherwise
+### Vermin Traits
+Vermin possess the following traits (unless otherwise
 noted in a creature's entry).
 
 ---Mindless: No Intelligence score, and immunity to all mind-affecting
@@ -58,17 +59,20 @@ Giant ants are among the hardiest and most adaptable vermin. Soldiers
 and workers are about 6 feet long, while queens can grow to a length of
 9 feet.
 
-**Acid Sting (Ex):** A giant soldier ant has a stinger and an
+### Acid Sting (Ex)
+A giant soldier ant has a stinger and an
 acid-producing gland in its abdomen. If it successfully grabs an
 opponent, it can attempt to sting each round (+3 attack bonus). A hit
 with the sting attack deals 1d4+1 points of piercing damage and 1d4
 points of acid damage.
 
-**Improved Grab (Ex):** To use this ability, a giant ant must hit with
+### Improved Grab (Ex)
+To use this ability, a giant ant must hit with
 its bite attack. A giant soldier ant that wins the ensuing grapple check
 establishes a hold and can sting.
 
-**Skills:** \*Giant ants have a +4 racial bonus on Survival checks when
+### Skills
+\*Giant ants have a +4 racial bonus on Survival checks when
 tracking by scent and a +8 racial bonus on Climb checks. A giant ant can
 always choose to take 10 on Climb checks, even if rushed or threatened.
 
@@ -102,12 +106,14 @@ Although many times larger, growing to a length of about 5 feet, giant
 bees behave generally the same as their smaller cousins. Giant bees are
 usually not aggressive except when defending themselves or their hive.
 
-**Poison (Ex):** Injury, Fortitude DC 11, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 11, initial and secondary damage
 1d4 Con. The save DC is Constitution-based. A giant bee that
 successfully stings another creature pulls away, leaving its stinger in
 the creature. The bee then dies.
 
-**Skills:** Giant bees have a +4 racial bonus on Spot checks. \*They
+### Skills
+Giant bees have a +4 racial bonus on Spot checks. \*They
 also have a +4 racial bonus on Survival checks to orient themselves.
 
 ## Giant Bombardier Beetle
@@ -140,7 +146,8 @@ the stuff in which to build nests and lay eggs. A giant bombardier
 beetle is about 6 feet long. Giant bombardier beetles normally attack
 only to defend themselves, their nests, or their eggs.
 
-**Acid Spray (Ex):** When attacked or disturbed, the creature can
+### Acid Spray (Ex)
+When attacked or disturbed, the creature can
 release a 10-foot cone of acidic vapor once per round. Those within the
 cone must succeed on a DC 13 Fortitude save or take 1d4+2 points of acid
 damage. The save DC is Constitution-based.
@@ -206,7 +213,8 @@ These creatures are serious pests that greedily devour cultivated crops.
 A single beetle can strip an entire farm in short order. An adult giant
 stag beetle is about 10 feet long.
 
-**Trample (Ex):** Reflex half DC 19. The save DC is Strength-based.
+### Trample (Ex)
+Reflex half DC 19. The save DC is Strength-based.
 
 ## Giant Praying Mantis
 
@@ -236,12 +244,14 @@ stag beetle is about 10 feet long.
 This patient carnivore remains completely still as it waits for prey to
 come near.
 
-**Improved Grab (Ex):** To use this ability, a giant praying mantis must
+### Improved Grab (Ex)
+To use this ability, a giant praying mantis must
 hit with its claws attack. If it wins the ensuing grapple check, it
 establishes a hold and makes a bite attack as a primary attack (at its
 full +6 attack bonus).
 
-**Skills:** A giant praying mantis has a +4 racial bonus on Hide and
+### Skills
+A giant praying mantis has a +4 racial bonus on Hide and
 Spot checks. \*Because of its camouflage, the Hide bonus increases to
 +12 when a mantis is surrounded by foliage.
 
@@ -274,10 +284,12 @@ Giant wasps attack when hungry or threatened, stinging their prey to
 death. They take dead or incapacitated opponents back to their lairs as
 food for their unhatched young.
 
-**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 14, initial and secondary damage
 1d6 Dex. The save DC is Constitution-based.
 
-**Skills:** Giant wasps have a +8 racial bonus on Spot checks. \*They
+### Skills
+Giant wasps have a +8 racial bonus on Spot checks. \*They
 also have a +4 racial bonus on Survival checks to orient themselves.
 
 ## Monstrous Centipede
@@ -365,12 +377,14 @@ with their jaws and injecting their poison.
   Large    11        1d4 Dex                          
   -------- --------- --------- ------------ --------- ---------
 
-**Poison (Ex):** A monstrous centipede has a poisonous bite. The details
+### Poison (Ex)
+A monstrous centipede has a poisonous bite. The details
 vary by the centipede's size, as shown on the table above. The save DCs
 are Constitution-based. The indicated damage is both initial and
 secondary damage.
 
-**Skills:** Monstrous centipedes have a +4 racial bonus on Spot checks,
+### Skills
+Monstrous centipedes have a +4 racial bonus on Spot checks,
 and a +8 racial bonus on Climb and Hide checks. They can use either
 their Strength or Dexterity modifier for Climb checks, whichever is
 higher. Monstrous scorpions can take 10 on Climb checks, even if
@@ -456,14 +470,17 @@ threatened or distracted.
 Monstrous scorpions are likely to attack any creature that approaches,
 and they usually charge when attacking prey.
 
-**Constrict (Ex):** A monstrous scorpion deals automatic claw damage on
+### Constrict (Ex)
+A monstrous scorpion deals automatic claw damage on
 a successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, a monstrous scorpion must
+### Improved Grab (Ex)
+To use this ability, a monstrous scorpion must
 hit with a claw attack. A monstrous scorpion can use either its Strength
 modifier or Dexterity modifier for grapple checks, whichever is better.
 
-**Poison (Ex):** A monstrous scorpion has a poisonous sting. The details
+### Poison (Ex)
+A monstrous scorpion has a poisonous sting. The details
 vary by the scorpion's size, as follows. The save DCs are Constitution-
 based. The indicated damage is initial and secondary damage.
 
@@ -475,7 +492,8 @@ based. The indicated damage is initial and secondary damage.
   Large    14        1d4 Con                          
   -------- --------- --------- ------------ --------- ----------
 
-**Skills:** A monstrous scorpion has a +4 racial bonus on Climb, Hide,
+### Skills
+A monstrous scorpion has a +4 racial bonus on Climb, Hide,
 and Spot checks.
 
 ## Monstrous Spider
@@ -564,7 +582,8 @@ Hunting spiders can spin webs to use as lairs, but cannot use their webs
 as weapons the way web-spinners can. A hunting spider has a base land
 speed 10 feet faster than the figures given in the statistics blocks.
 
-**Poison (Ex):** A monstrous spider has a poisonous bite. The details
+### Poison (Ex)
+A monstrous spider has a poisonous bite. The details
 vary by the spider's size, as shown on the table below. The save DCs are
 Constitution-based. The indicated damage is initial and secondary
 damage.
@@ -577,7 +596,8 @@ damage.
   Large    13        1d6 Str                          
   -------- --------- --------- ------------ --------- ---------
 
-**Web (Ex):** Both types of monstrous spiders often wait in their webs
+### Web (Ex)
+Both types of monstrous spiders often wait in their webs
 or in trees, then lower themselves silently on silk strands and leap
 onto prey passing beneath. A single strand is strong enough to support
 the spider and one creature of the same size. Web-spinners can throw a
@@ -613,11 +633,13 @@ can pinpoint the location of any creature touching its web.
   Colossal     28                 32         18
   ------------ ------------------ ---------- ------------
 
-**Tremorsense (Ex):** A monstrous spider can detect and pinpoint any
+### Tremorsense (Ex)
+A monstrous spider can detect and pinpoint any
 creature or object within 60 feet in contact with the ground, or within
 any range in contact with the spider's webs.
 
-**Skills:** Monstrous spiders have a +4 racial bonus on Hide and Spot
+### Skills
+Monstrous spiders have a +4 racial bonus on Hide and Spot
 checks and a +8 racial bonus on Climb checks. A monstrous spider can
 always choose to take 10 on Climb checks, even if rushed or threatened.
 Monstrous spiders use either their Strength or Dexterity modifier for

@@ -55,7 +55,8 @@ become clear, and the creature becomes open to attack (Survival checks
 to determine the extent of the genius loci are no longer necessary). The
 animated part of the genius loci has a reach of 15 feet.
 
-**Enslave (Su):** A genius loci can use the epic spell *enslave* once
+### Enslave (Su)
+A genius loci can use the epic spell *enslave* once
 per round as a free action until it successfully enslaves a foe (Will DC
 53 to resist). The DC is Charisma-based. Once it has a slave, it cannot
 enslave another until its current slave dies, is *imprisoned,*or is
@@ -70,7 +71,8 @@ can only go so far in influencing its mobile master, and cannot
 knowingly attempt to free itself from the genius loci that keeps it
 close.
 
-**Improved Grab (Ex):** If the genius loci hits a Gargantuan or smaller
+### Improved Grab (Ex)
+If the genius loci hits a Gargantuan or smaller
 creature with a slam attack, it deals normal Damage and attempts to
 start a grapple as a free action without provoking an attack of
 opportunity. The genius loci has the option to conduct the grapple
@@ -79,10 +81,12 @@ grab to hold the opponent. Each successful grapple check it makes during
 successive rounds automatically deals slam attack Damage, in addition to
 constriction Damage.
 
-**Constrict (Ex):** A genius loci crushes its opponent, dealing 4d10+30
+### Constrict (Ex)
+A genius loci crushes its opponent, dealing 4d10+30
 points of bludgeoning Damage, after making a successful grapple check.
 
-**Ooze Traits:** An ooze is an amorphous or mutable creature. Oozes are
+### Ooze Traits
+An ooze is an amorphous or mutable creature. Oozes are
 immune to poison, *sleep,* paralysis, stunning, and polymorphing. They
 have no clear front or back and are therefore not subject to critical
 hits or flanking. Oozes are blind but have the blindsight special
@@ -130,16 +134,19 @@ extend four of these at any one foe, or a total of twelve in any given
 round. At the same time, the legions of eyes have the ability to cast a
 host of spells at a rapid rate.
 
-**Gibbering (Su):** The cacophony of speech emanating from the scores of
+### Gibbering (Su)
+The cacophony of speech emanating from the scores of
 mouths that make up the orb forces all within 60 feet of the creature to
 succeed at a Will save each round (DC 40) or suffer the effects of an
 *insanity* spell.
 
-**Improved Grab (Ex):** To use this ability, the gibbering orb must hit
+### Improved Grab (Ex)
+To use this ability, the gibbering orb must hit
 with a bite attack. If it gets a hold, the orb automatically deals bite
 Damage and can attempt to swallow whole.
 
-**Swallow Whole (Ex):** A gibbering orb can attempt to swallow a Large
+### Swallow Whole (Ex)
+A gibbering orb can attempt to swallow a Large
 or smaller opponent by making a successful grapple check. Once inside,
 the opponent takes 4d8 points of constriction Damage plus 3d10 points of
 acid Damage per round. A swallowed creature can cut its way out by using
@@ -154,7 +161,8 @@ any two of those abilities per round as a free action. Each originates
 from an eye that is not producing an eye ray (see below) that round.
 Stolen spells and spell-like abilities are lost after 24 hours.
 
-**Eye Rays (Su):** Two dozen of the eyes can each produce a magical ray
+### Eye Rays (Su)
+Two dozen of the eyes can each produce a magical ray
 each round, with each eye emulating a spell from among the list of
 spells below as if cast by a 27th-level caster. The save DCs, where
 applicable, are 16 + spell level. A gibbering orb has no directional
@@ -172,18 +180,22 @@ missile, mage's disjunction, irresistible dance, polymorph any object,
 power word blind, power word kill, power word stun, prismatic spray,
 slay living,* and *temporal stasis.*
 
-**Spell-Like Abilities:** At will---Two stolen spells or spell-like
+### Spell-Like Abilities
+At will---Two stolen spells or spell-like
 abilities per round. Caster level 27th, save DC 16 + spell level.
 
-**All-Around Vision (Ex):** The gibbering orb's many eyes give it a +4
+### All-Around Vision (Ex)
+The gibbering orb's many eyes give it a +4
 racial bonus on Spot and Search checks.
 
-**Flight (Ex):** The gibbering orb's body is naturally buoyant. This
+### Flight (Ex)
+The gibbering orb's body is naturally buoyant. This
 buoyancy allows it to fly as the spell, as a free action, at a speed of
 20 feet. This buoyancy also grants it a permanent *feather fall* effect
 with personal range.
 
-**Amorphous (Ex):** A gibbering orb is not subject to critical hits. It
+### Amorphous (Ex)
+A gibbering orb is not subject to critical hits. It
 has no clear front or back, so it cannot be flanked.
 
 ## Gloom
@@ -221,25 +233,30 @@ overcoming damage reduction.
 
 ### Combat
 
-**Fear Gaze (Su):** Viewing the gloom's face inspires terror. Creatures
+### Fear Gaze (Su)
+Viewing the gloom's face inspires terror. Creatures
 that meet the gloom's gaze must succeed at a Will save (DC 32) or suffer
 the effects of a *fear* spell as cast by a 20th-level caster. The DC is
 Charisma-based.
 
-**Opportunist (Ex):** This ability functions like the rogue class
+### Opportunist (Ex)
+This ability functions like the rogue class
 feature of the same name.
 
-**Sneak Attack (Ex):** A gloom is able to sneak attack as a 25th-level
+### Sneak Attack (Ex)
+A gloom is able to sneak attack as a 25th-level
 rogue, dealing 13d6 extra Damage.
 
-**Quiescence (Su):** A gloom is constantly silent, as per the *silence*
+### Quiescence (Su)
+A gloom is constantly silent, as per the *silence*
 spell, although the area does not extend beyond the creature itself.
 This quality gives it a +20 racial bonus on Move Silently checks (it is
 still possible for a gloom to create noise, such as by bumping into
 something that scrapes on the floor or by sounding a chime). The gloom
 can lower this effect at will.
 
-**Spell-Like Abilities:** At will---*shadow walk;* 3/day--- *true
+### Spell-Like Abilities
+At will---*shadow walk;* 3/day--- *true
 strike.* Caster level 20th; save DC 20 + spell level. The DC is
 Charisma-based.
 
@@ -310,10 +327,12 @@ overcoming damage reduction.
 
 #### Combat
 
-**Alacrity (Su):** Once per round, the mithral golem may take an extra
+### Alacrity (Su)
+Once per round, the mithral golem may take an extra
 standard action (either before or after its other actions in the round).
 
-**Magic Immunity (Ex):** A mithral golem is immune to all magical and
+### Magic Immunity (Ex)
+A mithral golem is immune to all magical and
 supernatural effects, except as follows. A *slow* spell negates its
 alacrity for 1d4 rounds, while a *haste* spell restores 1d6 hit points
 per level of the caster (maximum 10d6) or restores its alacrity, if
@@ -341,14 +360,16 @@ purpose of overcoming damage reduction.
 
 #### Combat
 
-**Trample (Ex):** As a standard action during its turn each round, the
+### Trample (Ex)
+As a standard action during its turn each round, the
 adamantine golem can literally run over an opponent at least one size
 category smaller than itself. The trample deals 8d10+30 points of
 bludgeoning Damage. Trampled opponents can either attempt attacks of
 opportunity at a --4 penalty or Reflex saves (DC 57) for half Damage.
 The DC is Strength-based.
 
-**Magic Immunity (Ex):** An adamantine golem is immune to all magical
+### Magic Immunity (Ex)
+An adamantine golem is immune to all magical
 and supernatural effects.
 
 #### Construction
@@ -393,25 +414,32 @@ overcoming damage reduction.
 
 ### Combat
 
-**Flight (Su):** As per the *fly* spell, 120 ft. (perfect). This ability
+### Flight (Su)
+As per the *fly* spell, 120 ft. (perfect). This ability
 gives the ha-naga a +6 circumstance bonus on Move Silently checks.
 
-**Charming Gaze (Su):** As *mass charm monster,* 90 ft., Will save (DC
+### Charming Gaze (Su)
+As *mass charm monster,* 90 ft., Will save (DC
 33). The DC is Charisma-based.
 
-**Chameleon Ability (Ex):** Ha-nagas can blend in with their
+### Chameleon Ability (Ex)
+Ha-nagas can blend in with their
 surroundings, giving them a +8 circumstance bonus on Hide checks.
 
-**Improved Grab (Ex):** To use this ability, the ha-naga must hit with
+### Improved Grab (Ex)
+To use this ability, the ha-naga must hit with
 its coil whip attack. If it succeeds, it can constrict.
 
-**Constrict (Ex):** A ha-naga deals 4d6+12 points Damage with a
+### Constrict (Ex)
+A ha-naga deals 4d6+12 points Damage with a
 successful grapple attack against Huge or smaller opponents.
 
-**Poison (Ex):** Sting, Fort save (DC 31); initial and secondary Damage
+### Poison (Ex)
+Sting, Fort save (DC 31); initial and secondary Damage
 2d8 temporary Con. The DC is Constitution-based.
 
-**Spells:** Ha-nagas can cast spells as 21st-level sorcerers, and can
+### Spells
+Ha-nagas can cast spells as 21st-level sorcerers, and can
 also cast cleric spells and spells from the domains of Chaos and Evil as
 arcane spells (save DC 33 + spell level). The DC is Charisma-based.
 
@@ -447,18 +475,21 @@ overcoming damage reduction.
 
 ### Combat
 
-**Psionics (Sp):** At will *---detect thoughts, dimension door, ethereal
+### Psionics (Sp)
+At will *---detect thoughts, dimension door, ethereal
 jaunt, knock, nondetection, plane shift, suggestion.*Caster level 20th,
 save DC 22.
 
-**Destabilize Form (Su):** If a protean hits with two or more slam
+### Destabilize Form (Su)
+If a protean hits with two or more slam
 attacks in the same round, it partly destabilizes its foe's physical
 form, dealing an additional 4d6+31 points of Damage as well as 2 points
 of temporary Constitution Damage. If the victim is drained to 0
 Constitution, its dead body is only so much clear fluid that drains away
 unless somehow preserved by friends of the victim.
 
-**Alter Shape (Ex):** A protean can assume the shape of any combination
+### Alter Shape (Ex)
+A protean can assume the shape of any combination
 of physical nondeific creatures at the same time as a free action. In
 fact, a protean's form constantly boils, and it requires a
 move-equivalent action each round for a protean to maintain a certain
@@ -582,7 +613,8 @@ the victim is bodily transported as per a *soul binding* spell
 heightened to 16th level (DC 30) into a diamond at the end of the
 sword's hilt.
 
-**Spell-Like Abilities:** At will---*discern location, true strike, fog
+### Spell-Like Abilities
+At will---*discern location, true strike, fog
 cloud, hold monster, plane shift;* 3/day---*dimensional anchor, dominate
 monster, greater dispel magic;* 1/day---mage's *disjunction, contingent
 recall and resurrection\*.* Caster level 23rd; save DC 18 + spell level.
@@ -599,19 +631,24 @@ overcoming damage reduction.
 
 #### Combat
 
-**Air Walk (Su):** A hoary steed can ride through the air as well as on
+### Air Walk (Su)
+A hoary steed can ride through the air as well as on
 the ground, as though affected by a permanent *air walk* spell.
 
-**Astral Projection and Etherealness (Su):** These abilities function
+### Astral Projection and Etherealness (Su)
+These abilities function
 just like the spells of the same names as cast by a 20th-level caster.
 
-**Magic Circle Against Good (Su):** This ability continuously duplicates
+### Magic Circle Against Good (Su)
+This ability continuously duplicates
 the effects of the spell. A hoary steed cannot suppress this ability.
 
-**Misty Breath (Su):** The breath of a hoary steed functions like a
+### Misty Breath (Su)
+The breath of a hoary steed functions like a
 constant *obscuring mist* spell.
 
-**Immunities (Ex):** A hoary steed is immune to all *charm* and *hold*
+### Immunities (Ex)
+A hoary steed is immune to all *charm* and *hold*
 spells or abilities.
 
 ## Hunefer
@@ -646,13 +683,15 @@ switch between languages.
 
 ### Combat
 
-**Despair (Su):** The mere sight of a hunefer requires viewers to
+### Despair (Su)
+The mere sight of a hunefer requires viewers to
 succeed at a Will saving throw (DC 48) or be paralyzed with fear for 1d4
 rounds. Regardless of the outcome of the save, a subject is not again
 vulnerable to that hunefer's despair ability for 24 hours. The DC is
 Charisma-based.
 
-**Hunefer Rot (Su):** Supernatural disease---slam, Fort save (DC 35),
+### Hunefer Rot (Su)
+Supernatural disease---slam, Fort save (DC 35),
 incubation period instantaneous; Damage 1d6 temporary Con. Unlike normal
 diseases, hunefer rot requires a victim to make a successful saving
 throw every round or take another 1d6 points of temporary Constitution
@@ -665,12 +704,14 @@ swirls and forms an 18 HD mummy with the dead foe's equipment under the
 hunefer's command. (The *mummy dust* epic spell has statistics for an 18
 HD mummy.)
 
-**Spell-Like Abilities:** At will---*chain lightning, displacement,
+### Spell-Like Abilities
+At will---*chain lightning, displacement,
 haste, knock, greater dispel magic, passwall, scrying, greater teleport,
 true seeing, unholy aura, weird;* 1/day---*ruin* (epic spell). Caster
 level 27th; save DC 23 + spell level. The DC is Charisma-based.
 
-**Undead Traits:** Immune to poison, *sleep,* paralysis, stunning,
+### Undead Traits
+Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual dam-age, ability Damage,
@@ -710,11 +751,13 @@ Lavawights speak Common and Infernal.
 
 ### Combat
 
-**Rend (Ex):** If the lavawight hits with both of its claws, it latches
+### Rend (Ex)
+If the lavawight hits with both of its claws, it latches
 onto the opponent's body and tears the flesh. This attack automatically
 deals an additional 6d8+31 points of Damage.
 
-**Blazefire (Su):** Living creatures taking Damage from a lavawight's
+### Blazefire (Su)
+Living creatures taking Damage from a lavawight's
 attack find themselves ignited with blaze-fire; they must succeed at a
 Fortitude save (DC 35) or permanently lose 4 hit points. The DC is
 Charisma-based. The opponent must continue to save every round for the
@@ -726,11 +769,13 @@ hour. If an opponent is slain by blazefire, only blackened ash remains
 of the victim. Hit points lost to the blazefire never heal naturally and
 cannot be magically restored---they are gone for good.
 
-**Spell-Like Abilities:** At will--- *dimension door, flame arrow, spell
+### Spell-Like Abilities
+At will--- *dimension door, flame arrow, spell
 immunity (sleet storm*), *fireball, wall of fire.* Caster level 22nd;
 save DC 19 + spell level. The DC is Charisma-based.
 
-**Undead Traits:** Immune to poison, *sleep,* paralysis, stunning,
+### Undead Traits
+Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
@@ -739,15 +784,18 @@ death from massive Damage, but destroyed at 0 hit points or less.
 Darkvision 60 ft. Cannot be raised; resurrection works only if creature
 is willing.
 
-**Heat Aura (Su):** A 10-foot-radius spread heat aura surrounds a
+### Heat Aura (Su)
+A 10-foot-radius spread heat aura surrounds a
 lavawight. All creatures of the fire subtype in the field (including the
 lavawight) are treated as if having turn resistance +6 (if undead) and
 fast healing 10. Creatures subject to fire Damage take 2d10 points of
 fire Damage each round they remain within the heat aura.
 
-**Fire Subtype:** Fire immunity, cold vulnerability..
+### Fire Subtype
+Fire immunity, cold vulnerability..
 
-**Fiery Hardness (Ex):** The lavawight's molten skin provides it with
+### Fiery Hardness (Ex)
+The lavawight's molten skin provides it with
 Damage reduction of 10/--.
 
 ## Legendary Animal
@@ -819,25 +867,30 @@ Damage reduction of 10/--.
 
 #### Combat
 
-**Improved Grab (Ex):** To use this ability, a legendary bear must hit
+### Improved Grab (Ex)
+To use this ability, a legendary bear must hit
 with a claw attack.
 
 ### Legendary Tiger
 
 #### Combat
 
-**Pounce (Ex):** If a legendary tiger leaps upon a foe during the first
+### Pounce (Ex)
+If a legendary tiger leaps upon a foe during the first
 round of combat, it can make a full attack even if it has already taken
 a move action.
 
-**Improved Grab (Ex):** To use this ability, the legendary tiger must
+### Improved Grab (Ex)
+To use this ability, the legendary tiger must
 hit with a bite attack. If it gets a hold, it can rake.
 
-**Rake (Ex):** A legendary tiger can make two attacks (+30 melee)
+### Rake (Ex)
+A legendary tiger can make two attacks (+30 melee)
 against a held creature with its hind legs for 2d6+5 points of Damage
 each. If the legendary tiger pounces on an opponent, it can also rake.
 
-**Skills:** Legendary tigers receive a +8 racial bonus on Hide and Move
+### Skills
+Legendary tigers receive a +8 racial bonus on Hide and Move
 Silently checks. \*In areas of tall grasses or heavy undergrowth, the
 Hide bonus improves to +16.
 
@@ -873,13 +926,15 @@ overcoming damage reduction.
 
 ### Combat
 
-**Spell-Like Abilities:** At will---*alter self, detect thoughts,
+### Spell-Like Abilities
+At will---*alter self, detect thoughts,
 displacement, freedom, greater dispelling, heal, greater invisibility,
 knock, speak with plants, spell turning, greater teleport, water
 breathing.* Caster level 28th; save DC 28 + spell level. The DCs are
 Charisma-based.
 
-**LeShay Weapons (Su):** Each leShay carries two personal melee weapons
+### LeShay Weapons (Su)
+Each leShay carries two personal melee weapons
 that he or she manifests from his or her own life essence. The weapon
 can change form as he or she shifts from class to class, typically
 appearing as a bastard sword (one in each hand). When not in combat, the
@@ -887,12 +942,14 @@ weapons simply do not exist, but leShay can "draw" their weapons from
 nowhere as a free action. LeShay weapons are considered light weapons
 for a leShay, regardless of their size.
 
-**Superior Two-Weapon Fighting (Ex):** A leShay fights with a leShay
+### Superior Two-Weapon Fighting (Ex)
+A leShay fights with a leShay
 weapon in each hand. Because these weapons are extensions of its own
 body, the leShay does not take an attack or Damage penalty for attacking
 with two weapons.
 
-**Gaze (Su):** All creatures within 30 feet who meet the gaze of a
+### Gaze (Su)
+All creatures within 30 feet who meet the gaze of a
 leShay become affected as if by *charm monster.*A Will save (DC 53)
 negates the effect. Each opponent within range of a gaze attack must
 attempt a saving throw each round at the beginning of his or her turn in
@@ -900,7 +957,8 @@ the initiative order. A leShay can also actively gaze as an attack
 action by choosing a target within range, who must then attempt a saving
 throw. LeShay are immune to their own gaze. The DC is Charisma-based.
 
-**Elf Traits:** Immune to magic *sleep* spells and effects; +2 racial
+### Elf Traits
+Immune to magic *sleep* spells and effects; +2 racial
 bonus on Will saves against enchantment spells or effects; low-light
 vision (can see twice as far as a human in low-light conditions);
 entitled to a Search check when within 5 feet of a secret or concealed
@@ -950,7 +1008,8 @@ overcoming damage reduction.
 
 ### Combat
 
-***Imprisonment* (Sp):** As a free action twice per day, a living vault
+### *Imprisonment* (Sp)
+As a free action twice per day, a living vault
 can project a 60-foot cone. Creatures caught in the cone must make a
 Will save (DC 58) or be affected as by the *imprisonment* spell, except
 creatures are stored within the vault's interior. The living vault can
@@ -963,7 +1022,8 @@ where the victim of *imprisonment* disappeared, the victim is freed,
 though it doesn't appear where it disappeared, but in a space adjacent
 to wherever the living vault is currently physically located.
 
-**Recognition (Ex):** Once made, a living vault responds only to its
+### Recognition (Ex)
+Once made, a living vault responds only to its
 owner; no other being can access the vault's interior. The vault is not
 fooled by disguised creatures, and can distinguish between its true
 master and false duplicates, even penetrating disguises used in
@@ -971,7 +1031,8 @@ conjunction with *shapechange, alter self, disguise self, polymorph,
 seeming,* and *simulacrum* and similar effects. The vault does, however,
 respond to the product of a *clone* spell.
 
-***Safekeeping* (Sp):** At will, a living vault can use a power that
+### *Safekeeping* (Sp)
+At will, a living vault can use a power that
 combines the effects of *sequester* and *plane shift* to render the
 vault invisible to any form of sight or divination, and at the same time
 transfer it to a random portion of the Astral Plane. When in safekeeping
@@ -983,7 +1044,8 @@ Often, creatures are brought into the vault via *imprisonment,* but
 sometimes unconscious or otherwise subdued creatures are stored as an
 object, in which case they receive no saving throw to resist the effect.
 
-**Construct Traits:** Immune to mind-affecting effects (charms,
+### Construct Traits
+Immune to mind-affecting effects (charms,
 compulsions, phantasms, patterns, and morale effects), and to poison,
 *sleep,* paralysis, stunning, disease, death effects, necromantic
 effects, and any effect that requires a Fortitude save unless it also
@@ -993,7 +1055,8 @@ Damage, ability Damage, ability drain, or energy drain. Not at risk of
 death from massive Damage, but destroyed when reduced to 0 hit points or
 less; cannot be raised or resurrected. Darkvision 60 ft.
 
-**Magic Immunity (Ex):** A living vault is immune to all magical and
+### Magic Immunity (Ex)
+A living vault is immune to all magical and
 supernatural effects, except as follows. A *freedom* spell cast on it
 causes it to defer the use of its own *imprisonment* power for 10
 rounds.
@@ -1029,14 +1092,17 @@ other languages.
 
 ### Combat
 
-**Spell-Like Abilities:** 3/day---*dimension door, invisibility;*
+### Spell-Like Abilities
+3/day---*dimension door, invisibility;*
 1/day---*secret chest, plane shift.* Caster level 14th; save DC 12 +
 spell level.
 
-**Telepathy (Su):** Mercanes can communicate telepathically with any
+### Telepathy (Su)
+Mercanes can communicate telepathically with any
 creature within 100 feet that has a language.
 
-**Skills:** Mercanes receive a +4 racial bonus on Appraise checks.
+### Skills
+Mercanes receive a +4 racial bonus on Appraise checks.
 
 ### Mercane Characters
 
@@ -1077,13 +1143,15 @@ overcoming damage reduction.
 
 ### Combat
 
-**Spore Cough (Su):** Once every 1d4 rounds a mu spore can release a
+### Spore Cough (Su)
+Once every 1d4 rounds a mu spore can release a
 cloud of burrowing spores. This spore cough is treated as a
 100-foot-cone breath weapon. The burrowing spores deal 20d8 points of
 Damage to all creatures and structures in the area, or half Damage to
 any creatures that make a Reflex save (DC 36). The DC is Charisma-based.
 
-**Improved Grab (Ex):** If a mu spore hits with a tendril, it deals
+### Improved Grab (Ex)
+If a mu spore hits with a tendril, it deals
 normal Damage and attempts to start a grapple as a free action without
 provoking an attack of opportunity. Improved grab works only against
 Gargantuan and smaller opponents. The mu spore has the option to conduct
@@ -1092,7 +1160,8 @@ or simply use its tendril to hold the opponent. Each successful grapple
 check it makes during successive rounds automatically deals the Damage
 given for the tendril.
 
-**Swallow Whole (Ex):** If the mu spore begins its turn with an opponent
+### Swallow Whole (Ex)
+If the mu spore begins its turn with an opponent
 held in its mouth, it can attempt a new grapple check (as though
 attempting to pin the opponent). If it succeeds, it swallows its prey
 and the opponent takes bite Damage. A swallowed creature takes the twice
@@ -1104,7 +1173,8 @@ Damage in this fashion, or it can just try to escape the grapple. If the
 swallowed creature chooses the latter course, success puts it back in
 the mu spore's mouth, where it may be bitten or swallowed again.
 
-**Sticky (Ex):** Sticky tendrils cover a mu spore, many more than the
+### Sticky (Ex)
+Sticky tendrils cover a mu spore, many more than the
 four main tendrils it uses for combat. Any creature that touches or
 successfully attacks a mu spore with a melee weapon is subject to a free
 improved grab check by the mu spore, as if the mu spore had
@@ -1115,7 +1185,8 @@ its weapon, the weapon is swallowed the following round. Creatures who
 attack the mu spore in melee without a weapon they can release (such as
 those with natural attacks only) do not have this option.
 
-**Plant Traits:** Immune to poison, *sleep,* paralysis, stunning, and
+### Plant Traits
+Immune to poison, *sleep,* paralysis, stunning, and
 polymorphing; not subject to critical hits or mind-affecting effects.
 
 ## Neh-Thalggu (Brain Collector)
@@ -1158,14 +1229,16 @@ overcoming damage reduction.
 
 ### Combat
 
-**Poison (Ex):** A neh-thalggu's bite injects a debilitating poison (DC
+### Poison (Ex)
+A neh-thalggu's bite injects a debilitating poison (DC
 32) that Damages the victim's Constitution. He or she loses half his or
 her current Constitution immediately on a failed save and must save
 again 1 minute later or lose half of his or her remaining Constitution.
 If the character survives, he or she heals the ability Damage at the
 normal rate (1 point per day). The save DC is Constitution-based.
 
-**Head-Tentacles (Ex):** The long, whiplike tentacles that frame either
+### Head-Tentacles (Ex)
+The long, whiplike tentacles that frame either
 side of a brain collector's face can deliver a dangerous touch attack
 that, if successful, causes the target to dehydrate and wither (2d10
 points of desiccation Damage). In addition, each successful tentacle
@@ -1175,7 +1248,8 @@ by spells such as *restoration* and *greater restoration.*It can bring
 all ten tentacles to bear on a single target facing it or divide its
 attacks against up to ten targets that it threatens.
 
-***Extract Brains* (Sp):** Once every 1d4 rounds, as a full-round
+### *Extract Brains* (Sp)
+Once every 1d4 rounds, as a full-round
 action, a brain collector can extract the brain from a target creature
 in line of sight. This attack is psionic in nature and can be blocked by
 a *dimensional anchor* currently in force on the target. The target gets
@@ -1197,15 +1271,18 @@ possessed by each brain, and adjusted by the neh-thalggu's own skill
 modifiers for the Knowledge skill in question (or its Intelligence
 modifier, for a skill it has no ranks in).
 
-***Dimensional Travel* (Sp):** A brain collector's preferred method of
+### *Dimensional Travel* (Sp)
+A brain collector's preferred method of
 locomotion is via *dimension door,* which it can do as a quickened
 action, once per round. It can also use *teleport without error* or
 *plane shift* at will as a move-equivalent action.
 
-**Spells (Sp):** A fully grown brain collector can cast arcane spells as
+### Spells (Sp)
+A fully grown brain collector can cast arcane spells as
 a 13th-level sorcerer (one level of spell-casting ability per brain).
 
-**Incorporeal:** A neh-thalggu is not wholly in our reality but always
+### Incorporeal
+A neh-thalggu is not wholly in our reality but always
 remains partially extradimensional. Thus it can be harmed only by other
 incorporeal creatures, +1 or better weapons, magic, or psionics, with a
 50% chance to ignore any Damage from a corporeal source. It can pass
@@ -1213,16 +1290,19 @@ through solid objects at will, and its own attacks pass through armor
 (except for its bite attack, which is treated as if a corporeal attack).
 It always moves silently unless it chooses otherwise.
 
-**Amorphous Physiology (Ex):** A brain collector does not have fixed
+### Amorphous Physiology (Ex)
+A brain collector does not have fixed
 organs. As such, it is immune to critical hits, death from massive
 Damage, sneak attacks, and coup de grace.
 
-**Manifest Maw:** Though it is an incorporeal creature, a neh-thalggu
+### Manifest Maw
+Though it is an incorporeal creature, a neh-thalggu
 can manifest its mouth in corporeal form as a standard action. While so
 manifested, the mouth can deliver bite attacks against corporeal
 creatures or pick up objects. The mouth bites as if it had Str 35.
 
-**Feats:** A neh-thalggu gains Power Attack as a bonus feat, even though
+### Feats
+A neh-thalggu gains Power Attack as a bonus feat, even though
 it has no Strength score.
 
 ## Paragon Creature
@@ -1236,32 +1316,40 @@ The base creature's type remains unchanged. The paragon creature uses
 all the base creature's statistics and special abilities except as noted
 here.
 
-**HD:** A paragon creature always has maximum hit points. Paragon
+### HD
+A paragon creature always has maximum hit points. Paragon
 creatures also gain an additional 12 hit points per HD.
 
-**Speed:** A paragon creature's speed triples, for all movement types.
+### Speed
+A paragon creature's speed triples, for all movement types.
 
-**AC:** Paragon creatures gain a +12 insight bonus to AC and a +12 luck
+### AC
+Paragon creatures gain a +12 insight bonus to AC and a +12 luck
 bonus to AC. They also gain a +5 natural armor bonus (if the creature
 already has natural armor, use whichever is better).
 
-**Attacks:** A paragon creature makes all its attacks with a +25 luck
+### Attacks
+A paragon creature makes all its attacks with a +25 luck
 bonus on the attack roll.
 
-**Damage:** A paragon creature gains a +20 luck bonus on Damage rolls
+### Damage
+A paragon creature gains a +20 luck bonus on Damage rolls
 for all melee and thrown ranged attacks.
 
-**Special Attacks:** A paragon creature's special attacks, if any, all
+### Special Attacks
+A paragon creature's special attacks, if any, all
 gain a +13 insight bonus, if applicable. The +13 insight bonus may only
 be applied to a given special ability once.
 
-**Spell-Like Abilities (Sp) or Psionics (Sp):** If the base creature has
+### Spell-Like Abilities (Sp) or Psionics (Sp)
+If the base creature has
 spell-like abilities, it gains +15 to its caster level to use those
 abilities. A paragon creature also gains the ability to use *greater
 dispel magic, haste,* and *see invisibility* three times per day, even
 if it did not have spell-like abilities before, at 15th caster level.
 
-**Special Qualities:** A paragon creature retains all the special
+### Special Qualities
+A paragon creature retains all the special
 qualities of the base creature and also gains the following.
 
 -   Fire and cold resistance 10. If the creature already possesses such
@@ -1276,28 +1364,38 @@ qualities of the base creature and also gains the following.
 -   A paragon creature's natural weapons are treated as epic for the
     purpose of overcoming damage reduction.
 
-**Saves:** The paragon creature gains a +10 insight bonus on all its
+### Saves
+The paragon creature gains a +10 insight bonus on all its
 saving throws.
 
-**Abilities:** All ability scores are 15 points higher than those of the
+### Abilities
+All ability scores are 15 points higher than those of the
 base creature.
 
-**Skills:** The paragon creature gains a +10 competence bonus on all its
+### Skills
+The paragon creature gains a +10 competence bonus on all its
 skill checks.
 
-**Feats:** Same as the base creature, plus one bonus feat.
+### Feats
+Same as the base creature, plus one bonus feat.
 
-**Climate/Terrain:** Any land and underground.
+### Climate/Terrain
+Any land and underground.
 
-**Organization:** Same as the base creature.
+### Organization
+Same as the base creature.
 
-**Challenge Rating:** As base creature +15.
+### Challenge Rating
+As base creature +15.
 
-**Treasure:** Standard for a creature of the adjusted CR.
+### Treasure
+Standard for a creature of the adjusted CR.
 
-**Alignment:** Same as the base creature.
+### Alignment
+Same as the base creature.
 
-**Advancement:** Same as the base creature.
+### Advancement
+Same as the base creature.
 
 ## Prismasaurus
 
@@ -1328,7 +1426,8 @@ skill checks.
 
 ### Combat
 
-**Prismatic Emanations (Su):** The reflected and refracted light from
+### Prismatic Emanations (Su)
+The reflected and refracted light from
 the prismasaurus's crystalline ridge functions very similarly to the
 *prismatic spray* spell. Any creature of less than 8 HD that is within
 30 feet of the creature is automatically blinded for 2d4 rounds. In
@@ -1339,10 +1438,12 @@ accompanies the *prismatic spray* spell. This effect is as the
 cast by a 20th-level caster. The save DC for the *prismatic spray*
 effects is 49.
 
-**Immunities (Su):** It is immune to poison, gases, petrification, and
+### Immunities (Su)
+It is immune to poison, gases, petrification, and
 mind-affecting attacks.
 
-**Prismatic Blur (Ex):** The reflected and refracted light that
+### Prismatic Blur (Ex)
+The reflected and refracted light that
 constantly surrounds the creature blurs the creature's outline and makes
 it difficult to properly target. All melee and ranged attacks against
 the creature have a 50% miss chance.
@@ -1380,36 +1481,43 @@ overcoming damage reduction.
 
 ### Combat
 
-**Constant Insight (Su):** A pseudotroll makes all its attacks
+### Constant Insight (Su)
+A pseudotroll makes all its attacks
 (including grapples) with a +15 insight bonus (calculated into the above
 statistics). The creature is not affected by the miss chance that
 applies to attacks against a concealed target.
 
-**Improved Grab (Ex):** If a pseudonatural troll hits an opponent
+### Improved Grab (Ex)
+If a pseudonatural troll hits an opponent
 smaller than it with a tentacle, it deals normal Damage and attempts to
 start a grapple as a free action without provoking an attack of
 opportunity.
 
-**Rend (Ex):** If a pseudotroll hits with two or more tentacle rake
+### Rend (Ex)
+If a pseudotroll hits with two or more tentacle rake
 attacks, it latches onto the opponent's body and tears the flesh. This
 attack automatically deals an additional 4d8+25 points of Damage, and
 can be used concurrently with its improved grab ability.
 
-**Rotting Constriction (Ex):** Once a pseudotroll has hold of an
+### Rotting Constriction (Ex)
+Once a pseudotroll has hold of an
 opponent, each successful grapple check it makes during subsequent
 rounds automatically drains 2d4 points of Constitution. At the same
 time, the pseudotroll regains 10 lost hit points.
 
-**Regeneration (Ex):** Fire and acid deal normal Damage to a
+### Regeneration (Ex)
+Fire and acid deal normal Damage to a
 pseudotroll. If a pseudotroll loses a tentacle or body part, the lost
 portion regrows in 1 minute. The creature can reattach the severed
 member instantly by holding it to the stump.
 
-**Spell-Like Abilities:** At will---*blur, dimension door, shield,
+### Spell-Like Abilities
+At will---*blur, dimension door, shield,
 unhallow.* Caster level 20th; save DC 8 + spell level. The DC is
 Charisma-based.
 
-**Alternate Form (Su):** At will, a pseudotroll can take the form of a
+### Alternate Form (Su)
+At will, a pseudotroll can take the form of a
 grotesque, tentacled mass (or another appropriately gruesome form), but
 all its abilities remain unchanged despite the alien appearance.
 Changing shape is a standard action. Other creatures receive a --1
@@ -1421,28 +1529,35 @@ alternate form.
 "Pseudonatural" is a template that can be added to any corporeal
 creature (referred to hereafter as the base creature).
 
-**Size and Type:** The creature's type changes to outsider
+### Size and Type
+The creature's type changes to outsider
 (extraplanar). Do not recalculate base attack bonus, saves, or skill
 points. Size is unchanged.
 
-**HD:** A pseudonatural creature always has maximum hit points.
+### HD
+A pseudonatural creature always has maximum hit points.
 
-**Speed:** A pseudonatural creature's speed doubles, for all movement
+### Speed
+A pseudonatural creature's speed doubles, for all movement
 types.
 
-**AC:** Pseudonatural creatures gain a +35 natural armor bonus. If the
+### AC
+Pseudonatural creatures gain a +35 natural armor bonus. If the
 creature already has an armor bonus, use whichever is better.
 
-**Attack/Full Attack:** A pseudonatural creature substitutes tentacle
+### Attack/Full Attack
+A pseudonatural creature substitutes tentacle
 rake attacks for its melee attacks while in pseudonatural form. These
 tentacle attacks always use the creature's best attack bonus. It also
 gains additional tentacle rake attacks (also at its best attack bonus)
 as noted on the table below.
 
-**Damage:** Tentacle rakes from a pseudonatural creature deal Damage
+### Damage
+Tentacle rakes from a pseudonatural creature deal Damage
 equal to 2d8 + Str modifier.
 
-**Special Attacks:** A pseudonatural creature retains all the special
+### Special Attacks
+A pseudonatural creature retains all the special
 attacks of the base creature and also gains the following.
 
 ***Constant Insight (Su):***The creature makes all its attacks with a
@@ -1458,10 +1573,12 @@ opponent, each successful grapple check it makes during subsequent
 rounds permanently drains 2d4 points of Constitution. At the same time,
 the creature regains 10 lost hit points.
 
-**Spell-Like Abilities:** At will---*blur, dimension door, shield,
+### Spell-Like Abilities
+At will---*blur, dimension door, shield,
 unhallow.* Caster level 20th. The DCs are Charisma-based.
 
-**Special Qualities:** A pseudonatural creature retains all the special
+### Special Qualities
+A pseudonatural creature retains all the special
 qualities of the base creature and also gains the following.
 
 -   Electricity and acid resistance of a varying amount related to its
@@ -1499,27 +1616,37 @@ appearance. Changing shape is a standard action. Other creatures receive
 a --1 morale penalty on their attack rolls against pseudonatural
 creatures in this alternate form.
 
-**Saves:** Same as the base creature.
+### Saves
+Same as the base creature.
 
-**Abilities:** Increase from the base creature as follows: Str +22, Con
+### Abilities
+Increase from the base creature as follows: Str +22, Con
 +10, Dex +10, Wisdom +10, Intelligence at least 3.
 
-**Skills:** Same as the base creature.
+### Skills
+Same as the base creature.
 
-**Feats:** Same as the base creature.
+### Feats
+Same as the base creature.
 
-**Climate/Terrain:** Any land and underground.
+### Climate/Terrain
+Any land and underground.
 
-**Organization:** Same as the base creature.
+### Organization
+Same as the base creature.
 
-**Challenge Rating:** Up to 6 HD, as base creature +16; 7 HD to 15 HD,
+### Challenge Rating
+Up to 6 HD, as base creature +16; 7 HD to 15 HD,
 as base creature +13; 16+ HD, as base creature +10
 
-**Treasure:** Same as the base creature.
+### Treasure
+Same as the base creature.
 
-**Alignment:** Same as base creature.
+### Alignment
+Same as base creature.
 
-**Advancement:** Same as the base creature.
+### Advancement
+Same as the base creature.
 
 ## Ruin Swarm
 
@@ -1549,15 +1676,18 @@ as base creature +13; 16+ HD, as base creature +10
 
 ### Combat
 
-**Blinding (Ex):** Any living creature that begins its turn with a ruin
+### Blinding (Ex)
+Any living creature that begins its turn with a ruin
 swarm in its space must make a Fortitude save (DC 51) or be blinded for
 one round. The save DC is Dexterity-based.
 
-**Blindsense (Ex):** The ruin swarm notices and locates creatures within
+### Blindsense (Ex)
+The ruin swarm notices and locates creatures within
 200 ft. Opponents still have 100% concealment against the swarm (but
 swarm attacks ignore concealment).
 
-**Distraction (Ex):** Any living creature vulnerable to the swarm's
+### Distraction (Ex)
+Any living creature vulnerable to the swarm's
 damage that begins its turn with a swarm in its square is nauseated for
 1 round; a DC 45 Fortitude save negates the effect. Even with a
 successful save, spellcasting or concentrating on spells within the area
@@ -1565,7 +1695,8 @@ of a swarm requires a Concentration check (DC 20 + spell level). Using
 skills requiring patience and concentration requires a Concentration
 check (DC 20). The save DC is Constitution-based.
 
-**Swarm Traits:** A swarm has no clear front or back and no discernable
+### Swarm Traits
+A swarm has no clear front or back and no discernable
 anatomy, so it is not subject to critical hits or flanking. A swarm made
 up of Tiny creatures takes half damage from slashing and piercing
 weapons.
@@ -1588,7 +1719,8 @@ A swarm rendered unconscious by means of subdual damage becomes
 disorganized and dispersed, and does not re-form until its hit points
 exceed its subdual damage.
 
-**Vermin Traits:** A ruin swarm is immune to all mind-affecting effects
+### Vermin Traits
+A ruin swarm is immune to all mind-affecting effects
 (charms, compulsions, phantasms, patterns, and morale effects). It also
 has darkvision (60-foot range).
 
@@ -1624,7 +1756,8 @@ purpose of overcoming damage reduction.
 
 ### Combat
 
-**Blightfire (Su):** Living creatures taking Damage from a shadow of the
+### Blightfire (Su)
+Living creatures taking Damage from a shadow of the
 void's incorporeal touch attack find themselves ignited with blightfire;
 cold, black flames cascade over their bodies, and they must succeed at a
 Fort save (DC 37) or permanently lose 6 points of Constitution. The
@@ -1636,23 +1769,27 @@ temporary hit points last a maximum of 1 hour. If the opponent is slain
 by blight-fire, only icy fragments of the victim remain, until they
 reform as a winterwight. The save DC is Charisma-dased.
 
-**Create Spawn (Su):** Any humanoid slain by a shadow of the void
+### Create Spawn (Su)
+Any humanoid slain by a shadow of the void
 becomes a winterwight in 1d4 rounds. Winterwights are under the command
 of the shadow of the void that created them and remain enslaved until
 its death. They do not possess any of the abilities they had in life,
 though they do possess general knowledge of the slain creature. This
 knowledge is used for evil purposes, if possible.
 
-**Spell-Like Abilities:** 3/day---*deeper darkness, freezing sphere.*
+### Spell-Like Abilities
+3/day---*deeper darkness, freezing sphere.*
 Caster level 24th; save DC 20 + spell level. The save DC is
 Charisma-based.
 
-**Incorporeal Traits:** Can be harmed only by other incorporeal
+### Incorporeal Traits
+Can be harmed only by other incorporeal
 creatures, magic weapons, or magic, with a 50% chance to ignore any
 Damage from a corporeal source. Can pass through solid objects at will,
 and own attacks pass through armor. Always moves silently.
 
-**Undead Traits:** Immune to poison, *sleep,* paralysis, stunning,
+### Undead Traits
+Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
@@ -1661,11 +1798,13 @@ death from massive Damage, but destroyed at 0 hit points or less.
 Darkvision 60 ft. Cannot be raised; resurrection works only if creature
 is willing.
 
-**Cold Subtype:** Immunity to cold. Vulnerability to fire, (takes half
+### Cold Subtype
+Immunity to cold. Vulnerability to fire, (takes half
 again as much (+50%) damage as normal from fire, regardless of whether a
 saving throw is allowed, or if the save is a success or failure).
 
-**Cold Aura (Su):** A 10-foot-radius spread cold aura surrounds a shadow
+### Cold Aura (Su)
+A 10-foot-radius spread cold aura surrounds a shadow
 of the void. All creatures of the cold sub-type in the area (including
 the shadow of the void) are treated as if having turn resistance +6 (if
 undead) and fast healing 10. Creatures subject to cold Damage take 2d10
@@ -1703,7 +1842,8 @@ overcoming damage reduction.
 
 ### Combat
 
-**Blazefire (Su):** Living creatures taking Damage from a shape of
+### Blazefire (Su)
+Living creatures taking Damage from a shape of
 fire's incorporeal touch attack find them-selves ignited with blazefire;
 white-hot, lambent flames cascade over their bodies, and they must
 succeed at a Fort save (DC 37) or permanently lose 10 hit points. The
@@ -1717,20 +1857,24 @@ victim. Hit points lost to the blazefire never heal naturally and cannot
 be magically restored---they are gone for good. The save DC is
 Charisma-based.
 
-**Create Spawn (Su):** Any humanoid slain by a shape of fire becomes a
+### Create Spawn (Su)
+Any humanoid slain by a shape of fire becomes a
 lavawight in 1d4 rounds. Lavawights are under the command of the shape
 of fire that created them and remain enslaved until its death. They do
 not possess any of the abilities they had in life.
 
-**Spell-Like Abilities:** 3/day---*fire storm, incendiary cloud.* Caster
+### Spell-Like Abilities
+3/day---*fire storm, incendiary cloud.* Caster
 level 24th; save DC 20 + spell level. The save DC is Charisma-based.
 
-**Incorporeal Traits:** Can be harmed only by other incorporeal
+### Incorporeal Traits
+Can be harmed only by other incorporeal
 creatures, magic weapons, or magic, with a 50% chance to ignore any
 Damage from a corporeal source. Can pass through solid objects at will,
 and own attacks pass through armor. Always moves silently.
 
-**Undead Traits:** Immune to poison, *sleep,* paralysis, stunning,
+### Undead Traits
+Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
@@ -1743,7 +1887,8 @@ is willing.
 again as much (+50%) damage as normal from cold, regardless of whether a
 saving throw is allowed, or if the save is a success or failure).
 
-**Heat Aura (Su):** A 10-foot-radius spread heat aura surrounds a shape
+### Heat Aura (Su)
+A 10-foot-radius spread heat aura surrounds a shape
 of fire. All creatures of the fire subtype in the area (including the
 shape of fire) are treated as if having turn resistance +6 (if undead)
 and fast healing 10. Creatures subject to fire Damage take 2d10 points
@@ -1810,16 +1955,19 @@ overcoming damage reduction.
 
 ### Combat
 
-**Stunning Roar (Ex):** Every 1d4 rounds, a sirrush can loose a sonic
+### Stunning Roar (Ex)
+Every 1d4 rounds, a sirrush can loose a sonic
 attack of such volume that it stuns all creatures in a 60-foot spread
 for 1d4 rounds if they fail a Fortitude saving throw (DC 47, or DC 51
 for a three-headed sirrush). The DC is
 
-**Pounce (Ex):** If a sirrush charges or leaps upon a foe during its
+### Pounce (Ex)
+If a sirrush charges or leaps upon a foe during its
 first round of combat, it can make a full attack even if it has already
 taken a move action.
 
-**Headloss Resistance (Ex):** A sirrush's thick bony plate protects its
+### Headloss Resistance (Ex)
+A sirrush's thick bony plate protects its
 neck like a shield and provides resistance from effects that could
 normally behead it, such as a vorpal weapon. When a sirrush or
 three-headed sir-rush would otherwise lose its head, it instead makes a
@@ -1862,17 +2010,21 @@ overcoming damage reduction.
 
 ### Combat
 
-**Poison (Ex):** Sting, Fort save (DC 39); initial and secondary Damage
+### Poison (Ex)
+Sting, Fort save (DC 39); initial and secondary Damage
 2d10 temporary Con. The save DC is Constitution-based.
 
-**Pounce (Ex):** If a tayellah leaps upon a foe during the first round
+### Pounce (Ex)
+If a tayellah leaps upon a foe during the first round
 of combat, it can make a full attack even if it has already taken a move
 action.
 
-**Improved Grab (Ex):** To use this ability, the tayellah must hit with
+### Improved Grab (Ex)
+To use this ability, the tayellah must hit with
 two of its claw attacks. If it gets a hold, it can rake.
 
-**Rake (Ex):** A tayellah that gets a hold can make two additional rake
+### Rake (Ex)
+A tayellah that gets a hold can make two additional rake
 attacks (+44 melee) with legs it normally only uses for walking, dealing
 4d6+5 points of Damage each. If the tayellah pounces on an opponent, it
 can also rake.
@@ -1911,7 +2063,8 @@ overcoming damage reduction.
 
 ### Combat
 
-**Cocoon (Ex):** A thorciasid can eject a stream of noxious goo that
+### Cocoon (Ex)
+A thorciasid can eject a stream of noxious goo that
 hardens on contact, potentially fixing a subject in place and hindering
 its movement and actions. Using a standard action, the thorciasid makes
 a ranged touch attack against any foe it can see up to 60 feet away. If
@@ -1931,13 +2084,15 @@ is finally com-pletely encased in a cocoon. Even fully encased victims
 can still breathe, and a thorciasid can drain a victim's life force at
 its leisure.
 
-**Ability Drain (Su):** On a successful melee touch attack with a
+### Ability Drain (Su)
+On a successful melee touch attack with a
 forelimb, the thorciasid permanently drains 1d4+1 points of Strength,
 1d4+1 points of Dexterity, and 1 point of Constitution from the victim.
 The thorciasid regains 20 lost hit points with each successful ability
 drain.
 
-**Energy Drain (Su):** On a successful melee touch attack with an
+### Energy Drain (Su)
+On a successful melee touch attack with an
 antenna, the thorciasid gives the victim one negative level. Each
 negative level bestowed upon a victim gives the thorciasid +1 bonus to
 its Constitution that lasts for 24 hours. The negative levels similarly
@@ -1976,7 +2131,8 @@ overcoming damage reduction.
 
 ### Combat
 
-**Spell-Like Abilities:** At will---*alter self, analyze dweomer,
+### Spell-Like Abilities
+At will---*alter self, analyze dweomer,
 commune with nature, cure critical wounds, eyebite, freedom of movement,
 fly, fog cloud, produce flame, protection from energy, read magic,
 remove curse, sanctuary, sending, speak with animals, soften earth and
@@ -1986,7 +2142,8 @@ greater dispel magic, greater scrying, invisibility purge, plane shift.*
 Caster level 29th; save DC 18 + spell level. The save DCs are
 Charisma-based.
 
-**Spells:** An elder titan can use arcane spells as a 29th-level wizard
+### Spells
+An elder titan can use arcane spells as a 29th-level wizard
 or divine spells as a 29th-level cleric, from the cleric list and from
 the Knowledge and Magic domains. He will also possess the knowledge of
 at least three epic spells and the means by which to develop them,
@@ -2025,28 +2182,34 @@ Elder treants speak the language of treants, plus Common and Sylvan.
 
 ### Combat
 
-***Animate Trees* (Sp):** An elder treant can animate trees within 500
+### *Animate Trees* (Sp)
+An elder treant can animate trees within 500
 feet at will, controlling up to six trees at a time. It takes a full
 round for a normal tree to uproot itself. Thereafter it moves and fights
 as a treant in all physical respects. Animated trees lose their ability
 to move if the elder treant who animated them is incapacitated or moves
 out of range.
 
-**Trample (Ex):** An elder treant can trample Gargantuan or smaller
+### Trample (Ex)
+An elder treant can trample Gargantuan or smaller
 creatures for 8d20+40 points of Damage. Opponents who do not make
 attacks of opportunity against the elder treant can attempt a Reflex
 save (DC 54) to halve the Damage. The save DC is Strength-based.
 
-**Triple Damage against Objects (Ex):** An elder treant that makes a
+### Triple Damage against Objects (Ex)
+An elder treant that makes a
 full attack against an object or structure deals triple Damage.
 
-**Plant Traits:** Immune to poison, *sleep,* paralysis, stunning, and
+### Plant Traits
+Immune to poison, *sleep,* paralysis, stunning, and
 polymorphing; not subject to critical hits or mind-affecting effects.
 
-**Skills:** Elder treants receive skills as though they were fey. \*They
+### Skills
+Elder treants receive skills as though they were fey. \*They
 have a +24 racial bonus on Hide checks made in forested areas.
 
-**Spell-Like Abilities:** At will---*animal messenger, command plants,
+### Spell-Like Abilities
+At will---*animal messenger, command plants,
 speak with plants, stone tell;* 3/day---mass cure light wounds(plants
 only), *plant growth, sunburst, wall of thorns;* 1/day---*shambler.*
 Caster level 23rd; save DC 22 + spell level. The save DCs are
@@ -2081,7 +2244,8 @@ Charisma-based.
 
 ### Combat
 
-**Disintegrating Touch (Ex):** Any material object that comes into
+### Disintegrating Touch (Ex)
+Any material object that comes into
 contact with a blackball is immediately disintegrated unless it succeeds
 at a Fortitude save (DC 38). A character or object that has been
 disintegrated by an umbral blot disappears completely, leaving behind
@@ -2091,7 +2255,8 @@ Likewise, weapons or objects that save take a like amount of Damage.
 (Remember, tended or held objects save with the same bonus as their
 owners.)
 
-**Vortex (Ex):** Normally a blackball insulates itself somehow from the
+### Vortex (Ex)
+Normally a blackball insulates itself somehow from the
 air around it (otherwise it would perpetually be at the center of a
 howling wind-storm). If it chooses, instead of allowing the air to bend
 around it, the blackball can suspend this insulation, causing a sudden
@@ -2104,15 +2269,18 @@ the blackball. Nonflying creatures within 30 feet who fail a Reflex save
 (DC 19) are pulled into contact with the umbral blot. Contact with an
 umbral blot could lead to disintegration, as noted above.
 
-**Spell Immunities (Ex):** In addition to the spells that an umbral blot
+### Spell Immunities (Ex)
+In addition to the spells that an umbral blot
 is immune to because of its construct traits, it is immune to
 *disintegration* spells and variations thereof.
 
-**Planar Travel (Ex):** A blackball can fold space at will, allowing it
+### Planar Travel (Ex)
+A blackball can fold space at will, allowing it
 to use *ethereal jaunt, dimension door, greater teleport,* or *plane
 shift* at will as a standard action.
 
-**Construct Traits:** Immune to mind-affecting effects (charms,
+### Construct Traits
+Immune to mind-affecting effects (charms,
 compulsions, phantasms, patterns, and morale effects), and to poison,
 *sleep,* paralysis, stunning, disease, death effects, necromantic
 effects, and any effect that requires a Fortitude save unless it also
@@ -2157,14 +2325,16 @@ purpose of overcoming damage reduction.
 
 ### Combat
 
-**Confusion Aura (Su):** This ability operates continuously, as the
+### Confusion Aura (Su)
+This ability operates continuously, as the
 *confusion* spell but with a 30-foot radius. Potential victims can make
 a Will save (DC 47) to resist confusion. Those affected by the aura can
 make a new save every 4 rounds to throw off the effect. Once it has
 successfully resisted, a subject remains immune to that uvuudaum's
 confusion aura for 24 hours. The save DC is Charisma-based.
 
-**Wisdom Drain (Su):** This effect permanently reduces a living
+### Wisdom Drain (Su)
+This effect permanently reduces a living
 opponent's Wisdom score by 2d4 points when the creature hits with its
 head spike, or twice that amount on a critical hit. The creature regains
 5 lost hit points (or 10 on a critical hit ) whenever it drains Wisdom,
@@ -2172,7 +2342,8 @@ gaining any excess hit points as temporary hit points. Thesse temporary
 hit points last a maximum of 1 hour. An opponent can avoid the Wisdom
 drain with a Fortitude save (DC 47). The save DC is Charisma-based.
 
-**Spell-Like Abilities:** At will---*confusion, dimension door, greater
+### Spell-Like Abilities
+At will---*confusion, dimension door, greater
 dispel magic, displacement, haste, invisibility, lightning bolt, magic
 missile, mage armor, polymorph, shield, stoneskin, true strike, web;*
 3/day---*chain lightning, cone of cold, disintegrate, dominate person,
@@ -2181,7 +2352,8 @@ plane shift, prismatic spray, scrying, greater teleport, wall of force;*
 (epic spells), *time stop.* Caster level 27th; save DC 28 + spell level.
 The save DCs are Charisma-based.
 
-**Regeneration (Ex):** Uvuudaums take normal damage from holy weapons,
+### Regeneration (Ex)
+Uvuudaums take normal damage from holy weapons,
 cold, and fire.
 
 ## Vermiurge
@@ -2218,7 +2390,8 @@ overcoming damage reduction.
 
 ### Combat
 
-**Aura of Doom (Su):** A vermiurge is constantly affected as if by a
+### Aura of Doom (Su)
+A vermiurge is constantly affected as if by a
 *crown of vermin* spell (epic spell) cast by a 42nd-level caster. As per
 the spell, a vermiurge may completely suppress the aura of insects as
 desired. A vermiurge's aura of doom constantly replenishes itself at a
@@ -2228,18 +2401,21 @@ does not permanently collapse, even if all the vermin are slain or if
 all 1,000 vermin deal their Damage in 1 round. As soon as any vermin are
 replenished, they participate normally in the *crown of vermin* effect.
 
-**Concealing Aura (Ex):** Its aura of doom constantly provides a
+### Concealing Aura (Ex)
+Its aura of doom constantly provides a
 vermiurge with nine-tenths concealment, so all attacks made against it
 have a 40% miss chance.
 
-**Frightful Presence (Su):** This ability takes effect automatically
+### Frightful Presence (Su)
+This ability takes effect automatically
 when the vermiurge first engages its aura of doom. It affects only
 opponents with fewer Hit Dice or levels than the creature has. The
 affected creature must make a successful Will save (DC 48) or become
 shaken. Success indicates that the target is immune to that creature's
 frightful presence for one day. The save DC is Charisma-based.
 
-**Poison (Ex):** Sting or bite, Fort save (DC 44); initial Damage 1d6
+### Poison (Ex)
+Sting or bite, Fort save (DC 44); initial Damage 1d6
 temporary Con, secondary Damage 2d6 temporary Con. The save DC is
 Constitution-based.
 
@@ -2277,11 +2453,13 @@ overcoming damage reduction.
 
 ### Combat
 
-**Rend (Ex):** If the winterwight hits with both of its claws, it
+### Rend (Ex)
+If the winterwight hits with both of its claws, it
 latches onto the opponent's body and tears the flesh. This attack
 automatically deals an additional 6d8+31 points of Damage.
 
-**Blightfire (Su):** When a winterwight deals Damage to a living
+### Blightfire (Su)
+When a winterwight deals Damage to a living
 opponent, a night-black flame begins to burn on the opponent's body. If
 the opponent fails a Fortitude save (DC 35), it takes 4 points of
 permanent Constitution drain. The opponent must continue to save every
@@ -2293,12 +2471,14 @@ These temporary hit points last a maximum of 1 hour. If the opponent is
 slain by blightfire, only icy fragments of the victim remain. The save
 DC is Charisma-based.
 
-**Spell-Like Abilities:** At will---*cone of cold, control weather,
+### Spell-Like Abilities
+At will---*cone of cold, control weather,
 dimension door, spell immunity (fireball*), *sleet storm* (a winterwight
 is immune to the effects of a *sleet storm* spell), *wall of ice.*Caster
 level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.
 
-**Undead Traits:** Immune to poison, *sleep,* paralysis, stunning,
+### Undead Traits
+Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
@@ -2311,7 +2491,8 @@ is willing.
 again as much (+50%) damage as normal from fire, regardless of whether a
 saving throw is allowed, or if the save is a success or failure).
 
-**Cold Aura (Su):** A 10-foot-radius spread cold aura surrounds a
+### Cold Aura (Su)
+A 10-foot-radius spread cold aura surrounds a
 winterwight. All creatures of the cold sub-type in the field (including
 the winterwight) are treated as if having turn resistance +6 (if undead)
 and fast healing 10. Creatures subject to cold Damage take 2d10 points
@@ -2348,13 +2529,15 @@ languages it knew in life, as well as any it has learned since.
 
 ### Combat
 
-**Spells:** A worm that walks can cast any spells it could cast as a
+### Spells
+A worm that walks can cast any spells it could cast as a
 character. This sample worm was a 23rd-level wizard (spells per day:
 4/12/6/6/6/5/5/5/5/4/1/1). The last spell slots are 10th-level and
 11th-level slots, respectively, and are available for 0--9th level
 meta-magic spells.
 
-**Spell-Like Abilities:** 1/day---*animal growth* (vermin), *animal
+### Spell-Like Abilities
+1/day---*animal growth* (vermin), *animal
 messenger* (vermin), *animal shapes* (vermin), *animal trance* (vermin),
 *colossal vermin* (as *giant vermin,*but it can increase the creature's
 size from Large to Gargantuan and from Huge to Colossal), *creeping
@@ -2363,7 +2546,8 @@ nature's ally,* except it summons 10 HD of vermin per level), and
 *vermin plague* (as *insect plague).*Caster level 20th; save DC 9 +
 spell level. The save DCs are Charisma-based.
 
-**Engulf (Ex):** A worm that walks can choose to engulf an opponent who
+### Engulf (Ex)
+A worm that walks can choose to engulf an opponent who
 is no more than one size category larger than itself. The worm attempts
 to embrace its victim, and with a successful melee touch attack, the
 victim is immediately swallowed up and surrounded by a mass of vermin,
@@ -2373,10 +2557,12 @@ worm if desired, but can do nothing else. Otherwise, each round a victim
 remains embraced, it takes another 100 points of Damage. Constructs are
 immune to this attack.
 
-**Spells:** The worm that walks can cast any spells it could cast when a
+### Spells
+The worm that walks can cast any spells it could cast when a
 living character. It also gains several related abilities.
 
-**Frightful Presence (Su):** When a worm that walks engulfs a victim,
+### Frightful Presence (Su)
+When a worm that walks engulfs a victim,
 witnesses must make a Will save (DC 10 + 1/2 the worm's HD + the worm's
 Cha modifier). Those who make the save are shaken. Those who fail by 5
 or fewer points are frightened. Those who fail by 6 to10 points are
@@ -2385,7 +2571,8 @@ conditions last for 1d4 rounds. Those who have seen a worm use this
 attack before gain a +5 bonus on their saving throws. The victim of the
 worm's engulf attack has a --5 penalty on his or her saving throw.
 
-**Discorporate (Ex):** If gravely threatened, a worm can discorporate as
+### Discorporate (Ex)
+If gravely threatened, a worm can discorporate as
 a free action, simply falling into a pile of individual vermin that
 slither quickly away. So long as any of the component vermin survive,
 they can breed and create a new body to house the wizard's intelligence
@@ -2396,10 +2583,12 @@ However, discorporation almost assures that at least one maggot (if not
 dozens) will manage to crawl away, and so provide for the worm's
 continued existence.
 
-**Immunities (Ex):** A worm that walks has no discernable anatomy, so it
+### Immunities (Ex)
+A worm that walks has no discernable anatomy, so it
 is not subject to critical hits or flanking.
 
-**Possessions:** Scrolls of *fireball* (10th-level caster), greater
+### Possessions
+Scrolls of *fireball* (10th-level caster), greater
 *teleport, acid fog, incendiary cloud, shapechange, wail of the banshee,
 clenched fist, horrid wilting, maze, summon monster IX;potions of cure
 serious wounds, alter self, haste, fly.* Other magic gear: *amulet of
@@ -2413,18 +2602,23 @@ pink Ioun stone, wings of flying.*
 sorcerer. It uses all the original character's statistics, special
 abilities, and equipment, except as noted here.
 
-**Type:** The character's type changes to aberration (it is a creature
+### Type
+The character's type changes to aberration (it is a creature
 composed of hundreds of discrete crawling worms).
 
-**Hit Dice:** Increase to d8.
+### Hit Dice
+Increase to d8.
 
-**AC:** The mass of worms that make up this creature, each looking out
+### AC
+The mass of worms that make up this creature, each looking out
 for danger, in sum provide a +20 insight bonus to AC.
 
-**Special Attack:** A worm that walks retains all the character's
+### Special Attack
+A worm that walks retains all the character's
 special attacks. It also gains one special attack, engulf.
 
-**Engulf (Ex):** A worm that walks can choose to engulf an opponent who
+### Engulf (Ex)
+A worm that walks can choose to engulf an opponent who
 is no more than one size category larger than itself. The worm attempts
 to embrace its victim, and with a successful melee touch attack, the
 victim is immediately swallowed up and surrounded by a mass of vermin,
@@ -2434,10 +2628,12 @@ to half its speed away from the worm if desired, but can do nothing
 else. Otherwise, each round a victim remains embraced, it takes another
 100 points of Damage. Constructs are immune to this attack.
 
-**Spells:** A worm that walks can cast any spells it could cast as a
+### Spells
+A worm that walks can cast any spells it could cast as a
 living character.
 
-**Spell-Like Abilities:** 1/day--- *animal growth* (vermin), *animal
+### Spell-Like Abilities
+1/day--- *animal growth* (vermin), *animal
 messenger* (vermin), *animal shapes* (vermin), *animal trance* (vermin),
 *colossal vermin* (as *giant vermin,*but it can increase the creature's
 size from Large to Gargantuan and from Huge to Colossal), *creeping
@@ -2445,7 +2641,8 @@ doom, giant vermin, summon swarm* (vermin), *summon vermin* (as *summon
 nature's ally,* except it summons 10 HD of vermin per level), and
 *vermin plague* (as *insect plague).*Caster level 20th.
 
-**Special Qualities:** A worm that walks retains any special abilities
+### Special Qualities
+A worm that walks retains any special abilities
 it had in life and gains those mentioned below.
 
 ***Blindsight (Ex):***Worms that walk have blindsight 300 ft.
@@ -2473,32 +2670,44 @@ However, discorporation almost assures that at least one maggot (if not
 dozens) will manage to crawl away, and so provide for the worm's
 continued existence.
 
-**Immunities (Ex):** A worm that walks has no discernable anatomy, so it
+### Immunities (Ex)
+A worm that walks has no discernable anatomy, so it
 is not subject to critical hits or flanking.
 
-**Saves:** Same as the character.
+### Saves
+Same as the character.
 
-**Abilities:** Same as the character.
+### Abilities
+Same as the character.
 
-**Skills:** Same as the character, except that a worm that walks
+### Skills
+Same as the character, except that a worm that walks
 receives a +20 racial bonus on Hide, Intuit Direction, Listen, and Move
 Silently checks.
 
-**Feats:** Same as the character.
+### Feats
+Same as the character.
 
-**Epic Feats:** Same as the character.
+### Epic Feats
+Same as the character.
 
-**Climate/Terrain:** Any.
+### Climate/Terrain
+Any.
 
-**Organization:** Solitary, occasionally with minions or master.
+### Organization
+Solitary, occasionally with minions or master.
 
-**Challenge Rating:** Same as the character + 3.
+### Challenge Rating
+Same as the character + 3.
 
-**Treasure:** Same as the character.
+### Treasure
+Same as the character.
 
-**Alignment:** Any evil.
+### Alignment
+Any evil.
 
-**Advancement:** By character class.
+### Advancement
+By character class.
 
 ### Worm That Walks Characters
 
@@ -2523,21 +2732,29 @@ time without fail.
 
 Conjuration (Healing)
 
-**Spellcraft DC:** 49
+### Spellcraft DC
+49
 
-**Components:** V, S , D F
+### Components
+V, S , D F
 
-**Casting Time:** 7 days
+### Casting Time
+7 days
 
-**Target:** Dead creature touched
+### Target
+Dead creature touched
 
-**Duration:** Permanent
+### Duration
+Permanent
 
-**Saving Throw:** Fortitude negates (harmless)
+### Saving Throw
+Fortitude negates (harmless)
 
-**Spell Resistance:** Yes (harmless)
+### Spell Resistance
+Yes (harmless)
 
-**To Develop:** 441,000 gp; 9 days; 17,640 XP. Seeds: *life* (DC 27),
+### To Develop
+441,000 gp; 9 days; 17,640 XP. Seeds: *life* (DC 27),
 *transform* (DC 21). Factors: change creature type to aberration (+5
 DC); add worm that walks' spell-like, extraordinary, and supernatural
 abilities (+40 DC). Mitigating factors: increase casting time by 10

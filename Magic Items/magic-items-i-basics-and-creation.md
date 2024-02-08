@@ -17,36 +17,45 @@ of their own: artifacts. Artifacts are classified in turn as minor
 (extremely rare but not one-of-a-kind items) or major (each one unique
 and extremely potent).
 
-**Armor and Shields:** Magic armor (including shields) offers improved,
+### Armor and Shields
+Magic armor (including shields) offers improved,
 magical protection to the wearer. Some of these items confer abilities
 beyond a benefit to Armor Class.
 
-**Weapons:** Magic weapons are created with a variety of combat powers
+### Weapons
+Magic weapons are created with a variety of combat powers
 and almost always improve the attack and damage rolls of the wielder as
 well.
 
-**Potions:** A potion is an elixir concocted with a spell-like effect
+### Potions
+A potion is an elixir concocted with a spell-like effect
 that affects only the drinker.
 
-**Rings:** A ring is a circular metal band worn on the finger (no more
+### Rings
+A ring is a circular metal band worn on the finger (no more
 than two rings per wearer) that has a spell-like power (often a constant
 effect that affects the wearer).
 
-**Rods:** A rod is a scepter-like item with a special power unlike that
+### Rods
+A rod is a scepter-like item with a special power unlike that
 of any known spell.
 
-**Scrolls:** A scroll is a spell magically inscribed onto paper or
+### Scrolls
+A scroll is a spell magically inscribed onto paper or
 parchment so that it can be used later.
 
-**Staffs:** A staff has a number of different (but often related) spell
+### Staffs
+A staff has a number of different (but often related) spell
 effects. A newly created staff has 50 charges, and each use of the staff
 depletes one or more of those charges.
 
-**Wands:** A wand is a short stick imbued with the power to cast a
+### Wands
+A wand is a short stick imbued with the power to cast a
 specific spell. A newly created wand has 50 charges, and each use of the
 wand depletes one of those charges.
 
-**Wondrous Items:** These objects include magic jewelry, tools, books,
+### Wondrous Items
+These objects include magic jewelry, tools, books,
 clothing, and much more.
 
 ## Table of Contents
@@ -115,7 +124,8 @@ otherwise.
 
 The four ways to activate magic items are described below.
 
-**Spell Completion:** This is the activation method for scrolls. A
+### Spell Completion
+This is the activation method for scrolls. A
 scroll is a spell that is mostly finished. The preparation is done for
 the caster, so no preparation time is needed beforehand as with normal
 spellcasting. All that's left to do is perform the finishing parts of
@@ -126,7 +136,8 @@ spell, there's a chance he'll make a mistake. Activating a spell
 completion item is a standard action and provokes attacks of opportunity
 exactly as casting a spell does.
 
-**Spell Trigger:** Spell trigger activation is similar to spell
+### Spell Trigger
+Spell trigger activation is similar to spell
 completion, but it's even simpler. No gestures or spell finishing is
 needed, just a special knowledge of spellcasting that an appropriate
 character would know, and a single word that must be spoken. Anyone with
@@ -137,7 +148,8 @@ determine what spell is stored in the item before she can activate it.
 Activating a spell trigger item is a standard action and does not
 provoke attacks of opportunity.
 
-**Command Word:** If no activation method is suggested either in the
+### Command Word
+If no activation method is suggested either in the
 magic item description or by the nature of the item, assume that a
 command word is needed to activate it. Command word activation means
 that a character speaks the word and the item activates. No other
@@ -163,7 +175,8 @@ might provide some insight into a clue.
 
 The spells *identify* and *analyze dweomer* both reveal command words.
 
-**Use Activated:** This type of item simply has to be used in order to
+### Use Activated
+This type of item simply has to be used in order to
 activate it. A character has to drink a potion, swing a sword, interpose
 a shield to deflect a blow in combat, look through a lens, sprinkle
 dust, wear a ring, or don a hat. Use activation is generally
@@ -200,7 +213,8 @@ Size should not keep characters of various kinds from using magic items.
 
 There may be rare exceptions, especially with racial specific items.
 
-**Armor and Weapon Sizes:** Armor and weapons that are found at random
+### Armor and Weapon Sizes
+Armor and weapons that are found at random
 have a 30% chance of being Small (01--30), a 60% chance of being Medium
 (31--90), and a 10% chance of being any other size (91--100).
 
@@ -928,22 +942,26 @@ to an item that is already priced that price as a guide. Otherwise, use
 the guidelines summarized on Table: Estimating Magic Item Gold Piece
 Values.
 
-**Multiple Similar Abilities:** For items with multiple similar
+### Multiple Similar Abilities
+For items with multiple similar
 abilities that don't take up space on a character's body use the
 following formula: Calculate the price of the single most costly
 ability, then add 75% of the value of the next most costly ability, plus
 one-half the value of any other abilities.
 
-**Multiple Different Abilities:** Abilities such as an attack roll bonus
+### Multiple Different Abilities
+Abilities such as an attack roll bonus
 or saving throw bonus and a spell-like function are not similar, and
 their values are simply added together to determine the cost. For items
 that do take up a space on a character's body each additional power not
 only has no discount but instead has a 50% increase in price.
 
-**0-Level Spells:** When multiplying spell levels to determine value, 0-
+### 0-Level Spells
+When multiplying spell levels to determine value, 0-
 level spells should be treated as 1/2 level.
 
-**Other Considerations:** Once you have a final cost figure, reduce that
+### Other Considerations
+Once you have a final cost figure, reduce that
 number if either of the following conditions applies:
 
 ---*Item Requires Skill to Use:* Some items require a specific skill to

@@ -10,9 +10,11 @@ the terms of the Open Game License v1.0a.
 
 ## Paladin
 
-**Alignment:** Lawful good.
+### Alignment
+Lawful good.
 
-**Hit Die:** d10.
+### Hit Die
+d10.
 
 ### Class Skills
 
@@ -21,9 +23,11 @@ Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha),
 Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion)
 (Int), Profession (Wis), Ride (Dex), and Sense Motive (Wis).
 
-**Skill Points at 1st Level:** (2 + Int modifier) x4.
+### Skill Points at 1st Level
+(2 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
 <table class="full-width-table" style="width:100%;">
 <caption>Table: The Paladin</caption>
@@ -330,17 +334,21 @@ smite evil 4/day
 
 All of the following are class features of the paladin.
 
-**Weapon and Armor Proficiency:** Paladins are proficient with all
+### Weapon and Armor Proficiency
+Paladins are proficient with all
 simple and martial weapons, with all types of armor (heavy, medium, and
 light), and with shields (except tower shields).
 
-**Aura of Good (Ex):** The power of a paladin's aura of good (see the
+### Aura of Good (Ex)
+The power of a paladin's aura of good (see the
 *detect good* spell) is equal to her paladin level.
 
-***Detect Evil* (Sp):** At will, a paladin can use *detect evil*, as the
+### *Detect Evil* (Sp)
+At will, a paladin can use *detect evil*, as the
 spell.
 
-**Smite Evil (Su):** Once per day, a paladin may attempt to smite evil
+### Smite Evil (Su)
+Once per day, a paladin may attempt to smite evil
 with one normal melee attack. She adds her Charisma bonus (if any) to
 her attack roll and deals 1 extra point of damage per paladin level. If
 the paladin accidentally smites a creature that is not evil, the smite
@@ -350,10 +358,12 @@ At 5th level, and at every five levels thereafter, the paladin may smite
 evil one additional time per day, as indicated on Table: The Paladin, to
 a maximum of five times per day at 20th level.
 
-**Divine Grace (Su):** At 2nd level, a paladin gains a bonus equal to
+### Divine Grace (Su)
+At 2nd level, a paladin gains a bonus equal to
 her Charisma bonus (if any) on all saving throws.
 
-**Lay on Hands (Su):** Beginning at 2nd level, a paladin with a Charisma
+### Lay on Hands (Su)
+Beginning at 2nd level, a paladin with a Charisma
 score of 12 or higher can heal wounds (her own or those of others) by
 touch. Each day she can heal a total number of hit points of damage
 equal to her paladin level x her Charisma bonus. A paladin may choose to
@@ -366,14 +376,16 @@ a successful melee touch attack and doesn't provoke an attack of
 opportunity. The paladin decides how many of her daily allotment of
 points to use as damage after successfully touching an undead creature.
 
-**Aura of Courage (Su):** Beginning at 3rd level, a paladin is immune to
+### Aura of Courage (Su)
+Beginning at 3rd level, a paladin is immune to
 fear (magical or otherwise). Each ally within 10 feet of her gains a +4
 morale bonus on saving throws against fear effects.
 
 This ability functions while the paladin is conscious, but not if she is
 unconscious or dead.
 
-**Divine Health (Ex):** At 3rd level, a paladin gains immunity to all
+### Divine Health (Ex)
+At 3rd level, a paladin gains immunity to all
 diseases, including supernatural and magical diseases.
 
 **Turn Undead (Su):**When a paladin reaches 4th level, she gains the
@@ -381,7 +393,8 @@ supernatural ability to turn undead. She may use this ability a number
 of times per day equal to 3 + her Charisma modifier. She turns undead as
 a cleric of three levels lower would.
 
-**Spells:** Beginning at 4th level, a paladin gains the ability to cast
+### Spells
+Beginning at 4th level, a paladin gains the ability to cast
 a small number of divine spells, which are drawn from the paladin spell
 list. A paladin must choose and prepare her spells in advance.
 
@@ -408,7 +421,8 @@ choose which spells to prepare during her daily meditation.
 Through 3rd level, a paladin has no caster level. At 4th level and
 higher, her caster level is one-half her paladin level.
 
-***Special Mount* (Sp):** Upon reaching 5th level, a paladin gains the
+### *Special Mount* (Sp)
+Upon reaching 5th level, a paladin gains the
 service of an unusually intelligent, strong, and loyal steed to serve
 her in her crusade against evil (see below). This mount is usually a
 heavy warhorse (for a Medium paladin) or a warpony (for a Small
@@ -434,12 +448,14 @@ comes first, even if the mount is somehow returned from the dead. During
 this thirty-day period, the paladin takes a --1 penalty on attack and
 weapon damage rolls.
 
-***Remove Disease* (Sp):** At 6th level, a paladin can produce a *remove
+### *Remove Disease* (Sp)
+At 6th level, a paladin can produce a *remove
 disease* effect, as the spell, once per week. She can use this ability
 one additional time per week for every three levels after 6th (twice per
 week at 9th, three times at 12th, and so forth).
 
-**Code of Conduct:** A paladin must be of lawful good alignment and
+### Code of Conduct
+A paladin must be of lawful good alignment and
 loses all class abilities if she ever willingly commits an evil act.
 
 Additionally, a paladin's code requires that she respect legitimate
@@ -447,7 +463,8 @@ authority, act with honor (not lying, not cheating, not using poison,
 and so forth), help those in need (provided they do not use the help for
 evil or chaotic ends), and punish those who harm or threaten innocents.
 
-**Associates:** While she may adventure with characters of any good or
+### Associates
+While she may adventure with characters of any good or
 neutral alignment, a paladin will never knowingly associate with evil
 characters, nor will she continue an association with someone who
 consistently offends her moral code. A paladin may accept only henchmen,
@@ -489,7 +506,8 @@ animal's HD, base attack bonus, saves, skill points, and feats).
   15th--20th      +8         +10                  +4         9     Spell resistance
   --------------- ---------- -------------------- ---------- ----- --------------------------------------------------------------------
 
-**Paladin's Mount Basics:** Use the base statistics for a creature of
+### Paladin's Mount Basics
+Use the base statistics for a creature of
 the mount's kind,but make changes to take into account the attributes
 and characteristics summarized on the table and described below.
 
@@ -561,9 +579,11 @@ or exceeds the mount's spell resistance.
 
 ## Ranger
 
-**Alignment:** Any.
+### Alignment
+Any.
 
-**Hit Die:** d8.
+### Hit Die
+d8.
 
 ### Class Skills
 
@@ -574,9 +594,11 @@ Knowledge (geography) (Int), Knowledge (nature) (Int), Listen (Wis),
 Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spot
 (Wis), Survival (Wis), Swim (Str), and Use Rope (Dex).
 
-**Skill Points at 1st Level:** (6 + Int modifier) x 4.
+### Skill Points at 1st Level
+(6 + Int modifier) x 4.
 
-**Skill Points at Each Additional Level:** 6 + Int modifier.
+### Skill Points at Each Additional Level
+6 + Int modifier.
 
   ------- ------------------- ----------- ---------- ----------- ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------- ----- ----- -----
                                                                                                                                                                          []{style="                                                                             
@@ -616,11 +638,13 @@ Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spot
 
 All of the following are class features of the ranger.
 
-**Weapon and Armor Proficiency:** A ranger is proficient with all simple
+### Weapon and Armor Proficiency
+A ranger is proficient with all simple
 and martial weapons, and with light armor and shields (except tower
 shields).
 
-**Favored Enemy (Ex):** At 1st level, a ranger may select a type of
+### Favored Enemy (Ex)
+At 1st level, a ranger may select a type of
 creature from among those given on Table: Ranger Favored Enemies. The
 ranger gains a +2 bonus on Bluff, Listen, Sense Motive, Spot, and
 Survival checks when using these skills against creatures of this type.
@@ -661,9 +685,11 @@ higher.
 
   : Table: Ranger Favored Enemies
 
-**Track:** A ranger gains Track as a bonus feat.
+### Track
+A ranger gains Track as a bonus feat.
 
-**Wild Empathy (Ex):** A ranger can improve the attitude of an animal.
+### Wild Empathy (Ex)
+A ranger can improve the attitude of an animal.
 This ability functions just like a Diplomacy check to improve the
 attitude of a person. The ranger rolls 1d20 and adds his ranger level
 and his Charisma bonus to determine the wild empathy check result. The
@@ -680,7 +706,8 @@ The ranger can also use this ability to influence a magical beast with
 an Intelligence score of 1 or 2, but he takes a --4 penalty on the
 check.
 
-**Combat Style (Ex):** At 2nd level, a ranger must select one of two
+### Combat Style (Ex)
+At 2nd level, a ranger must select one of two
 combat styles to pursue: archery or two-weapon combat. This choice
 affects the character's class features but does not restrict his
 selection of feats or special abilities in any way.
@@ -696,9 +723,11 @@ The benefits of the ranger's chosen style apply only when he wears light
 or no armor. He loses all benefits of his combat style when wearing
 medium or heavy armor.
 
-**Endurance:** A ranger gains Endurance as a bonus feat at 3rd level.
+### Endurance
+A ranger gains Endurance as a bonus feat at 3rd level.
 
-**Animal Companion (Ex):** At 4th level, a ranger gains an animal
+### Animal Companion (Ex)
+At 4th level, a ranger gains an animal
 companion selected from the following list: badger, camel, dire rat,
 dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake
 (Small or Medium viper), or wolf. If the campaign takes place wholly or
@@ -714,7 +743,8 @@ as a druid can, though again his effective druid level is half his
 ranger level. Like a druid, a ranger cannot select an alternative animal
 if the choice would reduce his effective druid level below 1st.
 
-**Spells:** Beginning at 4th level, a ranger gains the ability to cast a
+### Spells
+Beginning at 4th level, a ranger gains the ability to cast a
 small number of divine spells, which are drawn from the ranger spell
 list. A ranger must choose and prepare his spells in advance (see
 below).
@@ -742,7 +772,8 @@ to prepare during his daily meditation.
 Through 3rd level, a ranger has no caster level. At 4th level and
 higher, his caster level is one-half his ranger level.
 
-**Improved Combat Style (Ex):** At 6th level, a ranger's aptitude in his
+### Improved Combat Style (Ex)
+At 6th level, a ranger's aptitude in his
 chosen combat style (archery or two-weapon combat) improves. If he
 selected archery at 2nd level, he is treated as having the Manyshot
 feat, even if he does not have the normal prerequisites for that feat.
@@ -755,7 +786,8 @@ As before, the benefits of the ranger's chosen style apply only when he
 wears light or no armor. He loses all benefits of his combat style when
 wearing medium or heavy armor.
 
-**Woodland Stride (Ex):** Starting at 7th level, a ranger may move
+### Woodland Stride (Ex)
+Starting at 7th level, a ranger may move
 through any sort of undergrowth (such as natural thorns, briars,
 overgrown areas, and similar terrain) at his normal speed and without
 taking damage or suffering any other impairment.
@@ -763,19 +795,22 @@ taking damage or suffering any other impairment.
 However, thorns, briars, and overgrown areas that are enchanted or
 magically manipulated to impede motion still affect him.
 
-**Swift Tracker (Ex):** Beginning at 8th level, a ranger can move at his
+### Swift Tracker (Ex)
+Beginning at 8th level, a ranger can move at his
 normal speed while following tracks without taking the normal --5
 penalty. He takes only a --10 penalty (instead of the normal --20) when
 moving at up to twice normal speed while tracking.
 
-**Evasion (Ex):** At 9th level, a ranger can avoid even magical and
+### Evasion (Ex)
+At 9th level, a ranger can avoid even magical and
 unusual attacks with great agility. If he makes a successful Reflex
 saving throw against an attack that normally deals half damage on a
 successful save, he instead takes no damage. Evasion can be used only if
 the ranger is wearing light armor or no armor. A helpless ranger does
 not gain the benefit of evasion.
 
-**Combat Style Mastery (Ex):** At 11th level, a ranger's aptitude in his
+### Combat Style Mastery (Ex)
+At 11th level, a ranger's aptitude in his
 chosen combat style (archery or two-weapon combat) improves again. If he
 selected archery at 2nd level, he is treated as having the Improved
 Precise Shot feat, even if he does not have the normal prerequisites for
@@ -789,19 +824,23 @@ As before, the benefits of the ranger's chosen style apply only when he
 wears light or no armor. He loses all benefits of his combat style when
 wearing medium or heavy armor.
 
-**Camouflage (Ex):** A ranger of 13th level or higher can use the Hide
+### Camouflage (Ex)
+A ranger of 13th level or higher can use the Hide
 skill in any sort of natural terrain, even if the terrain doesn't grant
 cover or concealment.
 
-**Hide in Plain Sight (Ex):** While in any sort of natural terrain, a
+### Hide in Plain Sight (Ex)
+While in any sort of natural terrain, a
 ranger of 17th level or higher can use the Hide skill even while being
 observed.
 
 ## Rogue
 
-**Alignment:** Any.
+### Alignment
+Any.
 
-**Hit Die:** d6.
+### Hit Die
+d6.
 
 ### Class Skills
 
@@ -815,9 +854,11 @@ Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand
 (Dex), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), and
 Use Rope (Dex).
 
-**Skill Points at 1st Level:** (8 + Int modifier) x 4.
+### Skill Points at 1st Level
+(8 + Int modifier) x 4.
 
-**Skill Points at Each Additional Level:** 8 + Int modifier.
+### Skill Points at Each Additional Level
+8 + Int modifier.
 
   ----------- ------------ ----------- ----------- ----------- -------------
   Level       Base Attack  Fort\       Ref\        Will\       Special
@@ -890,11 +931,13 @@ Use Rope (Dex).
 
 All of the following are class features of the rogue.
 
-**Weapon and Armor Proficiency:** Rogues are proficient with all simple
+### Weapon and Armor Proficiency
+Rogues are proficient with all simple
 weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword.
 Rogues are proficient with light armor, but not with shields.
 
-**Sneak Attack:** If a rogue can catch an opponent when he is unable to
+### Sneak Attack
+If a rogue can catch an opponent when he is unable to
 defend himself effectively from her attack, she can strike a vital spot
 for extra damage.
 
@@ -922,7 +965,8 @@ such a spot. A rogue cannot sneak attack while striking a creature with
 concealment or striking the limbs of a creature whose vitals are beyond
 reach.
 
-**Trapfinding:** Rogues (and only rogues) can use the Search skill to
+### Trapfinding
+Rogues (and only rogues) can use the Search skill to
 locate traps when the task has a Difficulty Class higher than 20.
 
 Finding a nonmagical trap has a DC of at least 20, or higher if it is
@@ -937,14 +981,16 @@ A rogue who beats a trap's DC by 10 or more with a Disable Device check
 can study a trap, figure out how it works, and bypass it (with her
 party) without disarming it.
 
-**Evasion (Ex):** At 2nd level and higher, a rogue can avoid even
+### Evasion (Ex)
+At 2nd level and higher, a rogue can avoid even
 magical and unusual attacks with great agility. If she makes a
 successful Reflex saving throw against an attack that normally deals
 half damage on a successful save, she instead takes no damage. Evasion
 can be used only if the rogue is wearing light armor or no armor. A
 helpless rogue does not gain the benefit of evasion.
 
-**Trap Sense (Ex):** At 3rd level, a rogue gains an intuitive sense that
+### Trap Sense (Ex)
+At 3rd level, a rogue gains an intuitive sense that
 alerts her to danger from traps, giving her a +1 bonus on Reflex saves
 made to avoid traps and a +1 dodge bonus to AC against attacks made by
 traps. These bonuses rise to +2 when the rogue reaches 6th level, to +3
@@ -953,7 +999,8 @@ when she reaches 9th level, to +4 when she reaches 12th level, to +5 at
 
 Trap sense bonuses gained from multiple classes stack.
 
-**Uncanny Dodge (Ex):** Starting at 4th level, a rogue can react to
+### Uncanny Dodge (Ex)
+Starting at 4th level, a rogue can react to
 danger before her senses would normally allow her to do so. She retains
 her Dexterity bonus to AC (if any) even if she is caught flat-footed or
 struck by an invisible attacker. However, she still loses her Dexterity
@@ -962,7 +1009,8 @@ bonus to AC if immobilized.
 If a rogue already has uncanny dodge from a different class she
 automatically gains improved uncanny dodge (see below) instead.
 
-**Improved Uncanny Dodge (Ex):** A rogue of 8th level or higher can no
+### Improved Uncanny Dodge (Ex)
+A rogue of 8th level or higher can no
 longer be flanked.
 
 This defense denies another rogue the ability to sneak attack the
@@ -974,7 +1022,8 @@ class, the character automatically gains improved uncanny dodge instead,
 and the levels from the classes that grant uncanny dodge stack to
 determine the minimum rogue level required to flank the character.
 
-**Special Abilities:** On attaining 10th level, and at every three
+### Special Abilities
+On attaining 10th level, and at every three
 levels thereafter (13th, 16th, and 19th), a rogue gains a special
 ability of her choice from among the following options.
 
@@ -1030,9 +1079,11 @@ her saving throw.
 
 ## Sorcerer
 
-**Alignment:** Any.
+### Alignment
+Any.
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Class Skills
 
@@ -1040,9 +1091,11 @@ The sorcerer's class skills (and the key ability for each skill) are
 Bluff (Cha), Concentration (Con), Craft (Int), Knowledge (arcana) (Int),
 Profession (Wis), and Spellcraft (Int).
 
-**Skill Points at 1st Level:** (2 + Int modifier) x 4.
+### Skill Points at 1st Level
+(2 + Int modifier) x 4.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
 <table class="full-width-table">
 <caption>Table: The Sorcerer</caption>
@@ -1514,12 +1567,14 @@ familiar
 
 All of the following are class features of the sorcerer.
 
-**Weapon and Armor Proficiency:** Sorcerers are proficient with all
+### Weapon and Armor Proficiency
+Sorcerers are proficient with all
 simple weapons. They are not proficient with any type of armor or
 shield. Armor of any type interferes with a sorcerer's gestures, which
 can cause his spells with somatic components to fail.
 
-**Spells:** A sorcerer casts arcane spells which are drawn primarily
+### Spells
+A sorcerer casts arcane spells which are drawn primarily
 from the sorcerer/wizard spell list. He can cast any spell he knows
 without preparing it ahead of time, the way a wizard or a cleric must
 (see below).
@@ -1560,7 +1615,8 @@ advance. He can cast any spell he knows at any time, assuming he has not
 yet used up his spells per day for that spell level. He does not have to
 decide ahead of time which spells he'll cast.
 
-**Familiar:** A sorcerer can obtain a familiar (see below). Doing so
+### Familiar
+A sorcerer can obtain a familiar (see below). Doing so
 takes 24 hours and uses up magical materials that cost 100 gp. A
 familiar is a magical beast that resembles a small animal and is
 unusually tough and intelligent. The creature serves as a companion and
@@ -1584,9 +1640,11 @@ only one familiar at a time.
 
 ## Wizard
 
-**Alignment:** Any.
+### Alignment
+Any.
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
 ### Class Skills
 
@@ -1595,9 +1653,11 @@ Concentration (Con), Craft (Int), Decipher Script (Int), Knowledge (all
 skills, taken individually) (Int), Profession (Wis), and Spellcraft
 (Int). See Chapter 4: Skills for skill descriptions.
 
-**Skill Points at 1st Level:** (2 + Int modifier) x4.
+### Skill Points at 1st Level
+(2 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
 <table class="full-width-table">
 <caption>Table: The Wizard</caption>
@@ -2035,13 +2095,15 @@ Scribe Scroll
 
 All of the following are class features of the wizard.
 
-**Weapon and Armor Proficiency:** Wizards are proficient with the club,
+### Weapon and Armor Proficiency
+Wizards are proficient with the club,
 dagger, heavy crossbow, light crossbow, and quarterstaff, but not with
 any type of armor or shield. Armor of any type interferes with a
 wizard's movements, which can cause her spells with somatic components
 to fail.
 
-**Spells:** A wizard casts arcane spells which are drawn from the
+### Spells
+A wizard casts arcane spells which are drawn from the
 sorcerer/ wizard spell list. A wizard must choose and prepare her spells
 ahead of time (see below).
 
@@ -2060,17 +2122,21 @@ must choose and prepare her spells ahead of time by getting a good
 night's sleep and spending 1 hour studying her spellbook. While
 studying, the wizard decides which spells to prepare.
 
-**Bonus Languages:** A wizard may substitute Draconic for one of the
+### Bonus Languages
+A wizard may substitute Draconic for one of the
 bonus languages available to the character because of her race.
 
-**Familiar:** A wizard can obtain a familiar in exactly the same manner
+### Familiar
+A wizard can obtain a familiar in exactly the same manner
 as a sorcerer can. See the sorcerer description and the information on
 Familiars below for details.
 
-**Scribe Scroll:** At 1st level, a wizard gains Scribe Scroll as a bonus
+### Scribe Scroll
+At 1st level, a wizard gains Scribe Scroll as a bonus
 feat.
 
-**Bonus Feats:** At 5th, 10th, 15th, and 20th level, a wizard gains a
+### Bonus Feats
+At 5th, 10th, 15th, and 20th level, a wizard gains a
 bonus feat. At each such opportunity, she can choose a metamagic feat,
 an item creation feat, or Spell Mastery. The wizard must still meet all
 prerequisites for a bonus feat, including caster level minimums.
@@ -2080,7 +2146,8 @@ class gets from advancing levels. The wizard is not limited to the
 categories of item creation feats, metamagic feats, or Spell Mastery
 when choosing these feats.
 
-**Spellbooks:** A wizard must study her spellbook each day to prepare
+### Spellbooks
+A wizard must study her spellbook each day to prepare
 her spells. She cannot prepare any spell not recorded in her spellbook,
 except for *read magic*, which all wizards can prepare from memory.
 
@@ -2191,7 +2258,8 @@ master's level.
   ^2^ Tiny viper.                                                                                 
   ----------------------------------------------------------------------------------------------- --------------------------------------------------------
 
-**Familiar Basics:** Use the basic statistics for a creature of the
+### Familiar Basics
+Use the basic statistics for a creature of the
 familiar's kind, but make the following changes:
 
 *Hit Dice:* For the purpose of effects related to number of Hit Dice,
@@ -2222,7 +2290,8 @@ familiar uses its own ability modifiers. Regardless of a familiar's
 total skill modifiers, some skills may remain beyond the familiar's
 ability to use.
 
-**Familiar Ability Descriptions:** All familiars have special abilities
+### Familiar Ability Descriptions
+All familiars have special abilities
 (or impart abilities to their masters) depending on the master's
 combined level in classes that grant familiars, as shown on the table
 below. The abilities given on the table are cumulative.
@@ -2354,24 +2423,29 @@ expense of focus.
 As a general rule, the abilities of a multiclass character are the sum
 of the abilities of each of the character's classes.
 
-**Level:** "Character level" is a character's total number of levels. It
+### Level
+"Character level" is a character's total number of levels. It
 is used to determine when feats and ability score boosts are gained.
 
 "Class level" is a character's level in a particular class. For a
 character whose levels are all in the same class, character level and
 class level are the same.
 
-**Hit Points:** A character gains hit points from each class as his or
+### Hit Points
+A character gains hit points from each class as his or
 her class level increases, adding the new hit points to the previous
 total.
 
-**Base Attack Bonus:** Add the base attack bonuses acquired for each
+### Base Attack Bonus
+Add the base attack bonuses acquired for each
 class to get the character's base attack bonus. A resulting value of +6
 or higher provides the character with multiple attacks.
 
-**Saving Throws:** Add the base save bonuses for each class together.
+### Saving Throws
+Add the base save bonuses for each class together.
 
-**Skills:** If a skill is a class skill for any of a multiclass
+### Skills
+If a skill is a class skill for any of a multiclass
 character's classes, then character level determines a skill's maximum
 rank. (The maximum rank for a class skill is 3 + character level.)
 
@@ -2379,7 +2453,8 @@ If a skill is not a class skill for any of a multiclass character's
 classes, the maximum rank for that skill is one-half the maximum for a
 class skill.
 
-**Class Features:** A multiclass character gets all the class features
+### Class Features
+A multiclass character gets all the class features
 of all his or her classes but must also suffer the consequences of the
 special restrictions of all his or her classes. (*Exception:* A
 character who acquires the barbarian class does not become illiterate.)
@@ -2401,14 +2476,17 @@ have the same ability. A sorcerer/wizard stacks his sorcerer and wizard
 levels to determine the familiar's natural armor, Intelligence score,
 and special abilities.
 
-**Feats:** A multiclass character gains feats based on character levels,
+### Feats
+A multiclass character gains feats based on character levels,
 regardless of individual class level
 
-**Ability Increases:** A multiclass character gains ability score
+### Ability Increases
+A multiclass character gains ability score
 increases based on character level, regardless of individual class
 level.
 
-**Spells:** The character gains spells from all of his or her
+### Spells
+The character gains spells from all of his or her
 spellcasting classes and keeps a separate spell list for each class. If
 a spell's effect is based on the class level of the caster, the player
 must keep track of which class's spell list the character is casting the

@@ -14,18 +14,21 @@ the terms of the Open Game License v1.0a.
 A special ability is either extraordinary, spell-like, or supernatural
 in nature.
 
-**Extraordinary Abilities (Ex):** Extraordinary abilities are
+### Extraordinary Abilities (Ex)
+Extraordinary abilities are
 nonmagical. They are, however, not something that just anyone can do or
 even learn to do without extensive training. Effects or areas that
 negate or disrupt magic have no effect on extraordinary abilities.
 
-**Spell-Like Abilities (Sp):** Spell-like abilities, as the name
+### Spell-Like Abilities (Sp)
+Spell-like abilities, as the name
 implies, are spells and magical abilities that are very much like
 spells. Spell-like abilities are subject to spell resistance and *dispel
 magic*. They do not function in areas where magic is suppressed or
 negated (such as an *antimagic field*).
 
-**Supernatural Abilities (Su):** Supernatural abilities are magical but
+### Supernatural Abilities (Su)
+Supernatural abilities are magical but
 not spell-like. Supernatural abilities are not subject to spell
 resistance and do not function in areas where magic is suppressed or
 negated (such as an *antimagic field*). A supernatural ability's effect
@@ -148,7 +151,8 @@ out to a range specified in the creature description.
 -   Blindsight works underwater but not in a vacuum.
 -   Blindsight negates displacement and blur effects.
 
-**Blindsense:** Other creatures have blindsense, a lesser ability that
+### Blindsense
+Other creatures have blindsense, a lesser ability that
 lets the creature notice things it cannot see, but without the precision
 of blindsight. The creature with blindsense usually does not need to
 make Spot or Listen checks to notice and locate creatures within range
@@ -339,7 +343,8 @@ of repeated damage, and to recover from the disease.
 *Damage:* The ability damage the character takes after incubation and
 each day afterward.
 
-**Types of Diseases:** Typical diseases include the following:
+### Types of Diseases
+Typical diseases include the following:
 
 *Blinding Sickness:* Spread in tainted water.
 
@@ -539,10 +544,12 @@ fear. In most cases, the character makes a Will saving throw to resist
 this effect, and a failed roll means that the character is shaken,
 frightened, or panicked.
 
-**Shaken:** Characters who are shaken take a --2 penalty on attack
+### Shaken
+Characters who are shaken take a --2 penalty on attack
 rolls, saving throws, skill checks, and ability checks.
 
-**Frightened:** Characters who are frightened are shaken, and in
+### Frightened
+Characters who are frightened are shaken, and in
 addition they flee from the source of their fear as quickly as they can.
 They can choose the path of their flight. Other than that stipulation,
 once they are out of sight (or hearing) of the source of their fear,
@@ -551,13 +558,15 @@ continues, characters can be forced to flee once more if the source of
 their fear presents itself again. Characters unable to flee can fight
 (though they are still shaken).
 
-**Panicked:** Characters who are panicked are shaken, and they run away
+### Panicked
+Characters who are panicked are shaken, and they run away
 from the source of their fear as quickly as they can. Other than running
 away from the source, their path is random. They flee from all other
 dangers that confront them rather than facing those dangers. Panicked
 characters cower if they are prevented from fleeing.
 
-**Becoming Even More Fearful:** Fear effects are cumulative. A shaken
+### Becoming Even More Fearful
+Fear effects are cumulative. A shaken
 character who is made shaken again becomes frightened, and a shaken
 character who is made frightened becomes panicked instead. A frightened
 character who is made shaken or frightened becomes panicked instead.
@@ -883,19 +892,22 @@ effects are almost always extraordinary.
 Poisons can be divided into four basic types according to the method by
 which their effect is delivered, as follows.
 
-**Contact:** Merely touching this type of poison necessitates a saving
+### Contact
+Merely touching this type of poison necessitates a saving
 throw. It can be actively delivered via a weapon or a touch attack. Even
 if a creature has sufficient damage reduction to avoid taking any damage
 from the attack, the poison can still affect it. A chest or other object
 can be smeared with contact poison as part of a trap.
 
-**Ingested:** Ingested poisons are virtually impossible to utilize in a
+### Ingested
+Ingested poisons are virtually impossible to utilize in a
 combat situation. A poisoner could administer a potion to an unconscious
 creature or attempt to dupe someone into drinking or eating something
 poisoned. Assassins and other characters tend to use ingested poisons
 outside of combat.
 
-**Inhaled:** Inhaled poisons are usually contained in fragile vials or
+### Inhaled
+Inhaled poisons are usually contained in fragile vials or
 eggshells. They can be thrown as a ranged attack with a range increment
 of 10 feet. When it strikes a hard surface (or is struck hard), the
 container releases its poison. One dose spreads to fill the volume of a
@@ -903,7 +915,8 @@ container releases its poison. One dose spreads to fill the volume of a
 (Holding one's breath is ineffective against inhaled poisons; they
 affect the nasal membranes, tear ducts, and other parts of the body.)
 
-**Injury:** This poison must be delivered through a wound. If a creature
+### Injury
+This poison must be delivered through a wound. If a creature
 has sufficient damage reduction to avoid taking any damage from the
 attack, the poison does not affect it. Traps that cause damage from
 weapons, needles, and the like sometimes contain injury poisons.
@@ -1149,18 +1162,21 @@ Each spell includes an entry that indicates whether spell resistance
 applies to the spell. In general, whether spell resistance applies
 depends on what the spell does:
 
-**Targeted Spells:** Spell resistance applies if the spell is targeted
+### Targeted Spells
+Spell resistance applies if the spell is targeted
 at the creature. Some individually targeted spells can be directed at
 several creatures simultaneously. In such cases, a creature's spell
 resistance applies only to the portion of the spell actually targeted at
 that creature. If several different resistant creatures are subjected to
 such a spell, each checks its spell resistance separately.
 
-**Area Spells:** Spell resistance applies if the resistant creature is
+### Area Spells
+Spell resistance applies if the resistant creature is
 within the spell's area. It protects the resistant creature without
 affecting the spell itself.
 
-**Effect Spells:** Most effect spells summon or create something and are
+### Effect Spells
+Most effect spells summon or create something and are
 not subject to spell resistance. Sometimes, however, spell resistance
 applies to effect spells, usually to those that act upon a creature more
 or less directly, such as *web.*
@@ -1195,7 +1211,8 @@ the instant it is cast.
 When in doubt about whether a spell's effect is direct or indirect,
 consider the spell's school:
 
-**Abjuration:** The target creature must be harmed, changed, or
+### Abjuration
+The target creature must be harmed, changed, or
 restricted in some manner for spell resistance to apply. Perception
 changes aren't subject to spell resistance.
 
@@ -1203,31 +1220,38 @@ Abjurations that block or negate attacks are not subject to an
 attacker's spell resistance---it is the protected creature that is
 affected by the spell (becoming immune or resistant to the attack).
 
-**Conjuration:** These spells are usually not subject to spell
+### Conjuration
+These spells are usually not subject to spell
 resistance unless the spell conjures some form of energy. Spells that
 summon creatures or produce effects that function like creatures are not
 subject to spell resistance.
 
-**Divination:** These spells do not affect creatures directly and are
+### Divination
+These spells do not affect creatures directly and are
 not subject to spell resistance, even though what they reveal about a
 creature might be very damaging.
 
-**Enchantment:** Since enchantment spells affect creatures' minds, they
+### Enchantment
+Since enchantment spells affect creatures' minds, they
 are typically subject to spell resistance.
 
-**Evocation:** If an evocation spell deals damage to the creature, it
+### Evocation
+If an evocation spell deals damage to the creature, it
 has a direct effect. If the spell damages something else, it has an
 indirect effect.
 
-**Illusion:** These spells are almost never subject to spell resistance.
+### Illusion
+These spells are almost never subject to spell resistance.
 Illusions that entail a direct attack are exceptions.
 
-**Necromancy:** Most of these spells alter the target creature's life
+### Necromancy
+Most of these spells alter the target creature's life
 force and are subject to spell resistance. Unusual necromancy spells
 that don't affect other creatures directly are not subject to spell
 resistance.
 
-**Transmutation:** These spells are subject to spell resistance if they
+### Transmutation
+These spells are subject to spell resistance if they
 transform the target creature. Transmutation spells are not subject to
 spell resistance if they are targeted on a point in space instead of on
 a creature. Some transmutations make objects harmful (or more harmful),
@@ -1279,7 +1303,8 @@ appropriate bonus to the creature's Hit Dice total.
 If more than one condition affects a character, apply them all. If
 certain effects can't combine, apply the most severe effect.
 
-**Ability Damaged:** The character has temporarily lost 1 or more
+### Ability Damaged
+The character has temporarily lost 1 or more
 ability score points. Lost points return at a rate of 1 per day unless
 noted otherwise by the condition dealing the damage. A character with
 Strength 0 falls to the ground and is helpless. A character with
@@ -1288,14 +1313,16 @@ character with Intelligence, Wisdom, or Charisma 0 is unconscious.
 Ability damage is different from penalties to ability scores, which go
 away when the conditions causing them go away.
 
-**Ability Drained:** The character has permanently lost 1 or more
+### Ability Drained
+The character has permanently lost 1 or more
 ability score points. The character can regain these points only through
 magical means. A character with Strength 0 falls to the ground and is
 helpless. A character with Dexterity 0 is paralyzed. A character with
 Constitution 0 is dead. A character with Intelligence, Wisdom, or
 Charisma 0 is unconscious.
 
-**Blinded:** The character cannot see. He takes a --2 penalty to Armor
+### Blinded
+The character cannot see. He takes a --2 penalty to Armor
 Class, loses his Dexterity bonus to AC (if any), moves at half speed,
 and takes a --4 penalty on Search checks and on most Strength- and
 Dexterity-based skill checks. All checks and activities that rely on
@@ -1304,14 +1331,16 @@ opponents are considered to have total concealment (50% miss chance) to
 the blinded character. Characters who remain blinded for a long time
 grow accustomed to these drawbacks and can overcome some of them.
 
-**Blown Away:** Depending on its size, a creature can be blown away by
+### Blown Away
+Depending on its size, a creature can be blown away by
 winds of high velocity. A creature on the ground that is blown away is
 knocked down and rolls 1d4 x 10 feet, taking 1d4 points of nonlethal
 damage per 10 feet. A flying creature that is blown away is blown back
 2d6 x 10 feet and takes 2d6 points of nonlethal damage due to battering
 and buffering.
 
-**Checked:** Prevented from achieving forward motion by an applied
+### Checked
+Prevented from achieving forward motion by an applied
 force, such as wind. Checked creatures on the ground merely stop.
 Checked flying creatures move back a distance specified in the
 description of the effect.
@@ -1331,20 +1360,24 @@ A *confused* character does not make attacks of opportunity against any
 creature that it is not already devoted to attacking (either because of
 its most recent action or because it has just been attacked).
 
-**Cowering:** The character is frozen in fear and can take no actions. A
+### Cowering
+The character is frozen in fear and can take no actions. A
 cowering character takes a --2 penalty to Armor Class and loses her
 Dexterity bonus (if any).
 
-**Dazed:** The creature is unable to act normally. A dazed creature can
+### Dazed
+The creature is unable to act normally. A dazed creature can
 take no actions, but has no penalty to AC.
 
 A dazed condition typically lasts 1 round.
 
-**Dazzled:** The creature is unable to see well because of
+### Dazzled
+The creature is unable to see well because of
 overstimulation of the eyes. A dazzled creature takes a --1 penalty on
 attack rolls, Search checks, and Spot checks.
 
-**Dead:** The character's hit points are reduced to --10, his
+### Dead
+The character's hit points are reduced to --10, his
 Constitution drops to 0, or he is killed outright by a spell or effect.
 The character's soul leaves his body. Dead characters cannot benefit
 from normal or magical healing, but they can be restored to life via
@@ -1355,13 +1388,15 @@ spell or device). Either way, resurrected characters need not worry
 about rigor mortis, decomposition, and other conditions that affect dead
 bodies.
 
-**Deafened:** A deafened character cannot hear. She takes a --4 penalty
+### Deafened
+A deafened character cannot hear. She takes a --4 penalty
 on initiative checks, automatically fails Listen checks, and has a 20%
 chance of spell failure when casting spells with verbal components.
 Characters who remain deafened for a long time grow accustomed to these
 drawbacks and can overcome some of them.
 
-**Disabled:** A character with 0 hit points, or one who has negative hit
+### Disabled
+A character with 0 hit points, or one who has negative hit
 points but has become stable and conscious, is disabled. A disabled
 character may take a single move action or standard action each round
 (but not both, nor can she take full-round actions). She moves at half
@@ -1379,7 +1414,8 @@ day); otherwise, she loses 1 hit point. Once an unaided character starts
 recovering hit points naturally, she is no longer in danger of losing
 hit points (even if her current hit points are negative).
 
-**Dying:** A dying character is unconscious and near death. She has --1
+### Dying
+A dying character is unconscious and near death. She has --1
 to --9 current hit points. A dying character can take no actions and is
 unconscious. At the end of each round (starting with the round in which
 the character dropped below 0 hit points), the character rolls d% to see
@@ -1387,7 +1423,8 @@ whether she becomes stable. She has a 10% chance to become stable. If
 she does not, she loses 1 hit point. If a dying character reaches --10
 hit points, she is dead.
 
-**Energy Drained:** The character gains one or more negative levels,
+### Energy Drained
+The character gains one or more negative levels,
 which might permanently drain the character's levels. If the subject has
 at least as many negative levels as Hit Dice, he dies. Each negative
 level gives a creature the following penalties: --1 penalty on attack
@@ -1397,7 +1434,8 @@ DC, and other details of spells or special abilities). In addition, a
 spellcaster loses one spell or spell slot from the highest spell level
 castable.
 
-**Entangled:** The character is ensnared. Being entangled impedes
+### Entangled
+The character is ensnared. Being entangled impedes
 movement, but does not entirely prevent it unless the bonds are anchored
 to an immobile object or tethered by an opposing force. An entangled
 creature moves at half speed, cannot run or charge, and takes a --2
@@ -1405,12 +1443,14 @@ penalty on all attack rolls and a --4 penalty to Dexterity. An entangled
 character who attempts to cast a spell must make a Concentration check
 (DC 15 + the spell's level) or lose the spell.
 
-**Exhausted:** An exhausted character moves at half speed and takes a
+### Exhausted
+An exhausted character moves at half speed and takes a
 --6 penalty to Strength and Dexterity. After 1 hour of complete rest, an
 exhausted character becomes fatigued. A fatigued character becomes
 exhausted by doing something else that would normally cause fatigue.
 
-**Fascinated:** A fascinated creature is entranced by a supernatural or
+### Fascinated
+A fascinated creature is entranced by a supernatural or
 spell effect. The creature stands or sits quietly, taking no actions
 other than to pay attention to the fascinating effect, for as long as
 the effect lasts. It takes a --4 penalty on skill checks made as
@@ -1421,18 +1461,21 @@ someone drawing a weapon, casting a spell, or aiming a ranged weapon at
 the fascinated creature, automatically breaks the effect. A fascinated
 creature's ally may shake it free of the spell as a standard action.
 
-**Fatigued:** A fatigued character can neither run nor charge and takes
+### Fatigued
+A fatigued character can neither run nor charge and takes
 a --2 penalty to Strength and Dexterity. Doing anything that would
 normally cause fatigue causes the fatigued character to become
 exhausted. After 8 hours of complete rest, fatigued characters are no
 longer fatigued.
 
-**Flat-Footed:** A character who has not yet acted during a combat is
+### Flat-Footed
+A character who has not yet acted during a combat is
 flat-footed, not yet reacting normally to the situation. A flat-footed
 character loses his Dexterity bonus to AC (if any) and cannot make
 attacks of opportunity.
 
-**Frightened:** A frightened creature flees from the source of its fear
+### Frightened
+A frightened creature flees from the source of its fear
 as best it can. If unable to flee, it may fight. A frightened creature
 takes a --2 penalty on all attack rolls, saving throws, skill checks,
 and ability checks. A frightened creature can use special abilities,
@@ -1442,13 +1485,15 @@ they are the only way to escape.
 Frightened is like shaken, except that the creature must flee if
 possible. Panicked is a more extreme state of fear.
 
-**Grappling:** Engaged in wrestling or some other form of hand-to-hand
+### Grappling
+Engaged in wrestling or some other form of hand-to-hand
 struggle with one or more attackers. A grappling character can undertake
 only a limited number of actions. He does not threaten any squares, and
 loses his Dexterity bonus to AC (if any) against opponents he isn't
 grappling.
 
-**Helpless:** A helpless character is paralyzed, *held*, bound,
+### Helpless
+A helpless character is paralyzed, *held*, bound,
 sleeping, unconscious, or otherwise completely at an opponent's mercy. A
 helpless target is treated as having a Dexterity of 0 (--5 modifier).
 Melee attacks against a helpless target get a +4 bonus (equivalent to
@@ -1469,27 +1514,32 @@ Creatures that are immune to critical hits do not take critical damage,
 nor do they need to make Fortitude saves to avoid being killed by a coup
 de grace.
 
-**Incorporeal:** Having no physical body. Incorporeal creatures are
+### Incorporeal
+Having no physical body. Incorporeal creatures are
 immune to all nonmagical attack forms. They can be harmed only by other
 incorporeal creatures, +1 or better magic weapons, spells, spell-like
 effects, or supernatural effects.
 
-**Invisible:** Visually undetectable. An invisible creature gains a +2
+### Invisible
+Visually undetectable. An invisible creature gains a +2
 bonus on attack rolls against sighted opponents, and ignores its
 opponents' Dexterity bonuses to AC (if any). (See Invisibility, under
 Special Abilities.)
 
-**Knocked Down:** Depending on their size, creatures can be knocked down
+### Knocked Down
+Depending on their size, creatures can be knocked down
 by winds of high velocity. Creatures on the ground are knocked prone by
 the force of the wind. Flying creatures are instead blown back 1d6 x 10
 feet.
 
-**Nauseated:** Experiencing stomach distress. Nauseated creatures are
+### Nauseated
+Experiencing stomach distress. Nauseated creatures are
 unable to attack, cast spells, concentrate on spells, or do anything
 else requiring attention. The only action such a character can take is a
 single move action per turn.
 
-**Panicked:** A panicked creature must drop anything it holds and flee
+### Panicked
+A panicked creature must drop anything it holds and flee
 at top speed from the source of its fear, as well as any other dangers
 it encounters, along a random path. It can't take any other actions. In
 addition, the creature takes a --2 penalty on all saving throws, skill
@@ -1501,7 +1551,8 @@ escape.
 
 Panicked is a more extreme state of fear than shaken or frightened.
 
-**Paralyzed:** A paralyzed character is frozen in place and unable to
+### Paralyzed
+A paralyzed character is frozen in place and unable to
 move or act. A paralyzed character has effective Dexterity and Strength
 scores of 0 and is helpless, but can take purely mental actions. A
 winged creature flying in the air at the time that it becomes paralyzed
@@ -1510,16 +1561,19 @@ drown. A creature can move through a space occupied by a paralyzed
 creature---ally or not. Each square occupied by a paralyzed creature,
 however, counts as 2 squares.
 
-**Petrified:** A petrified character has been turned to stone and is
+### Petrified
+A petrified character has been turned to stone and is
 considered unconscious. If a petrified character cracks or breaks, but
 the broken pieces are joined with the body as he returns to flesh, he is
 unharmed. If the character's petrified body is incomplete when it
 returns to flesh, the body is likewise incomplete and there is some
 amount of permanent hit point loss and/or debilitation.
 
-**Pinned:** Held immobile (but not helpless) in a grapple.
+### Pinned
+Held immobile (but not helpless) in a grapple.
 
-**Prone:** The character is on the ground. An attacker who is prone has
+### Prone
+The character is on the ground. An attacker who is prone has
 a --4 penalty on melee attack rolls and cannot use a ranged weapon
 (except for a crossbow). A defender who is prone gains a +4 bonus to
 Armor Class against ranged attacks, but takes a --4 penalty to AC
@@ -1528,15 +1582,18 @@ against melee attacks.
 Standing up is a move-equivalent action that provokes an attack of
 opportunity.
 
-**Shaken:** A shaken character takes a --2 penalty on attack rolls,
+### Shaken
+A shaken character takes a --2 penalty on attack rolls,
 saving throws, skill checks, and ability checks.
 
 Shaken is a less severe state of fear than frightened or panicked.
 
-**Sickened:** The character takes a --2 penalty on all attack rolls,
+### Sickened
+The character takes a --2 penalty on all attack rolls,
 weapon damage rolls, saving throws, skill checks, and ability checks.
 
-**Stable:** A character who was dying but who has stopped losing hit
+### Stable
+A character who was dying but who has stopped losing hit
 points and still has negative hit points is stable. The character is no
 longer dying, but is still unconscious. If the character has become
 stable because of aid from another character (such as a Heal check or
@@ -1548,7 +1605,8 @@ If the character became stable on his own and hasn't had help, he is
 still at risk of losing hit points. Each hour, he has a 10% chance of
 becoming conscious and disabled. Otherwise he loses 1 hit point.
 
-**Staggered:** A character whose nonlethal damage exactly equals his
+### Staggered
+A character whose nonlethal damage exactly equals his
 current hit points is staggered. A staggered character may take a single
 move action or standard action each round (but not both, nor can she
 take full-round actions).
@@ -1557,14 +1615,17 @@ A character whose current hit points exceed his nonlethal damage is no
 longer staggered; a character whose nonlethal damage exceeds his hit
 points becomes unconscious.
 
-**Stunned:** A stunned creature drops everything held, can't take
+### Stunned
+A stunned creature drops everything held, can't take
 actions, takes a --2 penalty to AC, and loses his Dexterity bonus to AC
 (if any).
 
-**Turned:** Affected by a turn undead attempt. Turned undead flee for 10
+### Turned
+Affected by a turn undead attempt. Turned undead flee for 10
 rounds (1 minute) by the best and fastest means available to them. If
 they cannot flee, they cower.
 
-**Unconscious:** Knocked out and helpless. Unconsciousness can result
+### Unconscious
+Knocked out and helpless. Unconsciousness can result
 from having current hit points between --1 and --9, or from nonlethal
 damage in excess of current hit points.

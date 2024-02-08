@@ -9,7 +9,8 @@ the terms of the Open Game License v1.0a.
 
 # TYPES, SUBTYPES, & SPECIAL ABILITIES
 
-**Aberration Type:** An aberration has a bizarre anatomy, strange
+### Aberration Type
+An aberration has a bizarre anatomy, strange
 abilities, an alien mindset, or any combination of the three.
 
 *Features:* An aberration has the following features.
@@ -40,7 +41,8 @@ armor.
 
 ---Aberrations eat, sleep, and breathe.
 
-**Ability Score Loss (Su):** Some attacks reduce the opponent's score in
+### Ability Score Loss (Su)
+Some attacks reduce the opponent's score in
 one or more abilities. This loss can be temporary (ability damage) or
 permanent (ability drain).
 
@@ -67,7 +69,8 @@ creature's racial HD + draining creature's Cha modifier; the exact DC is
 given in the creature's descriptive text). If no saving throw is
 mentioned, none is allowed.
 
-**Alternate Form (Su):** A creature with this special quality has the
+### Alternate Form (Su)
+A creature with this special quality has the
 ability to assume one or more specific alternate forms. This ability
 works much like the *polymorph* spell, except that the creature is
 limited to the forms specified, and does not regain any hit points for
@@ -107,11 +110,13 @@ somatic components.
 form, and it gains a +10 bonus on Disguise checks if it uses this
 ability to create a disguise.
 
-**Air Subtype:** This subtype usually is used for elementals and
+### Air Subtype
+This subtype usually is used for elementals and
 outsiders with a connection to the Elemental Plane Air. Air creatures
 always have fly speeds and usually have perfect maneuverability.
 
-**Angel Subtype:** Angels are a race of celestials, or good outsiders,
+### Angel Subtype
+Angels are a race of celestials, or good outsiders,
 native to the good-aligned Outer Planes.
 
 *Traits:* An angel possesses the following traits (unless otherwise
@@ -137,7 +142,8 @@ not included in an angel's statistics block.)
 language, as though using a *tongues* spell (caster level equal to
 angel's Hit Dice). This ability is always active.
 
-**Animal Type:** An animal is a living, nonhuman creature, usually a
+### Animal Type
+An animal is a living, nonhuman creature, usually a
 vertebrate with no magical abilities and no innate capacity for language
 or culture.
 
@@ -175,12 +181,14 @@ receives only 1/2 its Strength modifier as a damage adjustment.
 
 ---Animals eat, sleep, and breathe.
 
-**Aquatic Subtype:** These creatures always have swim speeds and thus
+### Aquatic Subtype
+These creatures always have swim speeds and thus
 can move in water without making Swim checks. An aquatic creature can
 breathe underwater. It cannot also breathe air unless it has the
 amphibious special quality.
 
-**Archon Subtype:** Archons are a race of celestials, or good outsiders,
+### Archon Subtype
+Archons are a race of celestials, or good outsiders,
 native to lawful good-aligned Outer Planes.
 
 *Traits:* An archon possesses the following traits (unless otherwise
@@ -214,7 +222,8 @@ and up to 50 pounds of objects.
 language, as though using a *tongues* spell (caster level 14th). This
 ability is always active.
 
-**Augmented Subtype:** A creature receives this subtype whenever
+### Augmented Subtype
+A creature receives this subtype whenever
 something happens to change its original type. Some creatures (those
 with an inherited template) are born with this subtype; others acquire
 it when they take on an acquired template. The augmented subtype is
@@ -222,7 +231,8 @@ always paired with the creature's original type. A creature with the
 augmented subtype usually has the traits of its current type, but the
 features of its original type.
 
-**Blindsense (Ex):** Using nonvisual senses, such as acute smell or
+### Blindsense (Ex)
+Using nonvisual senses, such as acute smell or
 hearing, a creature with blindsense notices things it cannot see. The
 creature usually does not need to make Spot or Listen checks to pinpoint
 the location of a creature within range of its blindsense ability,
@@ -234,7 +244,8 @@ movement of a creature with blindsense. A creature with blindsense is
 still denied its Dexterity bonus to Armor Class against attacks from
 creatures it cannot see.
 
-**Blindsight (Ex):** This ability is similar to blindsense, but is far
+### Blindsight (Ex)
+This ability is similar to blindsense, but is far
 more discerning. Using nonvisual senses, such as sensitivity to
 vibrations, keen smell, acute hearing, or echolocation, a creature with
 blindsight maneuvers and fights as well as a sighted creature.
@@ -250,7 +261,8 @@ creature's description. If a creature must trigger its blindsight
 ability, the creature gains the benefits of blindsight only during its
 turn.
 
-**Breath Weapon (Su):** A breath weapon attack usually deals damage and
+### Breath Weapon (Su)
+A breath weapon attack usually deals damage and
 is often based on some type of energy.
 
 Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2
@@ -259,7 +271,8 @@ exact DC is given in the creature's descriptive text). A creature is
 immune to its own breath weapon unless otherwise noted. Some breath
 weapons allow a Fortitude save or a Will save instead of a Reflex save.
 
-**Change Shape (Su):** A creature with this special quality has the
+### Change Shape (Su)
+A creature with this special quality has the
 ability to assume the appearance of a specific creature or type of
 creature (usually a humanoid), but retains most of its own physical
 qualities. A creature cannot change shape to a form more than one size
@@ -291,7 +304,8 @@ somatic components.
 form, and gains a +10 bonus on Disguise checks if it uses this ability
 to create a disguise.
 
-**Chaotic Subtype:** A subtype usually applied only to outsiders native
+### Chaotic Subtype
+A subtype usually applied only to outsiders native
 to the chaotic-aligned Outer Planes. Most creatures that have this
 subtype also have chaotic alignments; however, if their alignments
 change they still retain the subtype. Any effect that depends on
@@ -302,18 +316,21 @@ creature with the chaotic subtype overcomes damage reduction as if its
 natural weapons and any weapons it wields were chaotic-aligned (see
 Damage Reduction, below).
 
-**Cold Subtype:** A creature with the cold subtype has immunity to cold.
+### Cold Subtype
+A creature with the cold subtype has immunity to cold.
 It has vulnerability to fire, which means it takes half again as much
 (+50%) damage as normal from fire, regardless of whether a saving throw
 is allowed, or if the save is a success or failure.
 
-**Constrict (Ex):** A creature with this special attack can crush an
+### Constrict (Ex)
+A creature with this special attack can crush an
 opponent, dealing bludgeoning damage, after making a successful grapple
 check. The amount of damage is given in the creature's entry. If the
 creature also has the improved grab ability it deals constriction damage
 in addition to damage dealt by the weapon used to grab.
 
-**Construct Type:** A construct is an animated object or artificially
+### Construct Type
+A construct is an animated object or artificially
 constructed creature.
 
 *Features:* A construct has the following features.
@@ -383,7 +400,8 @@ entry.
 
 ---Constructs do not eat, sleep, or breathe.
 
-**Damage Reduction (Ex or Su):** A creature with this special quality
+### Damage Reduction (Ex or Su)
+A creature with this special quality
 ignores damage from most weapons and natural attacks. Wounds heal
 immediately, or the weapon bounces off harmlessly (in either case, the
 opponent knows the attack was ineffective). The creature takes normal
@@ -433,7 +451,8 @@ to overcome their damage reduction. A weapon must be both types to
 overcome this damage reduction. A weapon that is only one type is still
 subject to damage reduction.
 
-**Dragon Type:** A dragon is a reptilelike creature, usually winged,
+### Dragon Type
+A dragon is a reptilelike creature, usually winged,
 with magical or unusual abilities.
 
 *Features:* A dragon has the following features.
@@ -462,12 +481,14 @@ simple weapons and any weapons mentioned in its entry.
 
 ---Dragons eat, sleep, and breathe.
 
-**Earth Subtype:** This subtype usually is used for elementals and
+### Earth Subtype
+This subtype usually is used for elementals and
 outsiders with a connection to the Elemental Plane of Earth. Earth
 creatures usually have burrow speeds, and most earth creatures can
 burrow through solid rock.
 
-**Elemental Type:** An elemental is a being composed of one of the four
+### Elemental Type
+An elemental is a being composed of one of the four
 classical elements: air, earth, fire, or water.
 
 *Features:* An elemental has the following features.
@@ -509,7 +530,8 @@ proficient with shields if they are proficient with any form of armor.
 
 ---Elementals do not eat, sleep, or breathe.
 
-**Energy Drain (Su):** This attack saps a living opponent's vital energy
+### Energy Drain (Su)
+This attack saps a living opponent's vital energy
 and happens automatically when a melee or ranged attack hits. Each
 successful energy drain bestows one or more negative levels (the
 creature's description specifies how many). If an attack that includes
@@ -533,7 +555,8 @@ negative level goes away with no harm to the creature. On a failure, the
 negative level goes away, but the creature's level is also reduced by
 one. A separate saving throw is required for each negative level.
 
-**Evil Subtype:** A subtype usually applied only to outsiders native to
+### Evil Subtype
+A subtype usually applied only to outsiders native to
 the evil-aligned Outer Planes. Evil outsiders are also called fiends.
 Most creatures that have this subtype also have evil alignments;
 however, if their alignments change, they still retain the subtype. Any
@@ -544,7 +567,8 @@ alignment. A creature with the evil subtype overcomes damage reduction
 as if its natural weapons and any weapons it wields were evil-aligned
 (see Damage Reduction, above).
 
-**Extraplanar Subtype:** A subtype applied to any creature when it is on
+### Extraplanar Subtype
+A subtype applied to any creature when it is on
 a plane other than its native plane. A creature that travels the planes
 can gain or lose this subtype as it goes from plane to plane. Monster
 entries assume that encounters with creatures take place on the Material
@@ -557,7 +581,8 @@ Material Plane. No creature has the extraplanar subtype when it is on a
 transitive plane, such as the Astral Plane, the Ethereal Plane, and the
 Plane of Shadow.
 
-**Fast Healing (Ex):** A creature with the fast healing special quality
+### Fast Healing (Ex)
+A creature with the fast healing special quality
 regains hit points at an exceptionally fast rate, usually 1 or more hit
 points per round, as given in the creature's entry. Except where noted
 here, fast healing is just like natural healing. Fast healing does not
@@ -565,7 +590,8 @@ restore hit points lost from starvation, thirst, or suffocation, and it
 does not allow a creature to regrow lost body parts. Unless otherwise
 stated, it does not allow lost body parts to be reattached.
 
-**Fear (Su or Sp):** Fear attacks can have various effects.
+### Fear (Su or Sp)
+Fear attacks can have various effects.
 
 *Fear Aura (Su):* The use of this ability is a free action. The aura can
 freeze an opponent (such as a mummy's despair) or function like the
@@ -580,7 +606,8 @@ fearsome creature's racial HD + creature's Cha modifier; the exact DC is
 given in the creature's descriptive text). All fear attacks are
 mind-affecting fear effects.
 
-**Fey Type:** A fey is a creature with supernatural abilities and
+### Fey Type
+A fey is a creature with supernatural abilities and
 connections to nature or to some other force or place. Fey are usually
 human-shaped.
 
@@ -610,17 +637,20 @@ proficient with shields if they are proficient with any form of armor.
 
 ---Fey eat, sleep, and breathe.
 
-**Fire Subtype:** A creature with the fire subtype has immunity to fire.
+### Fire Subtype
+A creature with the fire subtype has immunity to fire.
 It has vulnerability to cold, which means it takes half again as much
 (+50%) damage as normal from cold, regardless of whether a saving throw
 is allowed, or if the save is a success or failure.
 
-**Flight (Ex or Su):** A creature with this ability can cease or resume
+### Flight (Ex or Su)
+A creature with this ability can cease or resume
 flight as a free action. If the ability is supernatural, it becomes
 ineffective in an antimagic field, and the creature loses its ability to
 fly for as long as the antimagic effect persists.
 
-**Frightful Presence (Ex):** This special quality makes a creature's
+### Frightful Presence (Ex)
+This special quality makes a creature's
 very presence unsettling to foes. It takes effect automatically when the
 creature performs some sort of dramatic action (such as charging,
 attacking, or snarling). Opponents within range who witness the action
@@ -635,7 +665,8 @@ opponent that succeeds on the saving throw is immune to that same
 creature's frightful presence for 24 hours. Frightful presence is a
 mind-affecting fear effect.
 
-**Gaze (Su):** A gaze special attack takes effect when opponents look at
+### Gaze (Su)
+A gaze special attack takes effect when opponents look at
 the creature's eyes. The attack can have almost any sort of effect:
 petrification, death, charm, and so on. The typical range is 30 feet,
 but check the creature's entry for details. The type of saving throw for
@@ -677,7 +708,8 @@ creature with the gaze attack, and have a 50% chance to not need to make
 a saving throw against the gaze attack each round. The creature also can
 veil its eyes, thus negating its gaze ability.
 
-**Giant Type:** A giant is a humanoid-shaped creature of great strength,
+### Giant Type
+A giant is a humanoid-shaped creature of great strength,
 usually of at least Large size.
 
 *Features:* A giant has the following features.
@@ -706,10 +738,12 @@ with shields if they are proficient with any form of armor.
 
 ---Giants eat, sleep, and breathe.
 
-**Goblinoid Subtype:** Goblinoids are stealthy humanoids who live by
+### Goblinoid Subtype
+Goblinoids are stealthy humanoids who live by
 hunting and raiding and who all speak Goblin.
 
-**Good Subtype:** A subtype usually applied only to outsiders native to
+### Good Subtype
+A subtype usually applied only to outsiders native to
 the good-aligned Outer Planes. Most creatures that have this subtype
 also have good alignments; however, if their alignments change, they
 still retain the subtype. Any effect that depends on alignment affects a
@@ -719,7 +753,8 @@ according to its actual alignment. A creature with the good subtype
 overcomes damage reduction as if its natural weapons and any weapons it
 wields were good-aligned (see Damage Reduction, above).
 
-**Humanoid Type:** A humanoid usually has two arms, two legs, and one
+### Humanoid Type
+A humanoid usually has two arms, two legs, and one
 head, or a humanlike torso, arms, and a head. Humanoids have few or no
 supernatural or extraordinary abilities, but most can speak and usually
 have well-developed societies. They usually are Small or Medium. Every
@@ -759,7 +794,8 @@ proficient with any form of armor.
 
 ---Humanoids breathe, eat, and sleep.
 
-**Improved Grab (Ex):** If a creature with this special attack hits with
+### Improved Grab (Ex)
+If a creature with this special attack hits with
 a melee weapon (usually a claw or bite attack), it deals normal damage
 and attempts to start a grapple as a free action without provoking an
 attack of opportunity. No initial touch attack is required. Unless
@@ -781,7 +817,8 @@ opponent into its space. This act does not provoke attacks of
 opportunity. It can even move (possibly carrying away the opponent),
 provided it can drag the opponent's weight.
 
-**Incorporeal Subtype:** An incorporeal creature has no physical body.
+### Incorporeal Subtype
+An incorporeal creature has no physical body.
 It can be harmed only by other incorporeal creatures, magic weapons or
 creatures that strike as magic weapons, and spells, spell-like
 abilities, or supernatural abilities. It is immune to all nonmagical
@@ -828,7 +865,8 @@ ineffective or only partly effective with regard to incorporeal
 creatures. Incorporeal creatures have an innate sense of direction and
 can move at full speed even when they cannot see.
 
-**Lawful:** A subtype usually applied only to outsiders native to the
+### Lawful
+A subtype usually applied only to outsiders native to the
 lawful-aligned Outer Planes. Most creatures that have this subtype also
 have lawful alignments; however, if their alignments change, they still
 retain the subtype. Any effect that depends on alignment affects a
@@ -838,12 +876,14 @@ according to its actual alignment. A creature with the lawful subtype
 overcomes damage reduction as if its natural weapons and any weapons it
 wields were lawful-aligned (see Damage Reduction, above).
 
-**Low-Light Vision (Ex):** A creature with low-light vision can see
+### Low-Light Vision (Ex)
+A creature with low-light vision can see
 twice as far as a human in starlight, moonlight, torchlight, and similar
 conditions of shadowy illumination. It retains the ability to
 distinguish color and detail under these conditions.
 
-**Magical Beast Type:** Magical beasts are similar to animals but can
+### Magical Beast Type
+Magical beasts are similar to animals but can
 have Intelligence scores higher than 2. Magical beasts usually have
 supernatural or extraordinary abilities, but sometimes are merely
 bizarre in appearance or habits.
@@ -870,7 +910,8 @@ otherwise noted in a creature's entry).
 
 ---Magical beasts eat, sleep, and breathe.
 
-**Manufactured Weapons:** Some monsters employ manufactured weapons when
+### Manufactured Weapons
+Some monsters employ manufactured weapons when
 they attack. Creatures that use swords, bows, spears, and the like
 follow the same rules as characters, including those for additional
 attacks from a high base attack bonus and two-weapon fighting penalties.
@@ -888,7 +929,8 @@ off-hand weapon does, but they take the usual --5 penalty (or --2 with
 the Multiattack feat) for such attacks, even if the natural weapon used
 is normally the creature's primary natural weapon.
 
-**Monstrous Humanoid Type:** Monstrous humanoids are similar to
+### Monstrous Humanoid Type
+Monstrous humanoids are similar to
 humanoids, but with monstrous or animalistic features. They often have
 magical abilities as well.
 
@@ -919,7 +961,8 @@ with any form of armor.
 
 ---Monstrous humanoids eat, sleep, and breathe.
 
-**Movement Modes:** Creatures may have modes of movement other than
+### Movement Modes
+Creatures may have modes of movement other than
 walking and running. These are natural, not magical, unless specifically
 noted in a monster description.
 
@@ -974,14 +1017,16 @@ always can choose to take 10 on a Swim check, even if distracted or
 endangered. The creature can use the run action while swimming, provided
 it swims in a straight line.
 
-**Native Subtype:** A subtype applied only to outsiders. These creatures
+### Native Subtype
+A subtype applied only to outsiders. These creatures
 have mortal ancestors or a strong connection to the Material Plane and
 can be raised, reincarnated, or resurrected just as other living
 creatures can be. Creatures with this subtype are native to the Material
 Plane (hence the subtype's name). Unlike true outsiders, native
 outsiders need to eat and sleep.
 
-**Natural Weapons:** Natural weapons are weapons that are physically a
+### Natural Weapons
+Natural weapons are weapons that are physically a
 part of a creature. A creature making a melee attack with a natural
 weapon is considered armed and does not provoke attacks of opportunity.
 Likewise, it threatens any space it can reach. Creatures do not receive
@@ -1034,7 +1079,8 @@ damage.
 *Tentacle:* The creature flails at opponents with a powerful tentacle,
 dealing bludgeoning (and sometimes slashing) damage.
 
-**Nonabilities:** Some creatures lack certain ability scores. These
+### Nonabilities
+Some creatures lack certain ability scores. These
 creatures do not have an ability score of 0---they lack the ability
 altogether. The modifier for a nonability is +0. Other effects of
 nonabilities are detailed below.
@@ -1081,7 +1127,8 @@ itself and things that are not itself has at least 1 point of Charisma.
 Anything with no Charisma score is an object, not a creature. Anything
 without a Charisma score also has no Wisdom score.
 
-**Ooze Type:** An ooze is an amorphous or mutable creature, usually
+### Ooze Type
+An ooze is an amorphous or mutable creature, usually
 mindless.
 
 *Features:* An ooze has the following features.
@@ -1122,7 +1169,8 @@ modifier per full round of contact.
 
 ---Oozes eat and breathe, but do not sleep.
 
-**Outsider Type:** An outsider is at least partially composed of the
+### Outsider Type
+An outsider is at least partially composed of the
 essence (but not necessarily the material) of some plane other than the
 Material Plane. Some creatures start out as some other type and become
 outsiders when they attain a higher (or lower) state of spiritual
@@ -1164,7 +1212,8 @@ proficient with shields if they are proficient with any form of armor.
 ---Outsiders breathe, but do not need to eat or sleep (although they can
 do so if they wish). Native outsiders breathe, eat, and sleep.
 
-**Paralysis (Ex or Su):** This special attack renders the victim
+### Paralysis (Ex or Su)
+This special attack renders the victim
 immobile. Paralyzed creatures cannot move, speak, or take any physical
 actions. The creature is rooted to the spot, frozen and helpless.
 Paralysis works on the body, and a character can usually resist it with
@@ -1174,7 +1223,8 @@ effect does not allow a new save each round. A winged creature flying in
 the air at the time that it is paralyzed cannot flap its wings and
 falls. A swimmer can't swim and may drown.
 
-**Plant Type:** This type comprises vegetable creatures. Note that
+### Plant Type
+This type comprises vegetable creatures. Note that
 regular plants, such as one finds growing in gardens and fields, lack
 Wisdom and Charisma scores (see Nonabilities, above) and are not
 creatures, but objects, even though they are alive.
@@ -1211,7 +1261,8 @@ stunning.
 
 ---Plants breathe and eat, but do not sleep.
 
-**Poison (Ex):** Poison attacks deal initial damage, such as ability
+### Poison (Ex)
+Poison attacks deal initial damage, such as ability
 damage (see page 305) or some other effect, to the opponent on a failed
 Fortitude save. Unless otherwise noted, another saving throw is required
 1 minute later (regardless of the first save's result) to avoid
@@ -1226,20 +1277,24 @@ exact DC is given in the creature's descriptive text).
 
 A successful save avoids (negates) the damage.
 
-**Pounce (Ex):** When a creature with this special attack makes a
+### Pounce (Ex)
+When a creature with this special attack makes a
 charge, it can follow with a full attack---including rake attacks if the
 creature also has the rake ability.
 
-**Powerful Charge (Ex):** When a creature with this special attack makes
+### Powerful Charge (Ex)
+When a creature with this special attack makes
 a charge, its attack deals extra damage in addition to the normal
 benefits and hazards of a charge. The amount of damage from the attack
 is given in the creature's description.
 
-**Psionics (Sp):** These are spell-like abilities that a creature
+### Psionics (Sp)
+These are spell-like abilities that a creature
 generates with the power of its mind. Psionic abilities are usually
 usable at will.
 
-**Rake (Ex):** A creature with this special attack gains extra natural
+### Rake (Ex)
+A creature with this special attack gains extra natural
 attacks when it grapples its foe. Normally, a monster can attack with
 only one of its natural weapons while grappling, but a monster with the
 rake ability usually gains two additional claw attacks that it can use
@@ -1249,14 +1304,16 @@ only against a grappled foe. Rake attacks are not subject to the usual
 A monster with the rake ability must begin its turn grappling to use its
 rake---it can't begin a grapple and rake in the same turn.
 
-**Ray (Su or Sp):** This form of special attack works like a ranged
+### Ray (Su or Sp)
+This form of special attack works like a ranged
 attack. Hitting with a ray attack requires a successful ranged touch
 attack roll, ignoring armor, natural armor, and shield and using the
 creature's ranged attack bonus. Ray attacks have no range increment. The
 creature's descriptive text specifies the maximum range, effects, and
 any applicable saving throw.
 
-**Regeneration (Ex):** A creature with this ability is difficult to
+### Regeneration (Ex)
+A creature with this ability is difficult to
 kill. Damage dealt to the creature is treated as nonlethal damage. The
 creature automatically heals nonlethal damage at a fixed rate per round,
 as given in the entry. Certain attack forms, typically fire and acid,
@@ -1276,16 +1333,19 @@ reattached wither and die normally.
 A creature must have a Constitution score to have the regeneration
 ability.
 
-**Reptilian Subtype:** These creatures are scaly and usually
+### Reptilian Subtype
+These creatures are scaly and usually
 coldblooded. The reptilian subtype is only used to describe a set of
 humanoid races, not all animals and monsters that are truly reptiles.
 
-**Resistance to Energy (Ex):** A creature with this special quality
+### Resistance to Energy (Ex)
+A creature with this special quality
 ignores some damage of the indicated type each time it takes damage of
 that kind (commonly acid, cold, fire, or electricity). The entry
 indicates the amount and type of damage ignored.
 
-**Scent (Ex):** This special quality allows a creature to detect
+### Scent (Ex)
+This special quality allows a creature to detect
 approaching enemies, sniff out hidden foes, and track by sense of smell.
 Creatures with the scent ability can identify familiar odors just as
 humans do familiar sights.
@@ -1313,7 +1373,8 @@ For each hour that the trail is cold, the DC increases by 2. The ability
 otherwise follows the rules for the Track feat. Creatures tracking by
 scent ignore the effects of surface conditions and poor visibility.
 
-**Shapechanger Subtype:** A shapechanger has the supernatural ability to
+### Shapechanger Subtype
+A shapechanger has the supernatural ability to
 assume one or more alternate forms. Many magical effects allow some kind
 of shape shifting, and not every creature that can change shapes has the
 shapechanger subtype.
@@ -1329,7 +1390,8 @@ well as all lighter forms. If no form of armor is mentioned, the
 shapechanger is not proficient with armor. A shapechanger is proficient
 with shields if it is proficient with any type of armor.
 
-**Sonic Attacks (Su):** Unless otherwise noted, a sonic attack follows
+### Sonic Attacks (Su)
+Unless otherwise noted, a sonic attack follows
 the rules for spreads. The range of the spread is measured from the
 creature using the sonic attack. Once a sonic attack has taken effect,
 deafening the subject or stopping its ears does not end the effect.
@@ -1339,7 +1401,8 @@ kinds of sonic attacks (such as those that deal damage). Stopping one's
 ears is a full-round action and requires wax or other soundproof
 material to stuff into the ears.
 
-**Special Abilities:** A special ability is either extraordinary (Ex),
+### Special Abilities
+A special ability is either extraordinary (Ex),
 spell-like (Sp), or supernatural (Su).
 
 *Extraordinary:* Extraordinary abilities are nonmagical, don't become
@@ -1392,14 +1455,16 @@ creature's Hit Dice. The saving throw (if any) against a supernatural
 ability is 10 + 1/2 the creature's HD + the creature's ability modifier
 (usually Charisma).
 
-**Spell Immunity (Ex):** A creature with spell immunity avoids the
+### Spell Immunity (Ex)
+A creature with spell immunity avoids the
 effects of spells and spell-like abilities that directly affect it. This
 works exactly like spell resistance, except that it cannot be overcome.
 Sometimes spell immunity is conditional or applies to only spells of a
 certain kind or level. Spells that do not allow spell resistance are not
 affected by spell immunity.
 
-**Spell Resistance (Ex):** A creature with spell resistance can avoid
+### Spell Resistance (Ex)
+A creature with spell resistance can avoid
 the effects of spells and spell-like abilities that directly affect
 it.To determine if a spell or spell-like ability works against a
 creature with spell resistance, the caster must make a caster level
@@ -1407,7 +1472,8 @@ check (1d20 + caster level). If the result equals or exceeds the
 creature's spell resistance, the spell works normally, although the
 creature is still allowed a saving throw.
 
-**Spells:** Sometimes a creature can cast arcane or divine spells just
+### Spells
+Sometimes a creature can cast arcane or divine spells just
 as a member of a spellcasting class can (and can activate magic items
 accordingly). Such creatures are subject to the same spellcasting rules
 that characters are, except as follows.
@@ -1426,7 +1492,8 @@ access to cleric spells must prepare them in the normal manner and
 receives domain spells if noted, but it does not receive domain granted
 powers unless it has at least one level in the cleric class.
 
-***Summon* (Sp):** A creature with the *summon* ability can summon
+### *Summon* (Sp)
+A creature with the *summon* ability can summon
 specific other creatures of its kind much as though casting a *summon
 monster* spell, but it usually has only a limited chance of success (as
 specified in the creature's entry). Roll d%: On a failure, no creature
@@ -1439,7 +1506,8 @@ lives. An appropriate spell level is given for each summoning ability
 for purposes of Concentration checks and attempts to dispel the summoned
 creature. No experience points are awarded for summoned monsters.
 
-**Swallow Whole (Ex):** If a creature with this special attack begins
+### Swallow Whole (Ex)
+If a creature with this special attack begins
 its turn with an opponent held in its mouth (see Improved Grab), it can
 attempt a new grapple check (as though attempting to pin the opponent).
 If it succeeds, it swallows its prey, and the opponent takes bite
@@ -1456,7 +1524,8 @@ bonus, with no modifiers for size or Dexterity. If the swallowed
 creature escapes the grapple, success puts it back in the attacker's
 mouth, where it may be bitten or swallowed again.
 
-**Swarm Subtype:** A swarm is a collection of Fine, Diminutive, or Tiny
+### Swarm Subtype
+A swarm is a collection of Fine, Diminutive, or Tiny
 creatures that acts as a single creature. A swarm has the
 characteristics of its type, except as noted here. A swarm has a single
 pool of Hit Dice and hit points, a single initiative modifier, a single
@@ -1545,7 +1614,8 @@ Spellcasting or concentrating on spells within the area of a swarm
 requires a Concentration check (DC 20 + spell level). Using skills that
 involve patience and concentration requires a DC 20 Concentration check.
 
-**Telepathy (Su):** A creature with this ability can communicate
+### Telepathy (Su)
+A creature with this ability can communicate
 telepathically with any other creature within a certain range (specified
 in the creature's entry, usually 100 feet) that has a language. It is
 possible to address multiple creatures at once telepathically, although
@@ -1556,7 +1626,8 @@ multiple people at the same time.
 Some creatures have a limited form of telepathy, while others have a
 more powerful form of the ability.
 
-**Trample (Ex):** As a full-round action, a creature with this special
+### Trample (Ex)
+As a full-round action, a creature with this special
 attack can move up to twice its speed and literally run over any
 opponents at least one size category smaller than itself. The creature
 merely has to move over the opponents in its path; any creature whose
@@ -1584,14 +1655,16 @@ descriptive text). A trampling creature can only deal trampling damage
 to each target once per round, no matter how many times its movement
 takes it over a target creature.
 
-**Tremorsense (Ex):** A creature with tremorsense is sensitive to
+### Tremorsense (Ex)
+A creature with tremorsense is sensitive to
 vibrations in the ground and can automatically pinpoint the location of
 anything that is in contact with the ground. Aquatic creatures with
 tremorsense can also sense the location of creatures moving through
 water. The ability's range is specified in the creature's descriptive
 text.
 
-**Treasure:** This entry in a monster description describes how much
+### Treasure
+This entry in a monster description describes how much
 wealth a creature owns. In most cases, a creature keeps valuables in its
 home or lair and has no treasure with it when it travels. Intelligent
 creatures that own useful, portable treasure (such as magic items) tend
@@ -1637,12 +1710,14 @@ column as the indicated type of treasure.
 
 It's sometimes necessary to reroll until the right sort of item appears.
 
-**Turn Resistance (Ex):** A creature with this special quality (usually
+### Turn Resistance (Ex)
+A creature with this special quality (usually
 an undead) is less easily affected by clerics or paladins. When
 resolving a turn, rebuke, command, or bolster attempt, add the indicated
 number to the creature's Hit Dice total.
 
-**Undead Type:** Undead are once-living creatures animated by spiritual
+### Undead Type
+Undead are once-living creatures animated by spiritual
 or supernatural forces.
 
 *Features:* An undead creature has the following features.
@@ -1704,7 +1779,8 @@ proficient with shields if they are proficient with any form of armor.
 
 ---Undead do not breathe, eat, or sleep.
 
-**Vermin Type:** This type includes insects, arachnids, other
+### Vermin Type
+This type includes insects, arachnids, other
 arthropods, worms, and similar invertebrates.
 
 *Features:* Vermin have the following features.
@@ -1734,13 +1810,15 @@ effects (charms, compulsions, phantasms, patterns, and morale effects).
 
 ---Vermin breathe, eat, and sleep.
 
-**Vulnerability to Energy:** Some creatures have vulnerability to a
+### Vulnerability to Energy
+Some creatures have vulnerability to a
 certain kind of energy effect (typically either cold or fire). Such a
 creature takes half again as much (+50%) damage as normal from the
 effect, regardless of whether a saving throw is allowed, or if the save
 is a success or failure.
 
-**Water Subtype:** This subtype usually is used for elementals and
+### Water Subtype
+This subtype usually is used for elementals and
 outsiders with a connection to the Elemental Plane of Water. Creatures
 with the water subtype always have swim speeds and can move in water
 without making Swim checks. A water creature can breathe underwater and

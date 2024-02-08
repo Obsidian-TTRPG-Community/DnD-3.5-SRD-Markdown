@@ -13,7 +13,8 @@ the terms of the Open Game License v1.0a.
 Each deity has a divine rank. A deity's divine rank determines how much
 power the entity has.
 
-**Rank 0:** Creatures of this rank are sometimes called quasi-deities or
+### Rank 0
+Creatures of this rank are sometimes called quasi-deities or
 hero deities. Creatures that have a mortal and a deity as parents also
 fall into this category. These entities cannot grant spells, but are
 immortal and usually have one or more ability
@@ -22,7 +23,8 @@ scores that are far above the norm for their species. They may have some
 worshipers. Ordinary mortals do not have a divine rank of 0. They lack a
 divine rank altogether.
 
-**Rank 1--5:** These entities, called demigods, are the weakest of the
+### Rank 1--5
+These entities, called demigods, are the weakest of the
 deities. A demigod can grant spells and perform a few deeds that are
 beyond mortal limits. A demigod has anywhere from a few hundred to a few
 thousand devoted mortal worshipers and may receive veneration or respect
@@ -33,22 +35,26 @@ in a single skill or a group of related skills, gain combat advantages
 in special circumstances, or be able to bring about minor changes in
 reality itself related to the portfolio.
 
-**Rank 6--10:** Called lesser deities, these entities grant spells and
+### Rank 6--10
+Called lesser deities, these entities grant spells and
 can perform more powerful deeds than demigods can. Lesser deities have
 anywhere from a few thousand to tens of thousands of worshipers and
 control larger godly realms than demigods. They also have keener senses
 where their portfolios are concerned.
 
-**Rank 11--15:** These entities are called intermediate deities. They
+### Rank 11--15
+These entities are called intermediate deities. They
 have hundreds of thousands of mortal worshipers and control larger godly
 realms than demigods or lesser deities.
 
-**Rank 16--20:** Called greater deities, these entities may have
+### Rank 16--20
+Called greater deities, these entities may have
 millions of mortal worshipers, and they command respect even among other
 deities. The most powerful of greater deities rule over other deities
 just as mortal sovereigns rule over commoners.
 
-**Rank 21+:** These entities are beyond the ken of mortals and care
+### Rank 21+
+These entities are beyond the ken of mortals and care
 nothing for worshipers. They do not grant spells, do not answer prayers,
 and do not respond to queries. If they are known at all, it is to a
 handful of scholars on the Material Plane. They are called overdeities.
@@ -66,7 +72,8 @@ type, along with its class or classes, determines its weapon
 proficiencies, feats, and skills. Deities have some or all of the
 following additional qualities, depending on their divine rank.
 
-**Levels:** Most deities are 20 HD outsiders with 30 to 50 character
+### Levels
+Most deities are 20 HD outsiders with 30 to 50 character
 levels as well. These additional character levels beyond an effective
 character level of 20th follow the rules for epic levels.
 
@@ -84,9 +91,11 @@ attacks derived strictly from its base attack bonus. Deities also gain a
 +1 bonus on saving throws at 22nd level and every other level
 thereafter.
 
-**Hit Points:** Deities receive maximum hit points for each Hit Die.
+### Hit Points
+Deities receive maximum hit points for each Hit Die.
 
-**Speed:** Deities can move much more quickly than mortals. A deity's
+### Speed
+Deities can move much more quickly than mortals. A deity's
 base land speed depends on its form (biped or quadruped) and its size,
 as shown on the following table. Some deities are exceptions, with
 speeds faster or slower than the norm.
@@ -111,7 +120,8 @@ regardless of form. Use half the value in the Biped column for climb
 speeds for all deities. Use twice the value in the Quadruped column for
 fly speeds for all deities capable of flying.
 
-**Armor Class:** A field of divine energy encompasses a deity's body,
+### Armor Class
+A field of divine energy encompasses a deity's body,
 granting it a divine Armor Class bonus equal to its divine rank. This
 bonus stacks with all other Armor Class bonuses and is effective against
 touch attacks and incorporeal touch attacks.
@@ -126,7 +136,8 @@ their divine rank.
 Many deities have other Armor Class bonuses as noted in their individual
 descriptions.
 
-**Attacks:** A deity's Hit Dice and type and character level determine
+### Attacks
+A deity's Hit Dice and type and character level determine
 its base attack bonus. In addition to the figures for weapon attacks,
 this section of the statistics block also includes melee touch attack
 and ranged touch attack bonuses, to be used when the deity casts a spell
@@ -140,7 +151,8 @@ natural attacks of deities, as well as any weapons they wield, are
 considered aligned the same as the deity for the purposes of bypassing
 damage reduction.
 
-**Always Maximize Roll:** Greater deities (rank 16--20) automatically
+### Always Maximize Roll
+Greater deities (rank 16--20) automatically
 get the best result possible on any check, saving throw, attack roll, or
 damage roll. Calculate success, failure, or other effects accordingly.
 When a greater deity makes a check, attack, or save assume a 20 was
@@ -149,12 +161,14 @@ be rolled and used to check for a threat of a critical hit. This quality
 means that greater deities never need the Maximize Spell feat, because
 their spells have maximum effect already.
 
-**Saving Throws:** A deity's outsider Hit Dice and character level
+### Saving Throws
+A deity's outsider Hit Dice and character level
 determine its base saving throw bonuses. A deity gets its divine rank as
 a divine bonus on all saving throws. Deities of rank 1 or higher do not
 automatically fail on a natural saving throw roll of 1.
 
-**Checks:** A deity gets its divine rank as a divine bonus on all skill
+### Checks
+A deity gets its divine rank as a divine bonus on all skill
 checks, ability checks, caster level checks, and turning checks. Lesser
 deities (rank 6--10) may take 10 on any check, provided they need to
 make a check at all. Intermediate and greater deities (rank 11--20)
@@ -165,7 +179,8 @@ check at all.
 skill, the deity's synergy bonus from the skill (if any) increases by
 +2.
 
-**Immunities:** Deities have the following immunities. Individual
+### Immunities
+Deities have the following immunities. Individual
 deities may have more immunities. Unless otherwise indicated, these
 immunities do not apply if the attacker is a deity of equal or higher
 rank.
@@ -192,7 +207,8 @@ banish them. Such effects include *banishment, binding, dimensional
 anchor, dismissal, imprisonment, repulsion, soul bind, temporal stasis,
 trap the soul,* and turning and rebuking.
 
-**Damage Reduction:** A deity has damage reduction as shown below
+### Damage Reduction
+A deity has damage reduction as shown below
 
   ---------------------------- ------------------
   Divine Rank                  Damage Reduction
@@ -211,7 +227,8 @@ reduction that might apply to an attack, that damage reduction is listed
 in parentheses after the damage reduction entry in the deity's
 statistics block.
 
-**Resistances:** All deities have at least the following resistances.
+### Resistances
+All deities have at least the following resistances.
 Individual deities may have additional resistances.
 
 *Energy Resistance:* A deity has fire resistance of 5 + its divine rank.
@@ -219,11 +236,13 @@ Individual deities may have additional resistances.
 *Spell Resistance:* A deity has spell resistance of 32 + its divine
 rank.
 
-**Salient Divine Abilities:** Every deity of rank 1 or higher has at
+### Salient Divine Abilities
+Every deity of rank 1 or higher has at
 least one additional power, called a salient divine ability, per divine
 rank (see Salient Divine Abilities).
 
-**Domain Powers:** A deity of rank 1 or higher can use any domain power
+### Domain Powers
+A deity of rank 1 or higher can use any domain power
 it can grant a number of times per day equal to its divine rank (if the
 power normally can be used more often than that, the deity gets the
 greater number of uses). If a domain power is based on a cleric's level
@@ -231,20 +250,23 @@ greater number of uses). If a domain power is based on a cleric's level
 effective cleric level equal to the deity's divine rank (or one-half the
 deity's divine rank) for this purpose.
 
-**Spell-Like Abilities:** A deity can use any domain spell it can grant
+### Spell-Like Abilities
+A deity can use any domain spell it can grant
 as a spell-like ability at will. The deity's effective caster level for
 such abilities is 10 + the deity's divine rank. The saving throw DC for
 such abilities is 10 + the spell level + the deity's Charisma bonus (if
 any) + the deity's divine rank.
 
-**Immortality:** All deities (even those of rank 0) are naturally
+### Immortality
+All deities (even those of rank 0) are naturally
 immortal and cannot die from natural causes. Deities do not age, and
 they do not need to eat, sleep, or breathe. The only way for a deity to
 die is through special circumstances, usually by being slain in magical
 or physical combat. Deities of rank 1 or higher are not subject to death
 from massive damage.
 
-**Senses:** Deities of rank 1 or higher have incredibly sensitive
+### Senses
+Deities of rank 1 or higher have incredibly sensitive
 perception. Such a deity's senses (including darkvision and low-light
 vision, if the deity has them) extend out to a radius of one mile per
 divine rank. Perception is limited to the senses a deity possesses. A
@@ -286,7 +308,8 @@ or the same distance around a portfolio-related event. The deity can
 block two remote locations at once, plus the area within one mile of
 itself. The blockage lasts 1 hour per divine rank.
 
-**Portfolio:** Every deity of rank 1 or higher has at least limited
+### Portfolio
+Every deity of rank 1 or higher has at least limited
 knowledge and control over some aspect of mortal existence. A deity's
 connection to its portfolio gives it a number of powers.
 
@@ -306,7 +329,8 @@ that the event is occurring and where it is. The deity receives no
 sensory information about the event. Once a deity notices an event, it
 can use its remote sensing power to perceive the event.
 
-**Automatic Actions:** When performing an action within its portfolio, a
+### Automatic Actions
+When performing an action within its portfolio, a
 deity can perform any action as a free action, as long as the check DC
 is equal to or less than the number on the table below. The number of
 free actions a deity can perform each round is also determined by the
@@ -320,7 +344,8 @@ deity's divine rank.
   16--20        30                                20
   ------------- --------------------------------- ------------------------
 
-**Create Magic Items:** A deity of rank 1 or higher can create magic
+### Create Magic Items
+A deity of rank 1 or higher can create magic
 items related to its portfolio without any requisite item creation feat,
 provided that the deity possesses all other prerequisites for the item.
 The maximum item value a deity can create is a function of its divine
@@ -339,7 +364,8 @@ laboring on the item.
 If a deity has the item creation feat pertaining to the item it wishes
 to create, the cost (in gold and XP) and creation times are halved.
 
-**Divine Aura:** The mere presence of a deity of rank 1 or higher can
+### Divine Aura
+The mere presence of a deity of rank 1 or higher can
 deeply affect mortals and beings of lower divine rank. All divine aura
 effects are mind-affecting, extraordinary abilities. Mortals and other
 deities of lower rank can resist the aura's effects with successful Will
@@ -382,7 +408,8 @@ although they can choose the path of their flight.
 saves, and checks, while the deity's foes receive a --4 morale penalty
 on attack rolls, saves, and checks.
 
-**Grant Spells:** A deity automatically grants spells and domain powers
+### Grant Spells
+A deity automatically grants spells and domain powers
 to mortal divine spellcasters who pray to it. Most deities can grant
 spells from the cleric spell list, the ranger spell list, and from three
 or more domains. Deities with levels in the druid class can grant spells
@@ -391,10 +418,12 @@ spells from the paladin spell list. A deity can withhold spells from any
 particular mortal as a free action; once a spell has been granted, it
 remains in the mortal's mind until expended.
 
-**Spontaneous Casting:** A deity of rank 1 or higher who has levels in a
+### Spontaneous Casting
+A deity of rank 1 or higher who has levels in a
 divine spellcasting class can spontaneously cast any spell it can grant.
 
-**Communication:** A deity of rank 1 or higher can understand, speak,
+### Communication
+A deity of rank 1 or higher can understand, speak,
 and read any language, including nonverbal languages. The deity can
 speak directly to any beings within one mile of itself per divine rank.
 
@@ -417,7 +446,8 @@ a free action until it decides to end the communication. A deity can
 carry on as many remote communications at one time as it can remote
 sense at one time (see Remote Sensing, above).
 
-**Godly Realm:** Each deity of rank 1 or higher has a location that
+### Godly Realm
+Each deity of rank 1 or higher has a location that
 serves as a workplace, personal residence, audience chamber, and
 sometimes as a retreat or fortress. A deity is at its most powerful
 within its godly realm. A deity has at least modest control over the
@@ -494,7 +524,8 @@ perform any action it desires, so long as it remains within the realm.
 The astral links, planar traits, and terrain remain unchanged until the
 labor is complete.
 
-**Travel:** A deity of rank 1 or higher can use *teleport without error*
+### Travel
+A deity of rank 1 or higher can use *teleport without error*
 as a spell-like ability at will, as the spell cast by a 20th-level
 character, except that the deity can transport only itself and up to 100
 pounds of objects per divine rank. A deity of rank 6 or higher also can
@@ -505,7 +536,8 @@ mount, or personal intelligent weapon, the creature can accompany the
 deity in any mode of travel if the deity touches it. The creature's
 weight counts against the deity's weight limit.
 
-**Familiar:** A deity of rank 1 or higher with levels as a sorcerer or a
+### Familiar
+A deity of rank 1 or higher with levels as a sorcerer or a
 wizard has the ability to treat any creature of a given kind as a
 familiar, as long as that creature is within a distance of one mile per
 divine rank of the deity. This special familiar ability only applies to

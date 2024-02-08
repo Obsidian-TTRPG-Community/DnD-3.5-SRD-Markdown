@@ -45,7 +45,8 @@ Aboleths speak their own language, as well as Undercommon and Aquan.
 An aboleth attacks by flailing with its long, slimy tentacles, though it
 prefers to fight from a distance using its illusion powers.
 
-**Enslave (Su):** Three times per day, an aboleth can attempt to enslave
+### Enslave (Su)
+Three times per day, an aboleth can attempt to enslave
 any one living creature within 30 feet. The target must succeed on a DC
 17 Will save or be affected as though by a *dominate person* spell
 (caster level 16th). An enslaved creature obeys the aboleth's telepathic
@@ -54,12 +55,14 @@ every 24 hours to break free. The control is also broken if the aboleth
 dies or travels more than 1 mile from its slave. The save DC is
 Charisma-based.
 
-**Psionics (Sp):** At will---*hypnotic pattern* (DC 15), *illusory wall*
+### Psionics (Sp)
+At will---*hypnotic pattern* (DC 15), *illusory wall*
 (DC 17), *mirage arcana* (DC 18), *persistent image* (DC 18),
 *programmed image* (DC 19), *project image* (DC 20), *veil* (DC 19).
 Effective caster level 16th. The save DCs are Charisma-based.
 
-**Slime (Ex):** A blow from an aboleth's tentacle can cause a terrible
+### Slime (Ex)
+A blow from an aboleth's tentacle can cause a terrible
 affliction. A creature hit by a tentacle must succeed on a DC 19
 Fortitude save or begin to transform over the next 1d4+1 minutes, the
 skin gradually becoming a clear, slimy membrane. An afflicted creature
@@ -72,7 +75,8 @@ A *remove disease* spell cast before the transformation is complete will
 restore an afflicted creature to normal. Afterward, however, only a
 *heal* or *mass heal* spell can reverse the affliction.
 
-**Mucus Cloud (Ex):** An aboleth underwater surrounds itself with a
+### Mucus Cloud (Ex)
+An aboleth underwater surrounds itself with a
 viscous cloud of mucus roughly 1 foot thick. Any creature coming into
 contact with and inhaling this substance must succeed on a DC 19
 Fortitude save or lose the ability to breathe air for the next 3 hours.
@@ -81,7 +85,8 @@ water. Renewed contact with the mucus cloud and failing another
 Fortitude save continues the effect for another 3 hours. The save DC is
 Constitution-based.
 
-**Skills:** An aboleth has a +8 racial bonus on any Swim check to
+### Skills
+An aboleth has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -153,7 +158,8 @@ An achaierai's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawfulaligned for the purpose of overcoming
 damage reduction.
 
-**Black Cloud (Ex):** Up to three times per day an achaierai can release
+### Black Cloud (Ex)
+Up to three times per day an achaierai can release
 a choking, toxic black cloud.
 
 Those other than achaierai within 10 feet instantly take 2d6 points of
@@ -200,7 +206,8 @@ An allip cannot speak intelligibly.
 An allip is unable to cause physical harm, although it doesn't appear to
 know that. It keeps flailing away at enemies, yet it inflicts no wounds.
 
-**Babble (Su):** An allip constantly mutters and whines to itself,
+### Babble (Su)
+An allip constantly mutters and whines to itself,
 creating a hypnotic effect. All sane creatures within 60 feet of the
 allip must succeed on a DC 16 Will save or be affected as though by a
 *hypnotism* spell for 2d4 rounds. This is a sonic mind-affecting
@@ -209,11 +216,13 @@ compulsion effect.
 Creatures that successfully save cannot be affected by the same allip's
 babble for 24 hours. The save DC is Charisma-based.
 
-**Madness (Su):** Anyone targeting an allip with a thought detection,
+### Madness (Su)
+Anyone targeting an allip with a thought detection,
 mind control, or telepathic ability makes direct contact with its
 tortured mind and takes 1d4 points of Wisdom damage.
 
-**Wisdom Drain (Su):** An allip causes 1d4 points of Wisdom drain each
+### Wisdom Drain (Su)
+An allip causes 1d4 points of Wisdom drain each
 time it hits with its incorporeal touch attack. On each such successful
 attack, it gains 5 temporary hit points.
 
@@ -238,7 +247,8 @@ with almost any creature because of their tongues ability.
 In combat, most angels make full use of their mobility and their ability
 to attack at a distance.
 
-**Angel Traits:** An angel possesses the following traits (unless
+### Angel Traits
+An angel possesses the following traits (unless
 otherwise noted in a creature's entry).
 
 ---Darkvision out to 60 feet and low-light vision.
@@ -301,7 +311,8 @@ disruption.*
 An astral deva's natural weapons, as well as any weapons it wields, are
 treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*aid, continual flame, detect evil,
+### Spell-Like Abilities
+At will---*aid, continual flame, detect evil,
 discern lies* (DC 19), *dispel evil* (DC 20), *dispel magic, holy aura*
 (DC 23), *holy smite* (DC 19), *holy word* (DC 22), *invisibility* (self
 only), *plane shift* (DC 22), *polymorph* (self only), *remove curse*
@@ -309,11 +320,13 @@ only), *plane shift* (DC 22), *polymorph* (self only), *remove curse*
 light wounds* (DC 16), *see invisibility;* 1/day---*blade barrier* (DC
 21), *heal* (DC 21). Caster level 12th. The save DCs are Charisma-based.
 
-**Stun (Su):** If an astral deva strikes an opponent twice in one round
+### Stun (Su)
+If an astral deva strikes an opponent twice in one round
 with its mace, that creature must succeed on a DC 22 Fortitude save or
 be stunned for 1d6 rounds. The save DC is Strength-based.
 
-**Uncanny Dodge (Ex):** An astral deva retains its Dexterity bonus to AC
+### Uncanny Dodge (Ex)
+An astral deva retains its Dexterity bonus to AC
 when flat-footed, and it cannot be flanked except by a rogue of at least
 16th level. It can flank characters with the uncanny dodge ability as if
 it were a 12th-level rogue.
@@ -356,10 +369,12 @@ fiends.
 A planetar's natural weapons, as well as any weapons it wields, are
 treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Regeneration:** A planetar takes damage from evil-aligned weapons and
+### Regeneration
+A planetar takes damage from evil-aligned weapons and
 from spells and effects with the evil descriptor.
 
-**Spell-Like Abilities:** At will---*continual flame, dispel magic, holy
+### Spell-Like Abilities
+At will---*continual flame, dispel magic, holy
 smite* (DC 20), *invisibility* (self only), *lesser restoration* (DC
 18), *remove curse* (DC 19), *remove disease* (DC 19), *remove fear* (DC
 17), *speak with dead* (DC 19); 3/day---*blade barrier* (DC 22), *flame
@@ -373,7 +388,8 @@ the spells (caster level 17th): *detect evil, detect snares and pits,
 discern lies* (DC 20), *see invisibility*, and *true seeing*. They can
 be dispelled, but the planetar can reactivate them as a free action.
 
-**Spells:** Planetars can cast divine spells as 17th-level clerics. A
+### Spells
+Planetars can cast divine spells as 17th-level clerics. A
 planetar has access to two of the following domains: Air, Destruction,
 Good, Law, or War (plus any others from its deity). The save DCs are
 Wisdom-based.
@@ -436,11 +452,13 @@ composite longbows* that create any sort of *slaying arrow* when drawn.
 A solar's natural weapons, as well as any weapons it wields, are treated
 as good-aligned and epic for the purpose of overcoming damage reduction.
 
-**Regeneration (Ex):** A solar takes normal damage from epic
+### Regeneration (Ex)
+A solar takes normal damage from epic
 evil-aligned weapons, and from spells or effects with the evil
 descriptor.
 
-**Spell-Like Abilities:** At will---*aid, animate objects, commune,
+### Spell-Like Abilities
+At will---*aid, animate objects, commune,
 continual flame, dimensional anchor, greater dispel magic, holy smite*
 (DC 21),*imprisonment* (DC 26), *invisibility* (self only), *lesser
 restoration* (DC 19), *polymorph* (self only) *power word stun, remove
@@ -457,7 +475,8 @@ spells (caster level 20th): *detect evil, detect snares and pits,
 discern lies* (DC 21), *see invisibility, true seeing*. They can be
 dispelled, but the solar can reactivate them as a free action.
 
-**Spells:** Solars can cast divine spells as 20th-level clerics. A solar
+### Spells
+Solars can cast divine spells as 20th-level clerics. A solar
 has access to two of the following domains: Air, Destruction, Good, Law,
 or War (plus any others from its deity). The save DCs are Wisdom-based.
 
@@ -636,12 +655,14 @@ minions.
 An animated object can have one or more of the following special
 abilities, depending on its form.
 
-**Blind (Ex):** A sheetlike animated object such as a carpet or tapestry
+### Blind (Ex)
+A sheetlike animated object such as a carpet or tapestry
 can grapple an opponent up to three sizes larger than itself. The object
 makes a normal grapple check. If it wins, it wraps itself around the
 opponent's head, causing that creature to be blinded until removed.
 
-**Constrict (Ex):** A flexible animated object such as a rope, vine, or
+### Constrict (Ex)
+A flexible animated object such as a rope, vine, or
 rug deals damage equal to its slam damage value plus 1- 1/2 times its
 Strength bonus with a successful grapple check against a creature up to
 one size larger than itself.
@@ -650,10 +671,12 @@ An object of at least Large size can make constriction attacks against
 multiple creatures at once, if they all are at least two sizes smaller
 than the object and can fit under it.
 
-**Hardness (Ex):** An animated object has the same hardness it had
+### Hardness (Ex)
+An animated object has the same hardness it had
 before it was animated.
 
-**Improved Speed (Ex):** The base land speed given in the statistics
+### Improved Speed (Ex)
+The base land speed given in the statistics
 block assume that an animated object lurches, rocks, or slithers along.
 
 Objects with two legs (statues, ladders) or a similar shape that allows
@@ -667,7 +690,8 @@ similar sinuous object has a climb speed equal to half its land speed. A
 sheetlike object can fly (clumsy maneuverability) at half its normal
 speed.
 
-**Trample (Ex):** An animated object of at least Large size and with a
+### Trample (Ex)
+An animated object of at least Large size and with a
 hardness of at least 10 can trample creatures two or more sizes smaller
 than itself, dealing damage equal to the object's slam damage + 1-1/2
 times its Strength bonus. Opponents who do not make attacks of
@@ -721,13 +745,15 @@ attacking.)
 
 Clusters of ankhegs share the same territory but do not cooperate.
 
-**Improved Grab (Ex):** To use this ability, an ankheg must hit with its
+### Improved Grab (Ex)
+To use this ability, an ankheg must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If the ankheg is damaged
 after grabbing its prey, it retreats backward down its tunnel at its
 land speed (not its burrow speed), dragging the victim with it.
 
-**Spit Acid (Ex):** 30-ft. line, once every 6 hours; damage 4d4 acid,
+### Spit Acid (Ex)
+30-ft. line, once every 6 hours; damage 4d4 acid,
 Reflex DC 14 half. One such attack depletes the ankheg's acid supply for
 6 hours. It cannot spit acid or deal acid damage during this time. The
 save DC is Constitution-based.
@@ -782,17 +808,20 @@ An aranea avoids physical combat and uses its webs and spells when it
 can. In a battle, it tries to immobilize or distract the most aggressive
 opponents first. Araneas often subdue opponents for ransom.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d6 Str,
+### Poison (Ex)
+Injury, Fortitude DC 13, initial damage 1d6 Str,
 secondary damage 2d6 Str. The save DC is Constitution-based.
 
-**Spells:** An aranea casts spells as a 3rd-level sorcerer. It prefers
+### Spells
+An aranea casts spells as a 3rd-level sorcerer. It prefers
 illusions and enchantments and avoids fire spells.
 
 *Typical Sorcerer Spells Known* (6/6; save DC 12 + spell level): 0---
 *daze, detect magic, ghost sound, light, resistance;* 1st---*mage armor,
 silent image, sleep.*
 
-**Web (Ex):** In spider or hybrid form (see below), an aranea can throw
+### Web (Ex)
+In spider or hybrid form (see below), an aranea can throw
 a web up to six times per day. This is similar to an attack with a net
 but has a maximum range of 50 feet, with a range increment of 10 feet,
 and is effective against targets of up to Large size. The web anchors
@@ -804,7 +833,8 @@ Constitution-based, and the Strength check DC includes a +4 racial
 bonus. The web has 6 hit points, hardness 0, and takes double damage
 from fire.
 
-**Change Shape (Su):** An aranea's natural form is that of a Medium
+### Change Shape (Su)
+An aranea's natural form is that of a Medium
 monstrous spider. It can assume two other forms. The first is a unique
 Small or Medium humanoid; an aranea in its humanoid form always assumes
 the same appearance and traits, much as a lycanthrope would. In humanoid
@@ -822,7 +852,8 @@ change in form cannot be dispelled, nor does an aranea revert to its
 natural form when killed. A *true seeing* spell, however, reveals its
 natural form if it is in humanoid or hybrid form.
 
-**Skills:** Araneas have a +2 racial bonus on Jump, Listen, and Spot
+### Skills
+Araneas have a +2 racial bonus on Jump, Listen, and Spot
 checks. They have a +8 racial bonus on Climb checks and can always
 choose to take 10 on Climb checks even if rushed or threatened.
 
@@ -840,7 +871,8 @@ so, but if outmatched, they do what they can to even the odds (usually
 by employing hit-and run tactics or standing off and engaging a foe with
 magic before moving into melee).
 
-**Archon Traits:** An archon possesses the following traits (unless
+### Archon Traits
+An archon possesses the following traits (unless
 otherwise noted in a creature's entry).
 
 ---Darkvision out to 60 feet and low-light vision.
@@ -910,12 +942,15 @@ then blasts away with its light rays. Lantern archons prefer to
 concentrate on a single opponent, seeking to reduce enemy numbers
 quickly.
 
-**Aura of Menace (Su):** Will DC 12 negates.
+### Aura of Menace (Su)
+Will DC 12 negates.
 
-**Light Ray (Ex):** A lantern archon's light rays have a range of 30
+### Light Ray (Ex)
+A lantern archon's light rays have a range of 30
 feet. This attack overcomes damage reduction of any type.
 
-**Spell-Like Abilities:** At will---*aid, detect evil, continual flame.*
+### Spell-Like Abilities
+At will---*aid, detect evil, continual flame.*
 Caster level 3rd.
 
 ### Hound Archon
@@ -957,18 +992,22 @@ A hound archon's natural weapons, as well as any weapons it wields, are
 treated as good-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Spell-Like Abilities:** At will---*aid, continual flame, detect evil,
+### Spell-Like Abilities
+At will---*aid, continual flame, detect evil,
 message.* Caster level 6th.
 
-**Aura of Menace (Su):** Will DC 16 negates.
+### Aura of Menace (Su)
+Will DC 16 negates.
 
-**Change Shape (Su):** A hound archon can assume any canine form of
+### Change Shape (Su)
+A hound archon can assume any canine form of
 Small to Large size. While in canine form, the hound archon loses its
 bite, slam, and greatsword attacks, but gains the bite attack of the
 form it chooses. For the purposes of this ability, canines include any
 doglike or wolflike animal of the animal type.
 
-**Skills:** \*While in canine form, a hound archon gains a +4
+### Skills
+\*While in canine form, a hound archon gains a +4
 circumstance bonus on Hide and Survival checks.
 
 ### Hound Archon Hero
@@ -982,26 +1021,32 @@ Hound archon heroes have over time developed a love for their weapons.
 They prefer to use their *holy greatswords* over their bite and slam
 attacks.
 
-**Spell-Like Abilities:** At will---*aid, continual flame, detect evil,
+### Spell-Like Abilities
+At will---*aid, continual flame, detect evil,
 message.* Caster level 6th.
 
-**Aura of Menace (Su):** The save DC for the hound archon hero's aura of
+### Aura of Menace (Su)
+The save DC for the hound archon hero's aura of
 menace (DC 18) is adjusted for its higher Charisma score.
 
-**Smite Evil (Su):** Three times per day a hound archon hero can make a
+### Smite Evil (Su)
+Three times per day a hound archon hero can make a
 normal melee attack with a +3 bonus that deals an extra 11 points of
 damage against an evil foe.
 
-**Change Shape (Su):** A hound archon hero can assume any canine form of
+### Change Shape (Su)
+A hound archon hero can assume any canine form of
 Small to Large size. While in canine form, the hound archon loses its
 bite, slam, and greatsword attacks, but gains the bite attack of the
 form it chooses. For the purposes of this ability, canines include any
 doglike or wolflike animal of the animal type.
 
-**Skills:** \*While in canine form, a hound archon hero gains a +4
+### Skills
+\*While in canine form, a hound archon hero gains a +4
 circumstance bonus on Hide and Survival checks.
 
-**Paladin Abilities:** Aura of courage, aura of good, *detect evil*,
+### Paladin Abilities
+Aura of courage, aura of good, *detect evil*,
 divine grace, divine health, lay on hands (33 points/day), *remove
 disease* 2/week, special mount (juvenile bronze dragon).
 
@@ -1105,12 +1150,15 @@ A trumpet archon's natural weapons, as well as any weapons it wields,
 are treated as good-aligned and lawful-aligned for the purpose of
 overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*detect evil, continual flame,
+### Spell-Like Abilities
+At will---*detect evil, continual flame,
 message.* Caster level 12th.
 
-**Aura of Menace (Su):** Will DC 21 negates.
+### Aura of Menace (Su)
+Will DC 21 negates.
 
-**Spells:** Trumpet archons can cast divine spells as 14th-level
+### Spells
+Trumpet archons can cast divine spells as 14th-level
 clerics. A trumpet archon has access to two of the following domains:
 Air, Destruction, Good, Law, or War (plus any others from its deity).
 The save DCs are Wisdom-based.
@@ -1129,7 +1177,8 @@ cure serious wounds.*
 
 \*Domain spell. Domains: Good and Law.
 
-**Trumpet (Su):** An archon's trumpet produces music of utter clarity,
+### Trumpet (Su)
+An archon's trumpet produces music of utter clarity,
 piercing beauty, and, if the trumpet archon wills it, paralyzing awe.
 All creatures except archons within 100 feet of the blast must succeed
 on a DC 19 Fortitude save or be paralyzed for 1d4 rounds. The save DC is
@@ -1188,7 +1237,8 @@ away a rival. The primary mode of attack is an electricity ray, fired
 from the tail. The creature also bites, but it prefers to stay out of
 reach.
 
-**Electricity Ray (Su):** An arrowhawk can fire this ray once per round,
+### Electricity Ray (Su)
+An arrowhawk can fire this ray once per round,
 with a range of 50 feet.
 
 ## Assassin Vine
@@ -1245,17 +1295,20 @@ An assassin vine uses simple tactics:
 It lies still until prey comes within reach, then attacks. It uses its
 entangle ability both to catch prey and to deter counterattacks.
 
-**Constrict (Ex):** An assassin vine deals 1d6+7 points of damage with a
+### Constrict (Ex)
+An assassin vine deals 1d6+7 points of damage with a
 successful grapple check.
 
-**Entangle (Su):** An assassin vine can animate plants within 30 feet of
+### Entangle (Su)
+An assassin vine can animate plants within 30 feet of
 itself as a free action (Ref DC 13 partial).
 
 The effect lasts until the vine dies or decides to end it (also a free
 action). The save DC is Wisdom-based. The ability is otherwise similar
 to *entangle* (caster level 4th).
 
-**Improved Grab (Ex):** To use this ability, an assassin vine must hit
+### Improved Grab (Ex)
+To use this ability, an assassin vine must hit
 with its slam attack.
 
 It can then attempt to start a grapple as a free action without
@@ -1263,10 +1316,12 @@ provoking an attack of opportunity.
 
 If it wins the grapple check, it establishes a hold and can constrict.
 
-**Blindsight (Ex):** Assassin vines have no visual organs but can
+### Blindsight (Ex)
+Assassin vines have no visual organs but can
 ascertain all foes within 30 feet using sound, scent, and vibration.
 
-**Camouflage (Ex):** Since an assassin vine looks like a normal plant
+### Camouflage (Ex)
+Since an assassin vine looks like a normal plant
 when at rest, it takes a DC 20 Spot check to notice it before it
 attacks.
 
@@ -1314,7 +1369,8 @@ indiscriminately. After a few rounds, it concentrates on foes that have
 been hitting it most often and uses its bite on whoever has dealt it the
 most damage.
 
-**Poison (Ex):** Injury, Fortitude DC 22, initial damage 1d6 Str,
+### Poison (Ex)
+Injury, Fortitude DC 22, initial damage 1d6 Str,
 secondary damage 2d6 Str. The save DC is Constitution-based.
 
 ## Avoral
@@ -1367,30 +1423,36 @@ agility. It can't make wing attacks while flying, however.
 An avoral's natural weapons, as well as any weapons it wields, are
 treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*aid, blur* (self only), *command*
+### Spell-Like Abilities
+At will---*aid, blur* (self only), *command*
 (DC 14), *detect magic, dimension door, dispel magic, gust of wind* (DC
 15), *hold person* (DC 16), *light, magic circle against evil* (self
 only), *magic missile, see invisibility;* 3/day---*lightning bolt* (DC
 16). Caster level 8th. The save DCs are Charisma-based.
 
-**Fear Aura (Su):** Once per day an avoral can create an aura of fear in
+### Fear Aura (Su)
+Once per day an avoral can create an aura of fear in
 a 20-foot radius. It is otherwise identical with *fear* from an
 8th-level caster (save DC 17). The save DC is Charisma-based.
 
-**Lay on Hands (Su):** As the paladin class feature, except that each
+### Lay on Hands (Su)
+As the paladin class feature, except that each
 day, an avoral can heal an amount of damage equal to its full normal hit
 points.
 
-**Speak with Animals (Su):** This ability works like *speak with
+### Speak with Animals (Su)
+This ability works like *speak with
 animals* (caster level 8th) but is a free action and does not require
 sound.
 
-**True Seeing (Su):** This ability is identical with *true seeing*
+### True Seeing (Su)
+This ability is identical with *true seeing*
 (caster level 14th), except that it has personal range and the avoral
 must concentrate for 1 full round before it takes effect. Thereafter the
 ability remains in effect as long as the avoral concentrates on it.
 
-**Skills:** An avoral's sharp eyes give it a +8 racial bonus on Spot
+### Skills
+An avoral's sharp eyes give it a +8 racial bonus on Spot
 checks.
 
 ## Azer
@@ -1433,7 +1495,8 @@ Although unfriendly and taciturn, azers rarely provoke a fight except to
 relieve a foe of gems, which they love. If threatened, they fight to the
 death, but they see the value of taking prisoners themselves.
 
-**Heat (Ex):** An azer's body is intensely hot, so its unarmed attacks
+### Heat (Ex)
+An azer's body is intensely hot, so its unarmed attacks
 deal extra fire damage. Its metallic weapons also conduct this heat.
 
 ### Azers as Characters
@@ -1536,13 +1599,15 @@ treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction. Its natural weapons are treated as magic weapons for
 the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*blink, levitate, misdirection* (DC
+### Spell-Like Abilities
+At will---*blink, levitate, misdirection* (DC
 14), *rage* (DC 15); 1/day---*charm monster* (DC 16), *crushing despair*
 (DC 16), *dimension door.* Caster level equals the barghest's HD.
 
 The save DCs are Charisma-based.
 
-**Feed (Su):** When a barghest slays a humanoid opponent, it can feed on
+### Feed (Su)
+When a barghest slays a humanoid opponent, it can feed on
 the corpse, devouring both flesh and life force, as a full-round action.
 Feeding destroys the victim's body and prevents any form of raising or
 resurrection that requires part of the corpse. There is a 50% chance
@@ -1563,15 +1628,18 @@ Hit Dice or levels are equal to or greater than its own current total. A
 barghest that reaches 9 Hit Dice through feeding immediately becomes a
 greater barghest upon completion of the act.
 
-**Change Shape (Su):** A barghest can assume the shape of a goblin or a
+### Change Shape (Su)
+A barghest can assume the shape of a goblin or a
 wolf as a standard action. In goblin form, a barghest cannot use its
 natural weapons but can wield weapons and wear armor. In wolf form, a
 barghest loses its claw attacks but retains its bite attack.
 
-**Pass Without Trace (Ex):** A barghest in wolf form can use pass
+### Pass Without Trace (Ex)
+A barghest in wolf form can use pass
 without trace (as the spell) as a free action.
 
-**Skills:** \*A barghest in wolf form gains a +4 circumstance bonus on
+### Skills
+\*A barghest in wolf form gains a +4 circumstance bonus on
 Hide checks.
 
 ### Greater Barghest
@@ -1585,7 +1653,8 @@ claw attacks but retains its bite attack.
 
 A greater barghest can reach a maximum of 18 Hit Dice through feeding.
 
-**Spell-Like Abilities:** In addition to the spelllike abilities all
+### Spell-Like Abilities
+In addition to the spelllike abilities all
 barghests possess, a greater barghest gains the following abilities. At
 will---*invisibility sphere;* 1/day---*mass bull's strength*, *mass
 enlarge.* Caster level equals the greater barghest's HD.
@@ -1643,10 +1712,12 @@ halfhearted pursuit. These creatures tend to spend most of their time
 lying in wait for prey, which includes small mammals, birds, reptiles,
 and similar creatures.
 
-**Petrifying Gaze (Su):** Turn to stone permanently, range 30 feet;
+### Petrifying Gaze (Su)
+Turn to stone permanently, range 30 feet;
 Fortitude DC 13 negates. The save DC is Charisma-based.
 
-**Skills:** \*The basilisk's dull coloration and its ability to remain
+### Skills
+\*The basilisk's dull coloration and its ability to remain
 motionless for long periods of time grant it a +4 racial bonus on Hide
 checks in natural settings.
 
@@ -1660,7 +1731,8 @@ is adjusted for its greater Hit Dice and higher Charisma score.
 An abyssal greater basilisk's natural weapons are treated as magic
 weapons for the purpose of overcoming damage reduction.
 
-**Smite Good (Su):** Once per day an abyssal greater basilisk can make a
+### Smite Good (Su)
+Once per day an abyssal greater basilisk can make a
 normal melee attack to deal an extra 18 points of damage against a good
 foe.
 
@@ -1709,14 +1781,17 @@ constricts the opponent. It can employ its claws only against foes
 caught in its coils. If beset by a large number of foes, it uses its
 breath weapon.
 
-**Breath Weapon (Su):** 20-foot line, once every 10 rounds, damage 7d6
+### Breath Weapon (Su)
+20-foot line, once every 10 rounds, damage 7d6
 electricity, Reflex DC 19 half. The save DC is Constitution-based.
 
-**Constrict (Ex):** A behir deals 2d8+8 points of damage with a
+### Constrict (Ex)
+A behir deals 2d8+8 points of damage with a
 successful grapple check. It can make six rake attacks against a
 grappled foe as well.
 
-**Improved Grab (Ex):** To use this ability, a behir must hit a creature
+### Improved Grab (Ex)
+To use this ability, a behir must hit a creature
 of any size with its bite attack. It can then attempt to start a grapple
 as a free action without provoking an attack of opportunity.
 
@@ -1724,9 +1799,11 @@ If it wins the grapple check, it it establishes a hold and can attempt
 to constrict the opponent or swallow the opponent in the following
 round.
 
-**Rake (Ex):** Six claws, attack bonus +15 melee, damage 1d4+4.
+### Rake (Ex)
+Six claws, attack bonus +15 melee, damage 1d4+4.
 
-**Swallow Whole (Ex):** A behir can try to swallow a grabbed Medium or
+### Swallow Whole (Ex)
+A behir can try to swallow a grabbed Medium or
 smaller opponent by making a successful grapple check.
 
 A behir that swallows an opponent can use its Cleave feat to bite and
@@ -1742,7 +1819,8 @@ opponent must cut its own way out.
 A behir's gizzard can hold 2 Medium, 8 Small, 32 Tiny, or 128 Diminutive
 or smaller opponents.
 
-**Skills:** Behirs have a +8 racial bonus on Climb checks and can always
+### Skills
+Behirs have a +8 racial bonus on Climb checks and can always
 choose to take 10 on Climb checks, even if rushed or threatened.
 
 ## Belker
@@ -1784,7 +1862,8 @@ Belkers speak Auran.
 
 In most cases, a belker fights with its nasty claws and painful bite.
 
-**Smoke Claws (Ex):** A belker in smoke form (see below) can engulf
+### Smoke Claws (Ex)
+A belker in smoke form (see below) can engulf
 opponents by moving on top of them. It fills the air around one Medium
 or smaller opponent without provoking an attack of opportunity. The
 target must succeed on a DC 14 Fortitude save or inhale part of the
@@ -1794,14 +1873,16 @@ dealing 3d4 points of damage per round. An affected creature can attempt
 another Fortitude save each subsequent round to cough out the
 semivaporous menace.
 
-**Smoke Form (Su):** Most of the time a belker is more or less solid,
+### Smoke Form (Su)
+Most of the time a belker is more or less solid,
 but at will it can assume smoke form. It can switch forms once per round
 as a free action and can spend up to 20 rounds per day in smoke form. A
 belker in smoke form can fly at a speed of 50 feet (perfect). The
 ability is otherwise similar to a *gaseous form* spell (caster level
 7th).
 
-**Skills:** Belkers have a +4 racial bonus on Move Silently checks.
+### Skills
+Belkers have a +4 racial bonus on Move Silently checks.
 
 ## Blink Dog
 
@@ -1842,10 +1923,12 @@ Blink dogs hunt in packs, teleporting in a seemingly random fashion
 until they surround their prey, allowing some of them to take advantage
 of flanking.
 
-**Blink (Su):** A blink dog can use *blink* as the spell (caster level
+### Blink (Su)
+A blink dog can use *blink* as the spell (caster level
 8th), and can evoke or end the effect as a free action.
 
-**Dimension Door (Su):** A blink dog can teleport, as *dimension door*
+### Dimension Door (Su)
+A blink dog can teleport, as *dimension door*
 (caster level 8th), once per round as a free action. The ability affects
 only the blink dog, which never appears within a solid object and can
 act immediately after teleporting.
@@ -1885,11 +1968,13 @@ A bodak retains fleeting memories of its past life and can speak Common
 
 ### Combat
 
-**Death Gaze (Su):** Death, range 30 feet, Fortitude DC 15 negates.
+### Death Gaze (Su)
+Death, range 30 feet, Fortitude DC 15 negates.
 Humanoids who die from this attack are transformed into bodaks 24 hours
 later. The save DC is Charisma-based.
 
-**Vulnerability to Sunlight (Ex):** Bodaks loathe sunlight, for its
+### Vulnerability to Sunlight (Ex)
+Bodaks loathe sunlight, for its
 merest touch burns their impure flesh. Each round of exposure to the
 direct rays of the sun deals 1 point of damage to the creature.
 
@@ -1935,16 +2020,19 @@ A bralani's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and good-aligned for the purpose of
 overcoming damage reduction.
 
-**Spell-Like Abilities:** At will--- *blur, charm person* (DC 13), *gust
+### Spell-Like Abilities
+At will--- *blur, charm person* (DC 13), *gust
 of wind* (DC 14), *mirror image, wind wall;* 2/day---*lightning bolt*
 (DC 15), *cure serious wounds* (DC 15). Caster level 6th. The save DCs
 are Charisma-based.
 
-**Whirlwind Blast (Su):** When in whirlwind form, a bralani can attack
+### Whirlwind Blast (Su)
+When in whirlwind form, a bralani can attack
 with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot
 line (Reflex DC 16 half ). The save DC is Constitution-based.
 
-**Alternate Form (Su):** A bralani can shift between its humanoid and
+### Alternate Form (Su)
+A bralani can shift between its humanoid and
 whirlwind forms as a standard action. In humanoid form, it cannot fly or
 use its whirlwind blast, but it can use its spell-like abilities and its
 weapons. In whirlwind form, it can fly, make slam attacks and whirlwind
@@ -1955,7 +2043,8 @@ change in form cannot be dispelled, nor does the bralani revert to any
 particular form when killed. A *true seeing* spell, however, reveals
 both forms simultaneously.
 
-**Tongues (Su):** Bralanis can speak with any creature that has a
+### Tongues (Su)
+Bralanis can speak with any creature that has a
 language, as though using a *tongues* spell (caster level 14th). This
 ability is always active.
 
@@ -1997,7 +2086,8 @@ prey, return to report and bring up reinforcements.
 Bugbear attacks are coordinated, and their tactics are sound if not
 brilliant.
 
-**Skills:** Bugbears have a +4 racial bonus on Move Silently checks.
+### Skills
+Bugbears have a +4 racial bonus on Move Silently checks.
 
 ### Bugbears as Characters
 
@@ -2072,7 +2162,8 @@ landshark relies on its tremorsense ability to detect prey.
 When it senses something edible (that is, senses movement), it breaks to
 the surface, crest first, and begins its attack.
 
-**Leap (Ex):** A bulette can jump into the air during combat. This
+### Leap (Ex)
+A bulette can jump into the air during combat. This
 allows it to make four claw attacks instead of two, each with a +15
 attack bonus, but it cannot bite.
 
@@ -2098,19 +2189,22 @@ A celestial creature uses all the base creature's statistics and
 abilities except as noted here. Do not recalculate the creature's Hit
 Dice, base attack bonus, saves, or skill points if its type changes.
 
-**Size and Type:** Animals or vermin with this template become magical
+### Size and Type
+Animals or vermin with this template become magical
 beasts, but otherwise the creature type is unchanged. Size is unchanged.
 Celestial creatures encountered on the Material Plane have the
 extraplanar subtype.
 
-**Special Attacks:** A celestial creature retains all the special
+### Special Attacks
+A celestial creature retains all the special
 attacks of the base creature and also gains the following attack.
 
 *Smite Evil (Su):* Once per day a celestial creature can make a normal
 melee attack to deal extra damage equal to its HD (maximum of +20)
 against an evil foe.
 
-**Special Qualities:** A celestial creature retains all the special
+### Special Qualities
+A celestial creature retains all the special
 qualities of the base creature and also gains the following qualities.
 
 ---Darkvision out to 60 feet.
@@ -2135,17 +2229,22 @@ use the better value.
 If a celestial creature gains damage reduction, its natural weapons are
 treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Abilities:** Same as the base creature, but Intelligence is at least
+### Abilities
+Same as the base creature, but Intelligence is at least
 3.
 
-**Environment:** Any good-aligned plane.
+### Environment
+Any good-aligned plane.
 
-**Challenge Rating:** HD 3 or less, as base creature; HD 4 to 7, as base
+### Challenge Rating
+HD 3 or less, as base creature; HD 4 to 7, as base
 creature +1; HD 8 or more, as base creature +2.
 
-**Alignment:** Always good (any).
+### Alignment
+Always good (any).
 
-**Level Adjustment:** Same as the base creature +2.
+### Level Adjustment
+Same as the base creature +2.
 
 ## Centaur
 
@@ -2267,7 +2366,8 @@ A chaos beast's claw attacks, as well as any weapons it wields, are
 treated as chaotic-aligned for the purpose of overcoming damage
 reduction.
 
-**Corporeal Instability (Su):** A blow from a chaos beast against a
+### Corporeal Instability (Su)
+A blow from a chaos beast against a
 living creature can cause a terrible transformation. The creature must
 succeed on a DC 15 Fortitude save or become a spongy, amorphous mass.
 Unless the victim manages to control the effect (see below), its shape
@@ -2300,7 +2400,8 @@ creature but fixes its form for the duration of the spell. A
 affliction (a separate *restoration* is necessary to restore any drained
 points of Wisdom).
 
-**Immunity to Transformation (Ex):** No mortal magic can permanently
+### Immunity to Transformation (Ex)
+No mortal magic can permanently
 affect or fix a chaos beast's form. Effects such as polymorphing or
 petrification force the creature into a new shape, but at the start of
 its next turn it immediately returns to its mutable form as a free
@@ -2346,7 +2447,8 @@ The chimera prefers to surprise prey. It often swoops down from the sky
 or lies concealed until it charges. The dragon head can loose a breath
 weapon instead of biting. Several chimeras attack in concert.
 
-**Breath Weapon (Su):** A chimera's breath weapon depends on the color
+### Breath Weapon (Su)
+A chimera's breath weapon depends on the color
 of its dragon head, as summarized on the table below. Regardless of its
 type, a chimera's breath weapon is usable once every 1d4 rounds, deals
 3d8 points of damage, and allows a DC 17 Reflex save for half damage.
@@ -2364,13 +2466,15 @@ To determine a chimera's head color and breath weapon randomly, roll
   9--10   White        20-foot cone of cold
   ------- ------------ ----------------------------
 
-**Skills:** A chimera's three heads give it a +2 racial bonus on Spot
+### Skills
+A chimera's three heads give it a +2 racial bonus on Spot
 and Listen checks.
 
 \*In areas of scrubland or brush, a chimera gains a +4 racial bonus on
 Hide checks.
 
-**Carrying Capacity:** A light load for a chimera is up to 348 pounds; a
+### Carrying Capacity
+A light load for a chimera is up to 348 pounds; a
 medium load, 349--699 pounds, and a heavy load, 700--1,050 pounds.
 
 ## Choker
@@ -2414,23 +2518,27 @@ choker attacks creatures of almost any size, but prefers lone prey of
 its size or larger. If one is very hungry, it may attack a group, but it
 waits to grab the last creature in line.
 
-**Constrict (Ex):** A choker deals 1d3+3 points of damage with a
+### Constrict (Ex)
+A choker deals 1d3+3 points of damage with a
 successful grapple check against a Large or smaller creature. Because it
 seizes its victim by the neck, a creature in the choker's grasp cannot
 speak or cast spells with verbal components.
 
-**Improved Grab (Ex):** To use this ability, a choker must hit a Large
+### Improved Grab (Ex)
+To use this ability, a choker must hit a Large
 or smaller opponent with a tentacle attack. It can then attempt to start
 a grapple as a free action without provoking an attack of opportunity.
 If it wins the grapple check, it establishes a hold and can constrict.
 Chokers receive a +4 racial bonus on grapple checks, which is already
 included in the statistics block.
 
-**Quickness (Su):** Although not particularly dexterous, a choker is
+### Quickness (Su)
+Although not particularly dexterous, a choker is
 supernaturally quick. It can take an extra standard action or move
 action during its turn each round.
 
-**Skills:** A chokers has a +8 racial bonus on Climb checks and can
+### Skills
+A chokers has a +8 racial bonus on Climb checks and can
 always choose to take 10 on Climb checks, even if rushed or threatened.
 
 ## Chuul
@@ -2478,16 +2586,19 @@ one claw free, so if it faces a large number of opponents, it drops a
 paralyzed or dead victim and continues attempting to grab, constrict,
 and paralyze the rest.
 
-**Constrict (Ex):** On a successful grapple check, a chuul deals 3d6+5
+### Constrict (Ex)
+On a successful grapple check, a chuul deals 3d6+5
 points of damage.
 
-**Improved Grab (Ex):** To use this ability, a chuul must hit with a
+### Improved Grab (Ex)
+To use this ability, a chuul must hit with a
 claw attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can constrict or on its next turn
 transfer a grabbed opponent to its tentacles.
 
-**Paralytic Tentacles (Ex):** A chuul can transfer grabbed victims from
+### Paralytic Tentacles (Ex)
+A chuul can transfer grabbed victims from
 a claw to its ten- tacles as a move action. The tentacles grapple with
 the same strength as the claw but deal no damage. However, they exude a
 paralytic secretion. Anyone held in the tentacles must succeed on a DC
@@ -2496,10 +2607,12 @@ rounds. The save DC is Constitution-based. While held in the tentacles,
 paralyzed or not, a victim automatically takes 1d8+2 points of damage
 each round from the creature's mandibles.
 
-**Amphibious (Ex):** Although chuuls are aquatic, they can survive
+### Amphibious (Ex)
+Although chuuls are aquatic, they can survive
 indefinitely on land.
 
-**Skills:** A chuul has a +8 racial bonus on any Swim check to perform
+### Skills
+A chuul has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -2549,7 +2662,8 @@ abilities to reduce the opposition's numbers, then engulfs a survivor.
 Multiple cloakers usually split up, leaving one or two behind to use
 special abilities while the rest make melee attacks.
 
-**Moan (Ex):** A cloaker can emit a dangerous subsonic moan as a
+### Moan (Ex)
+A cloaker can emit a dangerous subsonic moan as a
 standard action. By changing the frequency, the cloaker can cause one of
 four effects. Cloakers are immune to these sonic, mindaffecting attacks.
 Unless otherwise specified, a creature that successfully saves against
@@ -2576,7 +2690,8 @@ on a DC 15 Fortitude save or be affected as though by a *hold monster*
 spell for 5 rounds. Even after a successful save, the creature must
 repeat the save if the cloaker uses this effect again.
 
-**Engulf (Ex):** A cloaker can try to wrap a Medium or smaller creature
+### Engulf (Ex)
+A cloaker can try to wrap a Medium or smaller creature
 in its body as a standard action. The cloaker attempts a grapple that
 does not provoke an attack of opportunity. If it wins the grapple check,
 it establishes a hold and bites the engulfed victim with a +4 bonus on
@@ -2586,7 +2701,8 @@ targets.
 Attacks that hit an engulfing cloaker deal half their damage to the
 monster and half to the trapped victim.
 
-**Shadow Shift (Su):** A cloaker can manipulate shadows. This ability is
+### Shadow Shift (Su)
+A cloaker can manipulate shadows. This ability is
 effective only in shadowy areas and has three possible effects.
 
 *Obscure Vision:* The cloaker gains concealment (20% miss chance) for
@@ -2636,7 +2752,8 @@ or its lair. Flocks of cockatrices do their utmost to overwhelm and
 confuse their foes, and sometimes fly directly into their opponents'
 faces.
 
-**Petrification (Su):** Creatures hit by a cockatrice's bite attack must
+### Petrification (Su)
+Creatures hit by a cockatrice's bite attack must
 succeed on a DC 12 Fortitude save or instantly turn to stone. The save
 DC is Constitution-based. Cockatrices have immunity to the petrification
 ability of other cockatrices, but other petrification attacks affect
@@ -2682,26 +2799,31 @@ its suspicions. Since it is highly intelligent, a couatl usually casts
 spells from a distance before closing. If more than one couatl is
 involved, they discuss their strategy before a battle.
 
-**Constrict (Ex):** A couatl deals 2d8+6 points of damage with a
+### Constrict (Ex)
+A couatl deals 2d8+6 points of damage with a
 successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, a couatl must hit a
+### Improved Grab (Ex)
+To use this ability, a couatl must hit a
 creature of up to two size categories larger with its bite attack. It
 can then attempt to start a grapple as a free action without provoking
 an attack of opportunity. If it wins the grapple check, it establishes a
 hold and can constrict.
 
-**Poison (Ex):** Injury, Fortitude DC 16, initial damage 2d4 Str,
+### Poison (Ex)
+Injury, Fortitude DC 16, initial damage 2d4 Str,
 secondary damage 4d4 Str.
 
 The save DC is Constitution-based.
 
-**Psionics (Sp):** At will---*detect chaos, detect evil, detect good,
+### Psionics (Sp)
+At will---*detect chaos, detect evil, detect good,
 detect law, detect thoughts* (DC 15), *invisibility, plane shift* (DC
 20), *polymorph* (self only). Effective caster level 9th. The save DCs
 are Charisma-based.
 
-**Spells:** A couatl casts spells as a 9th-level sorcerer.
+### Spells
+A couatl casts spells as a 9th-level sorcerer.
 
 It can choose its spells known from the sorcerer list, the cleric list,
 and from the lists for the Air, Good, and Law domains. The cleric spells
@@ -2716,10 +2838,12 @@ eagle's splendor, scorching ray, silence;* 3rd---*gaseous form, magic
 circle against evil, summon monster III;* 4th--- *charm monster, freedom
 of movement.*
 
-**Ethereal Jaunt (Su):** This ability works like the *ethereal jaunt*
+### Ethereal Jaunt (Su)
+This ability works like the *ethereal jaunt*
 spell (caster level 16th).
 
-**Telepathy (Su):** A couatl can communicate telepathically with any
+### Telepathy (Su)
+A couatl can communicate telepathically with any
 creature within 90 feet that has an Intelligence score. The creature can
 respond to the couatl if it wishes---no common language is needed.
 ---
@@ -2776,11 +2900,13 @@ tentacles around the opponent's head. Once attached, it squeezes and
 tries to suffocate the foe. A darkmantle that misses its initial attack
 often flies up and tries to drop on the opponent again.
 
-**Darkness (Su):** Once per day a darkmantle can cause darkness as the
+### Darkness (Su)
+Once per day a darkmantle can cause darkness as the
 *darkness* spell (caster level 5th). It most often uses this ability
 just before attacking.
 
-**Improved Grab (Ex):** To use this ability, a darkmantle must hit a
+### Improved Grab (Ex)
+To use this ability, a darkmantle must hit a
 Large or smaller creature with its slam attack. It can then attempt to
 start a grapple as a free action without provoking an attack of
 opportunity.
@@ -2788,15 +2914,18 @@ opportunity.
 If it wins the grapple check, it attaches to the opponent's head and can
 constrict.
 
-**Constrict (Ex):** A darkmantle deals 1d4+4 points of damage with a
+### Constrict (Ex)
+A darkmantle deals 1d4+4 points of damage with a
 successful grapple check.
 
-**Blindsight (Ex):** A darkmantle can "see" by emitting high-frequency
+### Blindsight (Ex)
+A darkmantle can "see" by emitting high-frequency
 sounds, inaudible to most other creatures, that allows it to ascertain
 objects and creatures within 90 feet. A *silence* spell negates this
 ability and effectively blinds the darkmantle.
 
-**Skills:** A darkmantle has a +4 racial bonus on Listen and Spot
+### Skills
+A darkmantle has a +4 racial bonus on Listen and Spot
 checks.
 
 These bonuses are lost if its blindsight is negated. The creature's
@@ -2845,7 +2974,8 @@ most closed with layers of stone 1 or 2 inches thick.
 The delver can quickly dissolve the stone cover and pop up to attack
 unexpectedly.
 
-**Corrosive Slime (Ex):** A delver produces a mucuslike slime that
+### Corrosive Slime (Ex)
+A delver produces a mucuslike slime that
 contains a highly corrosive substance. The slime is particularly
 effective against stone. A delver's mere touch deals 2d6 points of acid
 damage to organic creatures or objects. Against metallic creatures or
@@ -2862,7 +2992,8 @@ A creature attacking a delver with natural weapons takes damage from its
 slime each time an attack hits unless the creature succeeds on a DC 22
 Reflex save. These save DCs are Constitution-based.
 
-**Stone Shape (Ex):** A delver can alter its slime to temporarily soften
+### Stone Shape (Ex)
+A delver can alter its slime to temporarily soften
 stone instead of dissolving it. Once every 10 minutes, a delver can
 soften and shape up to 25 cubic feet of stone, as a *stone shape* spell
 (caster level 15th).
@@ -2930,15 +3061,18 @@ A babau's natural weapons, as well as any weapons it wields, are treated
 as chaotic-aligned and evil-aligned for the purpose of overcoming damage
 reduction.
 
-**Sneak Attack (Ex):** A babau can make a sneak attack like a rogue,
+### Sneak Attack (Ex)
+A babau can make a sneak attack like a rogue,
 dealing an extra 2d6 points of damage whenever a foe is denied his or
 her Dexterity bonus, or when the babau is flanking.
 
-**Spell-Like Abilities:** At will---*darkness, dispel magic, see
+### Spell-Like Abilities
+At will---*darkness, dispel magic, see
 invisibility*, *greater teleport* (self plus 50 pounds of objects only).
 Caster level 7th.
 
-**Protective Slime (Su):** A slimy red jelly coats the babau's skin. Any
+### Protective Slime (Su)
+A slimy red jelly coats the babau's skin. Any
 weapon that touches it takes 1d8 points of acid damage from the
 corrosive goo, and the weapon's hardness does not reduce this damage. A
 magic weapon may attempt a DC 18 Reflex save to avoid taking this
@@ -2951,7 +3085,8 @@ Constitution-based.
 babau with a 40% chance of success. This ability is the equivalent of a
 3rd-level spell.
 
-**Skills:** Babaus have a +8 racial bonus on Hide, Listen, Move
+### Skills
+Babaus have a +8 racial bonus on Hide, Listen, Move
 Silently, and Search checks.
 
 ### Balor
@@ -3003,35 +3138,42 @@ of light that deals 100 points of damage to anything within 100 feet
 (Reflex DC 30 half ). This explosion automatically destroys any weapons
 the balor is holding. The save DC is Constitution-based.
 
-**Entangle (Ex):** A balor's *+1 flaming whip* entangles foes much like
+### Entangle (Ex)
+A balor's *+1 flaming whip* entangles foes much like
 an attack with a net. The whip has 20 hit points. The whip needs no
 folding. If it hits, the target and the balor immediately make opposed
 Strength checks; if the balor wins, it drags the target against its
 flaming body (see below). The target remains anchored against the
 balor's body until it escapes the whip.
 
-**Spell-Like Abilities:** At will--- *blasphemy* (DC 25), *dominate
+### Spell-Like Abilities
+At will--- *blasphemy* (DC 25), *dominate
 monster* (DC 27), *greater dispel magic, greater teleport* (self plus 50
 pounds of objects only), *insanity* (DC 25), *power word stun,
 telekinesis* (DC 23), *unholy aura* (DC 26); 1/day---*fire storm* (DC
 26), *implosion* (DC 27). Caster level 20th. The save DCs are
 Charisma-based.
 
-**Vorpal Sword (Su):** Every balor carries a *+1 vorpal longsword* that
+### Vorpal Sword (Su)
+Every balor carries a *+1 vorpal longsword* that
 looks like a flame or a bolt of lightning.
 
-***Summon Demon* (Sp):** Once per day a balor can automatically summon
+### *Summon Demon* (Sp)
+Once per day a balor can automatically summon
 4d10 dretches, 1d4 hezrous, or one nalfeshnee, glabrezu, marilith, or
 balor. This ability is the equivalent of a 9th-level spell.
 
-**Flaming Body (Su):** The body of a balor is wreathed in flame.
+### Flaming Body (Su)
+The body of a balor is wreathed in flame.
 
 Anyone grappling a balor takes 6d6 points of fire damage each round.
 
-**True Seeing (Su):** Balors have a continuous true seeing ability, as
+### True Seeing (Su)
+Balors have a continuous true seeing ability, as
 the spell (caster level 20th).
 
-**Skills:** Balors have a +8 racial bonus on Listen and Spot checks.
+### Skills
+Balors have a +8 racial bonus on Listen and Spot checks.
 
 #### Tactics Round-by-Round
 
@@ -3113,19 +3255,22 @@ A bebilith's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Poison (Ex):** Injury, Fortitude DC 24, initial damage 1d6 Con,
+### Poison (Ex)
+Injury, Fortitude DC 24, initial damage 1d6 Con,
 secondary damage 2d6 Con. Bebilith venom is highly perishable, losing
 its potency and becoming inert, foul-smelling goo almost as soon as it
 comes into contact with air. The save DC is Constitution-based.
 
-**Rend Armor (Ex):** If a bebilith hits with both claw attacks, it pulls
+### Rend Armor (Ex)
+If a bebilith hits with both claw attacks, it pulls
 apart any armor worn by its foe. This attack deals 4d6+18 points of
 damage to the opponent's armor. Creatures not wearing armor are
 unaffected by this special attack. Armor reduced to 0 hit points is
 destroyed. Damaged armor may be repaired with a successful Craft
 (armorsmithing) check.
 
-**Web (Ex):** A bebilith can throw a web up to four times per day. This
+### Web (Ex)
+A bebilith can throw a web up to four times per day. This
 is similar to an attack with a net but has a maximum range of 30 feet,
 with a range increment of 10 feet. This attack is effective against
 targets of up to Gargantuan size. The web anchors the target in place,
@@ -3137,10 +3282,12 @@ Constitution-based. The web has 14 hit points and hardness 0. There is a
 75% chance that the webbing will not burn if any sort of fire is applied
 to it (check each round).
 
-**Plane Shift (Su):** This ability affects only the bebilith. It is
+### Plane Shift (Su)
+This ability affects only the bebilith. It is
 otherwise similar to the spell (caster level 12th).
 
-**Skills:** A bebilith has mottled coloration that gives it a +8 racial
+### Skills
+A bebilith has mottled coloration that gives it a +8 racial
 bonus on Hide checks.
 
 ### Dretch
@@ -3188,14 +3335,17 @@ A dretch's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Spell-Like Abilities:** 1/day---*scare* (DC 12), *stinking cloud* (DC
+### Spell-Like Abilities
+1/day---*scare* (DC 12), *stinking cloud* (DC
 13). Caster level 2nd. The save DCs are Charisma-based.
 
-***Summon Demon* (Sp):** Once per day a dretch can attempt to summon
+### *Summon Demon* (Sp)
+Once per day a dretch can attempt to summon
 another dretch with a 35% chance of success. This ability is the
 equivalent of a 1st-level spell.
 
-**Telepathy (Su):** Dretches can communicate telepathically with
+### Telepathy (Su)
+Dretches can communicate telepathically with
 creatures within 100 feet that speak Abyssal.
 
 ### Glabrezu
@@ -3243,12 +3393,14 @@ A glabrezu's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Improved Grab (Ex):** To use this ability, a glabrezu must hit a
+### Improved Grab (Ex)
+To use this ability, a glabrezu must hit a
 Medium or smaller opponent with a pincer attack. It can then attempt to
 start a grapple as a free action without provoking an attack of
 opportunity.
 
-**Spell-Like Abilities:** At will---*chaos hammer* (DC 19), *confusion*
+### Spell-Like Abilities
+At will---*chaos hammer* (DC 19), *confusion*
 (DC 19), *dispel magic, mirror image, reverse gravity* (DC 22), *greater
 teleport* (self plus 50 pounds of objects only), *unholy blight* (DC
 19); 1/day---*power word stun*. Caster level 14th. The save DCs are
@@ -3260,15 +3412,18 @@ desires---but unless the *wish* is used to create pain and suffering in
 the world, the glabrezu demands either terrible evil acts or great
 sacrifice as compensation.
 
-***Summon Demon* (Sp):** Once per day a glabrezu can attempt to summon
+### *Summon Demon* (Sp)
+Once per day a glabrezu can attempt to summon
 4d10 dretches or 1d2 vrocks with a 50% chance of success, or another
 glabrezu with a 20% chance of success. This ability is the equivalent of
 a 4th-level spell.
 
-**True Seeing (Su):** Glabrezu continuously use true seeing as the spell
+### True Seeing (Su)
+Glabrezu continuously use true seeing as the spell
 (caster level 14th).
 
-**Skills:** Glabrezu have a +8 racial bonus on Listen and Spot checks.
+### Skills
+Glabrezu have a +8 racial bonus on Listen and Spot checks.
 
 ### Hezrou
 
@@ -3314,16 +3469,19 @@ A hezrou's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Improved Grab (Ex):** To use this ability, a hezrou must hit with both
+### Improved Grab (Ex)
+To use this ability, a hezrou must hit with both
 claw attacks. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
-**Spell-Like Abilities:** At will---*chaos hammer* (DC 18), *greater
+### Spell-Like Abilities
+At will---*chaos hammer* (DC 18), *greater
 teleport* (self plus 50 pounds of objects only), *unholy blight* (DC
 18); 3/day---*blasphemy* (DC 21), *gaseous form.* Caster level 13th. The
 save DCs are Charisma-based.
 
-**Stench (Ex):** A hezrou's skin produces a foul-smelling, toxic liquid
+### Stench (Ex)
+A hezrou's skin produces a foul-smelling, toxic liquid
 whenever it fights. Any living creature (except other demons) within 10
 feet must succeed on a DC 24 Fortitude save or be nauseated for as long
 as it remains within the affected area and for 1d4 rounds afterward.
@@ -3335,11 +3493,13 @@ Creatures that have immunity to poison are unaffected, and creatures
 resistant to poison receive their normal bonus on their saving throws..
 The save DC is Constitution-based.
 
-***Summon Demon* (Sp):** Once per day a hezrou can attempt to summon
+### *Summon Demon* (Sp)
+Once per day a hezrou can attempt to summon
 4d10 dretches or another hezrou with a 35% chance of success. This
 ability is the equivalent of a 4th-level spell.
 
-**Skills:** Hezrous have a +8 racial bonus on Listen and Spot checks.
+### Skills
+Hezrous have a +8 racial bonus on Listen and Spot checks.
 
 ### Marilith
 
@@ -3389,33 +3549,40 @@ A marilith's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Constrict (Ex):** A marilith deals 4d6+13 points of damage with a
+### Constrict (Ex)
+A marilith deals 4d6+13 points of damage with a
 successful grapple check. The constricted creature must succeed on a DC
 27 Fortitude save or lose consciousness for as long as it remains in the
 coils and for 2d4 rounds thereafter. The save DC is Strength-based.
 
-**Improved Grab (Ex):** To use this ability, a marilith must hit with
+### Improved Grab (Ex)
+To use this ability, a marilith must hit with
 its tail slap attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it succeeds on the
 grapple check, it can constrict.
 
-**Spell-Like Abilities:** At will---*align weapon, blade barrier* (DC
+### Spell-Like Abilities
+At will---*align weapon, blade barrier* (DC
 23), *magic weapon, project image* (DC 23), *polymorph, see
 invisibility, telekinesis* (DC 22), *greater teleport* (self plus 50
 pounds of objects only), *unholy aura* (DC 25). Caster level 16th. The
 save DCs are Charisma-based.
 
-***Summon Demon* (Sp):** Once per day a marilith can attempt to summon
+### *Summon Demon* (Sp)
+Once per day a marilith can attempt to summon
 4d10 dretches, 1d4 hezrou, or one nalfeshnee with a 50% chance of
 success, or one glabrezu or another marilith with a 20% chance of
 success. This ability is the equivalent of a 5th-level spell.
 
-**True Seeing (Su):** Mariliths continuously use this ability, as the
+### True Seeing (Su)
+Mariliths continuously use this ability, as the
 spell (caster level 16th).
 
-**Skills:** Mariliths have a +8 racial bonus on Listen and Spot checks.
+### Skills
+Mariliths have a +8 racial bonus on Listen and Spot checks.
 
-**Feats:** In combination with its natural abilities, a marilith's
+### Feats
+In combination with its natural abilities, a marilith's
 Multiweapon Fighting feat allows it to attack with all its arms at no
 penalty.
 
@@ -3461,7 +3628,8 @@ A nalfeshnee's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Smite (Su):** Three times per day a nalfeshnee can create a nimbus of
+### Smite (Su)
+Three times per day a nalfeshnee can create a nimbus of
 unholy light. When the demon triggers the ability, rainbow-colored beams
 play around its body. One round later they burst in a 60-foot radius.
 Any creature within this area must succeed on a DC 22 Will save or be
@@ -3470,20 +3638,24 @@ creature receives its full Dexterity and shield bonuses to AC if
 attacked but can take no actions. Other demons are immune to this
 effect. The save DC is Charisma-based.
 
-**Spell-Like Abilities:** At will---*call lightning* (DC 18),
+### Spell-Like Abilities
+At will---*call lightning* (DC 18),
 *feeblemind* (DC 20), *greater dispel magic, slow* (DC 18), *greater
 teleport* (self plus 50 pounds of objects only), *unholy aura* (DC 23).
 Caster level 12th. The save DCs are Charisma-based.
 
-***Summon Demon* (Sp):** Twice per day a nalfeshnee can attempt to
+### *Summon Demon* (Sp)
+Twice per day a nalfeshnee can attempt to
 summon 1d4 vrocks, 1d4 hezrous, or one glabrezu with a 50% chance of
 success, or another nalfeshnee with a 20% chance of success. This
 ability is the equivalent of a 5th-level spell.
 
-**True Seeing (Su):** Nalfeshnees continuously use true seeing, as the
+### True Seeing (Su)
+Nalfeshnees continuously use true seeing, as the
 spell (caster level 14th).
 
-**Skills:** Nalfeshnees have a +8 racial bonus on Listen and Spot
+### Skills
+Nalfeshnees have a +8 racial bonus on Listen and Spot
 checks.
 
 ### Quasit
@@ -3530,11 +3702,13 @@ A quasit's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d4 Dex,
+### Poison (Ex)
+Injury, Fortitude DC 13, initial damage 1d4 Dex,
 secondary damage 2d4 Dex. The save DC is Constitution-based and includes
 a +2 racial bonus.
 
-**Spell-Like Abilities:** At will---*detect good, detect magic,* and
+### Spell-Like Abilities
+At will---*detect good, detect magic,* and
 *invisibility* (self only); 1/day---*cause fear* (as the spell, except
 that its area is a 30-foot radius from the quasit, save DC 11). Caster
 level 6th.
@@ -3544,7 +3718,8 @@ The save DCs are Charisma-based.
 Once per week a quasit can use *commune* to ask six questions. The
 ability otherwise works as the spell (caster level 12th).
 
-**Alternate Form (Su):** A quasit can assume other forms at will as a
+### Alternate Form (Su)
+A quasit can assume other forms at will as a
 standard action. This ability functions as a *polymorph* spell cast on
 itself (caster level 12th), except that a quasit does not regain hit
 points for changing form, and any individual quasit can assume only one
@@ -3589,7 +3764,8 @@ weighs about 6,500 pounds.
 Retrievers attack with four claws, but their eye rays are far more
 deadly.
 
-**Eye Rays (Su):** A retriever's eyes can produce four different magical
+### Eye Rays (Su)
+A retriever's eyes can produce four different magical
 rays with a range of 100 feet. Each round, it can fire one ray as a free
 action. A particular ray is usable only once every 4 rounds. A retriever
 can fire an eye ray in the same round that it makes physical attacks.
@@ -3607,14 +3783,16 @@ The four eye effects are:
 *Petrification:* The target must succeed on a Fortitude save or turn to
 stone permanently.
 
-***Find Target* (Sp):** When ordered to find an item or a creature, a
+### *Find Target* (Sp)
+When ordered to find an item or a creature, a
 retriever does so unerringly, as though guided by *discern location.*
 
 The being giving the order must have seen (or must have an item
 belonging to) the creature to be found, or must have touched the object
 to be located. This ability is the equivalent of an 8th-level spell.
 
-**Improved Grab (Ex):** To use this ability, a retriever must hit with
+### Improved Grab (Ex)
+To use this ability, a retriever must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and grips the opponent fast in its mouth.
@@ -3665,7 +3843,8 @@ A succubus's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Energy Drain (Su):** A succubus drains energy from a mortal it lures
+### Energy Drain (Su)
+A succubus drains energy from a mortal it lures
 into some act of passion, or by simply planting a kiss on the victim. If
 the target is not willing to be kissed, the succubus must start a
 grapple, which provokes an attack of opportunity. The succubus's kiss or
@@ -3675,21 +3854,25 @@ succubus. The victim must succeed on a DC 21 Will save to negate the
 effect of the *suggestion*. The DC is 21 for the Fortitude save to
 remove a negative level. These save DCs are Charisma-based.
 
-**Spell-Like Abilities:** At will---*charm monster* (DC 22), *detect
+### Spell-Like Abilities
+At will---*charm monster* (DC 22), *detect
 good, detect thoughts* (DC 20), *ethereal jaunt* (self plus 50 pounds of
 objects only), *polymorph* (humanoid form only, no limit on duration),
 *suggestion* (DC 21), *greater teleport* (self plus 50 pounds of objects
 only). Caster level 12th. The save DCs are Charisma-based.
 
-***Summon Demon* (Sp):** Once per day a succubus can attempt to summon 1
+### *Summon Demon* (Sp)
+Once per day a succubus can attempt to summon 1
 vrock with a 30% chance of success. This ability is the equivalent of a
 3rd-level spell.
 
-**Tongues (Su):** A succubus has a permanent tongues ability (as the
+### Tongues (Su)
+A succubus has a permanent tongues ability (as the
 spell, caster level 12th). Succubi usually use verbal communication with
 mortals.
 
-**Skills:** Succubi have a +8 racial bonus on Listen and Spot checks.
+### Skills
+Succubi have a +8 racial bonus on Listen and Spot checks.
 
 \*While using her *polymorph* ability, a succubus gains a +10
 circumstance bonus on Disguise checks.
@@ -3735,7 +3918,8 @@ A vrock's natural weapons, as well as any weapons it wields, are treated
 as chaotic-aligned and evil-aligned for the purpose of overcoming damage
 reduction.
 
-**Dance of Ruin (Su):** To use this ability, a group of at least three
+### Dance of Ruin (Su)
+To use this ability, a group of at least three
 vrocks must join hands in a circle, dancing wildly and chanting.
 
 At the end of 3 rounds of dancing, a wave of crackling energy flashes
@@ -3744,11 +3928,13 @@ radius take 20d6 points of damage (Reflex DC 18 half ). Stunning,
 paralyzing, or slaying one of the vrocks stops the dance. The save DC is
 Charisma-based.
 
-**Spell-Like Abilities:** At will---*mirror image, telekinesis* (DC 18),
+### Spell-Like Abilities
+At will---*mirror image, telekinesis* (DC 18),
 *greater teleport* (self plus 50 pounds of objects only);
 1/day---*heroism.* Caster level 12th. The save DCs are Charisma-based.
 
-**Spores (Ex):** A vrock can release masses of spores from its body once
+### Spores (Ex)
+A vrock can release masses of spores from its body once
 every 3 rounds as a free action. The spores automatically deal 1d8
 points of damage to all creatures adjacent to the vrock. They then
 penetrate the skin and grow, dealing an additional 1d4 points of damage
@@ -3758,16 +3944,19 @@ in 1d4 days.) A *delay poison* spell stops the spores' growth for its
 duration. *Bless, neutralize poison,* or *remove disease* kills the
 spores, as does sprinkling the victim with a vial of holy water.
 
-**Stunning Screech (Su):** Once per hour a vrock can emit a piercing
+### Stunning Screech (Su)
+Once per hour a vrock can emit a piercing
 screech. All creatures except for demons within a 30-foot radius must
 succeed on a DC 22 Fortitude save or be stunned for 1 round. The save DC
 is Constitution-based.
 
-***Summon Demon* (Sp):** Once per day a vrock can attempt to summon 2d10
+### *Summon Demon* (Sp)
+Once per day a vrock can attempt to summon 2d10
 dretches or another vrock with a 35% chance of success. This ability is
 the equivalent of a 3rd-level spell.
 
-**Skills:** Vrocks have a +8 racial bonus on Listen and Spot checks.
+### Skills
+Vrocks have a +8 racial bonus on Listen and Spot checks.
 
 ## Derro
 
@@ -3811,7 +4000,8 @@ cruel traps and deadly ambushes, and strike savagely from hiding. They
 delight in taking captives who can be tortured to death later, and favor
 traps and poisons that disable without killing.
 
-**Madness (Ex):** Derro use their Charisma modifier on Will saves
+### Madness (Ex)
+Derro use their Charisma modifier on Will saves
 instead of their Wisdom modifier, and have immunity to *confusion* and
 *insanity* effects. A derro cannot be restored to sanity by any means
 short of a *miracle* or *wish* spell.
@@ -3820,26 +4010,31 @@ short of a *miracle* or *wish* spell.
 scores and a --6 penalty to their Wisdom scores. A derro restored to
 sanity gains 6 points of Wisdom and loses 6 points of Charisma.
 
-**Poison Use (Ex):** Derro typically carry 2d4 doses of greenblood oil
+### Poison Use (Ex)
+Derro typically carry 2d4 doses of greenblood oil
 or Medium monstrous spider venom, applying it to their crossbow bolts.
 Derro are not at risk of poisoning themselves when handling poison.
 
-**Sneak Attack (Ex):** Any time a derro's opponent is denied his
+### Sneak Attack (Ex)
+Any time a derro's opponent is denied his
 Dexterity bonus to AC, or if a derro flanks his opponent, he deals an
 extra 1d6 points of damage. This ability is just like the rogue's sneak
 attack and subject to the same limitations.
 
-**Spell-Like Abilities:** At will---*darkness, ghost sound;* 1/day---
+### Spell-Like Abilities
+At will---*darkness, ghost sound;* 1/day---
 *daze* (DC 13)*, sound burst* (DC 15). Caster level 3rd. The save DCs
 are Charisma-based.
 
-**Vulnerability to Sunlight (Ex):** A derro takes 1 point of
+### Vulnerability to Sunlight (Ex)
+A derro takes 1 point of
 Constitution damage for every hour it is exposed to sunlight, and it
 dies if its Constitution score reaches 0. Lost Constitution points are
 recovered at the rate of 1 per every 24-hour period spent underground or
 otherwise sheltered from the sun.
 
-**Skills:** Derro have a +4 racial bonus on Hide and Move Silently
+### Skills
+Derro have a +4 racial bonus on Hide and Move Silently
 checks.
 
 ## Destrachan
@@ -3893,7 +4088,8 @@ weakened by its sonic attacks. It often enters battle with surprise if
 possible. It first focuses on destroying metal armor and weapons and
 then changes to harmonics that disrupt flesh.
 
-**Destructive Harmonics (Su):** A destrachan can blast sonic energy in a
+### Destructive Harmonics (Su)
+A destrachan can blast sonic energy in a
 cone up to 80 feet long. It can also use this attack to affect any
 creatures or objects within a 30-foot radius. It can tune the harmonics
 of this destructive power to affect different types of targets. All save
@@ -3912,20 +4108,24 @@ the area must succeed on a DC 15 Fortitude save or shatter. Objects (or
 portions of objects) that have up to 30 hit points are potentially
 affected by this attack.
 
-**Blindsight (Ex):** A destrachan can use hearing to ascertain all foes
+### Blindsight (Ex)
+A destrachan can use hearing to ascertain all foes
 within 100 feet as a sighted creature would.
 
-**Immunities:** Destrachans have immunity to gaze attacks, visual
+### Immunities
+Destrachans have immunity to gaze attacks, visual
 effects, illusions, and other attack forms that rely on sight.
 
-**Protection from Sonics (Ex):** While they can be affected by loud
+### Protection from Sonics (Ex)
+While they can be affected by loud
 noises and sonic spells (such as *ghost sound* or *silence*),
 destrachans are less vulnerable to sonic attacks (+4 circumstance bonus
 on all saves) because they can protect their ears. A destrachan whose
 sense of hearing is impaired is effectively blinded, and all targets are
 treated as having total concealment.
 
-**Skills:** A destrachan has a +10 racial bonus on Listen checks.
+### Skills
+A destrachan has a +10 racial bonus on Listen checks.
 
 ## Devil
 
@@ -3938,7 +4138,8 @@ much as possible. A favorite trick is to create illusory reinforcements;
 enemies can never be entirely sure if a threat is only a figment or real
 summoned devils joining the fray.
 
-**Devil Traits:** Most devils possesses the following traits (unless
+### Devil Traits
+Most devils possesses the following traits (unless
 otherwise noted in a creature's entry).
 
 ---Immunity to fire and poison.
@@ -3996,33 +4197,39 @@ A barbed devil's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Fear (Su):** A creature hit by a barbed devil must succeed on a DC 20
+### Fear (Su)
+A creature hit by a barbed devil must succeed on a DC 20
 Will save or be affected as though by *fear* (caster level 9th).
 
 Whether or not the save is successful, that creature cannot be affected
 by that same barbed devil's fear ability for 24 hours. The save DC is
 Charisma-based.
 
-**Impale (Ex):** A barbed devil deals 3d8+9 points of piercing damage to
+### Impale (Ex)
+A barbed devil deals 3d8+9 points of piercing damage to
 a grabbed opponent with a successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, a barbed devil must hit
+### Improved Grab (Ex)
+To use this ability, a barbed devil must hit
 with a claw attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can impale the opponent on its
 barbed body.
 
-***Summon Devil* (Sp):** Once per day a barbed devil can attempt to
+### *Summon Devil* (Sp)
+Once per day a barbed devil can attempt to
 summon 1d6 bearded devils or another barbed devil with a 35% chance of
 success. This ability is the equivalent of a 4th-level spell.
 
-**Barbed Defense (Su):** Any creature striking a barbed devil with
+### Barbed Defense (Su)
+Any creature striking a barbed devil with
 handheld weapons or natural weapons takes 1d8+6 points of piercing and
 slashing damage from the devil's barbs. Note that weapons with
 exceptional reach, such as longspears, do not endanger their users in
 this way.
 
-**Spell-Like Abilities:** At will---*greater teleport* (self plus 50
+### Spell-Like Abilities
+At will---*greater teleport* (self plus 50
 pounds of objects only), *hold person* (DC 16), *major image* (DC 17),
 *scorching ray* (2 rays only). 1/day---*order's wrath* (DC 18), *unholy
 blight* (DC 18). Caster level 12th. The save DCs are Charisma-based.
@@ -4067,10 +4274,12 @@ A bearded devil's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Spell-Like Abilities:** At will--- *greater teleport* (self plus 50
+### Spell-Like Abilities
+At will--- *greater teleport* (self plus 50
 pounds of objects only). Caster level 12th.
 
-**Infernal Wound (Su):** The damage a bearded devil deals with its
+### Infernal Wound (Su)
+The damage a bearded devil deals with its
 glaive causes a persistent wound. An injured creature loses 2 additional
 hit points each round. The wound does not heal naturally and resists
 healing spells. The continuing hit point loss can be stopped by a DC 16
@@ -4084,7 +4293,8 @@ loss as well as restoring hit points. The infernal wound is a
 supernatural ability of the bearded devil, not of the weapon. The check
 DC is Constitution-based.
 
-**Beard (Ex):** If a bearded devil hits a single opponent with both claw
+### Beard (Ex)
+If a bearded devil hits a single opponent with both claw
 attacks, it automatically hits with its beard. The affected creature
 takes 1d8+2 points of damage and must succeed on a DC 16 Fortitude save
 or be infected with a vile disease known as devil chills (incubation
@@ -4093,13 +4303,15 @@ afflicted creature succeeds on three consecutive Fortitude saves, the
 disease is cured magically, or the creature dies. The save DC is
 Constitution-based.
 
-**Battle Frenzy (Ex):** Twice per day, a bearded devil can work itself
+### Battle Frenzy (Ex)
+Twice per day, a bearded devil can work itself
 into a battle frenzy similar to the barbarian's rage (+4 Strength, +4
 Constitution, +2 morale bonus on Will saves, --2 AC penalty). The frenzy
 lasts for 6 rounds, and the bearded devil suffers no ill effects
 afterward.
 
-***Summon Devil* (Sp):** Once per day a bearded devil can attempt to
+### *Summon Devil* (Sp)
+Once per day a bearded devil can attempt to
 summon 2d10 lemures with a 50% chance of success, or another bearded
 devil with a 35% chance of success. This ability is the equivalent of a
 3rd-level spell.
@@ -4142,22 +4354,26 @@ A bone devil's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Fear Aura (Su):** Bone devils can radiate a 5-foot-radius fear aura as
+### Fear Aura (Su)
+Bone devils can radiate a 5-foot-radius fear aura as
 a free action. Affected creatures must succeed on a DC 17 Will save or
 be affected as though by a *fear* spell (caster level 7th). A creature
 that successfully saves cannot be affected again by the same bone
 devil's aura for 24 hours. Other devils are immune to the aura. The save
 DC is Charisma-based.
 
-**Poison (Ex):** Injury, Fortitude DC 20, initial damage 1d6 Str,
+### Poison (Ex)
+Injury, Fortitude DC 20, initial damage 1d6 Str,
 secondary damage 2d6 Str. The save DC is Constitution-based.
 
-**Spell-Like Abilities:** At will---*greater teleport* (self plus 50
+### Spell-Like Abilities
+At will---*greater teleport* (self plus 50
 pounds of objects only), *dimensional anchor, fly, invisibility* (self
 only), *major image* (DC 15), *wall of ice*. Caster level 12th. The save
 DC is Charisma-based.
 
-***Summon Devil* (Sp):** Once per day a bone devil can attempt to summon
+### *Summon Devil* (Sp)
+Once per day a bone devil can attempt to summon
 2d10 lemures with a 50% chance of success, or another bone devil with a
 35% chance of success. This ability is the equivalent of a 4th-level
 spell.
@@ -4203,7 +4419,8 @@ A chain devil's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Dancing Chains (Su):** A chain devil's most awesome attack is its
+### Dancing Chains (Su)
+A chain devil's most awesome attack is its
 ability to control up to four chains within 20 feet as a standard
 action, making the chains dance or move as it wishes. In addition, a
 chain devil can increase these chains' length by up to 15 feet and cause
@@ -4217,18 +4434,21 @@ leaves the creature's possession. The save DC is Charisma-based.
 A chain devil can climb chains it controls at its normal speed without
 making Climb checks.
 
-**Unnerving Gaze (Su):** Range 30 ft., Will DC 15 negates. A chain devil
+### Unnerving Gaze (Su)
+Range 30 ft., Will DC 15 negates. A chain devil
 can make its face resemble one of an opponent's departed loved ones or
 bitter enemies. Those who fail their saves take a --2 penalty on attack
 rolls for 1d3 rounds. The save DC is Charisma-based.
 
-**Regeneration (Ex):** Chain devils take normal damage from silvered
+### Regeneration (Ex)
+Chain devils take normal damage from silvered
 weapons, good-aligned weapons, and spells or effects with the good
 descriptor. A chain devil that loses a piece of its body regrows it in
 2d6x10 minutes. Holding the severed member against the stump enables it
 to reattach instantly.
 
-**Skills:** Chain devils have a +8 racial bonus on Craft checks
+### Skills
+Chain devils have a +8 racial bonus on Craft checks
 involving metalwork.
 
 ### Erinyes
@@ -4274,22 +4494,26 @@ An erinyes's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Entangle (Ex):** Each erinyes carries a stout rope some 50 feet long
+### Entangle (Ex)
+Each erinyes carries a stout rope some 50 feet long
 that entangles opponents of any size as an *animate rope* spell (caster
 level 16th). An erinyes can hurl its rope 30 feet with no range penalty.
 Typically, an erinyes entangles a foe, lifts it into the air, and drops
 it from a great height.
 
-**Spell-Like Abilities:** At will---*greater teleport* (self plus 50
+### Spell-Like Abilities
+At will---*greater teleport* (self plus 50
 pounds of objects only), *charm monster* (DC 19), *minor image* (DC 17),
 *unholy blight* (DC 19). Caster level 12th. The save DCs are
 Charisma-based.
 
-***Summon Devil* (Sp):** Once per day an erinyes can attempt to summon
+### *Summon Devil* (Sp)
+Once per day an erinyes can attempt to summon
 2d10 lemures or 1d4 bearded devils with a 50% chance of success. This
 ability is the equivalent of a 3rd-level spell.
 
-**True Seeing (Su):** Erinyes continuously use true seeing, as the spell
+### True Seeing (Su)
+Erinyes continuously use true seeing, as the spell
 (caster level 14th).
 
 ### Hellcat (Bezekira)
@@ -4335,23 +4559,28 @@ A hellcat's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Improved Grab (Ex):** To use this ability, a hellcat must hit with its
+### Improved Grab (Ex)
+To use this ability, a hellcat must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can rake.
 
-**Pounce (Ex):** If a hellcat charges, it can make a full attack,
+### Pounce (Ex)
+If a hellcat charges, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** Attack bonus +13 melee, damage 1d8+3.
+### Rake (Ex)
+Attack bonus +13 melee, damage 1d8+3.
 
-**Invisible in Light (Ex):** A hellcat is invisible in any area lit well
+### Invisible in Light (Ex)
+A hellcat is invisible in any area lit well
 enough for a human to see. In a darkened area, it shows up as a faintly
 glowing outline visible up to 30 feet away (60 feet if the viewer has
 low-light vision). Magical darkness smothers the glow and conceals the
 outline.
 
-**Skills:** Hellcats have a +4 racial bonus on Listen and Move Silently
+### Skills
+Hellcats have a +4 racial bonus on Listen and Move Silently
 checks.
 
 ### Horned Devil (Cornugon)
@@ -4393,25 +4622,29 @@ A horned devil's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Spell-Like Abilities:** At will---*dispel chaos* (DC 21), *dispel
+### Spell-Like Abilities
+At will---*dispel chaos* (DC 21), *dispel
 good* (DC 21), *magic circle against good, greater teleport* (self plus
 50 pounds of objects only); *persistent image* (DC 21)
 3/day---*fireball* (DC 19), *lightning bolt* (DC 19). Caster level 15th.
 The save DCs are Charisma-based.
 
-**Fear Aura (Su):** A horned devil can radiate a 5-foot-radius fear aura
+### Fear Aura (Su)
+A horned devil can radiate a 5-foot-radius fear aura
 as a free action. A creature in the area must succeed on a DC 23 Will
 save or be affected as though by a *fear* spell (caster level 15th). A
 creature that successfully saves cannot be affected again by the same
 horned devil's aura for 24 hours. Other devils are immune to the aura.
 The save DC is Charisma-based.
 
-**Stun (Su):** Whenever a horned devil hits with a spiked chain attack,
+### Stun (Su)
+Whenever a horned devil hits with a spiked chain attack,
 the opponent must succeed on a DC 27 Fortitude save or be stunned for
 1d4 rounds. The save DC is Strength-based. This ability is a function of
 the horned devil, not of the spiked chain.
 
-**Infernal Wound (Su):** The damage a horned devil deals with its tail
+### Infernal Wound (Su)
+The damage a horned devil deals with its tail
 attack causes a persistent wound. An injured creature loses 2 additional
 hit points each round. The wound does not heal naturally and resists
 healing spells. The continuing hit point loss can be stopped by a DC 24
@@ -4422,13 +4655,15 @@ check, or the spell has no effect on the injured character. A successful
 Heal check automatically stops the continuing hit point loss as well as
 restoring hit points. The check DC is Constitution-based.
 
-***Summon Devil* (Sp):** Once per day a horned devil can attempt to
+### *Summon Devil* (Sp)
+Once per day a horned devil can attempt to
 summon 2d10 lemures or 1d6 bearded devils with a 50% chance of success,
 1d6 barbed devils with a 35% chance of success, or another horned devil
 with a 20% chance of success. This ability is the equivalent of a
 6th-level spell.
 
-**Regeneration (Ex):** A horned devil takes normal damage from
+### Regeneration (Ex)
+A horned devil takes normal damage from
 good-aligned silvered weapons, and from spells or effects with the good
 descriptor.
 
@@ -4471,29 +4706,34 @@ An ice devil's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Fear Aura (Su):** An ice devil can radiate a 10-foot-radius fear aura
+### Fear Aura (Su)
+An ice devil can radiate a 10-foot-radius fear aura
 as a free action. A creature in the area must succeed on a DC 22 Will
 save or be affected as though by a *fear* spell (caster level 13th). A
 creature that successfully saves cannot be affected again by the same
 ice devil's aura for 24 hours. Other devils are immune to the aura. The
 save DC is Charisma-based.
 
-**Slow (Su):** A hit from an ice devil's tail or spear induces numbing
+### Slow (Su)
+A hit from an ice devil's tail or spear induces numbing
 cold. The opponent must succeed on a DC 23 Fortitude save or be affected
 as though by a *slow* spell for 1d6 rounds. The save DC is
 Constitution-based.
 
-**Spell-Like Abilities:** At will---*cone of cold* (DC 20), *fly, ice
+### Spell-Like Abilities
+At will---*cone of cold* (DC 20), *fly, ice
 storm* (DC 19), *greater teleport* (self plus 50 pounds of objects
 only), *persistent image* (DC 20), *unholy aura* (DC 23), *wall of ice*
 (DC 19). Caster level 13th. The save DCs are Charisma-based.
 
-***Summon Devil* (Sp):** Once per day an ice devil can attempt to summon
+### *Summon Devil* (Sp)
+Once per day an ice devil can attempt to summon
 2d10 lemures or 1d6 bearded devils, 2d4 bone devils with a 50% chance of
 success, or another ice devil with a 20% chance of success. This ability
 is the equivalent of a 4th-level spell.
 
-**Regeneration (Ex):** An ice devil takes normal damage from
+### Regeneration (Ex)
+An ice devil takes normal damage from
 good-aligned weapons and from spells or effects with the good
 descriptor.
 
@@ -4539,18 +4779,21 @@ An imp's natural weapons, as well as any weapons it wields, are treated
 as evil-aligned and lawful-aligned for the purpose of overcoming damage
 reduction.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d4 Dex,
+### Poison (Ex)
+Injury, Fortitude DC 13, initial damage 1d4 Dex,
 secondary damage 2d4 Dex. The save DC is Constitution-based and includes
 a +2 racial bonus.
 
-**Spell-Like Abilities:** At will---*detect good, detect magic,
+### Spell-Like Abilities
+At will---*detect good, detect magic,
 invisibility* (self only); 1/day---*suggestion* (DC 15). Caster level
 6th. The save DC is Charisma-based.
 
 Once per week an imp can use *commune* to ask six questions. The ability
 otherwise works as the spell (caster level 12th).
 
-**Alternate Form (Su):** An imp can assume other forms at will as a
+### Alternate Form (Su)
+An imp can assume other forms at will as a
 standard action. This ability functions as a *polymorph* spell cast on
 itself (caster level 12th), except that an imp does not regain hit
 points for changing form, and an individual imp can assume only one or
@@ -4598,7 +4841,8 @@ A lemure's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Mindless (Ex):** Immunity to mind-affecting effects (charms,
+### Mindless (Ex)
+Immunity to mind-affecting effects (charms,
 compulsions, phantasms, patterns, and morale effects).
 
 ### Pit Fiend
@@ -4644,31 +4888,37 @@ A pit fiend's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned and lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Constrict (Ex):** A pit fiend deals 2d8+26 points of damage with a
+### Constrict (Ex)
+A pit fiend deals 2d8+26 points of damage with a
 successful grapple check.
 
-**Disease (Su):** A creature struck by a pit fiend's bite attack must
+### Disease (Su)
+A creature struck by a pit fiend's bite attack must
 succeed on a DC 27 Fortitude save or be infected with a vile disease
 known as devil chills (incubation period 1d4 days, damage 1d4 Str). The
 save DC is Constitution-based.
 
-**Fear Aura (Su):** A pit fiend can radiate a 20-foot-radius fear aura
+### Fear Aura (Su)
+A pit fiend can radiate a 20-foot-radius fear aura
 as a free action. A creature in the area must succeed on a DC 27 Will
 save or be affected as though by a *fear* spell (caster level 18th). A
 creature that successfully saves cannot be affected again by the same
 pit fiend's aura for 24 hours. Other devils are immune to the aura. The
 save DC is Charisma-based.
 
-**Improved Grab (Ex):** To use this ability, a pit fiend must hit with
+### Improved Grab (Ex)
+To use this ability, a pit fiend must hit with
 its tail slap attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity.
 
 If it wins the grapple check, it establishes a hold and can constrict.
 
-**Poison (Ex):** Injury, Fortitude DC 27, initial damage 1d6 Con,
+### Poison (Ex)
+Injury, Fortitude DC 27, initial damage 1d6 Con,
 secondary damage death. The save DC is Constitution-based.
 
-**Spell-Like Abilities:** At will---*blasphemy* (DC 25), *create undead,
+### Spell-Like Abilities
+At will---*blasphemy* (DC 25), *create undead,
 fireball* (DC 21), *greater dispel magic, greater teleport* (self plus
 50 pounds of objects only), *invisibility, magic circle against good,
 mass hold monster* (DC 27), *persistent image* (DC 23), *power word
@@ -4678,12 +4928,14 @@ stun, unholy aura* (DC 26); 1/day---*meteor swarm* (DC 27). Caster level
 Once per year a pit fiend can use *wish* as the spell (caster level
 20th).
 
-***Summon Devil* (Sp):** Twice per day a pit fiend can automatically
+### *Summon Devil* (Sp)
+Twice per day a pit fiend can automatically
 summon 2 lemures, bone devils, or bearded devils, or 1 erinyes, horned
 devil, or ice devil. This ability is the equivalent of an 8th-level
 spell.
 
-**Regeneration (Ex):** A pit fiend takes normal damage from good-aligned
+### Regeneration (Ex)
+A pit fiend takes normal damage from good-aligned
 silvered weapons, and from spells or effects with the good descriptor.
 
 #### Tactics Round-by-Round
@@ -4747,12 +4999,14 @@ Devourers speak Common.
 Even if it had no special abilities, a devourer would be a terrible
 opponent, for its bony claws can flay enemies alive.
 
-**Energy Drain (Su):** Living creatures hit by a devourer's claw attack
+### Energy Drain (Su)
+Living creatures hit by a devourer's claw attack
 or *spectral hand* ability gain one negative level. The DC is 19 for the
 Fortitude save to remove a negative level. The save DC is
 Charisma-based.
 
-**Trap Essence (Su):** The devourer is named for its ability to consume
+### Trap Essence (Su)
+The devourer is named for its ability to consume
 an enemy's life essence. To do so, it must forgo its normal melee
 attacks and make a trap essence attack. This requires a normal attack
 roll but deals no damage. The he save DC is Charisma-based. A slain
@@ -4772,7 +5026,8 @@ Dice or level, the essence is destroyed. If an essence is freed, the
 restored creature must succeed on a DC 19 Fortitude save for each
 negative level or lose that level permanently.
 
-**Spell-Like Abilities:** At the start of any encounter, the trapped
+### Spell-Like Abilities
+At the start of any encounter, the trapped
 essence within a devourer is assumed to have 3d4+3 levels (enough fuel
 for thirty to seventy-five uses). Once per round, a devourer can use one
 of the following abilities: *confusion* (DC 17), *control undead* (DC
@@ -4780,7 +5035,8 @@ of the following abilities: *confusion* (DC 17), *control undead* (DC
 (DC 14), *spectral hand, suggestion* (DC 16), *true seeing*. Caster
 level 18th. The save DCs are Charisma-based.
 
-**Spell Deflection (Su):** The trapped essence provides a measure of
+### Spell Deflection (Su)
+The trapped essence provides a measure of
 magical protection. If any of the following spells are cast at the
 devourer and overcome its spell resistance, they affect the imprisoned
 essence instead: *banishment, chaos hammer, confusion, crushing despair,
@@ -4838,7 +5094,8 @@ it looks about for a likely target, then charges forth and delivers a
 gout of acid. If the initial attack is insufficient to kill the prey,
 the digester attacks with its hind feet until it can spray acid again.
 
-**Acid Spray (Ex):** A digester can spray acid in a 20-foot cone,
+### Acid Spray (Ex)
+A digester can spray acid in a 20-foot cone,
 dealing 4d8 points of damage to everything in the area. Once a digester
 uses this ability, it can't use it again until 1d4 rounds later.
 
@@ -4846,7 +5103,8 @@ The creature can also produce a concentrated stream of acid that deals
 8d8 points of damage to a single target within 5 feet. In either case, a
 DC 17 Reflex save halves the damage. The save DC is Constitution-based.
 
-**Skills:** A digester's coloration gives it a +4 racial bonus on Hide
+### Skills
+A digester's coloration gives it a +4 racial bonus on Hide
 checks. It also has a +4 racial bonus on Jump checks.
 
 ## Dinosaur
@@ -4904,9 +5162,11 @@ leaping, and ripping with its rear talons as it claws and bites. The
 talons count as one attack. A deinonychus has a relatively large brain
 for a dinosaur, and its pack hunts with cunning tactics.
 
-**Pounce (Ex):** If a deinonychus charges, it can make a full attack.
+### Pounce (Ex)
+If a deinonychus charges, it can make a full attack.
 
-**Skills:** A deinonychus has a +8 racial bonus on Hide, Jump, Listen,
+### Skills
+A deinonychus has a +8 racial bonus on Hide, Jump, Listen,
 Spot, and Survival checks.
 
 ### Elasmosaurus
@@ -4949,7 +5209,8 @@ creature is strong, fast, and highly maneuverable, able to turn quickly
 and lunge at prey. When hunting, it travels with its head out of the
 water, snapping down quickly to seize prey.
 
-**Skills:** \*An elasmosaurus has a +8 racial bonus on Hide checks in
+### Skills
+\*An elasmosaurus has a +8 racial bonus on Hide checks in
 water.
 
 ### Megaraptor
@@ -4983,9 +5244,11 @@ This creature is a larger version of the deinonychus, standing about 12
 feet tall with a total length of 24 feet. It has the same appearance,
 habits, and abilities of the smaller version.
 
-**Pounce (Ex):** If a megaraptor charges, it can make a full attack.
+### Pounce (Ex)
+If a megaraptor charges, it can make a full attack.
 
-**Skills:** A megaraptor has a +8 racial bonus on Hide, Jump, Listen,
+### Skills
+A megaraptor has a +8 racial bonus on Hide, Jump, Listen,
 Spot, and Survival checks.
 
 ### Triceratops
@@ -5024,10 +5287,12 @@ These creatures are likely to charge and skewer any creature of at least
 Large size that infringes on their territory. A triceratops uses its
 trample attack on smaller opponents.
 
-**Powerful Charge (Ex):** When a triceratops charges, its gore attack
+### Powerful Charge (Ex)
+When a triceratops charges, its gore attack
 deals 4d8+20 points of damage.
 
-**Trample (Ex):** Reflex half DC 28. The save DC is Strength-based.
+### Trample (Ex)
+Reflex half DC 28. The save DC is Strength-based.
 
 ### Tyrannosaurus
 
@@ -5066,13 +5331,15 @@ tail.
 A tyrannosaurus pursues and eats just about anything it sees. Its
 tactics are simple---charge in and bite.
 
-**Improved Grab (Ex):** To use this ability, a tyrannosaurus must hit an
+### Improved Grab (Ex)
+To use this ability, a tyrannosaurus must hit an
 opponent of up to one size smaller with its bite attack. It can then
 attempt to start a grapple as a free action without provoking an attack
 of opportunity. If it wins the grapple check, it establishes a hold and
 can try to swallow the foe the following round.
 
-**Swallow Whole (Ex):** A tyrannosaurus can try to swallow a grabbed
+### Swallow Whole (Ex)
+A tyrannosaurus can try to swallow a grabbed
 opponent of up to two sizes smaller by making a successful grapple
 check. The swallowed creature takes 2d8+8 points of bludgeoning damage
 and 8 points of acid damage per round from the tyrannosaurus's gizzard.
@@ -5084,7 +5351,8 @@ opponent must cut its own way out.
 A Huge tyrannosaurus's gizzard can hold 2 Medium, 8 Small, 32 Tiny, or
 128 Diminutive or smaller opponents.
 
-**Skills:** A tyrannosaurus has a +2 racial bonus on Listen and Spot
+### Skills
+A tyrannosaurus has a +2 racial bonus on Listen and Spot
 checks.
 
 ## Dire Animal
@@ -5128,11 +5396,13 @@ Dire apes attack anything that enters their territory, even other dire
 apes. If an opponent's armor foils a dire ape's attacks, the creature
 will attempt to grapple and pin, then rend the prone opponent.
 
-**Rend (Ex):** A dire ape that hits with both claw attacks latches onto
+### Rend (Ex)
+A dire ape that hits with both claw attacks latches onto
 the opponent's body and tears the flesh. This attack automatically deals
 an extra 2d6+12 points of damage.
 
-**Skills:** Dire apes have a +8 racial bonus on Climb checks and can
+### Skills
+Dire apes have a +8 racial bonus on Climb checks and can
 always choose to take 10 on Climb checks, even if rushed or threatened.
 
 ### Dire Badger
@@ -5175,7 +5445,8 @@ pounds.
 
 Dire badgers attack with their sharp claws and teeth.
 
-**Rage (Ex):** A dire badger that takes damage in combat flies into a
+### Rage (Ex)
+A dire badger that takes damage in combat flies into a
 berserk rage on its next turn, clawing and biting madly until either it
 or its opponent is dead. It gains +4 Strength, +4 Constitution, and --2
 AC. The creature cannot end its rage voluntarily.
@@ -5213,11 +5484,13 @@ A dire bat has a wingspan of 15 feet and weighs about 200 pounds.
 
 Dire bats swoop down upon unsuspecting prey from above.
 
-**Blindsense (Ex):** A dire bat uses echolocation to pinpoint creatures
+### Blindsense (Ex)
+A dire bat uses echolocation to pinpoint creatures
 within 40 feet. Opponents still have total concealment against the bat
 unless it can actually see them.
 
-**Skills:** Dire bats have a +4 racial bonus on Spot and Listen checks.
+### Skills
+Dire bats have a +4 racial bonus on Spot and Listen checks.
 These bonuses are lost if its blindsense is negated.
 
 ### Dire Bear
@@ -5258,7 +5531,8 @@ A typical dire bear is 12 feet long and weighs as much as 8,000 pounds.
 
 A dire bear attacks by tearing at opponents with its claws.
 
-**Improved Grab (Ex):** To use this ability, a dire bear must hit with a
+### Improved Grab (Ex)
+To use this ability, a dire bear must hit with a
 claw attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
@@ -5300,7 +5574,8 @@ Dire boars grow up to 12 feet long and weigh as much as 2,000 pounds.
 A dire boar charges its opponent, trying to rip the target open with its
 tusks.
 
-**Ferocity (Ex):** A dire boar is such a tenacious combatant that it
+### Ferocity (Ex)
+A dire boar is such a tenacious combatant that it
 continues to fight without penalty even while disabled or dying.
 
 ### Dire Lion
@@ -5341,17 +5616,21 @@ A dire lion attacks by running at prey, leaping, and clawing and biting
 as it rakes with its rear claws. It often jumps onto a creature larger
 than itself.
 
-**Improved Grab (Ex):** To use this ability, a dire lion must hit with
+### Improved Grab (Ex)
+To use this ability, a dire lion must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can rake.
 
-**Pounce (Ex):** If a dire lion charges, it can make a full attack,
+### Pounce (Ex)
+If a dire lion charges, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** Attack bonus +12 melee, damage 1d6+3.
+### Rake (Ex)
+Attack bonus +12 melee, damage 1d6+3.
 
-**Skills:** Dire lions have a +4 racial bonus on Hide and Move Silently
+### Skills
+Dire lions have a +4 racial bonus on Hide and Move Silently
 checks.
 
 \*In areas of tall grass or heavy undergrowth, the Hide bonus improves
@@ -5394,10 +5673,12 @@ A dire rat can grow to be up to 4 feet long and weigh over 50 pounds.
 Dire rat packs attack fearlessly, biting and chewing with their sharp
 incisors.
 
-**Disease (Ex):** Filth fever---bite, Fortitude DC 11, incubation period
+### Disease (Ex)
+Filth fever---bite, Fortitude DC 11, incubation period
 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
 
-**Skills:** Dire rats have a +8 racial bonus on Swim checks. Dire rats
+### Skills
+Dire rats have a +8 racial bonus on Swim checks. Dire rats
 have a +8 racial bonus on Climb checks and can always choose to take 10
 on Climb checks, even if rushed or threatened.
 
@@ -5441,13 +5722,15 @@ This monstrous fish can grow to a length of 25 feet and weigh more than
 Dire sharks bite with their powerful jaws, swallowing smaller creatures
 in one gulp.
 
-**Improved Grab (Ex):** To use this ability, a dire shark must hit with
+### Improved Grab (Ex)
+To use this ability, a dire shark must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can try to swallow the foe in the
 following round.
 
-**Swallow Whole (Ex):** A dire shark can try to swallow a grabbed
+### Swallow Whole (Ex)
+A dire shark can try to swallow a grabbed
 opponent of up to one size smaller by making a successful grapple check.
 Once inside, the opponent takes 2d6+6 points of bludgeoning damage plus
 1d8+4 points of acid damage per round from the shark's digestive juices.
@@ -5459,11 +5742,13 @@ another swallowed opponent must cut its own way out.
 A Huge dire shark's gullet can hold 2 Large, 8 Medium or Small, 32 Tiny,
 128 Diminutive, or 512 Fine or smaller opponents.
 
-**Keen Scent (Ex):** A dire shark can notice creatures by scent in a
+### Keen Scent (Ex)
+A dire shark can notice creatures by scent in a
 180-foot radius and can detect blood in the water at a range of up to 1
 mile.
 
-**Skills:** A dire shark has a +8 racial bonus on any Swim check to
+### Skills
+A dire shark has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered.
 
@@ -5509,17 +5794,21 @@ pounds.
 A dire tiger attacks by running at prey, leaping, and clawing and biting
 as it rakes with its rear claws.
 
-**Improved Grab (Ex):** To use this ability, a dire tiger must hit with
+### Improved Grab (Ex)
+To use this ability, a dire tiger must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can rake.
 
-**Pounce (Ex):** If a dire tiger charges, it can make a full attack,
+### Pounce (Ex)
+If a dire tiger charges, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** Attack bonus +18 melee, damage 2d4+4.
+### Rake (Ex)
+Attack bonus +18 melee, damage 2d4+4.
 
-**Skills:** Dire tigers have a +4 racial bonus on Hide and Move Silently
+### Skills
+Dire tigers have a +4 racial bonus on Hide and Move Silently
 checks. \*In areas of tall grass or heavy undergrowth, the Hide bonus
 improves to +8.
 
@@ -5558,14 +5847,16 @@ pounds.
 Dire weasels stalk their prey in the dark and then leap on it, biting
 and clawing.
 
-**Attach (Ex):** A dire weasel that hits with its bite attack latches
+### Attach (Ex)
+A dire weasel that hits with its bite attack latches
 onto the opponent's body with its powerful jaws. An attached dire weasel
 loses its Dexterity bonus to AC and thus has an AC of 12. An attached
 dire weasel can be struck with a weapon or grappled itself. To remove an
 attached dire weasel through grappling, the opponent must achieve a pin
 against the creature.
 
-**Blood Drain (Ex):** A dire weasel drains blood for 1d4 points of
+### Blood Drain (Ex)
+A dire weasel drains blood for 1d4 points of
 Constitution damage each round it remains attached.
 
 ### Dire Wolf
@@ -5606,12 +5897,14 @@ some 800 pounds.
 Dire wolves prefer to attack in packs, surrounding and flanking a foe
 when they can.
 
-**Trip (Ex):** A dire wolf that hits with a bite attack can attempt to
+### Trip (Ex)
+A dire wolf that hits with a bite attack can attempt to
 trip its opponent (+11 check modifier) as a free action without making a
 touch attack or provoking an attack of opportunity. If the attempt
 fails, the opponent cannot react to trip the dire wolf.
 
-**Skills:** A dire wolf has a +2 racial bonus on Hide, Listen, Move
+### Skills
+A dire wolf has a +2 racial bonus on Hide, Listen, Move
 Silently, and Spot checks.
 
 \*It also has a +4 racial bonus on Survival checks when tracking by
@@ -5651,12 +5944,14 @@ Dire wolverines grow to about 12 feet in length and can weigh as much as
 
 Dire wolverines attack opponents wantonly, fearing no other creatures.
 
-**Rage (Ex):** A dire wolverine that takes damage in combat flies into a
+### Rage (Ex)
+A dire wolverine that takes damage in combat flies into a
 berserk rage on its next turn, clawing and biting madly until either it
 or its opponent is dead. An enraged dire wolverine gains +4 Strength, +4
 Constitution, and --2 AC. The creature cannot end its rage voluntarily.
 
-**Skills:** A dire wolverine has a +8 racial bonus on Climb checks and
+### Skills
+A dire wolverine has a +8 racial bonus on Climb checks and
 can always choose to take 10 on Climb checks, even if rushed or
 threatened.
 
@@ -5711,19 +6006,22 @@ with whatever weapon is appropriate. In such cases, it uses its detect
 thoughts ability to employ the same tactics and strategies as the person
 it is impersonating.
 
-**Detect Thoughts (Su):** A doppelganger can continuously use detect
+### Detect Thoughts (Su)
+A doppelganger can continuously use detect
 thoughts as the spell (caster level 18th; Will DC 13 negates). It can
 suppress or resume this ability as a free action. The save DC is
 Charisma-based.
 
-**Change Shape (Su):** A doppelganger can assume the shape of any Small
+### Change Shape (Su)
+A doppelganger can assume the shape of any Small
 or Medium humanoid. In humanoid form, the doppelganger loses its natural
 attacks. A doppelganger can remain in its humanoid form until it chooses
 to assume a new one. A change in form cannot be dispelled, but a
 doppelganger reverts to its natural form when killed. A *true seeing*
 spell or ability reveals its natural form.
 
-**Skills:** A doppelganger has a +4 racial bonus on Bluff and Disguise
+### Skills
+A doppelganger has a +4 racial bonus on Bluff and Disguise
 checks.
 
 \*When using its change shape ability, a doppelganger gets an additional
@@ -5828,26 +6126,31 @@ The table below provides space and reach statistics for dragons of
 various sizes, plus the natural weapons a dragon of a certain size can
 employ and the damage those attacks deal.
 
-**Bite:** Bite attacks deal the indicated damage plus the dragon's
+### Bite
+Bite attacks deal the indicated damage plus the dragon's
 Strength bonus. A dragon also can use its bite to snatch opponents if it
 has the Snatch feat.
 
-**Claw:** Claw attacks deal the indicated damage plus 1/2 the dragon's
+### Claw
+Claw attacks deal the indicated damage plus 1/2 the dragon's
 Strength bonus (round down). The dragon also can use its claws to snatch
 opponents if it has the Snatch feat. Claw attacks are secondary attacks,
 requiring a --5 penalty on the attack roll. (Many dragons choose the
 Multiattack feat to lessen this penalty to --2).
 
-**Wing:** The dragon can slam opponents with its wings, even when
+### Wing
+The dragon can slam opponents with its wings, even when
 flying. Wing attacks deal the indicated damage plus 1/2 the dragon's
 Strength bonus (round down) and are treated as secondary attacks.
 
-**Tail Slap:** The dragon can slap one opponent each round with its
+### Tail Slap
+The dragon can slap one opponent each round with its
 tail. A tail slap deals the indicated damage plus 1-1/2 times the
 dragon's Strength bonus (round down) and is treated as a secondary
 attack.
 
-**Crush (Ex):** This special attack allows a flying or jumping dragon of
+### Crush (Ex)
+This special attack allows a flying or jumping dragon of
 at least Huge size to land on opponents as a standard action, using its
 whole body to crush them. Crush attacks are effective only against
 opponents three or more size categories smaller than the dragon (though
@@ -5865,7 +6168,8 @@ round if they don't escape.
 A crush attack deals the indicated damage plus 1-1/2 times the dragon's
 Strength bonus (round down).
 
-**Tail Sweep (Ex):** This special attack allows a dragon of at least
+### Tail Sweep (Ex)
+This special attack allows a dragon of at least
 Gargantuan size to sweep with its tail as a standard action. The sweep
 affects a half-circle with a radius of 30 feet (or 40 feet for a
 Colossal dragon), extending from an intersection on the edge of the
@@ -5876,13 +6180,15 @@ times the dragon's Strength bonus (round down). Affected creatures can
 attempt Reflex saves to take half damage (DC equal to that of the
 dragon's breath weapon).
 
-**Grappling:** Dragons do not favor grapple attacks, though their crush
+### Grappling
+Dragons do not favor grapple attacks, though their crush
 attack (and Snatch feat, if they know it) use normal grapple rules. A
 dragon can always use its breath weapon while grappling, as well as its
 spells and spell-like or supernatural abilities, provided it succeeds on
 Concentration checks.
 
-**Breath Weapon (Su):** Using a breath weapon is a standard action. Once
+### Breath Weapon (Su)
+Using a breath weapon is a standard action. Once
 a dragon breathes, it can't breathe again until 1d4 rounds later. If a
 dragon has more than one type of breath weapon, it still can breathe
 only once every 1d4 rounds. A blast from a breath weapon always starts
@@ -5912,7 +6218,8 @@ with the dragon's size.
   \*\*A cone is as high and wide as its length.                       
   ------------------------------------------------- ----------------- -------------------
 
-**Frightful Presence (Ex):** A young adult or older dragon can unsettle
+### Frightful Presence (Ex)
+A young adult or older dragon can unsettle
 foes with its mere presence. The ability takes effect automatically
 whenever the dragon attacks, charges, or flies overhead. Creatures
 within a radius of 30 feet x the dragon's age category are subject to
@@ -5923,39 +6230,47 @@ presence for 24 hours. On a failure, creatures with 4 or less HD become
 panicked for 4d6 rounds and those with 5 or more HD become shaken for
 4d6 rounds. Dragons ignore the frightful presence of other dragons.
 
-**Spells:** A dragon knows and casts arcane spells as a sorcerer of the
+### Spells
+A dragon knows and casts arcane spells as a sorcerer of the
 level indicated in its variety description, gaining bonus spells for a
 high Charisma score. Some dragons can also cast spells from the cleric
 list or cleric domain lists as arcane spells.
 
-**Spell-Like Abilities:** A dragon's spell-like abilities depend on its
+### Spell-Like Abilities
+A dragon's spell-like abilities depend on its
 age and variety. It gains the abilities indicated for its age plus all
 previous ones. Its age category or its sorcerer caster level, whichever
 is higher, is the caster level for these abilities. The save DC is 10 +
 dragon's Cha modifier + spell level. All spell-like abilities are usable
 once per day unless otherwise noted.
 
-**Damage Reduction:** Young adult and older dragons have damage
+### Damage Reduction
+Young adult and older dragons have damage
 reduction. Their natural weapons are treated as magic weapons for the
 purpose of overcoming damage reduction.
 
-**Immunities (Ex):** All dragons have immunity to *sleep* and paralysis
+### Immunities (Ex)
+All dragons have immunity to *sleep* and paralysis
 effects. Each variety of dragon has immunity to one or two additional
 forms of attack no matter what its age, as given in its description.
 
-**Spell Resistance (Ex):** As dragons age, they become more resistant to
+### Spell Resistance (Ex)
+As dragons age, they become more resistant to
 spells and spell-like abilities, as indicated in the variety
 descriptions.
 
-**Blindsense (Ex):** Dragons can pinpoint creatures within a distance of
+### Blindsense (Ex)
+Dragons can pinpoint creatures within a distance of
 60 feet. Opponents the dragon can't actually see still have total
 concealment against the dragon.
 
-**Keen Senses (Ex):** A dragon sees four times as well a human in
+### Keen Senses (Ex)
+A dragon sees four times as well a human in
 shadowy illumination and twice as well in normal light. It also has
 darkvision out to 120 feet.
 
-**Skills:** All dragons have skill points equal to (6 + Int modifier,
+### Skills
+All dragons have skill points equal to (6 + Int modifier,
 minimum 1) x (Hit Dice + 3). Most dragons purchase the following skills
 at the maximum ranks possible: Listen, Search, and Spot. The remaining
 skill points are generally spent on Concentration, Diplomacy, Escape
@@ -5964,7 +6279,8 @@ at a cost of 1 skill point per rank. All these skills are considered
 class skills for dragons. (Each dragon has other class skills as well,
 as noted in the variety descriptions.)
 
-**Feats:** All dragons have one feat, plus additional feats based on Hit
+### Feats
+All dragons have one feat, plus additional feats based on Hit
 Dice just like any other creature. Dragons favor Alertness, Blind-Fight,
 Cleave, Flyby Attack, Hover, Improved Initiative, Improved Sunder, Power
 Attack, Snatch, Weapon Focus (claw or bite), Wingover, and any metamagic
@@ -6042,27 +6358,34 @@ aggressive, greedy, vain, and nasty.
 
 **Dragon (Water)**
 
-**Environment:** Warm marshes
+### Environment
+Warm marshes
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Rating:** Wyrmling 3; very young 4; young 5; juvenile 7;
+### Challenge Rating
+Wyrmling 3; very young 4; young 5; juvenile 7;
 young adult 9; adult 11; mature adult 14; old 16; very old 18; ancient
 19; wyrm 20; great wyrm 22
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always chaotic evil
+### Alignment
+Always chaotic evil
 
-**Advancement:** Wyrmling 5--6 HD; very young 8--9 HD; young 11--12 HD;
+### Advancement
+Wyrmling 5--6 HD; very young 8--9 HD; young 11--12 HD;
 juvenile 14--15 HD; young adult 17--18 HD; adult 20--21 HD; mature adult
 23--24 HD; old 26--27 HD; very old 29--30 HD; ancient 32--33 HD; wyrm
 35--36 HD; great wyrm 38+ HD
 
-**Level Adjustment:** Wyrmling +3; very young +3; young +3; juvenile +4;
+### Level Adjustment
+Wyrmling +3; very young +3; young +3; juvenile +4;
 others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
@@ -6147,14 +6470,17 @@ their aerial maneuverability. When outmatched, a black dragon attempts
 to fly out of sight, so as not to leave tracks, and hide in a deep pond
 or bog.
 
-**Breath Weapon (Su):** A black dragon has one type of breath weapon, a
+### Breath Weapon (Su)
+A black dragon has one type of breath weapon, a
 line of acid.
 
-**Water Breathing (Ex):** A black dragon can breathe underwater
+### Water Breathing (Ex)
+A black dragon can breathe underwater
 indefinitely and can freely use its breath weapon, spells, and other
 abilities while submerged.
 
-***Corrupt Water* (Sp):** Once per day an adult or older black dragon
+### *Corrupt Water* (Sp)
+Once per day an adult or older black dragon
 can stagnate 10 cubic feet of water, making it become still, foul, and
 unable to support animal life. The ability spoils liquids containing
 water. Magic items (such as potions) and items in a creature's
@@ -6163,44 +6489,54 @@ frightful presence) or become fouled. This ability is the equivalent of
 a 1st-level spell. Its range is equal to that of the dragon's frightful
 presence.
 
-***Charm Reptiles* (Sp):** A great wyrm black dragon can use this
+### *Charm Reptiles* (Sp)
+A great wyrm black dragon can use this
 ability three times per day. It works as a *mass charm* spell that
 affects only reptilian animals. The dragon can communicate with any
 charmed reptiles as though casting a *speak with animals* spell. This
 ability is the equivalent of a 1st-level spell.
 
-**Other Spell-Like Abilities:** 3/day---*darkness* (juvenile or older;
+### Other Spell-Like Abilities
+3/day---*darkness* (juvenile or older;
 radius 10 feet per age category), *insect plague* (ancient or older);
 1/day---*plant growth* (old or older).
 
-**Skills:** Hide, Move Silently, and Swim are considered class skills
+### Skills
+Hide, Move Silently, and Swim are considered class skills
 for black dragons.
 
 ### Blue Dragon
 
 **Dragon (Earth)**
 
-**Environment:** Temperate deserts
+### Environment
+Temperate deserts
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 3; very young 4; young 6; juvenile 8;
+### Challenge Ratings
+Wyrmling 3; very young 4; young 6; juvenile 8;
 young adult 11; adult 14; mature adult 16; old 18; very old 19; ancient
 21; wyrm 23; great wyrm 25
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always lawful evil
+### Alignment
+Always lawful evil
 
-**Advancement:** Wyrmling 7--8 HD; very young 10--11 HD; young 13--14
+### Advancement
+Wyrmling 7--8 HD; very young 10--11 HD; young 13--14
 HD; juvenile 16--17 HD; young adult 19--20 HD; adult 22--23 HD; mature
 adult 25--26 HD; old 28--29 HD; very old 31--32 HD; ancient 34--35 HD;
 wyrm 37--38 HD; great wyrm 40+ HD
 
-**Level Adjustment:** Wyrmling +4; very young +4; young +5; others ---
+### Level Adjustment
+Wyrmling +4; very young +4; young +5; others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
   Blue                                                                                                                
@@ -6292,10 +6628,12 @@ tactics to mask the land and improve their chances to surprise the
 target. Blue dragons run from a fight only if they are severely damaged,
 since they view retreat as cowardly.
 
-**Breath Weapon (Su):** A blue dragon has one type of breath weapon, a
+### Breath Weapon (Su)
+A blue dragon has one type of breath weapon, a
 line of lightning.
 
-***Create/Destroy Water* (Sp):** A blue dragon of any age can use this
+### *Create/Destroy Water* (Sp)
+A blue dragon of any age can use this
 ability three times per day. It works like the *create water* spell,
 except that the dragon can decide to destroy water instead of creating
 it, which automatically spoils unattended liquids containing water.
@@ -6304,43 +6642,53 @@ succeed on a Will save (DC equal to that of the dragon's frightful
 presence) or be ruined. This ability is the equivalent of a 1st-level
 spell.
 
-**Sound Imitation (Ex):** A juvenile or older blue dragon can mimic any
+### Sound Imitation (Ex)
+A juvenile or older blue dragon can mimic any
 voice or sound it has heard, anytime it likes. Listeners must succeed on
 a Will save (DC equal to that of the dragon's frightful presence) to
 detect the ruse.
 
-**Other Spell-Like Abilities:** 3/day---*ventriloquism* (adult or
+### Other Spell-Like Abilities
+3/day---*ventriloquism* (adult or
 older); 1/day---*hallucinatory terrain* (old or older), *veil* (ancient
 or older), *mirage arcana* (great wyrm).
 
-**Skills:** Bluff, Hide, and Spellcraft are considered class skills for
+### Skills
+Bluff, Hide, and Spellcraft are considered class skills for
 blue dragons.
 
 ### Green Dragon
 
 **Dragon (Air)**
 
-**Environment:** Temperate forests
+### Environment
+Temperate forests
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 3; very young 4; young 5; juvenile 8;
+### Challenge Ratings
+Wyrmling 3; very young 4; young 5; juvenile 8;
 young adult 11; adult 13; mature adult 16; old 18; very old 19; ancient
 21; wyrm 22; great wyrm 24
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always lawful evil
+### Alignment
+Always lawful evil
 
-**Advancement:** Wyrmling 6--7 HD; very young 9--10 HD; young 12--13 HD;
+### Advancement
+Wyrmling 6--7 HD; very young 9--10 HD; young 12--13 HD;
 juvenile 15--16 HD; young adult 18--19 HD; adult 21--22 HD; mature adult
 24--25 HD; old 27--28 HD; very old 30--31 HD; ancient 33--34 HD; wyrm
 36--37 HD; great wyrm 39+ HD
 
-**Level Adjustment:** Wyrmling +5; very young +5; young +5; juvenile +6;
+### Level Adjustment
+Wyrmling +5; very young +5; young +5; juvenile +6;
 others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
@@ -6424,45 +6772,56 @@ like to question adventurers to learn more about their society and
 abilities, what is going on in the countryside, and if there is treasure
 nearby.
 
-**Breath Weapon (Su):** A green dragon has one type of breath weapon, a
+### Breath Weapon (Su)
+A green dragon has one type of breath weapon, a
 cone of corrosive (acid) gas.
 
-**Water Breathing (Ex):** A green dragon can breathe underwater
+### Water Breathing (Ex)
+A green dragon can breathe underwater
 indefinitely and can freely use its breath weapon, spells, and other
 abilities while submerged.
 
-**Spell-Like Abilities:** 3/day---*suggestion* (adult or older),
+### Spell-Like Abilities
+3/day---*suggestion* (adult or older),
 *dominate person* (ancient or older); 1/day--- *plant growth* (old or
 older), *command plants* (great wyrm).
 
-**Skills:** Bluff, Hide, and Move Silently are considered class skills
+### Skills
+Bluff, Hide, and Move Silently are considered class skills
 for green dragons.
 
 ### Red Dragon
 
 **Dragon (Fire)**
 
-**Environment:** Warm mountains
+### Environment
+Warm mountains
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 4; very young 5; young 7; juvenile 10;
+### Challenge Ratings
+Wyrmling 4; very young 5; young 7; juvenile 10;
 young adult 13; adult 15; mature adult 18; old 20; very old 21; ancient
 23; wyrm 24; great wyrm 26
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always chaotic evil
+### Alignment
+Always chaotic evil
 
-**Advancement:** Wyrmling 8--9 HD; very young 11--12 HD; young 14--15
+### Advancement
+Wyrmling 8--9 HD; very young 11--12 HD; young 14--15
 HD; juvenile 17--18 HD; young adult 20--21 HD; adult 23--24 HD; mature
 adult 26--27 HD; old 29--30 HD; very old 32--33 HD; ancient 35--36 HD;
 wyrm 38--39 HD; great wyrm 41+ HD
 
-**Level Adjustment:** Wyrmling +4; very young +5; young +6; others ---
+### Level Adjustment
+Wyrmling +4; very young +5; young +6; others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
   Red                                                                                                                 
@@ -6548,44 +6907,55 @@ dragon lands to attack small, weak creatures with its claws and bite
 rather than obliterating them with its breath weapon, so as not to
 destroy any treasure they might be carrying.
 
-**Breath Weapon (Su):** A red dragon has one type of breath weapon, a
+### Breath Weapon (Su)
+A red dragon has one type of breath weapon, a
 cone of fire.
 
-***Locate Object* (Sp):** A juvenile or older red dragon can use this
+### *Locate Object* (Sp)
+A juvenile or older red dragon can use this
 ability as the spell of the same name, once per day per age category.
 
-**Other Spell-Like Abilities:** 3/day---*suggestion* (old or older);
+### Other Spell-Like Abilities
+3/day---*suggestion* (old or older);
 1/day---*find the path* (ancient or older), *discern location* (great
 wyrm).
 
-**Skills:** Appraise, Bluff, and Jump are considered class skills for
+### Skills
+Appraise, Bluff, and Jump are considered class skills for
 red dragons.
 
 ### White Dragon
 
 **Dragon (Cold)**
 
-**Environment:** Cold mountains
+### Environment
+Cold mountains
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 2; very young 3; young 4; juvenile 6;
+### Challenge Ratings
+Wyrmling 2; very young 3; young 4; juvenile 6;
 young adult 8; adult 10; mature adult 12; old 15; very old 17; ancient
 18; wyrm 19; great wyrm 21
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always chaotic evil
+### Alignment
+Always chaotic evil
 
-**Advancement:** Wyrmling 4--5 HD; very young 7--8 HD; young 10--11 HD;
+### Advancement
+Wyrmling 4--5 HD; very young 7--8 HD; young 10--11 HD;
 juvenile 13--14 HD; young adult 16--17 HD; adult 19--20 HD; mature adult
 22--23 HD; old 25--26 HD; very old 28--29 HD; ancient 31--32 HD; wyrm
 34--35 HD; great wyrm 37+ HD
 
-**Level Adjustment:** Wyrmling +2; very young +3; young +3; juvenile +5;
+### Level Adjustment
+Wyrmling +2; very young +3; young +3; juvenile +5;
 others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
@@ -6659,24 +7029,29 @@ White dragons prefer sudden assaults, swooping down from aloft or
 bursting from beneath water, snow, or ice. They loose their breath
 weapon, then try to knock out a single opponent with a follow-up attack.
 
-**Breath Weapon (Su):** A white dragon has one type of breath weapon, a
+### Breath Weapon (Su)
+A white dragon has one type of breath weapon, a
 cone of cold.
 
-**Icewalking (Ex):** This ability works like the *spider climb* spell,
+### Icewalking (Ex)
+This ability works like the *spider climb* spell,
 but the surfaces the dragon climbs must be icy. It is always in effect.
 
-***Freezing Fog* (Sp):** An old or older white dragon can use this
+### *Freezing Fog* (Sp)
+An old or older white dragon can use this
 ability three times per day. It is similar to a *solid fog* spell but
 also causes a rime of slippery ice to form on any surface the fog
 touches, creating the effect of a *grease* spell. The dragon is immune
 to the *grease* effect because of its icewalking ability. This ability
 is the equivalent of a 5th-level spell.
 
-**Other Spell-Like Abilities:** 3/day---*fog cloud* (juvenile or older),
+### Other Spell-Like Abilities
+3/day---*fog cloud* (juvenile or older),
 *gust of wind* (adult or older), *wall of ice* (ancient or older);
 1/day---*control weather* (great wyrm).
 
-**Skills:** Hide, Move Silently, and Swim are considered class skills
+### Skills
+Hide, Move Silently, and Swim are considered class skills
 for white dragons.
 
 ## Metallic Dragons
@@ -6689,27 +7064,34 @@ challenged. They also tend to be covetous and proud.
 
 **Dragon (Fire)**
 
-**Environment:** Warm deserts
+### Environment
+Warm deserts
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 3; very young 4; young 6; juvenile 8;
+### Challenge Ratings
+Wyrmling 3; very young 4; young 6; juvenile 8;
 young adult 10; adult 12; mature adult 15; old 17; very old 19; ancient
 20; wyrm 21; great wyrm 23
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always chaotic good
+### Alignment
+Always chaotic good
 
-**Advancement:** Wyrmling 5--6 HD; very young 8--9 HD; young 11--12 HD;
+### Advancement
+Wyrmling 5--6 HD; very young 8--9 HD; young 11--12 HD;
 juvenile 14--15 HD; young adult 17--18 HD; adult 20--21 HD; mature adult
 23--24 HD; old 26--27 HD; very old 29--30 HD; ancient 32--33 HD; wyrm
 35--36 HD; great wyrm 38+ HD
 
-**Level Adjustment:** Wyrmling +2; very young +3; young +4; juvenile +4;
+### Level Adjustment
+Wyrmling +2; very young +3; young +4; juvenile +4;
 others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
@@ -6793,17 +7175,20 @@ When faced with real danger, younger brass dragons fly out of sight,
 then hide by burrowing into the sand. Older dragons spurn this ploy but
 still prefer to have the advantage in combat.
 
-**Breath Weapon (Su):** A brass dragon has two types of breath weapon, a
+### Breath Weapon (Su)
+A brass dragon has two types of breath weapon, a
 line of fire and a cone of *sleep*. Creatures within the cone must
 succeed on a Will save or fall asleep, regardless of HD, for 1d6 rounds
 plus 1 round per age category of the dragon.
 
-**Spell-Like Abilities:** At will---*speak with animals;*
+### Spell-Like Abilities
+At will---*speak with animals;*
 3/day---*endure elements* (juvenile or older; radius 10 ft. x dragon's
 age category); 1/day---*suggestion* (adult or older), *control winds*
 (old or older), *control weather* (ancient or older).
 
-***Summon Djinni* (Sp):** This ability, usable by a great wyrm brass
+### *Summon Djinni* (Sp)
+This ability, usable by a great wyrm brass
 dragon, works like a *summon monster* spell, except that it summons one
 djinni. This ability is the equivalent of a 7th-level spell.
 
@@ -6814,27 +7199,34 @@ skills for brass dragons.
 
 **Dragon (Water)**
 
-**Environment:** Temperate hills
+### Environment
+Temperate hills
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 3; very young 5; young 7; juvenile 9;
+### Challenge Ratings
+Wyrmling 3; very young 5; young 7; juvenile 9;
 young adult 12; adult 15; mature adult 17; old 19; very old 20; ancient
 22; wyrm 23; great wyrm 25
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always lawful good
+### Alignment
+Always lawful good
 
-**Advancement:** Wyrmling 7--8 HD; very young 10--11 HD; young 13--14
+### Advancement
+Wyrmling 7--8 HD; very young 10--11 HD; young 13--14
 HD; juvenile 16--17 HD; young adult 19--20 HD; adult 22--23 HD; mature
 adult 25--26 HD; old 28--29 HD; very old 31--32 HD; ancient 34--35 HD;
 wyrm 37--38 HD; great wyrm 40+ HD
 
-**Level Adjustment:** Wyrmling +4; very young +4; young +6; others ---
+### Level Adjustment
+Wyrmling +4; very young +4; young +6; others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
   Bronze                                                                                                              
@@ -6918,17 +7310,20 @@ conjure up a storm or use their tails to smash the vessels' hulls. If a
 dragon is inclined to be lenient, ships might be merely becalmed,
 fogbound, or broken-masted.
 
-**Breath Weapon (Su):** Bronze dragons have two types of breath weapon,
+### Breath Weapon (Su)
+Bronze dragons have two types of breath weapon,
 a line of lightning and a cone of *repulsion* gas. Creatures within the
 cone must succeed on a Will save or be compelled to do nothing but move
 away from the dragon for 1d6 rounds plus 1 round per age category of the
 dragon. This is a mind-affecting compulsion enchantment effect.
 
-**Water Breathing (Ex):** A bronze dragon can breathe underwater
+### Water Breathing (Ex)
+A bronze dragon can breathe underwater
 indefinitely and can freely use its breath weapon, spells, and other
 abilities while submerged.
 
-**Alternate Form (Su):** A young or older bronze dragon can assume any
+### Alternate Form (Su)
+A young or older bronze dragon can assume any
 animal or humanoid form of Medium size or smaller as a standard action
 three times per day. This ability functions as a *polymorph* spell cast
 on itself at its caster level, except that the dragon does not regain
@@ -6936,39 +7331,48 @@ hit points for changing form and can only assume the form of an animal
 or humanoid. The dragon can remain in its animal or humanoid form until
 it chooses to assume a new one or return to its natural form.
 
-**Spell-Like Abilities:** At will---*speak with animals;*
+### Spell-Like Abilities
+At will---*speak with animals;*
 3/day---*create food and water* (adult or older), *fog cloud* (adult or
 older), *detect thoughts* (old or older), *control water* (ancient or
 older); 1/day---*control weather* (great wyrm).
 
-**Skills:** Disguise, Swim, and Survival are considered class skills for
+### Skills
+Disguise, Swim, and Survival are considered class skills for
 bronze dragons.
 
 ### Copper Dragon
 
 **Dragon (Earth)**
 
-**Environment:** Warm hills
+### Environment
+Warm hills
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 3; very young 5; young 7; juvenile 9;
+### Challenge Ratings
+Wyrmling 3; very young 5; young 7; juvenile 9;
 young adult 11; adult 14; mature adult 16; old 19; very old 20; ancient
 22; wyrm 23; great wyrm 25
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always chaotic good
+### Alignment
+Always chaotic good
 
-**Advancement:** Wyrmling 6--7 HD; very young 9--10 HD; young 12--13 HD;
+### Advancement
+Wyrmling 6--7 HD; very young 9--10 HD; young 12--13 HD;
 juvenile 15--16 HD; young adult 18--19 HD; adult 21--22 HD; mature adult
 24--25 HD; old 27--28 HD; very old 30--31 HD; ancient 33--34 HD; wyrm
 36--37 HD; great wyrm 39+ HD
 
-**Level Adjustment:** Wyrmling +2; very young +3; young +4; juvenile +4;
+### Level Adjustment
+Wyrmling +2; very young +3; young +4; juvenile +4;
 others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
@@ -7053,46 +7457,57 @@ carries them aloft. A copper dragon tries to draw airborne enemies into
 narrow, stony gorges where it can use its spider climb ability and
 maneuver them into colliding with the walls.
 
-**Breath Weapon (Su):** A copper dragon has two types of breath weapon,
+### Breath Weapon (Su)
+A copper dragon has two types of breath weapon,
 a line of acid and a cone of *slow* gas. Creatures within the cone must
 succeed on a Fortitude save or be slowed for 1d6 rounds plus 1 round per
 age category of the dragon.
 
-**Spider Climb (Ex):** A copper dragon can climb on stone surfaces as
+### Spider Climb (Ex)
+A copper dragon can climb on stone surfaces as
 though using the *spider climb* spell.
 
-**Spell-Like Abilities:** 2/day---*stone shape* (adult or older);
+### Spell-Like Abilities
+2/day---*stone shape* (adult or older);
 1/day---*transmute rock to mud* or *mud to rock* (old or older), *wall
 of stone* (ancient or older), *move earth* (great wyrm).
 
-**Skills:** Bluff, Hide, and Jump are considered class skills for copper
+### Skills
+Bluff, Hide, and Jump are considered class skills for copper
 dragons.
 
 ### Gold Dragon
 
 **Dragon (Fire)**
 
-**Environment:** Warm plains
+### Environment
+Warm plains
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 5; very young 7; young 9; juvenile 11;
+### Challenge Ratings
+Wyrmling 5; very young 7; young 9; juvenile 11;
 young adult 14; adult 16; mature adult 19; old 21; very old 22; ancient
 24; wyrm 25; great wyrm 27
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always lawful good
+### Alignment
+Always lawful good
 
-**Advancement:** Wyrmling 9--10 HD; very young 12--13 HD; young 15--16
+### Advancement
+Wyrmling 9--10 HD; very young 12--13 HD; young 15--16
 HD; juvenile 18--19 HD; young adult 21--22 HD; adult 24--25 HD; mature
 adult 27--28 HD; old 30--31 HD; very old 33--34 HD; ancient 36--37 HD;
 wyrm 39--40 HD; great wyrm 42+ HD
 
-**Level Adjustment:** Wyrmling +4; very young +5; young +6; others ---
+### Level Adjustment
+Wyrmling +4; very young +5; young +6; others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
   Gold                                                                                                                
@@ -7176,12 +7591,14 @@ use of spells in combat. Among their favorites are *cloudkill, delayed
 blast fireball, fire shield, globe of invulnerability, maze, sleep,
 slow,* and *stinking cloud.*
 
-**Breath Weapon (Su):** A gold dragon has two types of breath weapon, a
+### Breath Weapon (Su)
+A gold dragon has two types of breath weapon, a
 cone of fire and a cone of weakening gas. Creatures within a cone of
 weakening gas must succeed on a Fortitude save or take 1 point of
 Strength damage per age category of the dragon.
 
-**Alternate Form (Su):** A gold dragon can assume any animal or humanoid
+### Alternate Form (Su)
+A gold dragon can assume any animal or humanoid
 form of Medium size or smaller as a standard action three times per day.
 This ability functions as a *polymorph* spell cast on itself at its
 caster level, except that the dragon does not regain hit points for
@@ -7189,12 +7606,14 @@ changing form and can only assume the form of an animal or humanoid. The
 dragon can remain in its animal or humanoid form until it chooses to
 assume a new one or return to its natural form.
 
-**Water Breathing (Ex):** A gold dragon can breathe underwater
+### Water Breathing (Ex)
+A gold dragon can breathe underwater
 indefinitely and can freely use its breath weapon, spells, and other
 abilities while submerged (the cone of fire becomes a cone of
 superheated steam underwater).
 
-***Luck Bonus* (Sp):** Once per day an adult or older gold dragon can
+### *Luck Bonus* (Sp)
+Once per day an adult or older gold dragon can
 touch a gem, usually one embedded in the dragon's hide, and enspell it
 to bring good luck. As long as the dragon carries the gem, it and every
 good creature in a 10-foot radius per age category of the dragon
@@ -7204,7 +7623,8 @@ creature, only that bearer gets the bonus. The effect lasts 1d3 hours
 plus 3 hours per age category of the dragon but ends if the gem is
 destroyed. This ability is the equivalent of a 2nd-level spell.
 
-***Detect Gems* (Sp):** An old or older gold dragon can use this ability
+### *Detect Gems* (Sp)
+An old or older gold dragon can use this ability
 three times per day. This is a divination effect similar to a *detect
 magic* spell, except that it finds only gems. The dragon can scan a
 60-degree arc each round: By concentrating for 1 round it knows if there
@@ -7212,38 +7632,47 @@ are any gems within the arc; 2 rounds of concentration reveal the exact
 number of gems; and 3 rounds reveal their exact location, type, and
 value. This ability is the equivalent of a 2ndlevel spell.
 
-**Other Spell-Like Abilities:** 3/day---*bless* (juvenile or older);
+### Other Spell-Like Abilities
+3/day---*bless* (juvenile or older);
 1/day---*geas/quest* (old or older), *sunburst* (ancient or older),
 *foresight* (great wyrm).
 
-**Skills:** Disguise, Heal, and Swim are considered class skills for
+### Skills
+Disguise, Heal, and Swim are considered class skills for
 gold dragons.
 
 ### Silver Dragon
 
 **Dragon (Cold)**
 
-**Environment:** Temperate mountains
+### Environment
+Temperate mountains
 
-**Organization:** Wyrmling, very young, young, juvenile, and young
+### Organization
+Wyrmling, very young, young, juvenile, and young
 adult: solitary or clutch (2--5); adult, mature adult, old, very old,
 ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5
 offspring)
 
-**Challenge Ratings:** Wyrmling 4; very young 5; young 7; juvenile 10;
+### Challenge Ratings
+Wyrmling 4; very young 5; young 7; juvenile 10;
 young adult 13; adult 15; mature adult 18; old 20; very old 21; ancient
 23; wyrm 24; great wyrm 26
 
-**Treasure:** Triple standard
+### Treasure
+Triple standard
 
-**Alignment:** Always lawful good
+### Alignment
+Always lawful good
 
-**Advancement:** Wyrmling 8--9 HD; very young 11--12 HD; young 14--15
+### Advancement
+Wyrmling 8--9 HD; very young 11--12 HD; young 14--15
 HD; juvenile 17--18 HD; young adult 20--21 HD; adult 23--24 HD; mature
 adult 26--27 HD; old 29--30 HD; very old 32--33 HD; ancient 35--36 HD;
 wyrm 38--39 HD; great wyrm 41+ HD
 
-**Level Adjustment:** Wyrmling +4; very young +4; young +5; others ---
+### Level Adjustment
+Wyrmling +4; very young +4; young +5; others ---
 
   ---------- ------ ----------- ----- ----- ----- ----- ----- ----- ---------- -------- ------ ------ ------ -------- -----------
   Silver                                                                                                              
@@ -7322,12 +7751,14 @@ air, where they can be snatched. Against flying opponents, a silver
 dragon hides in clouds (creating some with *control weather* on clear
 days), then jumps to the attack when it has the advantage.
 
-**Breath Weapon (Su):** A silver dragon has two types of breath weapon,
+### Breath Weapon (Su)
+A silver dragon has two types of breath weapon,
 a cone of cold and a cone of paralyzing gas. Creatures within a cone of
 paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6
 rounds plus 1 round per age category of the dragon.
 
-**Alternate Form (Su):** A silver dragon can assume any animal or
+### Alternate Form (Su)
+A silver dragon can assume any animal or
 humanoid form of Medium size or smaller as a standard action three times
 per day. This ability functions as a *polymorph* spell cast on itself at
 its caster level, except that the dragon does not regain hit points for
@@ -7335,16 +7766,19 @@ changing form and can only assume the form of an anirmal or humanoid.
 The dragon can remain in its animal or humanoid form until it chooses to
 assume a new one or return to its natural form.
 
-**Cloudwalking (Su):** A silver dragon can tread on clouds or fog as
+### Cloudwalking (Su)
+A silver dragon can tread on clouds or fog as
 though on solid ground. The ability functions continuously but can be
 negated or resumed at will.
 
-**Spell-Like Abilities:** 3/day---*fog cloud* (adult or older), *control
+### Spell-Like Abilities
+3/day---*fog cloud* (adult or older), *control
 winds* (old or older); 2/day---*feather fall* (juvenile or older);
 1/day--- *control weather* (ancient or older), *reverse gravity* (great
 wyrm).
 
-**Skills:** Bluff, Disguise, and Jump are considered class skills for
+### Skills
+Bluff, Disguise, and Jump are considered class skills for
 silver dragons.
 
 ## Dragon Turtle
@@ -7388,17 +7822,20 @@ Dragon turtles speak Aquan, Draconic, and Common.
 Dragon turtles are fierce fighters and generally attack any creature
 that threatens their territory or looks like a potential meal.
 
-**Breath Weapon (Su):** Cloud of superheated steam 20 feet high, 25 feet
+### Breath Weapon (Su)
+Cloud of superheated steam 20 feet high, 25 feet
 wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex
 DC 21 half; effective both on the surface and underwater. The save DC is
 Constitution-based.
 
-**Capsize (Ex):** A submerged dragon turtle that surfaces under a boat
+### Capsize (Ex)
+A submerged dragon turtle that surfaces under a boat
 or ship less than 20 feet long capsizes the vessel 95% of the time. It
 has a 50% chance to capsize a vessel from 20 to 60 feet long and a 20%
 chance to capsize one over 60 feet long.
 
-**Skills:** A dragon turtle has a +8 racial bonus on any Swim check to
+### Skills
+A dragon turtle has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered.
 
@@ -7448,17 +7885,21 @@ effectively in battle. If opponents attempt to charge or encircle it,
 the dragonne simply takes to the air and finds a more defensible
 position.
 
-**Pounce (Ex):** If a dragonne charges, it can make a full attack in the
+### Pounce (Ex)
+If a dragonne charges, it can make a full attack in the
 same round.
 
-**Roar (Su):** A dragonne can loose a devastating roar every 1d4 rounds.
+### Roar (Su)
+A dragonne can loose a devastating roar every 1d4 rounds.
 All creatures except dragonnes within 120 feet must succeed on a DC 15
 Will save or become fatigued. Those within 30 feet who fail their saves
 become exhausted. The save DC is Charisma-based.
 
-**Skills:** Dragonnes have a +4 racial bonus on Listen and Spot checks.
+### Skills
+Dragonnes have a +4 racial bonus on Listen and Spot checks.
 
-**Carrying Capacity:** A light load for a dragonne is up to 348 pounds;
+### Carrying Capacity
+A light load for a dragonne is up to 348 pounds;
 a medium load, 349--699 pounds, and a heavy load, 700--1,050 pounds.
 
 ## Drider
@@ -7496,15 +7937,18 @@ Driders seldom pass up an opportunity to attack other creatures,
 especially from ambush. They usually begin with a spell assault and
 often levitate out of the enemy's reach.
 
-**Poison (Ex):** Injury, Fortitude DC 16, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 16, initial and secondary damage
 1d6 Str. The save DC is Constitution based.
 
-**Spell-Like Abilities:** 1/day---*dancing lights* (DC 13),
+### Spell-Like Abilities
+1/day---*dancing lights* (DC 13),
 *clairaudience/clairvoyance, darkness, detect good, detect law, detect
 magic, dispel magic, faerie fire, levitate, suggestion* (DC 16). Caster
 level 6th. The save DCs are Charisma-based.
 
-**Spells:** Driders cast spells as 6th-level clerics, wizards, or
+### Spells
+Driders cast spells as 6th-level clerics, wizards, or
 sorcerers. Drider clerics can choose from the following domains: Chaos,
 Destruction, Evil, and Trickery. The typical spells prepared shown here
 are for a drider sorcerer.
@@ -7515,7 +7959,8 @@ read magic, resistance;* 1st---*mage armor, magic missile, ray of
 enfeeblement, silent image;* 2nd--- *invisibility, web;*
 3rd---*lightning bolt*.
 
-**Skills:** A drider has a +4 racial bonus on Hide and Move Silently
+### Skills
+A drider has a +4 racial bonus on Hide and Move Silently
 checks. It has a +8 racial bonus on Climb checks and can always choose
 to take 10 on a Climb check, even if rushed or threatened.
 
@@ -7564,17 +8009,20 @@ person* or *suggestion,* attempting to gain control of the attacker(s)
 who could help the most against the rest. Any attack on her tree,
 however, provokes the dryad into a frenzied defense.
 
-**Spell-Like Abilities:** At will---*entangle* (DC 13), *speak with
+### Spell-Like Abilities
+At will---*entangle* (DC 13), *speak with
 plants, tree shape;* 3/day--- *charm person* (DC 13), *deep slumber* (DC
 15), *tree stride;* 1/day---*suggestion* (DC 15). Caster level 6th. The
 save DCs are Wisdom-based.
 
-**Tree Dependent (Su):** Each dryad is mystically bound to a single,
+### Tree Dependent (Su)
+Each dryad is mystically bound to a single,
 enormous oak tree and must never stray more than 300 yards from it. Any
 who do become ill and die within 4d6 hours. A dryad's oak does not
 radiate magic.
 
-**Wild Empathy (Ex):** This power works like the druid's wild empathy
+### Wild Empathy (Ex)
+This power works like the druid's wild empathy
 class feature, except that the dryad has a +6 racial bonus on the check.
 
 ## Dwarf
@@ -7705,7 +8153,8 @@ have time to prepare, they may build deadfalls or other traps involving
 stone. In addition to the dwarven waraxe and thrown hammer, dwarves also
 use warhammers, picks, shortbows, heavy crossbows, and maces.
 
-**Dwarf Traits (Ex):** Dwarves possess the following racial traits.
+### Dwarf Traits (Ex)
+Dwarves possess the following racial traits.
 
 --- +2 Constitution, --2 Charisma.
 
@@ -7785,7 +8234,8 @@ dwarves to trade goods for them.
 Deep dwarves speak Dwarven and Goblin, and occasionally Draconic or
 Undercommon.
 
-**Deep Dwarf Traits (Ex):** These traits are in addition to the hill
+### Deep Dwarf Traits (Ex)
+These traits are in addition to the hill
 dwarf traits, except where noted.
 
 ---Racial bonus on saves against spells and spell-like abilities
@@ -7810,7 +8260,8 @@ even allying with other underground creatures from time to time.
 
 Duergar speak Dwarven and Undercommon.
 
-**Duergar Traits (Ex):** These traits are in addition to the hill dwarf
+### Duergar Traits (Ex)
+These traits are in addition to the hill dwarf
 traits, except where noted.
 
 --- --4 Charisma instead of --2.
@@ -7848,7 +8299,8 @@ dwarven waraxe and dwarven urgrosh.
 The duergar warrior presented here had the following ability scores
 before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
-**Challenge Rating:** Duergar with levels in NPC classes have a CR equal
+### Challenge Rating
+Duergar with levels in NPC classes have a CR equal
 to their character level. Duergar with levels in PC classes have a CR
 equal to their character level +1.
 
@@ -7913,10 +8365,12 @@ threatening. A mated pair attacks in concert, making repeated diving
 attacks to drive away intruders, and fights to the death to defend their
 nest or hatchlings.
 
-**Evasion (Ex):** With a successful Reflex save against an attack that
+### Evasion (Ex)
+With a successful Reflex save against an attack that
 allows a Reflex save for half damage, a giant eagle takes no damage.
 
-**Skills:** Giant eagles have a +4 racial bonus on Spot checks.
+### Skills
+Giant eagles have a +4 racial bonus on Spot checks.
 
 ### Training a Giant Eagle
 
@@ -8007,10 +8461,12 @@ Air elementals speak Auran, though they rarely choose to do so.
 Their rapid speed makes air elementals useful on vast battlefields or in
 extended aerial combat.
 
-**Air Mastery (Ex):** Airborne creatures take a --1 penalty on attack
+### Air Mastery (Ex)
+Airborne creatures take a --1 penalty on attack
 and damage rolls against an air elemental.
 
-**Whirlwind (Su):** The elemental can transform itself into a whirlwind
+### Whirlwind (Su)
+The elemental can transform itself into a whirlwind
 once every 10 minutes and remain in that form for up to 1 round for
 every 2 HD it has. In this form, the elemental can move through the air
 or along a surface at its fly speed.
@@ -8151,17 +8607,20 @@ earth's surface. It cannot swim, however, and must either walk around a
 body of water or go through the ground under it. An earth elemental can
 move along the bottom of a body of water but prefers not to.
 
-**Earth Mastery (Ex):** An earth elemental gains a +1 bonus on attack
+### Earth Mastery (Ex)
+An earth elemental gains a +1 bonus on attack
 and damage rolls if both it and its foe are touching the ground. If an
 opponent is airborne or waterborne, the elemental takes a --4 penalty on
 attack and damage rolls. (These modifiers are not included in the
 statistics block.)
 
-**Push (Ex):** An earth elemental can start a bull rush maneuver without
+### Push (Ex)
+An earth elemental can start a bull rush maneuver without
 provoking an attack of opportunity. The combat modifiers given in Earth
 Mastery, above, also apply to the elemental's opposed Strength checks.
 
-**Earth Glide (Ex):** An earth elemental can glide through stone, dirt,
+### Earth Glide (Ex)
+An earth elemental can glide through stone, dirt,
 or almost any other sort of earth except metal as easily as a fish swims
 through water. Its burrowing leaves behind no tunnel or hole, nor does
 it create any ripple or other signs of its presence. A *move earth*
@@ -8243,7 +8702,8 @@ A fire elemental is a fierce opponent that attacks its enemies directly
 and savagely. It takes joy in burning the creatures and objects of the
 Material Plane to ashes.
 
-**Burn (Ex):** A fire elemental's slam attack deals bludgeoning damage
+### Burn (Ex)
+A fire elemental's slam attack deals bludgeoning damage
 plus fire damage from the elemental's flaming body. Those hit by a fire
 elemental's slam attack also must succeed on a Reflex save or catch on
 fire. The flame burns for 1d4 rounds. The save DC varies with the
@@ -8329,7 +8789,8 @@ Water elementals speak Aquan but rarely choose to do so.
 A water elemental prefers to fight in a large body of water where it can
 disappear beneath the waves and suddenly swell up behind its opponents.
 
-**Water Mastery (Ex):** A water elemental gains a +1 bonus on attack and
+### Water Mastery (Ex)
+A water elemental gains a +1 bonus on attack and
 damage rolls if both it and its opponent are touching water. If the
 opponent or the elemental is touching the ground, the elemental takes a
 --4 penalty on attack and damage rolls. (These modifiers are not
@@ -8340,12 +8801,14 @@ path. An elemental can easily overturn small craft (5 feet of length per
 Hit Die of the elemental) and stop larger vessels (10 feet long per HD).
 Even large ships (20 feet long per HD) can be slowed to half speed.
 
-**Drench (Ex):** The elemental's touch puts out torches, campfires,
+### Drench (Ex)
+The elemental's touch puts out torches, campfires,
 exposed lanterns, and other open flames of nonmagical origin if these
 are of Large size or smaller. The creature can dispel magical fire it
 touches as *dispel magic* (caster level equals elemental's HD).
 
-**Vortex (Su):** The elemental can transform itself into a whirlpool
+### Vortex (Su)
+The elemental can transform itself into a whirlpool
 once every 10 minutes, provided it is underwater, and remain in that
 form for up to 1 round for every 2 HD it has. In vortex form, the
 elemental can move through the water or along the bottom at its swim
@@ -8569,7 +9032,8 @@ elves are graceful and deadly, using complex maneuvers that are
 beautiful to observe. Their wizards often use *sleep* spells during
 combat because these won't affect other elves.
 
-**Elf Traits (Ex):** Elves possess the following racial traits.
+### Elf Traits (Ex)
+Elves possess the following racial traits.
 
 --- +2 Dexterity, --2 Constitution.
 
@@ -8612,7 +9076,8 @@ Half-elves are not truly an elf subrace, but they are often mistaken for
 elves. Half-elves usually inherit a good blend of their parents'
 physical characteristics.
 
-**Half-Elf Traits (Ex):** Half-elves possess the following racial
+### Half-Elf Traits (Ex)
+Half-elves possess the following racial
 traits.
 
 ---Medium size.
@@ -8651,7 +9116,8 @@ land-dwelling elves.
 
 Aquatic elves fight underwater with tridents, spears, and nets.
 
-**Aquatic Elf Traits (Ex):** These traits are in addition to the high
+### Aquatic Elf Traits (Ex)
+These traits are in addition to the high
 elf traits, except where noted.
 
 --- +2 Dexterity, --2 Intelligence. These adjustments replace the high
@@ -8682,7 +9148,8 @@ of elves, and their eyes are often a vivid red.
 
 Drow usually coat their arrows with a potent venom.
 
-**Poison (Ex):** An opponent hit by a drow's poisoned weapon must
+### Poison (Ex)
+An opponent hit by a drow's poisoned weapon must
 succeed on a DC 13 Fortitude save or fall unconscious. After 1 minute,
 the subject must succeed on another DC 13 Fortitude save or remain
 unconscious for 2d4 hours. A typical drow carries 1d4--1 doses of drow
@@ -8692,7 +9159,8 @@ have no special ability to apply poison without risking being poisoned
 themselves. Since this poison is not a magical effect, drow and other
 elves are susceptible to it.
 
-**Drow Traits (Ex):** These traits are in addition to the high elf
+### Drow Traits (Ex)
+These traits are in addition to the high elf
 traits, except where noted.
 
 --- +2 Intelligence, +2 Charisma.
@@ -8741,7 +9209,8 @@ standards). They have either silver hair and amber eyes or pale golden
 hair and violet eyes. They prefer clothing of white, silver, yellow, or
 gold, with cloaks of deep blue or purple.
 
-**Gray Elf Traits (Ex):** These traits are in addition to the high elf
+### Gray Elf Traits (Ex)
+These traits are in addition to the high elf
 traits.
 
 --- +2 Intelligence, --2 Strength.
@@ -8752,7 +9221,8 @@ Wild elvesare barbaric and tribal. Wild elves' hair color ranges from
 black to light brown, lightening to silvery white with age. They dress
 in simple clothing of animal skins and basic plant weaves.
 
-**Wild Elf Traits (Ex):** These traits are in addition to the high elf
+### Wild Elf Traits (Ex)
+These traits are in addition to the high elf
 traits, except where noted.
 
 --- +2 Dexterity, --2 Intelligence. These adjustments replace the high
@@ -8767,7 +9237,8 @@ Their hair color ranges from yellow to a coppery red, and they are more
 muscular than other elves. Their clothing is in dark shades of green and
 earth tones to better blend in with their natural surroundings.
 
-**Wood Elf Traits (Ex):** These traits are in addition to the high elf
+### Wood Elf Traits (Ex)
+These traits are in addition to the high elf
 traits, except where noted.
 
 --- +2 Strength, --2 Intelligence.
@@ -8822,16 +9293,19 @@ than continuing the fight.
 
 Any number of simple ruses can blunt a filcher's attack.
 
-**Detect Magic (Su):** Ethereal filchers can detect magic as the spell
+### Detect Magic (Su)
+Ethereal filchers can detect magic as the spell
 (caster level 5th) at will.
 
-**Ethereal Jaunt (Su):** An ethereal filcher can shift from the Ethereal
+### Ethereal Jaunt (Su)
+An ethereal filcher can shift from the Ethereal
 Plane to the Material Plane as part of any move action, and shift back
 again as a free action. It can remain on the Ethereal Plane for 1 round
 before returning to the Material Plane. The ability is otherwise
 identical with the *ethereal jaunt* spell (caster level 15th).
 
-**Skills:** Ethereal filchers have a +8 racial bonus on Sleight of Hand
+### Skills
+Ethereal filchers have a +8 racial bonus on Sleight of Hand
 checks, and a +4 racial bonus on Listen and Spot checks.
 
 ## Ethereal Marauder
@@ -8878,12 +9352,14 @@ victim, then retreats quickly back to the Ethereal Plane. When badly
 hurt or wounded, a marauder escapes to its home plane rather than
 continuing the fight.
 
-**Ethereal Jaunt (Su):** An ethereal marauder can shift from the
+### Ethereal Jaunt (Su)
+An ethereal marauder can shift from the
 Ethereal Plane to the Material Plane as a free action, and shift back
 again as a move action. The ability is otherwise identical with the
 *ethereal jaunt* spell (caster level 15th).
 
-**Skills:** Ethereal marauders have a +2 racial bonus on Listen, Move
+### Skills
+Ethereal marauders have a +2 racial bonus on Listen, Move
 Silently, and Spot checks.
 
 ## Ettercap
@@ -8925,11 +9401,13 @@ enemies, it attacks with its keen-edged claws and venomous bite. It
 usually will not come within melee reach of any foe that is still able
 to move.
 
-**Poison (Ex):** Injury, Fortitude DC 15, initial damage 1d6 Dex,
+### Poison (Ex)
+Injury, Fortitude DC 15, initial damage 1d6 Dex,
 secondary damage 2d6 Dex. The save DC is Constitution based and includes
 a +2 racial bonus.
 
-**Web (Ex):** An ettercap can throw a web eight times per day. This is
+### Web (Ex)
+An ettercap can throw a web eight times per day. This is
 similar to an attack with a net but has a maximum range of 50 feet, with
 a range increment of 10 feet, and is effective against targets of up to
 Medium size. The web anchors the target in place, allowing no movement.
@@ -8952,7 +9430,8 @@ section has 6 hit points, hardness 0, and takes double damage from fire.
 An ettercap can move across its own sheet web at its climb speed and can
 determine the exact location of any creature touching the web.
 
-**Skills:** Ettercaps have a +4 racial bonus on Craft (trapmaking),
+### Skills
+Ettercaps have a +4 racial bonus on Craft (trapmaking),
 Hide, and Spot checks. They have a +8 racial bonus on Climb checks and
 can always choose to take 10 on Climb checks, even if rushed or
 threatened.
@@ -9006,7 +9485,8 @@ They prefer to ambush their victims rather than charge into a straight
 fight, but once the battle has started, an ettin usually fights
 furiously until all enemies are dead.
 
-**Superior Two-Weapon Fighting (Ex):** An ettin fights with a
+### Superior Two-Weapon Fighting (Ex)
+An ettin fights with a
 morningstar or javelin in each hand. Because each of its two heads
 controls an arm, the ettin does not take a penalty on attack or damage
 rolls for attacking with two weapons.
@@ -9031,19 +9511,22 @@ A fiendish creature uses all the base creature's statistics and
 abilities except as noted here. Do not recalculate the creature's Hit
 Dice, base attack bonus, saves, or skill points if its type changes.
 
-**Size and Type:** Animals or vermin with this template become magical
+### Size and Type
+Animals or vermin with this template become magical
 beasts, but otherwise the creature type is unchanged. Size is unchanged.
 Fiendish creatures encountered on the Material Plane have the
 extraplanar subtype.
 
-**Special Attacks:** A fiendish creature retains all the special attacks
+### Special Attacks
+A fiendish creature retains all the special attacks
 of the base creature and also gains the following special attack.
 
 ***Smite Good (Su):***Once per day the creature can make a normal melee
 attack to deal extra damage equal to its HD total (maximum of +20)
 against a good foe.
 
-**Special Qualities:** A fiendish creature retains all the special
+### Special Qualities
+A fiendish creature retains all the special
 qualities of the base creature and also gains the following.
 
 ---Darkvision out to 60 feet.
@@ -9060,18 +9543,23 @@ use the better value.
 If a fiendish creature gains damage reduction, its natural weapons are
 treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Abilities:** Same as the base creature, but Intelligence is at least
+### Abilities
+Same as the base creature, but Intelligence is at least
 3.
 
-**Environment:** Any evil-aligned plane.
+### Environment
+Any evil-aligned plane.
 
-**Challenge Rating:** HD 3 or less, as base creature; HD 4 to 7, as
+### Challenge Rating
+HD 3 or less, as base creature; HD 4 to 7, as
 
 base creature +1; HD 8 or more, as base creature +2.
 
-**Alignment:** Always evil (any).
+### Alignment
+Always evil (any).
 
-**Level Adjustment:** Same as the base creature +2.
+### Level Adjustment
+Same as the base creature +2.
 
   ------------ ----------------------------- ------------------
   Hit Dice     Resistance to Cold and Fire   Damage Reduction
@@ -9146,7 +9634,8 @@ If they perceive even the slightest threat to their hive-city or to
 their queen, they attack immediately and fight to the death. Any formian
 also attacks immediately if ordered to do so by a superior.
 
-**Hive Mind (Ex):** All formians within 50 miles of their queen are in
+### Hive Mind (Ex)
+All formians within 50 miles of their queen are in
 constant communication. If one is aware of a particular danger, they all
 are. If one in a group is not flatfooted, none of them are. No formian
 in a group is considered flanked unless all of them are.
@@ -9170,11 +9659,13 @@ A formian worker's natural weapons, as well as any weapons it wields,
 are treated as lawful-aligned for the purpose of overcoming damage
 reduction.
 
-***Cure Serious Wounds* (Sp):** Eight workers together can heal a
+### *Cure Serious Wounds* (Sp)
+Eight workers together can heal a
 creature's wounds as though using the *cure serious wounds* spell
 (caster level 7th). This is a full-round action for all eight workers.
 
-***Make Whole* (Sp):** Three workers together can repair an object as
+### *Make Whole* (Sp)
+Three workers together can repair an object as
 though using the *make whole* spell (caster level 7th). This is a
 fullround action for all three workers.
 
@@ -9196,7 +9687,8 @@ A formian warrior's natural weapons, as well as any weapons it wields,
 are treated as lawful-aligned for the purpose of overcoming damage
 reduction.
 
-**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 14, initial and secondary damage
 1d6 Str. The save DC is Constitution-based.
 
 ### Taskmaster
@@ -9216,7 +9708,8 @@ A formian taskmaster's natural weapons, as well as any weapons it
 wields, are treated as lawful-aligned for the purpose of overcoming
 damage reduction.
 
-**Dominate Monster (Su):** A taskmaster can use a *dominate monster*
+### Dominate Monster (Su)
+A taskmaster can use a *dominate monster*
 ability as the spell from a 10th-level caster (Will DC 17 negates),
 although the subject may be of any kind and may be up to Large size.
 Creatures that successfully save cannot be affected by the same
@@ -9224,11 +9717,13 @@ taskmaster's dominate monster ability for 24 hours. A single taskmaster
 can dominate up to four subjects at a time. The save DC is
 Charisma-based.
 
-**Dominated Creature (Ex):** A taskmaster is never encountered alone.
+### Dominated Creature (Ex)
+A taskmaster is never encountered alone.
 One dominated nonformian creature always accompanies it (choose or
 determine randomly any creature of CR 4).
 
-**Poison (Ex):** Injury, Fortitude DC 15, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 15, initial and secondary damage
 1d6 Str. The save DC is Constitution-based.
 
 ### Myrmarch
@@ -9261,10 +9756,12 @@ A formian myrmarch's natural weapons, as well as any weapons it wields,
 are treated as lawful-aligned for the purpose of overcoming damage
 reduction.
 
-**Poison (Ex):** Injury, Fortitude DC 20, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 20, initial and secondary damage
 2d6 Dex. The save DC is Constitution-based.
 
-**Spell-Like Abilities:** At will---*charm monster* (DC 17),
+### Spell-Like Abilities
+At will---*charm monster* (DC 17),
 *clairaudience/ clairvoyance, detect chaos, detect thoughts* (DC 15),
 *magic circle against chaos*, *greater teleport;* 1/day---*dictum* (DC
 20), *order's wrath* (DC 17). Caster level 12th. The save DCs are
@@ -9294,7 +9791,8 @@ Despite her utter lack of physical activity, the queen can cast spells
 and use spell-like abilities to great effect in her own defense as well
 as the defense of the hive-city.
 
-**Spells:** The queen casts arcane spells as a 17th-level sorcerer.
+### Spells
+The queen casts arcane spells as a 17th-level sorcerer.
 
 *Typical Sorcerer Spells Known* (6/8/7/7/7/7/6/6/4, base save DC 15 +
 spell level): 0---*acid splash, arcane mark, daze, detect magic, light,
@@ -9307,13 +9805,15 @@ scorching ray;* 3rd---*dispel magic, heroism, nondetection, slow;*
 dweomer, geas/quest, repulsion;* 7th---*summon monster VII, vision,
 waves of exhaustion;* 8th---*prismatic wall, temporal stasis.*
 
-**Spell-Like Abilities:** At will---*calm emotions* (DC 17), *charm
+### Spell-Like Abilities
+At will---*calm emotions* (DC 17), *charm
 monster* (DC 19), *clairaudience/clairvoyance, detect chaos, detect
 thoughts, dictum* (DC 22), *divination, hold monster* (DC 20), *magic
 circle against chaos, order's wrath* (DC 19), *shield of law* (DC 23),
 *true seeing.* Caster level 17th. The save DCs are Charisma-based.
 
-**Telepathy (Su):** The queen can communicate telepathically with any
+### Telepathy (Su)
+The queen can communicate telepathically with any
 intelligent creature within 50 miles whose presence she is aware of.
 
 ## Frost Worm
@@ -9357,7 +9857,8 @@ Frost worms lurk under the snow, waiting for prey to come near.
 They begin an attack with a trill and then set upon helpless prey with
 their bite.
 
-**Trill (Su):** A frost worm can emit a noise that forces its prey to
+### Trill (Su)
+A frost worm can emit a noise that forces its prey to
 stand motionless. This sonic mind-affecting compulsion affects all
 creatures other than frost worms within a 100-foot radius. Creatures
 must succeed on a DC 17 Will save or be stunned for as long as the worm
@@ -9368,22 +9869,26 @@ the effect, it cannot be affected again by that same frost worm's trill
 for 24 hours. The effect's caster level is 14th. The save DC is
 Charisma-based.
 
-**Cold (Ex):** A frost worm's body generates intense cold, causing
+### Cold (Ex)
+A frost worm's body generates intense cold, causing
 opponents to take an extra 1d8 points of cold damage every time the
 creature succeeds on a bite attack. Creatures attacking a frost worm
 unarmed or with natural weapons take this same cold damage each time one
 of their attacks hits.
 
-**Breath Weapon (Su):** 30-foot cone, once per hour, damage 15d6 cold,
+### Breath Weapon (Su)
+30-foot cone, once per hour, damage 15d6 cold,
 Reflex DC 22 half. Opponents held motionless by the frost worm's trill
 get no saving throw. The save DC is Constitution-based.
 
-**Death Throes (Ex):** When killed, a frost worm turns to ice and
+### Death Throes (Ex)
+When killed, a frost worm turns to ice and
 shatters in an explosion that deals 12d6 points of cold damage and 8d6
 points of piercing damage to everything within 100 feet (Reflex half DC
 22). The save DC is Constitution-based.
 
-**Skills:** \*A frost worm, due to its coloration and its affinity for
+### Skills
+\*A frost worm, due to its coloration and its affinity for
 burying itself in the snow, has a +10 racial bonus on Hide checks in its
 native environment.
 
@@ -9435,7 +9940,8 @@ Shriekers come in of shades of purple.
 A shrieker has no means of attack. Instead, it lures prey to its
 vicinity by emitting a loud noise.
 
-**Shriek (Ex):** Movement or a light source within 10 feet of a shrieker
+### Shriek (Ex)
+Movement or a light source within 10 feet of a shrieker
 causes the fungus to emit a piercing sound that lasts for 1d3 rounds.
 The sound attracts nearby creatures that are disposed to investigate it.
 Some creatures that live near shriekers come to learn that the fungus's
@@ -9453,7 +9959,8 @@ violet covered with purple spots.
 A violet fungus flails about with its tentacles at living creatures that
 come within its reach.
 
-**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 14, initial and secondary damage
 1d4 Str and 1d4 Con. The save DC is Constitution-based.
 ---
 lang: en
@@ -9507,11 +10014,13 @@ prey.
 A gargoyle's natural weapons are treated as magic weapons for the
 purpose of overcoming damage reduction.
 
-**Freeze (Ex):** A gargoyle can hold itself so still it appears to be a
+### Freeze (Ex)
+A gargoyle can hold itself so still it appears to be a
 statue. An observer must succeed on a DC 20 Spot check to notice the
 gargoyle is really alive.
 
-**Skills:** Gargoyles have a +2 racial bonus on Hide, Listen, and Spot
+### Skills
+Gargoyles have a +2 racial bonus on Hide, Listen, and Spot
 checks. \*The Hide bonus increases by +8 when a gargoyle is concealed
 against a background of stone.
 
@@ -9571,7 +10080,8 @@ proud to flee if it means they'll live to fight another day. If trapped,
 they bargain, offering treasure or favors in return for their lives and
 freedom.
 
-***Plane Shift* (Sp):** A genie can enter any of the elemental planes,
+### *Plane Shift* (Sp)
+A genie can enter any of the elemental planes,
 the Astral Plane, or the Material Plane. This ability transports the
 genie and up to eight other creatures, provided they all link hands with
 the genie. It is otherwise similar to the spell of the same name (caster
@@ -9616,17 +10126,20 @@ Djinn disdain physical combat, preferring to use their magical powers
 and aerial abilities against foes. A djinni overmatched in combat
 usually takes flight and becomes a whirlwind to harass those who follow.
 
-**Air Mastery (Ex):** Airborne creatures take a --1 penalty on attack
+### Air Mastery (Ex)
+Airborne creatures take a --1 penalty on attack
 and damage rolls against a djinni.
 
-**Spell-Like Abilities:** At will---*invisibility* (self only); 1/day---
+### Spell-Like Abilities
+At will---*invisibility* (self only); 1/day---
 *create food and water, create wine* (as *create water,* but wine
 instead), *major creation* (created vegetable matter is permanent),
 *persistent image* (DC 17), *wind walk.* Once per day, a djinni can
 assume *gaseous form* (as the spell) for up to 1 hour. Caster level
 20th. The save DCs are Charisma-based.
 
-**Whirlwind (Su):** A djinni can transform itself into a whirlwind once
+### Whirlwind (Su)
+A djinni can transform itself into a whirlwind once
 every 10 minutes and remain in that form for up to 7 rounds. In this
 form, it can move through the air or along a surface at its fly speed.
 
@@ -9721,18 +10234,21 @@ Efreet speak Auran, Common, Ignan, and Infernal.
 Efreet love to mislead, befuddle, and confuse their foes. They do so for
 enjoyment as well as a battle tactic.
 
-***Change Size* (Sp):** Twice per day, an efreeti can magically change a
+### *Change Size* (Sp)
+Twice per day, an efreeti can magically change a
 creature's size. This works just like an *enlarge person* or *reduce
 person* spell (the efreeti chooses when using the ability), except that
 the ability can work on the efreeti. A DC 13 Fortitude save negates the
 effect. The save DC is Charisma-based. This is the equivalent of a
 2nd-level spell.
 
-**Heat (Ex):** An efreeti's red-hot body deals 1d6 points of extra fire
+### Heat (Ex)
+An efreeti's red-hot body deals 1d6 points of extra fire
 damage whenever it hits in melee, or in each round it maintains a hold
 when grappling.
 
-**Spell-Like Abilities:** At will---*detect magic, produce flame,
+### Spell-Like Abilities
+At will---*detect magic, produce flame,
 pyrotechnics* (DC 14), *scorching ray* (1 ray only);
 3/day---*invisibility, wall of fire* (DC 16); 1/day---grant up to three
 *wishes* (to nongenies only), *gaseous form, permanent image* (DC 18),
@@ -9780,19 +10296,22 @@ insult or injury. If they meet a foe they cannot defeat in a standup
 fight, they use flight and *invisibility* to regroup and maneuver to a
 more advantageous position.
 
-***Change Size* (Sp):** Twice per day, a janni can magically change a
+### *Change Size* (Sp)
+Twice per day, a janni can magically change a
 creature's size. This works just like an *enlarge person* or *reduce
 person* spell (the janni chooses when using the ability), except that
 the ability can work on the janni. A DC 13 Fortitude save negates the
 effect. The save DC is Charisma-based. This is the equivalent of a
 2nd-level spell.
 
-**Spell-Like Abilities:** 3/day---*invisibility* (self only), *speak
+### Spell-Like Abilities
+3/day---*invisibility* (self only), *speak
 with animals.* Caster level 12th. Once per day a janni can *create food
 and water* (caster level 7th) and can use *ethereal jaunt* (caster level
 12th) for 1 hour. The save DCs are Charisma-based.
 
-**Elemental Endurance (Ex):** Jann can survive on the Elemental Planes
+### Elemental Endurance (Ex)
+Jann can survive on the Elemental Planes
 of Air, Earth, Fire, or Water for up to 48 hours. Failure to return to
 the Material Plane before that time expires causes a janni to take 1
 point of damage per additional hour spent on the elemental plane, until
@@ -9941,7 +10460,8 @@ A ghaele's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and good-aligned for the purpose of
 overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*aid, charm monster* (DC 17), *color
+### Spell-Like Abilities
+At will---*aid, charm monster* (DC 17), *color
 spray* (DC 14), *comprehend languages, continual flame, cure light
 wounds* (DC 14), *dancing lights, detect evil, detect thoughts* (DC 15),
 *disguise self, dispel magic, hold monster* (DC 18), *greater
@@ -9950,7 +10470,8 @@ greater teleport* (self plus 50 pounds of objects only); 1/day---*chain
 lightning* (DC 19), *prismatic spray* (DC 20), *wall of force.* Caster
 level 12th. The save DCs are Charisma-based.
 
-**Spells:** Ghaeles in humanoid form can cast divine spells as
+### Spells
+Ghaeles in humanoid form can cast divine spells as
 14th-level clerics. A ghaele has access to two of the following domains:
 Air, Animal, Chaos, Good, or Plant (plus any others from its deity). The
 save DCs are Wisdom-based.
@@ -9969,17 +10490,20 @@ seeing;* 6th---*banishment, blade barrier, chain lightning\*, heal;*
 
 \*Domain spell. Domains: Air and Animal.
 
-**Gaze (Su):** In humanoid form---slay evil creatures of 5 or less HD,
+### Gaze (Su)
+In humanoid form---slay evil creatures of 5 or less HD,
 range 60 feet, Will DC 18 negates. Even if the save succeeds, the
 creature is affected as though by a *fear* spell for 2d10 rounds.
 Nonevil creatures, and evil creatures with more than 5 HD, must succeed
 on a DC 18 Will save or suffer the *fear* effect. The save DCs are
 Charisma-based.
 
-**Light Ray (Ex):** A ghaele in globe form can project light rays with a
+### Light Ray (Ex)
+A ghaele in globe form can project light rays with a
 range of 300 feet. This attack overcomes damage reduction of any type.
 
-**Alternate Form (Su):** A ghaele can shift between its humanoid and
+### Alternate Form (Su)
+A ghaele can shift between its humanoid and
 globe forms as a standard action. In humanoid form, it cannot fly or use
 its light rays, but it can use its gaze attack and spell-like abilities,
 make physical attacks, and cast spells. In globe form, it can fly, use
@@ -9992,7 +10516,8 @@ change in form cannot be dispelled, nor does the ghaele revert to any
 particular form when killed. A *true seeing* spell or ability, however,
 reveals both forms simultaneously.
 
-**Protective Aura (Su):** Against attacks made or effects created by
+### Protective Aura (Su)
+Against attacks made or effects created by
 evil creatures, this ability provides a +4 deflection bonus to AC and a
 +4 resistance bonus on saving throws to anyone within 20 feet of the
 ghaele. Otherwise, it functions as a *magic circle against evil* effect
@@ -10000,7 +10525,8 @@ and a *lesser globe of invulnerability,* both with a radius of 20 feet
 (caster level equals ghaele's HD). (The defensive benefits from the
 circle are not included in a ghaele's statistics block.)
 
-**Tongues (Su):** Ghaeles can speak with any creature that has a
+### Tongues (Su)
+Ghaeles can speak with any creature that has a
 language, as though using a *tongues* spell (caster level 14th). This
 ability is always active.
 
@@ -10022,34 +10548,42 @@ have a Charisma score of at least 6.
 A ghost uses all the base creature's statistics and special abilities
 except as noted here.
 
-**Size and Type:** The creature's type changes to undead. Do not
+### Size and Type
+The creature's type changes to undead. Do not
 recalculate the creature's base attack bonus, saves, or skill points. It
 gains the incorporeal subtype. Size is unchanged.
 
-**Hit Dice:** All current and future Hit Dice become d12s.
+### Hit Dice
+All current and future Hit Dice become d12s.
 
-**Speed:** Ghosts have a fly speed of 30 feet, unless the base creature
+### Speed
+Ghosts have a fly speed of 30 feet, unless the base creature
 has a higher fly speed, with perfect maneuverability.
 
-**Armor Class:** Natural armor is the same as the base creature's but
+### Armor Class
+Natural armor is the same as the base creature's but
 applies only to ethereal encounters. When the ghost manifests (see
 below), its natural armor bonus is +0, but it gains a deflection bonus
 equal to its Charisma modifier or +1, whichever is higher.
 
-**Attack:** A ghost retains all the attacks of the base creature,
+### Attack
+A ghost retains all the attacks of the base creature,
 although those relying on physical contact do not affect creatures that
 are not ethereal.
 
-**Full Attack:** A ghost retains all the attacks of the base creature,
+### Full Attack
+A ghost retains all the attacks of the base creature,
 although those relying on physical contact do not affect creatures that
 are not ethereal.
 
-**Damage:** Against ethereal creatures, a ghost uses the base creature's
+### Damage
+Against ethereal creatures, a ghost uses the base creature's
 damage values. Against nonethereal creatures, the ghost usually cannot
 deal physical damage at all but can use its special attacks, if any,
 when it manifests (see below).
 
-**Special Attacks:** A ghost retains all the special attacks of the base
+### Special Attacks
+A ghost retains all the special attacks of the base
 creature, although those relying on physical contact do not affect
 nonethereal creatures. The ghost also gains a manifestation ability plus
 one to three other special attacks as described below. The save DC
@@ -10130,7 +10664,8 @@ It is not considered extraplanar when on either of these planes.
 When a ghost uses this power, it must wait 1d4 rounds before using it
 again.
 
-**Special Qualities:** A ghost has all the special qualities of the base
+### Special Qualities
+A ghost has all the special qualities of the base
 creature as well as those described below.
 
 *Rejuvenation (Su):* In most cases, it's difficult to destroy a ghost
@@ -10145,23 +10680,31 @@ require a good deal of research.
 
 *Turn Resistance (Ex):* A ghost has +4 turn resistance.
 
-**Abilities:** Same as the base creature, except that the ghost has no
+### Abilities
+Same as the base creature, except that the ghost has no
 Constitution score, and its Charisma score increases by +4.
 
-**Skills:** Ghosts have a +8 racial bonus on Hide, Listen, Search, and
+### Skills
+Ghosts have a +8 racial bonus on Hide, Listen, Search, and
 Spot checks. Otherwise same as the base creature.
 
-**Environment:** Any, often as base creature.
+### Environment
+Any, often as base creature.
 
-**Organization:** Solitary, gang (2--4), or mob (7--12).
+### Organization
+Solitary, gang (2--4), or mob (7--12).
 
-**Challenge Rating:** Same as the base creature +2.
+### Challenge Rating
+Same as the base creature +2.
 
-**Treasure:** None.
+### Treasure
+None.
 
-**Alignment:** Any.
+### Alignment
+Any.
 
-**Level Adjustment:** Same as the base creature +5.
+### Level Adjustment
+Same as the base creature +5.
 
 #### Ghostly Equipment
 
@@ -10266,7 +10809,8 @@ Ghouls speak the languages they spoke in life (usually Common).
 Ghouls try to attack with surprise whenever possible. They strike from
 behind tombstones and burst from shallow graves.
 
-**Ghoul Fever (Su):** Disease---bite, Fortitude DC 12, incubation period
+### Ghoul Fever (Su)
+Disease---bite, Fortitude DC 12, incubation period
 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
 
 An afflicted humanoid who dies of ghoul fever rises as a ghoul at the
@@ -10276,7 +10820,8 @@ any other ghouls, but it hungers for the flesh of the living and behaves
 like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more
 rises as a ghast, not a ghoul.
 
-**Paralysis (Ex):** Those hit by a ghoul's bite or claw attack must
+### Paralysis (Ex)
+Those hit by a ghoul's bite or claw attack must
 succeed on a DC 12 Fortitude save or be paralyzed for 1d4+1 rounds.
 Elves have immunity to this paralysis. The save DC is Charisma-based.
 
@@ -10294,14 +10839,17 @@ more deadly and cunning.
 
 #### Combat
 
-**Ghoul Fever (Su):** Disease---bite, Fortitude DC 15, incubation period
+### Ghoul Fever (Su)
+Disease---bite, Fortitude DC 15, incubation period
 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
 
-**Paralysis (Ex):** Those hit by a ghast's bite or claw attack must
+### Paralysis (Ex)
+Those hit by a ghast's bite or claw attack must
 succeed on a DC 15 Fortitude save or be paralyzed for 1d4+1 rounds. Even
 elves can be affected by this paralysis. The save DC is Charisma-based.
 
-**Stench (Ex):** The stink of death and corruption surrounding these
+### Stench (Ex)
+The stink of death and corruption surrounding these
 creatures is overwhelming. Living creatures
 
 within 10 feet must succeed on a DC 15 Fortitude save or be sickened for
@@ -10324,14 +10872,16 @@ wield them with impressive skill. They have enough cunning to soften up
 a foe with ranged attacks first, if they can. A giant's favorite ranged
 weapon is a big rock.
 
-**Rock Throwing (Ex):** Adult giants are accomplished rock throwers and
+### Rock Throwing (Ex)
+Adult giants are accomplished rock throwers and
 receive a +1 racial bonus on attack rolls when throwing rocks. A giant
 of at least Large size can hurl rocks weighing 40 to 50 pounds each
 (Small objects) up to five range increments. The size of the range
 increment varies with the giant's variety. A Huge giant can hurl rocks
 of 60 to 80 pounds (Medium objects).
 
-**Rock Catching (Ex):** A giant of at least Large size can catch Small,
+### Rock Catching (Ex)
+A giant of at least Large size can catch Small,
 Medium, or Large rocks (or projectiles of similar shape).
 
 Once per round, a giant that would normally be hit by a rock can make a
@@ -10387,13 +10937,16 @@ opponents. A favorite tactic is to circle the enemies, barraging them
 with rocks while the giants with magical abilities confound them with
 spells.
 
-**Rock Throwing (Ex):** The range increment is 140 feet for a cloud
+### Rock Throwing (Ex)
+The range increment is 140 feet for a cloud
 giant's thrown rocks.
 
-**Oversized Weapon (Ex):** A cloud giant wields a great, two-handed
+### Oversized Weapon (Ex)
+A cloud giant wields a great, two-handed
 morningstar (big enough for Gargantuan creatures) without penalty.
 
-**Spell-Like Abilities:** 3/day---*levitate* (self plus 2,000 pounds),
+### Spell-Like Abilities
+3/day---*levitate* (self plus 2,000 pounds),
 *obscuring mist*; 1/day---*fog cloud*. Caster level 15th.
 
 ### Cloud Giant Characters
@@ -10448,7 +11001,8 @@ that they deal extra fire damage. They favor magic flaming swords in
 melee (when they can get them). They are also fond of grabbing smaller
 opponents and tossing them somewhere very hot.
 
-**Rock Throwing (Ex):** The range increment is 120 feet for a fire
+### Rock Throwing (Ex)
+The range increment is 120 feet for a fire
 giant's thrown rocks.
 
 #### Fire Giant Characters
@@ -10504,7 +11058,8 @@ A favorite tactic is to lay an ambush by hiding buried in the snow at
 the top of an icy or snowy slope, where opponents will have difficulty
 reaching them.
 
-**Rock Throwing (Ex):** The range increment is 120 feet for a frost
+### Rock Throwing (Ex)
+The range increment is 120 feet for a frost
 giant's thrown rocks.
 
 ### Frost Giant Jarl
@@ -10517,26 +11072,33 @@ of a typical frost giant, as well as other abilities (see the statistics
 block) from being a blackguard. Details on some of these abilities
 follow.
 
-**Aura of Despair (Su):** This jarl radiates a malign aura that causes
+### Aura of Despair (Su)
+This jarl radiates a malign aura that causes
 enemies within 10 feet of him to take a --2 penalty on all saving
 throws.
 
-**Aura of Evil (Ex):** This jarl radiates a strong aura of evil (see the
+### Aura of Evil (Ex)
+This jarl radiates a strong aura of evil (see the
 *detect evil* spell) as an 8th-level cleric of an evil deity.
 
-**Command Undead (Su):** This jarl can command and rebuke undead as a
+### Command Undead (Su)
+This jarl can command and rebuke undead as a
 6th-level cleric.
 
-**Dark Blessing (Su):** This jarl applies his Charisma modifier as a
+### Dark Blessing (Su)
+This jarl applies his Charisma modifier as a
 bonus on all saving throws.
 
-***Detect Good* (Sp):** At will, this jarl can use *detect good* as a
+### *Detect Good* (Sp)
+At will, this jarl can use *detect good* as a
 spell-like ability, duplicating the effect of the *detect good* spell.
 
-**Poison Use:** Blackguards are skilled in the use of poison and never
+### Poison Use
+Blackguards are skilled in the use of poison and never
 risk accidentally poisoning themselves when applying poison to a blade.
 
-**Smite Good (Su):** Twice per day, this jarl may attempt to smite good
+### Smite Good (Su)
+Twice per day, this jarl may attempt to smite good
 with one normal melee attack. He adds his +4 Charisma modifier to his
 attack roll and deals 8 points of extra damage (1 per blackguard level)
 if the attack hits. If he accidentally smites a creature that is not
@@ -10601,7 +11163,8 @@ Hill giants love to make overrun attacks against smaller creatures when
 they first join battle. Thereafter, they stand fast and swing away with
 their massive clubs.
 
-**Rock Throwing (Ex):** The range increment is 120 feet for a hill
+### Rock Throwing (Ex)
+The range increment is 120 feet for a hill
 giant's thrown rocks.
 
 ### Hill Giants as Characters
@@ -10695,13 +11258,16 @@ tactic of stone giants is to stand nearly motionless, blending in with
 the background, then move forward to throw rocks and surprise their
 foes.
 
-**Rock Throwing (Ex):** The range increment is 180 feet for a stone
+### Rock Throwing (Ex)
+The range increment is 180 feet for a stone
 giant's thrown rocks. It uses both hands when throwing a rock.
 
-**Rock Catching (Ex):** A stone giant gains a +4 racial bonus on its
+### Rock Catching (Ex)
+A stone giant gains a +4 racial bonus on its
 Reflex save when attempting to catch a thrown rock.
 
-**Skills:** \*A stone giant gains a +8 racial bonus on Hide checks in
+### Skills
+\*A stone giant gains a +8 racial bonus on Hide checks in
 rocky terrain.
 
 ### Stone Giant Elders
@@ -10800,20 +11366,24 @@ gathering food.
 Storm giants use weapons and spell-like abilities instead of throwing
 rocks. Their composite longbows have a range increment of 180 feet.
 
-**Spell-Like Abilities:** 1/day---*call lightning* (DC 15), *chain
+### Spell-Like Abilities
+1/day---*call lightning* (DC 15), *chain
 lightning* (DC 18). Caster level 15th. 2/day---*control weather*,
 *levitate.* Caster level 20th. The save DCs are Charisma-based.
 
-**Freedom of Movement (Su):** Storm giants have a continuous freedom of
+### Freedom of Movement (Su)
+Storm giants have a continuous freedom of
 movement ability as the spell (caster level 20th). The effect can be
 dispelled, but the storm giant can create it again on its next turn as a
 free action.
 
-**Water Breathing (Ex):** Storm giants can breathe underwater
+### Water Breathing (Ex)
+Storm giants can breathe underwater
 indefinitely and can freely use their spell-like abilities while
 submerged.
 
-**Skills:** A storm giant has a +8 racial bonus on any Swim check to
+### Skills
+A storm giant has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -10869,7 +11439,8 @@ A gibbering mouther attacks by shooting out strings of protoplasmic
 flesh, each ending in one or more eyes and a mouth that bites at the
 enemy. A mouther can send out a total of six such members in any round.
 
-**Gibbering (Su):** As soon as a mouther spots something edible, it
+### Gibbering (Su)
+As soon as a mouther spots something edible, it
 begins a constant gibbering as a free action. All creatures (other than
 mouthers) within a 60-foot spread must succeed on a DC 13 Will save or
 be affected as though by a *confusion* spell for 1d2 rounds. This is a
@@ -10877,7 +11448,8 @@ sonic mind-affecting compulsion effect. A creature that successfully
 saves cannot be affected by the same gibbering mouther's gibbering for
 24 hours. The save DC is Charisma-based.
 
-**Spittle (Ex):** As a free action every round, a gibbering mouther
+### Spittle (Ex)
+As a free action every round, a gibbering mouther
 fires a stream of spittle at one opponent within 30 feet. The mouther
 makes a ranged touch attack; if it hits, it deals 1d4 points of acid
 damage, and the target must succeed on a DC 18 Fortitude save or be
@@ -10885,11 +11457,13 @@ blinded for 1d4 rounds. Eyeless creatures are immune to the blinding
 effect, but are still subject to the acid damage. The save DC is
 Constitution-based.
 
-**Improved Grab (Ex):** To use this ability, a gibbering mouther must
+### Improved Grab (Ex)
+To use this ability, a gibbering mouther must
 hit with a bite attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity.
 
-**Blood Drain (Ex):** On a successful grapple check after grabbing, that
+### Blood Drain (Ex)
+On a successful grapple check after grabbing, that
 mouth attaches to the opponent. It automatically deals bite damage and
 drains blood, dealing 1 point of Constitution damage each round. A mouth
 can be ripped off (dealing 1 point of damage) with a DC 12 Strength
@@ -10899,7 +11473,8 @@ points).
 A severed mouth continues to bite and drain blood for 1d4 rounds after
 such an attack. A creature whose Constitution is reduced to 0 is killed.
 
-**Engulf (Ex):** A gibbering mouther can try to engulf a Medium or
+### Engulf (Ex)
+A gibbering mouther can try to engulf a Medium or
 smaller opponent grabbed by three or more mouths.
 
 The opponent must succeed on a DC 14 Reflex save or fall and be
@@ -10909,17 +11484,20 @@ cannot attack the mouther from within. The previously attached mouths
 are now free to attack others. The save DC is Strength-based and
 includes a +2 racial bonus.
 
-**Ground Manipulation (Su):** At will, as a standard action, a gibbering
+### Ground Manipulation (Su)
+At will, as a standard action, a gibbering
 mouther can cause stone and earth in all adjacent squares to become a
 morass akin to quicksand. Softening earth, sand, or the like takes 1
 round, while stone takes 2 rounds. Anyone other than the mouther in that
 area must take a move-equivalent action to avoid becoming mired (treat
 as being pinned).
 
-**Amorphous (Ex):** A gibbering mouther is not subject to critical hits.
+### Amorphous (Ex)
+A gibbering mouther is not subject to critical hits.
 It cannot be flanked.
 
-**Skills:** Thanks to their multiple eyes, gibbering mouthers have a +4
+### Skills
+Thanks to their multiple eyes, gibbering mouthers have a +4
 racial bonus on Spot checks.
 
 A gibbering mouther has a +8 racial bonus on any Swim check to perform
@@ -10969,11 +11547,13 @@ trees before the victim's companions can do anything to retaliate.
 Against larger foes, a girallon seeks to tear a single opponent to bits
 as quickly as it can.
 
-**Rend (Ex):** A girallon that hits with two or more claw attacks
+### Rend (Ex)
+A girallon that hits with two or more claw attacks
 latches onto the opponent's body and tears the flesh. This attack
 automatically deals an extra 2d4+12 points of damage.
 
-**Skills:** A girallon has a +8 racial bonus on Climb checks and can
+### Skills
+A girallon has a +8 racial bonus on Climb checks and can
 always choose to take 10 on a Climb check, even if rushed or threatened.
 
 ## Gnoll
@@ -11105,7 +11685,8 @@ kobolds) than kill them.
 Gnomes make heavy use of illusion magic and carefully prepared ambushes
 and traps whenever they can.
 
-**Gnome Traits (Ex):** Gnomes possess the following racial traits.
+### Gnome Traits (Ex)
+Gnomes possess the following racial traits.
 
 --- +2 Constitution, --2 Strength.
 
@@ -11168,7 +11749,8 @@ average svirfneblin lifespan is 250 years.
 
 Svirfneblin speak Gnome, Common, and Undercommon.
 
-**Svirfneblin Traits (Ex):** These traits are in addition to the rock
+### Svirfneblin Traits (Ex)
+These traits are in addition to the rock
 gnome traits, except where noted.
 
 --- --2 Strength, +2 Dexterity, +2 Wisdom, --4 Charisma. These
@@ -11235,7 +11817,8 @@ gray-green skin, and eyes that can be brown or green as well as blue. A
 very long-lived people, forest gnomes have an average life expectancy of
 500 years.
 
-**Forest Gnome Traits (Ex):** These traits are in addition to the rock
+### Forest Gnome Traits (Ex)
+These traits are in addition to the rock
 gnome traits, except where noted.
 
 ---*Pass without Trace* (Su): A forest gnome has the innate ability to
@@ -11306,12 +11889,14 @@ tending to flee the field if a battle turns against them. With proper
 supervision, though, they can implement reasonably complex plans, and in
 such circumstances their numbers can be a deadly advantage.
 
-**Skills:** Goblins have a +4 racial bonus on Move Silently and Ride
+### Skills
+Goblins have a +4 racial bonus on Move Silently and Ride
 checks. Goblin cavalry (mounted on worgs) usually select the Mounted
 Combat feat in place of the Alertness feat, which reduces their Spot and
 Listen check modifiers from +3 to +1.
 
-**Challenge Rating:** Goblins with levels in NPC classes have a CR equal
+### Challenge Rating
+Goblins with levels in NPC classes have a CR equal
 to their character level --2.
 
 ### Goblins as Characters
@@ -11364,7 +11949,8 @@ place the golem under someone else's control, and so on), but the
 golem's creator can always resume control over his creation by
 commanding the golem to obey him alone.
 
-**Immunity to Magic (Ex):** Golems have immunity to most magical and
+### Immunity to Magic (Ex)
+Golems have immunity to most magical and
 supernatural effects, except when otherwise noted.
 
 ### Construction
@@ -11431,20 +12017,23 @@ moves with a slow, clumsy gait. It weighs around 600 pounds.
 
 #### Combat
 
-**Berserk (Ex):** When a clay golem enters combat, there is a cumulative
+### Berserk (Ex)
+When a clay golem enters combat, there is a cumulative
 1% chance each round that its elemental spirit breaks free and the golem
 goes berserk. The uncontrolled golem goes on a rampage, attacking the
 nearest living creature or smashing some object smaller than itself if
 no creature is within reach, then moving on to spread more destruction.
 Once a clay golem goes berserk, no known method can reestablish control.
 
-**Cursed Wound (Ex):** The damage a clay golem deals doesn't heal
+### Cursed Wound (Ex)
+The damage a clay golem deals doesn't heal
 naturally and resists healing spells. A character attempting to cast a
 conjuration (healing) spell on a creature damaged by a clay golem must
 succeed on a DC 26 caster level check, or the spell has no effect on the
 injured character.
 
-**Immunity to Magic (Ex):** A clay golem is immune to any spell or
+### Immunity to Magic (Ex)
+A clay golem is immune to any spell or
 spell-like ability that allows spell resistance. In addition, certain
 spells and effects function differently against the creature, as noted
 below.
@@ -11468,7 +12057,8 @@ damage if the attack would have dealt 22 points of damage. A clay golem
 golem gets no saving throw against magical attacks that deal acid
 damage.
 
-**Haste (Su):** After it has engaged in at least 1 round of combat, a
+### Haste (Su)
+After it has engaged in at least 1 round of combat, a
 clay golem can haste itself once per day as a free action. The effect
 lasts 3 rounds and is otherwise the same as the spell.
 
@@ -11523,7 +12113,8 @@ complete control of its body.
 
 #### Combat
 
-**Berserk (Ex):** When a flesh golem enters combat, there is a
+### Berserk (Ex)
+When a flesh golem enters combat, there is a
 cumulative 1% chance each round that its elemental spirit breaks free
 and the golem goes berserk. The uncontrolled golem goes on a rampage,
 attacking the nearest living creature or smashing some object smaller
@@ -11533,7 +12124,8 @@ regain control by speaking firmly and persuasively to the golem, which
 requires a DC 19 Charisma check. It takes 1 minute of inactivity by the
 golem to reset the golem's berserk chance to 0%.
 
-**Immunity to Magic (Ex):** A flesh golem is immune to any spell or
+### Immunity to Magic (Ex)
+A flesh golem is immune to any spell or
 spell-like ability that allows spell resistance. In addition, certain
 spells and effects function differently against the creature, as noted
 below.
@@ -11605,12 +12197,14 @@ thick, solid foundation.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cube, cloud of poisonous gas lasting 1
+### Breath Weapon (Su)
+10-foot cube, cloud of poisonous gas lasting 1
 round, free action once every 1d4+1 rounds; initial damage 1d4 Con,
 secondary damage 3d4 Con, Fortitude DC 19 negates. The save DC is
 Constitution-based.
 
-**Immunity to Magic (Ex):** An iron golem is immune to any spell or
+### Immunity to Magic (Ex)
+An iron golem is immune to any spell or
 spell-like ability that allows spell resistance. In addition, certain
 spells and effects function differently against the creature, as noted
 below.
@@ -11679,12 +12273,14 @@ worked into the stone of its limbs.
 Stone golems are formidable opponents, being physically powerful and
 difficult to harm.
 
-**Slow (Su):** A stone golem can use a slow effect, as the spell, as a
+### Slow (Su)
+A stone golem can use a slow effect, as the spell, as a
 free action once every 2 rounds. The effect has a range of 10 feet and a
 duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC
 is Constitution-based.
 
-**Immunity to Magic (Ex):** A stone golem is immune to any spell or
+### Immunity to Magic (Ex)
+A stone golem is immune to any spell or
 spell-like ability that allows spell resistance. In addition, certain
 spells and effects function differently against the creature, as noted
 below.
@@ -11754,11 +12350,13 @@ these furious creatures, and they are impossible to domesticate.
 Whenever possible, a gorgon begins an encounter by charging at its
 opponents.
 
-**Breath Weapon (Su):** 60-foot cone, once every 1d4 rounds (but no more
+### Breath Weapon (Su)
+60-foot cone, once every 1d4 rounds (but no more
 than five times per day), turn to stone permanently, Fortitude DC 19
 negates. The save DC is Constitution-based.
 
-**Trample (Ex):** Reflex DC 19 half. The save DC is Strength-based.
+### Trample (Ex)
+Reflex DC 19 half. The save DC is Strength-based.
 
 ## Gray Render
 
@@ -11807,16 +12405,19 @@ A gray render attacks to kill, whether to bring down prey or to protect
 itself or those it has adopted. When hunting, it sometimes attempts to
 hide and wait for prey to wander close.
 
-**Improved Grab (Ex):** To use this ability, a gray render must hit with
+### Improved Grab (Ex)
+To use this ability, a gray render must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
-**Rend (Ex):** A gray render that wins a grapple check after a
+### Rend (Ex)
+A gray render that wins a grapple check after a
 successful bite attack establishes a hold, latching onto the opponent's
 body and tearing the flesh. This attack automatically deals 2d6+9 points
 of damage.
 
-**Skills:** Gray renders have a +4 racial bonus on Spot checks due to
+### Skills
+Gray renders have a +4 racial bonus on Spot checks due to
 their six keen eyes.
 
 ## Grick
@@ -11868,7 +12469,8 @@ Multiple gricks do not fight in concert. Each attacks the prey closest
 to it, and breaks off the fight as soon as it can drag dead or
 unconscious prey away.
 
-**Skills:** A grick has a +8 racial bonus on Climb checks and can always
+### Skills
+A grick has a +8 racial bonus on Climb checks and can always
 choose to take 10 on a Climb check, even if rushed or threatened.
 
 \*Their coloration affords gricks a +8 racial bonus on Hide checks when
@@ -11914,12 +12516,15 @@ A griffon cannot speak, but understands Common.
 Griffons prefer to pounce on their prey, either diving to the attack or
 leaping from above.
 
-**Pounce (Ex):** If a griffon dives upon or charges a foe, it can make a
+### Pounce (Ex)
+If a griffon dives upon or charges a foe, it can make a
 full attack, including two rake attacks.
 
-**Rake (Ex):** Attack bonus +8 melee, damage 1d6+2.
+### Rake (Ex)
+Attack bonus +8 melee, damage 1d6+2.
 
-**Skills:** Griffons have a +4 racial bonus on Jump and Spot checks.
+### Skills
+Griffons have a +4 racial bonus on Jump and Spot checks.
 
 ### Training a Griffon
 
@@ -11971,7 +12576,8 @@ Grimlocks are blind, but their exceptional senses of smell and hearing
 allow them to notice foes nearby. As a result, they usually shun ranged
 weapons and rush to the attack, brandishing their stone battleaxes.
 
-**Blindsight (Ex):** Grimlocks can sense all foes within 40 feet as a
+### Blindsight (Ex)
+Grimlocks can sense all foes within 40 feet as a
 sighted creature would. Beyond that range, they treat all targets as
 having total concealment.
 
@@ -11982,10 +12588,12 @@ cloud* or incense-heavy air). Negating a grimlock's sense of smell or
 hearing reduces this ability to normal Blind-Fight (as the feat). If
 both these senses are negated, a grimlock is effectively blinded.
 
-**Immunities:** Grimlocks are immune to gaze attacks, visual effects,
+### Immunities
+Grimlocks are immune to gaze attacks, visual effects,
 illusions, and other attack forms that rely on sight.
 
-**Skills:** \*A grimlock's dull gray skin helps it hide in its native
+### Skills
+\*A grimlock's dull gray skin helps it hide in its native
 terrain, conferring a +10 racial bonus on Hide checks when in mountains
 or underground.
 
@@ -12089,18 +12697,22 @@ try to divide and confuse their foes before combat. They love to pose as
 commoners or gentlefolk to lull their victims into a sense of false
 security before they attack.
 
-**Improved Grab (Ex):** To use this ability, an annis must hit a Large
+### Improved Grab (Ex)
+To use this ability, an annis must hit a Large
 or smaller opponent with a claw attack. It can then attempt to start a
 grapple as a free action without provoking an attack of opportunity.
 
-**Rake (Ex):** Attack bonus +13 melee, damage 1d6+7. An annis can attack
+### Rake (Ex)
+Attack bonus +13 melee, damage 1d6+7. An annis can attack
 a grappled foe with both claws at no penalty.
 
-**Rend (Ex):** An annis that hits with both claw attacks latches onto
+### Rend (Ex)
+An annis that hits with both claw attacks latches onto
 the opponent's body and tears the flesh. This attack automatically deals
 an extra 2d6+10 points of damage.
 
-**Spell-Like Abilities:** 3/day---*disguise self*, *fog cloud.* Caster
+### Spell-Like Abilities
+3/day---*disguise self*, *fog cloud.* Caster
 level 8th.
 
 ### Green Hag
@@ -12140,18 +12752,22 @@ Green hags prefer to attack from hiding, usually after distracting foes.
 They often use darkvision to their advantage by attacking during
 moonless nights.
 
-**Spell-Like Abilities:** At will---*dancing lights, disguise self,
+### Spell-Like Abilities
+At will---*dancing lights, disguise self,
 ghost sound* (DC 12), *invisibility, pass without trace, tongues, water
 breathing.* Caster level 9th. The save DC is Charisma-based.
 
-**Weakness (Su):** A green hag can weaken a foe by making a special
+### Weakness (Su)
+A green hag can weaken a foe by making a special
 touch attack. The opponent must succeed on a DC 16 Fortitude save or
 take 2d4 points of Strength damage. The save DC is Charisma-based.
 
-**Mimicry (Ex):** A green hag can imitate the sounds of almost any
+### Mimicry (Ex)
+A green hag can imitate the sounds of almost any
 animal found near its lair.
 
-**Skills:** A green hag has a +8 racial bonus on any Swim check to
+### Skills
+A green hag has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -12194,7 +12810,8 @@ Sea hags are not subtle and prefer a direct approach to combat.
 They usually remain in hiding until they can affect as many foes as
 possible with their horrific appearance.
 
-**Horrific Appearance (Su):** The sight of a sea hag is so revolting
+### Horrific Appearance (Su)
+The sight of a sea hag is so revolting
 that anyone (other than another hag) who sets eyes upon one must succeed
 on a DC 13 Fortitude save or instantly be weakened, taking 2d6 points of
 Strength damage. This damage cannot reduce a victim's Strength score
@@ -12203,7 +12820,8 @@ are affected by this power or that successfully save against it cannot
 be affected again by the same hag's horrific appearance for 24 hours.
 The save DC is Charisma-based.
 
-**Evil Eye (Su):** Three times per day, a sea hag can cast its dire gaze
+### Evil Eye (Su)
+Three times per day, a sea hag can cast its dire gaze
 upon any single creature within 30 feet. The target must succeed on a DC
 13 Will save or be dazed for three days, although *remove curse* or
 *dispel evil* can restore sanity sooner. In addition, an affected
@@ -12211,10 +12829,12 @@ creature must succeed on a DC 13 Fortitude save or die from fright.
 Creatures with immunity to fear effects are not affected by the sea
 hag's evil eye. The save DCs are Charisma-based.
 
-**Amphibious (Ex):** Although sea hags are aquatic, they can survive
+### Amphibious (Ex)
+Although sea hags are aquatic, they can survive
 indefinitely on land.
 
-**Skills:** A sea hag has a +8 racial bonus on any Swim check to perform
+### Skills
+A sea hag has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -12234,7 +12854,8 @@ giants who do their bidding. These minions are often disguised with a
 *veil* spell to appear less threatening and sent forth as spies. Such
 minions often (60%) carry magic stones known as *hag eyes* (see below).
 
-**Spell-Like Abilities:** 3/day---*animate dead, bestow curse* (DC 17)*,
+### Spell-Like Abilities
+3/day---*animate dead, bestow curse* (DC 17)*,
 control weather, dream, forcecage, mind blank, mirage arcana* (DC 18)*,
 polymorph, veil* (DC 19)*, vision.* Caster level 9th. The save DCs are
 based on a Charisma score of 16. To use one of these abilities (which
@@ -12271,18 +12892,22 @@ nonevil alignment (referred to hereafter as the base creature).
 A half-celestial uses all the base creature's statistics and special
 abilities except as noted here.
 
-**Size and Type:** The creature's type changes to outsider. Do not
+### Size and Type
+The creature's type changes to outsider. Do not
 recalculate the creature's Hit Dice, base attack bonus, or saves. Size
 is unchanged. Half-celestials are normally native outsiders.
 
-**Speed:** A half-celestial has feathered wings and can fly at twice the
+### Speed
+A half-celestial has feathered wings and can fly at twice the
 base creature's base land speed (good maneuverability). If the base
 creature has a fly speed, use that instead.
 
-**Armor Class:** Natural armor improves by +1 (this stacks with any
+### Armor Class
+Natural armor improves by +1 (this stacks with any
 natural armor bonus the base creature has).
 
-**Special Attacks:** A half-celestial retains all the special attacks of
+### Special Attacks
+A half-celestial retains all the special attacks of
 the base creature and also gains the following special abilities.
 
 *Daylight (Su):* Half-celestials can use a *daylight* effect (as the
@@ -12292,7 +12917,8 @@ spell) at will.
 attack to deal extra damage equal to its HD (maximum of +20) against an
 evil foe.
 
-**Spell-Like Abilities:** A half-celestial with an Intelligence or
+### Spell-Like Abilities
+A half-celestial with an Intelligence or
 Wisdom score of 8 or higher has two or more spell-like abilities,
 depending on its Hit Dice, as indicated on the table below. The
 abilities are cumulative
@@ -12314,7 +12940,8 @@ equals the creature's HD, and the save DC is Charisma-based.
   19--20   Resurrection
   -------- ----------------------------------------
 
-**Special Qualities:** A half-celestial has all the special qualities of
+### Special Qualities
+A half-celestial has all the special qualities of
 the base creature, plus the following special qualities.
 
 ---Darkvision out to 60 feet.
@@ -12333,22 +12960,27 @@ the purpose of overcoming damage reduction.
 
 --- +4 racial bonus on Fortitude saves against poison.
 
-**Abilities:** Increase from the base creature as follows: Str +4, Dex
+### Abilities
+Increase from the base creature as follows: Str +4, Dex
 +2, Con +4, Int +2, Wis +4, Cha +4.
 
-**Skills:** A half-celestial gains skill points as an outsider and has
+### Skills
+A half-celestial gains skill points as an outsider and has
 skill points equal to (8 + Int modifier) x (HD +3). Do not include Hit
 Dice from class levels in this calculation---the half-celestial gains
 outsider skill points only for its racial Hit Dice, and gains the normal
 amount of skill points for its class levels. Treat skills from the base
 creature's list as class skills, and other skills as cross-class.
 
-**Challenge Rating:** HD 5 or less, as base creature +1; HD 6 to 10, as
+### Challenge Rating
+HD 5 or less, as base creature +1; HD 6 to 10, as
 base creature +2; HD 11 or more, as base creature +3.
 
-**Alignment:** Always good (any).
+### Alignment
+Always good (any).
 
-**Level Adjustment:** Same as base creature +4.
+### Level Adjustment
+Same as base creature +4.
 
 ## Half-Dragon
 
@@ -12365,32 +12997,39 @@ corporeal creature (referred to hereafter as the base creature).
 A half-dragon uses all the base creature's statistics and special
 abilities except as noted here.
 
-**Size and Type:** The creature's type changes to dragon. Size is
+### Size and Type
+The creature's type changes to dragon. Size is
 unchanged. Do not recalculate base attack bonus or saves.
 
-**Hit Dice:** Increase base creature's racial HD by one die size, to a
+### Hit Dice
+Increase base creature's racial HD by one die size, to a
 maximum of d12. Do not increase class HD.
 
-**Speed:** A half-dragon that is Large or larger has wings and can fly
+### Speed
+A half-dragon that is Large or larger has wings and can fly
 at twice its base land speed (maximum 120 ft.) with average
 maneuverability. A half-dragon that is Medium or smaller does not have
 wings.
 
-**Armor Class:** Natural armor improves by +4.
+### Armor Class
+Natural armor improves by +4.
 
-**Attack:** A half-dragon has two claw attacks and a bite attack, and
+### Attack
+A half-dragon has two claw attacks and a bite attack, and
 the claws are the primary natural weapon. If the base creature can use
 weapons, the half-dragon retains this ability. A half-dragon fighting
 without weapons uses a claw when making an attack action. When it has a
 weapon, it usually uses the weapon instead.
 
-**Full Attack:** A half-dragon fighting without weapons uses both claws
+### Full Attack
+A half-dragon fighting without weapons uses both claws
 and its bite when making a full attack. If armed with a weapon, it
 usually uses the weapon as its primary attack and its bite as a natural
 secondary attack. If it has a hand free, it uses a claw as an additional
 natural secondary attack.
 
-**Damage:** Half-dragons have bite and claw attacks. If the base
+### Damage
+Half-dragons have bite and claw attacks. If the base
 creature does not have these attack forms, use the damage values in the
 table below. Otherwise, use the values below or the base creature's
 damage values, whichever are greater.
@@ -12408,7 +13047,8 @@ damage values, whichever are greater.
   Colossal     4d6           3d6
   ------------ ------------- -------------
 
-**Special Attacks:** A half-dragon retains all the special attacks of
+### Special Attacks
+A half-dragon retains all the special attacks of
 the base creature and gains a breath weapon based on the dragon variety
 (see the table below), usable once per day. A half-dragon's breath
 weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + 1/2
@@ -12429,7 +13069,8 @@ half.
   Silver           30-foot cone of cold
   ---------------- --------------------------------------
 
-**Special Qualities:** A half-dragon has all the special qualities of
+### Special Qualities
+A half-dragon has all the special qualities of
 the base creature, plus darkvision out to 60 feet and low-light vision.
 A half-dragon has immunity to *sleep* and paralysis effects, and an
 additional immunity based on its dragon variety.
@@ -12443,23 +13084,29 @@ additional immunity based on its dragon variety.
   White            Cold          Silver           Cold
   ---------------- ------------- ---------------- -------------
 
-**Abilities:** Increase from the base creature as follows: Str +8, Con
+### Abilities
+Increase from the base creature as follows: Str +8, Con
 +2, Int +2, Cha +2.
 
-**Skills:** A half-dragon gains skill points as a dragon and has skill
+### Skills
+A half-dragon gains skill points as a dragon and has skill
 points equal to (6 + Int modifier) x (HD + 3). Do not include Hit Dice
 from class levels in this calculation---the half-dragon gains dragon
 skill points only for its racial Hit Dice, and gains the normal amount
 of skill points for its class levels. Treat skills from the base
 creature's list as class skills, and other skills as cross-class.
 
-**Environment:** Same as either the base creature or the dragon variety.
+### Environment
+Same as either the base creature or the dragon variety.
 
-**Challenge Rating:** Same as the base creature + 2 (minimum 3).
+### Challenge Rating
+Same as the base creature + 2 (minimum 3).
 
-**Alignment:** Same as the dragon variety.
+### Alignment
+Same as the dragon variety.
 
-**Level Adjustment:** Same as base creature +3.
+### Level Adjustment
+Same as base creature +3.
 
 ## Half-Fiend
 
@@ -12476,30 +13123,36 @@ alignment (referred to hereafter as the base creature).
 A half-fiend uses all the base creature's statistics and special
 abilities except as noted here.
 
-**Size and Type:** The creature's type changes to outsider. Do not
+### Size and Type
+The creature's type changes to outsider. Do not
 recalculate Hit Dice, base attack bonus, or saves. Size is unchanged.
 Half-fiends are normally native outsiders.
 
-**Speed:** A half-fiend has bat wings. Unless the base creature has a
+### Speed
+A half-fiend has bat wings. Unless the base creature has a
 better fly speed, the creature can fly at the base creature's base land
 speed (average maneuverability).
 
-**Armor Class:** Natural armor improves by +1 (this stacks with any
+### Armor Class
+Natural armor improves by +1 (this stacks with any
 natural armor bonus the base creature has).
 
-**Attack:** A half-fiend has two claw attacks and a bite attack, and the
+### Attack
+A half-fiend has two claw attacks and a bite attack, and the
 claws are the primary natural weapon. If the base creature can use
 weapons, the half-fiend retains this ability. A half-fiend fighting
 without weapons uses a claw when making an attack action. When it has a
 weapon, it usually uses the weapon instead.
 
-**Full Attack:** A half-fiend fighting without weapons uses both claws
+### Full Attack
+A half-fiend fighting without weapons uses both claws
 and its bite when making a full attack. If armed with a weapon, it
 usually uses the weapon as its primary attack and its bite as a natural
 secondary attack. If it has a hand free, it uses a claw as an additional
 natural secondary attack.
 
-**Damage:** Half-fiends have bite and claw attacks. If the base creature
+### Damage
+Half-fiends have bite and claw attacks. If the base creature
 does not have these attack forms, use the damage values in the table
 below. Otherwise, use the values below or the base creature's damage
 values, whichever are greater.
@@ -12517,7 +13170,8 @@ values, whichever are greater.
   Colossal     4d6           3d6
   ------------ ------------- -------------
 
-**Special Attacks:** A half-fiend retains all the special attacks of the
+### Special Attacks
+A half-fiend retains all the special attacks of the
 base creature and gains the following special attack.
 
 *Smite Good (Su):* Once per day the creature can make a normal melee
@@ -12544,7 +13198,8 @@ the creature's HD, and the save DC is Charisma-based.
   19--20   Destruction
   -------- -----------------------------------
 
-**Special Qualities:** A half-fiend has all the special qualities of the
+### Special Qualities
+A half-fiend has all the special qualities of the
 base creature, plus the following special qualities.
 
 ---Darkvision out to 60 feet.
@@ -12561,22 +13216,27 @@ purpose of overcoming damage reduction.
 
 ---Spell resistance equal to creature's HD + 10 (maximum 35).
 
-**Abilities:** Increase from the base creature as follows: Str +4, Dex
+### Abilities
+Increase from the base creature as follows: Str +4, Dex
 +4, Con +2, Int +4, Cha +2.
 
-**Skills:** A half-fiend gains skill points as an outsider and has skill
+### Skills
+A half-fiend gains skill points as an outsider and has skill
 points equal to (8 + Int modifier) x (HD + 3). Do not include Hit Dice
 from class levels in this calculation---the half-fiend gains outsider
 skill points only for its racial Hit Dice, and gains the normal amount
 of skill points for its class levels. Treat skills from the base
 creature's list as class skills, and other skills as cross-class.
 
-**Challenge Rating:** HD 4 or less, as base creature +1; HD 5 to 10, as
+### Challenge Rating
+HD 4 or less, as base creature +1; HD 5 to 10, as
 base creature +2; HD 11 or more, as base creature +3.
 
-**Alignment:** Always evil (any).
+### Alignment
+Always evil (any).
 
-**Level Adjustment:** +4.
+### Level Adjustment
++4.
 
 ## Halfling
 
@@ -12679,7 +13339,8 @@ ranged attacks as the foe approaches. Their tactics are very much like
 those of elves but place more emphasis on cover and concealment and less
 on mobility.
 
-**Halfling Traits (Ex):** Halflings possess the following racial traits.
+### Halfling Traits (Ex)
+Halflings possess the following racial traits.
 
 --- +2 Dexterity, --2 Strength.
 
@@ -12720,7 +13381,8 @@ Tallfellows are somewhat rare among halfling folk. Tallfellows are 4
 feet tall or more and weigh between 30 and 35 pounds. They generally
 speak Elven in addition to Common and Halfling.
 
-**Tallfellow Traits (Ex):** These traits are in addition to the
+### Tallfellow Traits (Ex)
+These traits are in addition to the
 lightfoot halfling traits, except where noted.
 
 --- +2 racial bonus on Search, Spot, and Listen checks. Like an elf, a
@@ -12738,7 +13400,8 @@ These halflings are shorter and stockier than the more common lightfeet.
 Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds.
 Deep halflings speak Dwarven fluently.
 
-**Deep Halfling Traits (Ex):** These traits are in addition to the
+### Deep Halfling Traits (Ex)
+These traits are in addition to the
 lightfoot halfling traits, except where noted.
 
 ---Darkvision out to 60 feet.
@@ -12796,7 +13459,8 @@ killing and consuming them.
 When a harpy engages in battle, it prefers to use Flyby Attack and
 strike with a melee weapon.
 
-**Captivating Song (Su):** The most insidious ability of the harpy is
+### Captivating Song (Su)
+The most insidious ability of the harpy is
 its song. When a harpy sings, all creatures (other than harpies) within
 a 300-foot spread must succeed on a DC 16 Will save or become
 captivated. This is a sonic mind-affecting charm effect. A creature that
@@ -12814,7 +13478,8 @@ for as long as the harpy sings and for 1 round thereafter. A bard's
 countersong ability allows the captivated creature to attempt a new Will
 save.
 
-**Skills:** Harpies have a +4 racial bonus on Bluff and Listen checks.
+### Skills
+Harpies have a +4 racial bonus on Bluff and Listen checks.
 
 ### Harpy Archer
 
@@ -12826,7 +13491,8 @@ caravans to pay protection money.
 
 #### Combat
 
-**Captivating Song (Su):** Will DC 17 negates.
+### Captivating Song (Su)
+Will DC 17 negates.
 
 *Possessions: +3 studded leather, +1 frost composite longbow* (+1 Str
 bonus), 10 cold iron arrows, 10 silvered arrows, 5 *+2 arrows, lesser
@@ -12879,14 +13545,17 @@ treated as evil-aligned
 
 and lawful-aligned for the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):** 10-foot cone, once every 2d4 rounds, damage 2d6
+### Breath Weapon (Su)
+10-foot cone, once every 2d4 rounds, damage 2d6
 fire, Reflex DC 13 half. The save DC is Constitution-based.
 
-**Fiery Bite (Su):** A hell hound deals an extra 1d6 points of fire
+### Fiery Bite (Su)
+A hell hound deals an extra 1d6 points of fire
 damage every time it bites an opponent, as if its bite were a flaming
 weapon.
 
-**Skills:** Hell hounds have a +5 racial bonus on Hide and Move Silently
+### Skills
+Hell hounds have a +5 racial bonus on Hide and Move Silently
 checks.
 
 \*They also receive a +8 racial bonus on Survival checks when tracking
@@ -12899,10 +13568,12 @@ fitted with shirts of infernal chainmail.
 
 Nessian warhounds resemble hell hounds, except as otherwise noted.
 
-**Breath Weapon (Su):** 10-foot cone, once every 2d4 rounds, damage 3d6
+### Breath Weapon (Su)
+10-foot cone, once every 2d4 rounds, damage 3d6
 fire, Reflex DC 21 half. The save DC is Constitution- based.
 
-**Fiery Bite (Su):** A Nessian warhound deals an extra 1d8 points of
+### Fiery Bite (Su)
+A Nessian warhound deals an extra 1d8 points of
 fire d a m a g e every time it bites an opponent, as if its bite were a
 flaming weapon.
 
@@ -12947,7 +13618,8 @@ away or kill intruders. Hippogriffs fight to the death to defend their
 nests and their hatchlings, which are prized as aerial mounts and fetch
 a handsome price in many civilized areas.
 
-**Skills:** Hippogriffs have a +4 racial bonus on Spot checks.
+### Skills
+Hippogriffs have a +4 racial bonus on Spot checks.
 
 ### Training a Hippogriff
 
@@ -12962,7 +13634,8 @@ Hippogriff eggs are worth 2,000 gp apiece on the open market, while
 young are worth 3,000 gp each. Professional trainers charge 1,000 gp to
 rear or train a hippogriff.
 
-**Carrying Capacity:** A light load for a hippogriff is up to 300
+### Carrying Capacity
+A light load for a hippogriff is up to 300
 pounds; a medium load, 301--600 pounds; and a heavy load, 601--900
 pounds.
 
@@ -13012,7 +13685,8 @@ of a skilled strategist or tactician, their discipline can prove a
 deciding factor. Hobgoblins hate elves and attack them first, in
 preference to other opponents.
 
-**Skills:** Hobgoblins have a +4 racial bonus on Move Silently checks.
+### Skills
+Hobgoblins have a +4 racial bonus on Move Silently checks.
 
 The hobgoblin warrior presented here had the following ability scores
 before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
@@ -13085,7 +13759,8 @@ body swiftly melts away into a pool of ichor.
 
 Homunculi land on their victims and bite with their venomous fangs.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial damage sleep for 1
+### Poison (Ex)
+Injury, Fortitude DC 13, initial damage sleep for 1
 minute, secondary damage sleep for another 5d6 minutes. The save DC is
 Constitution-based and includes a +2 racial bonus.
 
@@ -13150,7 +13825,8 @@ natural weapons, as well as any weapons it wields, are treated as
 chaotic-aligned and evil-aligned for the purpose of overcoming damage
 reduction.
 
-**Quills (Ex):** A howler's neck bristles with long quills. While
+### Quills (Ex)
+A howler's neck bristles with long quills. While
 biting, the creature thrashes about, striking with 1d4 of them. An
 opponent hit by a howler's quill attack must succeed on a DC 16 Reflex
 save or have the quill break off in his or her flesh. Lodged quills
@@ -13160,7 +13836,8 @@ DC is Dexterity-based.
 A quill can be removed safely with a DC 20 Heal check; otherwise,
 removing a quill deals an extra 1d6 points of damage.
 
-**Howl (Ex):** All beings other than outsiders that hear the creature's
+### Howl (Ex)
+All beings other than outsiders that hear the creature's
 howling for an hour or longer are subject to its effect, though it does
 not help the howler in combat. Anyone within hearing range of a howler
 for a full hour must succeed on a DC 12 Will save or take 1 point of
@@ -13177,7 +13854,8 @@ check). Training a friendly howler requires six weeks of work and a DC
 howler can fight while carrying a rider, but the rider cannot also
 attack unless he or she succeeds on a Ride check.
 
-**Carrying Capacity:** A light load for a howler is up to 460 pounds; a
+### Carrying Capacity
+A light load for a howler is up to 460 pounds; a
 medium load, 461--920 pounds; and a heavy load, 921--1,380 pounds. A
 howler can drag 6,900 pounds.
 
@@ -13537,10 +14215,12 @@ Targeted magical effects cannot sever a hydra's heads (and thus must be
 directed at the body) unless they deal slashing damage and could be used
 to make sunder attempts.
 
-**Fast Healing (Ex):** Each round, a hydra heals damage equal to 10 +
+### Fast Healing (Ex)
+Each round, a hydra heals damage equal to 10 +
 the number of its original heads.
 
-**Skills:** Hydras have a +2 racial bonus on Listen and Spot checks,
+### Skills
+Hydras have a +2 racial bonus on Listen and Spot checks,
 thanks to their multiple heads.
 
 A hydra has a +8 racial bonus on any Swim check to perform some special
@@ -13548,7 +14228,8 @@ action or avoid a hazard. It can always choose to take 10 on a Swim
 check, even if distracted or endangered. It can use the run action while
 swimming, provided it swims in a straight line.
 
-**Feats:** A hydra's Combat Reflexes feat allows it to use all its heads
+### Feats
+A hydra's Combat Reflexes feat allows it to use all its heads
 for attacks of opportunity.
 
 ### Pyrohydra
@@ -13629,7 +14310,8 @@ An inevitable's natural weapons, as well as any weapons it wields, are
 treated as lawful-aligned for the purpose of overcoming damage
 reduction.
 
-**Fast Healing (Ex):** An inevitable heals a certain amount of damage
+### Fast Healing (Ex)
+An inevitable heals a certain amount of damage
 each round (specified in each variety's description) as long as it has
 at least 1 hit point. However, damage dealt by chaotic weapons heals at
 the normal rate.
@@ -13695,21 +14377,25 @@ A kolyarut's natural weapons, as well as any weapons it wields, are
 treated as lawful-aligned for the purpose of overcoming damage
 reduction.
 
-**Enervation Ray (Su):** A kolyarut can fire a black enervation ray at
+### Enervation Ray (Su)
+A kolyarut can fire a black enervation ray at
 targets within 200 feet. The effect is identical with the *enervation*
 spell (caster level 13th).
 
-**Spell-Like Abilities:** At will---*discern lies* (DC 17)*, disguise
+### Spell-Like Abilities
+At will---*discern lies* (DC 17)*, disguise
 self, fear* (DC 17)*, hold person* (DC 16)*, invisibility, locate
 creature, suggestion* (DC 16); 1/day---*hold monster* (DC 17)*, mark of
 justice;* 1/week--- *geas/quest.* Caster level 13th. The save DCs are
 Charisma-based.
 
-**Vampiric Touch (Su):** As a melee touch attack, a kolyarut can steal
+### Vampiric Touch (Su)
+As a melee touch attack, a kolyarut can steal
 life force from its foe, as the *vampiric touch* spell (caster level
 13th).
 
-**Skills:** A kolyarut has a +4 racial bonus on Disguise, Gather
+### Skills
+A kolyarut has a +4 racial bonus on Disguise, Gather
 Information, and Sense Motive checks.
 
 ### Marut
@@ -13765,7 +14451,8 @@ creature* to track down foes who flee.
 A marut's natural weapons, as well as any weapons it wields, are treated
 as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Fists of Thunder and Lightning (Su):** A marut's left fist delivers a
+### Fists of Thunder and Lightning (Su)
+A marut's left fist delivers a
 loud thunderclap whenever it hits something, dealing an extra 3d6 points
 of sonic damage and causing the target to be deafened for 2d6 rounds
 (Fortitude DC 31 negates the deafness). Its right fist delivers a shock
@@ -13774,14 +14461,16 @@ lightning causes the target to be blinded for 2d6 rounds (Fortitude DC
 31 negates the blindness). The save DCs are Strength-based and include
 the marut's Ability Focus feat.
 
-**Spell-Like Abilities:** At will---*air walk, dimension door, fear* (DC
+### Spell-Like Abilities
+At will---*air walk, dimension door, fear* (DC
 18)*, greater command* (DC 19)*, greater dispel magic, mass inflict
 light wounds* (DC 19), *locate creature, true seeing;* 1/day---*chain
 lightning* (DC 20)*, circle of death* (DC 20)*, mark of justice, wall of
 force;* 1/week--- *earthquake* (DC 22)*, geas/quest, plane shift* (DC
 21). Caster level 14th. The save DCs are Charisma-based.
 
-**Skills:** A marut has a +4 racial bonus on Concentration, Listen, and
+### Skills
+A marut has a +4 racial bonus on Concentration, Listen, and
 Spot checks.
 
 ### Zelekhut
@@ -13834,16 +14523,19 @@ A zelekhut's natural weapons, as well as any weapons it wields, are
 treated as lawful-aligned for the purpose of overcoming damage
 reduction.
 
-**Spell-Like Abilities:** At will---*clairaudience/clairvoyance,
+### Spell-Like Abilities
+At will---*clairaudience/clairvoyance,
 dimensional anchor, dispel magic, fear* (DC 16)*, hold person* (DC 15)*,
 locate creature, true seeing;* 3/day---*hold monster* (DC 17)*, mark of
 justice*; 1/week--- *lesser geas* (DC 16). Caster level 8th. The save
 DCs are Charisma-based.
 
-**Skills:** A zelekhut has a +4 racial bonus on Search and Sense Motive
+### Skills
+A zelekhut has a +4 racial bonus on Search and Sense Motive
 checks.
 
-**Feats:** Due to its centaur-like construction, a zelekhut qualifies
+### Feats
+Due to its centaur-like construction, a zelekhut qualifies
 for feats as if it had the Mounted Combat feat.
 
 ## Invisible Stalker
@@ -13899,11 +14591,13 @@ An invisible stalker can be killed only when it is on the Elemental
 Plane of Air. When performing a task elsewhere, it automatically returns
 to its home plane when it takes damage sufficient to destroy it.
 
-**Natural Invisibility (Su):** This ability is constant, allowing a
+### Natural Invisibility (Su)
+This ability is constant, allowing a
 stalker to remain invisible even when attacking. This ability is
 inherent and not subject to the *invisibility purge* spell.
 
-**Improved Tracking (Ex):** An invisible stalker is a consummate tracker
+### Improved Tracking (Ex)
+An invisible stalker is a consummate tracker
 and makes Spot checks instead of the usual Survival checks to trace a
 creature's passage.
 ---
@@ -13963,16 +14657,19 @@ They begin a fight by slinging bullets, closing only when they can see
 that their foes have been weakened. Whenever they can, kobolds set up
 ambushes near trapped areas.
 
-**Light Sensitivity (Ex):** Kobolds are dazzled in bright sunlight or
+### Light Sensitivity (Ex)
+Kobolds are dazzled in bright sunlight or
 within the radius of a *daylight* spell.
 
-**Skills:** Kobolds have a +2 racial bonus on Craft (trapmaking),
+### Skills
+Kobolds have a +2 racial bonus on Craft (trapmaking),
 Profession (miner), and Search checks.
 
 The kobold warrior presented here had the following ability scores
 before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
-**Challenge Rating:** Kobolds with levels in NPC classes have a CR equal
+### Challenge Rating
+Kobolds with levels in NPC classes have a CR equal
 to their character level --3.
 
 ### Kobold Characters
@@ -14053,29 +14750,35 @@ normal hit points. A kraken usually withdraws from combat if it loses
 both tentacles or three of its arms. A kraken regrows severed limbs in
 1d10+10 days.
 
-**Improved Grab (Ex):** To use this ability, the kraken must hit with an
+### Improved Grab (Ex)
+To use this ability, the kraken must hit with an
 arm or tentacle attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict.
 
-**Constrict (Ex):** A kraken deals automatic arm or tentacle damage with
+### Constrict (Ex)
+A kraken deals automatic arm or tentacle damage with
 a successful grapple check.
 
-**Jet (Ex):** A kraken can jet backward once per round as a full-round
+### Jet (Ex)
+A kraken can jet backward once per round as a full-round
 action, at a speed of 280 feet. It must move in a straight line, but
 does not provoke attacks of opportunity while jetting.
 
-**Ink Cloud (Ex):** A kraken can emit a cloud of jet-black ink in an
+### Ink Cloud (Ex)
+A kraken can emit a cloud of jet-black ink in an
 80-foot spread once per minute as a free action. The cloud provides
 total concealment, which the kraken normally uses to escape a fight that
 is going badly. Creatures within the cloud are considered to be in
 darkness.
 
-**Spell-Like Abilities:** 1/day---*control weather, control winds,
+### Spell-Like Abilities
+1/day---*control weather, control winds,
 dominate animal* (DC 18), *resist energy.* Caster level 9th. The save DC
 is Charisma-based.
 
-**Skills:** A kraken has a +8 racial bonus on any Swim check to perform
+### Skills
+A kraken has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -14117,7 +14820,8 @@ Krenshars use solitary scouts to drive prey into the waiting clutches of
 the pride. The scout appears from hiding, uses its scare ability, then
 chases the fleeing target to join the attack.
 
-**Scare (Ex or Su):** As a standard action, a krenshar can pull the skin
+### Scare (Ex or Su)
+As a standard action, a krenshar can pull the skin
 back from its head, revealing the musculature and bony structures of its
 skull. This alone is usually sufficient to scare away foes (treat as a
 Bluff check with a +3 bonus).
@@ -14129,7 +14833,8 @@ by the same krenshar's scare ability for 24 hours. The shriek does not
 affect other krenshars. This is a supernatural, sonic mind-affecting
 fear effect. The save DC is Charisma-based.
 
-**Skills:** Krenshars have a +4 racial bonus on Jump and Move Silently
+### Skills
+Krenshars have a +4 racial bonus on Jump and Move Silently
 checks.
 
 ## Lamia
@@ -14172,18 +14877,21 @@ beguile and ensnare the unfortunate soul. A lamia forced into physical
 combat attacks with a dagger in one of its human hands and a pair of
 lion-like claws.
 
-**Spell-Like Abilities:** At will---*disguise self, ventriloquism*;
+### Spell-Like Abilities
+At will---*disguise self, ventriloquism*;
 3/day---*charm monster* (DC 15), *major image* (DC 14), *mirror image,
 suggestion* (DC 14); 1/day---*deep slumber* (DC 14). Caster level 9th.
 The save DCs are Charisma-based.
 
-**Wisdom Drain (Su):** A lamia drains 1d4 points of Wisdom each time it
+### Wisdom Drain (Su)
+A lamia drains 1d4 points of Wisdom each time it
 hits with its melee touch attack. (Unlike with other kinds of ability
 drain attacks, a lamia does not heal any damage when it uses its Wisdom
 drain.) Lamias try to use this power early in an encounter to make foes
 more susceptible to *charm monster* and *suggestion.*
 
-**Skills:** Lamias have a +4 racial bonus on Bluff and Hide checks.
+### Skills
+Lamias have a +4 racial bonus on Bluff and Hide checks.
 
 ## Lammasu
 
@@ -14221,7 +14929,8 @@ Lammasus speak Common, Draconic, and Celestial.
 A lammasu attacks with spells or its razor-sharp claws. It almost always
 enters combat if it observes a good creature being threatened by evil.
 
-**Spells:** A lammasu casts spells as a 7th-level cleric, and can choose
+### Spells
+A lammasu casts spells as a 7th-level cleric, and can choose
 spells from the cleric spell list, plus any two of the following
 domains: Good, Healing, Knowledge, or Law.
 
@@ -14235,18 +14944,23 @@ smite\*, neutralize poison.*
 
 \*Domain spell. Domains: Good and Healing.
 
-**Magic Circle against Evil (Su):** A lammasu radiates a continuous
+### Magic Circle against Evil (Su)
+A lammasu radiates a continuous
 magic circle against evil that affects a 20-foot radius.
 
-**Spell-Like Abilities:** 2/day---*greater invisibility* (self only);
+### Spell-Like Abilities
+2/day---*greater invisibility* (self only);
 1/day---*dimension door*. Caster level 7th.
 
-**Pounce (Ex):** If a lammasu charges a foe, it can make a full attack,
+### Pounce (Ex)
+If a lammasu charges a foe, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** Attack bonus +12 melee, damage 1d6+3.
+### Rake (Ex)
+Attack bonus +12 melee, damage 1d6+3.
 
-**Skills:** Lammasus have a +2 racial bonus on Spot checks.
+### Skills
+Lammasus have a +2 racial bonus on Spot checks.
 
 ### Golden Protector (Celestial Half-Dragon Lammasu)
 
@@ -14258,10 +14972,12 @@ migrated to the Material Plane to more actively combat evil.
 The golden protector's natural weapons are treated as magic weapons for
 the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):** 30-foot cone, 1/day, damage 6d8 fire, Reflex DC
+### Breath Weapon (Su)
+30-foot cone, 1/day, damage 6d8 fire, Reflex DC
 21 half.
 
-**Smite Evil (Su):** Once per day a golden protector can make a normal
+### Smite Evil (Su)
+Once per day a golden protector can make a normal
 melee attack to deal an extra 10 points of damage against an evil
 opponent.
 
@@ -14275,7 +14991,8 @@ holy smite\*, neutralize poison.*
 
 \*Domain spell. Domains: Good and Healing.
 
-**Rake (Ex):** Attack bonus +19 melee, damage 1d6+4.
+### Rake (Ex)
+Attack bonus +19 melee, damage 1d6+4.
 
 *Possessions: Bracers of armor +2, ring of protection* +1. (Different
 golden protectors may have different possessions.)
@@ -14317,32 +15034,39 @@ pride, watching one another's flanks and setting up devastating attacks.
 A leonal's natural weapons, as well as any weapons it wields, are
 treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Roar (Su):** A leonal can roar up to three times per day. Each roar
+### Roar (Su)
+A leonal can roar up to three times per day. Each roar
 releases a blast in a 60-foot cone that duplicates the effects of a
 *holy word* spell and deals an extra 2d6 points of sonic damage
 (Fortitude DC 20 negates). The save DC is Charisma-based.
 
-**Pounce (Ex):** If a leonal charges a foe, it can make a full attack,
+### Pounce (Ex)
+If a leonal charges a foe, it can make a full attack,
 including two rake attacks.
 
-**Improved Grab (Ex):** To use this ability, a leonal must hit with its
+### Improved Grab (Ex)
+To use this ability, a leonal must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can rake.
 
-**Rake (Ex):** Attack bonus +20 melee, damage 1d6+8.
+### Rake (Ex)
+Attack bonus +20 melee, damage 1d6+8.
 
-**Spell-Like Abilities:** At will---*detect thoughts, fireball* (DC 15),
+### Spell-Like Abilities
+At will---*detect thoughts, fireball* (DC 15),
 *hold monster* (DC 17)*, polymorph, wall of force;* 3/day---*cure
 critical wounds* (DC 16)*, neutralize poison, remove disease;*
 1/day---*heal* (DC 18). Caster level 10th. The save DCs are
 Charisma-based.
 
-**Lay on Hands (Su):** As the paladin class feature, except that each
+### Lay on Hands (Su)
+As the paladin class feature, except that each
 day, a leonal can heal an amount of damage equal to its full normal hit
 points.
 
-**Protective Aura (Su):** Against attacks made or effects created by
+### Protective Aura (Su)
+Against attacks made or effects created by
 evil creatures, this ability provides a +4 deflection bonus to AC and a
 +4 resistance bonus on saving throws to anyone within 20 feet of the
 leonal. Otherwise, it functions as a *magic circle against evil* effect
@@ -14350,11 +15074,13 @@ and a *lesser globe of invulnerability,* both with a radius of 20 feet
 (caster level equals leonal's HD). (The defensive benefits from the
 circle are not included in a leonal's statistics block.)
 
-**Speak with Animals (Su):** This ability works like *speak with
+### Speak with Animals (Su)
+This ability works like *speak with
 animals* (caster level 8th) but is a free action and does not require
 sound.
 
-**Skills:** Leonals have a +4 racial bonus on Balance, Hide, and Move
+### Skills
+Leonals have a +4 racial bonus on Balance, Hide, and Move
 Silently checks.
 
 ## Lich
@@ -14379,37 +15105,44 @@ create the required phylactery; see The Lich's Phylactery, below.
 A lich has all the base creature's statistics and special abilities
 except as noted here.
 
-**Size and Type:** The creature's type changes to undead. Do not
+### Size and Type
+The creature's type changes to undead. Do not
 recalculate base attack bonus, saves, or skill points. Size is
 unchanged.
 
-**Hit Dice:** Increase all current and future Hit Dice to d12s.
+### Hit Dice
+Increase all current and future Hit Dice to d12s.
 
-**Armor Class:** A lich has a +5 natural armor bonus or the base
+### Armor Class
+A lich has a +5 natural armor bonus or the base
 creature's natural armor bonus, whichever is better.
 
-**Attack:** A lich has a touch attack that it can use once per round. If
+### Attack
+A lich has a touch attack that it can use once per round. If
 the base creature can use weapons, the lich retains this ability. A
 creature with natural weapons retains those natural weapons. A lich
 fighting without weapons uses either its touch attack or its primary
 natural weapon (if it has any). A lich armed with a weapon uses its
 touch or a weapon, as it desires.
 
-**Full Attack:** A lich fighting without weapons uses either its touch
+### Full Attack
+A lich fighting without weapons uses either its touch
 attack (see above) or its natural weapons (if it has any). If armed with
 a weapon, it usually uses the weapon as its primary attack along with a
 touch as a natural secondary attack, provided it has a way to make that
 attack (either a free hand or a natural weapon that it can use as a
 secondary attack).
 
-**Damage:** A lich without natural weapons has a touch attack that uses
+### Damage
+A lich without natural weapons has a touch attack that uses
 negative energy to deal 1d8+5 points of damage to living creatures; a
 Will save (DC 10 + 1/2 lich's HD + lich's Cha modifier) halves the
 damage. A lich with natural weapons can use its touch attack or its
 natural weaponry, as it prefers. If it chooses the latter, it deals
 1d8+5 points of extra damage on one natural weapon attack.
 
-**Special Attacks:** A lich retains all the base creature's special
+### Special Attacks
+A lich retains all the base creature's special
 attacks and gains those described below. Save DCs are equal to 10 + 1/2
 lich's HD + lich's Cha modifier unless otherwise noted.
 
@@ -14430,39 +15163,51 @@ is still alive..
 
 *Spells:* A lich can cast any spells it could cast while alive.
 
-**Special Qualities:** A lich retains all the base creature's special
+### Special Qualities
+A lich retains all the base creature's special
 qualities and gains those described below.
 
-**Turn Resistance (Ex):** A lich has +4 turn resistance.
+### Turn Resistance (Ex)
+A lich has +4 turn resistance.
 
-**Damage Reduction (Su):** A lich's undead body is tough, giving the
+### Damage Reduction (Su)
+A lich's undead body is tough, giving the
 creature damage reduction 15/bludgeoning and magic. Its natural weapons
 are treated as magic weapons for the purpose of overcoming damage
 reduction.
 
-**Immunities (Ex):** Liches have immunity to cold, electricity,
+### Immunities (Ex)
+Liches have immunity to cold, electricity,
 polymorph (though they can use polymorph effects on themselves), and
 mind-affecting attacks.
 
-**Abilities:** Increase from the base creature as follows: Int +2, Wis
+### Abilities
+Increase from the base creature as follows: Int +2, Wis
 +2, Cha +2. Being undead, a lich has no Constitution score.
 
-**Skills:** Liches have a +8 racial bonus on Hide, Listen, Move
+### Skills
+Liches have a +8 racial bonus on Hide, Listen, Move
 Silently, Search, Sense Motive, and Spot checks. Otherwise same as the
 base creature.
 
-**Organization:** Solitary or troupe (1 lich, plus 2--4 vampires and
+### Organization
+Solitary or troupe (1 lich, plus 2--4 vampires and
 5--8 vampire spawn).
 
-**Challenge Rating:** Same as the base creature + 2.
+### Challenge Rating
+Same as the base creature + 2.
 
-**Treasure:** Standard coins; double goods; double items.
+### Treasure
+Standard coins; double goods; double items.
 
-**Alignment:** Any evil.
+### Alignment
+Any evil.
 
-**Advancement:** By character class.
+### Advancement
+By character class.
 
-**Level Adjustment:** Same as the base creature +4.
+### Level Adjustment
+Same as the base creature +4.
 
 ### Lich Characters
 
@@ -14536,31 +15281,36 @@ A lillend's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and good-aligned for the purpose of
 overcoming damage reduction.
 
-**Constrict (Ex):** A lillend deals 2d6+5 points of damage with a
+### Constrict (Ex)
+A lillend deals 2d6+5 points of damage with a
 successful grapple check. Constricting uses the entire lower portion of
 its body, so it cannot take any move actions when constricting, though
 it can still attack with its sword.
 
-**Improved Grab (Ex):** To use this ability, a lillend must hit with its
+### Improved Grab (Ex)
+To use this ability, a lillend must hit with its
 tail slap attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict.
 
-**Spells:** A lillend casts arcane spells as a 6th-level bard.
+### Spells
+A lillend casts arcane spells as a 6th-level bard.
 
 *Typical Bard Spells Known* (3/4/3; save DC 14 + spell level): 0---
 *dancing lights, daze, detect magic, lullaby, mage hand, read magic;*
 1st--- *charm person, cure light wounds, identify, sleep;* 2nd---*hold
 person, invisibility, sound burst.*
 
-**Spell-Like Abilities:** 3/day---*darkness, hallucinatory terrain* (DC
+### Spell-Like Abilities
+3/day---*darkness, hallucinatory terrain* (DC
 18), *knock, light;* 1/day---*charm person* (DC 15), *speak with
 animals, speak with plants*. Caster level 10th. The save DCs are
 Charisma-based.
 
 A lillend also has the bardic music ability as a 6th-level bard.
 
-**Skills:** Lillends have a +4 racial bonus on Survival checks.
+### Skills
+Lillends have a +4 racial bonus on Survival checks.
 
 ## Lizardfolk
 
@@ -14604,10 +15354,12 @@ their territory is being invaded, they set snares, plan ambushes, and
 make raids to hinder enemy supplies. Advanced tribes use more
 sophisticated tactics and have better traps and ambushes.
 
-**Hold Breath:** A lizardfolk can hold its breath for a number of rounds
+### Hold Breath
+A lizardfolk can hold its breath for a number of rounds
 equal to four times its Constitution score before it risks drowning.
 
-**Skills:** Because of their tails, lizardfolk have a +4 racial bonus on
+### Skills
+Because of their tails, lizardfolk have a +4 racial bonus on
 Jump, Swim, and Balance checks. The skill modifiers given in the
 statistics block include a --2 armor check penalty (--4 on Swim checks)
 for carrying a heavy shield.
@@ -14697,7 +15449,8 @@ Locathahs lack teeth, claws, and other natural weapons, so they are not
 especially dangerous if unarmed. A weaponless locathah will generally
 turn and flee.
 
-**Skills:** A locathah has a +8 racial bonus on any Swim check to
+### Skills
+A locathah has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered.
 
@@ -14784,21 +15537,26 @@ hybrid form, they favor large, heavy weapons such as greataxes or
 greatswords. The werebear's greataxe is a Medium weapon, so it can wield
 the axe in one hand in hybrid form.
 
-**Alternate Form (Su):** A werebear can assume the form of a brown bear
+### Alternate Form (Su)
+A werebear can assume the form of a brown bear
 or a bear-humanoid hybrid.
 
-**Bear Empathy (Ex):** Communicate with bears and dire bears, and +4
+### Bear Empathy (Ex)
+Communicate with bears and dire bears, and +4
 racial bonus on Charisma-based checks against bears and dire bears.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by a werebear's
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by a werebear's
 bite attack in animal or hybrid form must succeed on a DC 15 Fortitude
 save or contract lycanthropy.
 
-**Improved Grab (Ex):** To use this ability, a werebear must be in bear
+### Improved Grab (Ex)
+To use this ability, a werebear must be in bear
 form and must hit with a claw attack. It can then attempt to start a
 grapple as a free action without provoking an attack of opportunity.
 
-**Skills:** Werebears have a +4 racial bonus on Swim checks in any bear
+### Skills
+Werebears have a +4 racial bonus on Swim checks in any bear
 form.
 
 The werebear presented here is a 1st-level human warrior and natural
@@ -14842,17 +15600,21 @@ repair, or replace.
 In any form, wereboars are as ferocious as normal boars. When in hybrid
 form, they fight with a weapon and their dangerous gore attack.
 
-**Alternate Form (Su):** A wereboar can assume the form of a boar or a
+### Alternate Form (Su)
+A wereboar can assume the form of a boar or a
 boar-humanoid hybrid.
 
-**Boar Empathy (Ex):** Communicate with boars and dire boars, and +4
+### Boar Empathy (Ex)
+Communicate with boars and dire boars, and +4
 racial bonus on Charisma-based checks against boars and dire boars.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by the
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by the
 wereboar's gore attack in animal or hybrid form must succeed on a DC 15
 Fortitude save or contract lycanthropy.
 
-**Ferocity (Ex):** A wereboar is such a tenacious combatant that it
+### Ferocity (Ex)
+A wereboar is such a tenacious combatant that it
 continues to fight without penalty even while disabled or dying.
 
 The wereboar presented here is a 1st-level human warrior and natural
@@ -14898,27 +15660,33 @@ In animal form, wererats avoid combat, preferring to use their dire rat
 shape for skulking and spying. In hybrid form, a wererat fights with a
 rapier and light crossbow.
 
-**Alternate Form (Su):** A wererat can assume a bipedal hybrid form or
+### Alternate Form (Su)
+A wererat can assume a bipedal hybrid form or
 the form of a dire rat.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by a wererat's
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by a wererat's
 bite attack in animal or hybrid form must succeed on a DC 15 Fortitude
 save or contract lycanthropy.
 
-**Disease (Ex):** Filth fever; bite, Fortitude DC 12, incubation period
+### Disease (Ex)
+Filth fever; bite, Fortitude DC 12, incubation period
 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
 
-**Rat Empathy (Ex):** Communicate with rats and dire rats, and +4 racial
+### Rat Empathy (Ex)
+Communicate with rats and dire rats, and +4 racial
 bonus on Charisma-based checks against rats and dire rats.
 
-**Skills:** A wererat in rat or hybrid form uses its Dexterity modifier
+### Skills
+A wererat in rat or hybrid form uses its Dexterity modifier
 for Climb or Swim checks. It has a +8 racial bonus on Climb checks and
 can always choose to take 10 on a Climb check, even if rushed or
 threatened.
 
 Wererats have a +8 racial bonus on Swim checks from their dire rat form.
 
-**Feats:** Wererats gain Weapon Finesse as a bonus feat.
+### Feats
+Wererats gain Weapon Finesse as a bonus feat.
 
 The wererat presented here is based on a 1st-level human warrior who is
 a natural lycanthrope, using the following base ability scores: Str 13,
@@ -14962,27 +15730,34 @@ Weretigers can assume a hybrid form as well as an animal form. In tiger
 form, they can pounce and grab just as normal tigers do. In hybrid form,
 they rely on their deadly claws.
 
-**Alternate Form (Su):** A weretiger can assume a bipedal hybrid form or
+### Alternate Form (Su)
+A weretiger can assume a bipedal hybrid form or
 the form of a tiger.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by a
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by a
 weretiger's bite attack in animal or hybrid form must succeed on a DC 15
 Fortitude save or contract lycanthropy.
 
-**Improved Grab (Ex):** To use this ability, a weretiger in tiger form
+### Improved Grab (Ex)
+To use this ability, a weretiger in tiger form
 must hit with a claw or bite attack. It can then attempt to start a
 grapple as a free action without provoking an attack of opportunity. If
 it wins the grapple check, it establishes a hold and can rake.
 
-**Pounce (Ex):** If a weretiger in tiger form charges an opponent, it
+### Pounce (Ex)
+If a weretiger in tiger form charges an opponent, it
 can make a full attack, including two rake attacks.
 
-**Rake (Ex):** Attack bonus +9 melee, damage 1d8+3.
+### Rake (Ex)
+Attack bonus +9 melee, damage 1d8+3.
 
-**Tiger Empathy (Ex):** Communicate with tigers and dire tigers, and +4
+### Tiger Empathy (Ex)
+Communicate with tigers and dire tigers, and +4
 racial bonus on Charisma-based checks against tigers and dire tigers.
 
-**Skills:** In any form, weretigers have a +4 bonus on Balance, Hide,
+### Skills
+In any form, weretigers have a +4 bonus on Balance, Hide,
 and Move Silently checks. \*In areas of tall grass or heavy undergrowth,
 the Hide bonus improves to +8 in the tiger form.
 
@@ -15026,23 +15801,28 @@ In wolf form, a werewolf can trip just as a normal wolf does. A werewolf
 in hybrid form usually dispenses with weapon attacks, though it can
 wield a weapon and use its bite as a secondary natural attack.
 
-**Alternate Form (Su):** A werewolf can assume a bipedal hybrid form or
+### Alternate Form (Su)
+A werewolf can assume a bipedal hybrid form or
 the form of a wolf.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by a werewolf's
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by a werewolf's
 bite attack in animal or hybrid form must succeed on a DC 15 Fortitude
 save or contract lycanthropy.
 
-**Trip (Ex):** A werewolf in animal form that hits with a bite attack
+### Trip (Ex)
+A werewolf in animal form that hits with a bite attack
 can attempt to trip the opponent (+2 check modifier) as a free action
 without making a touch attack or provoking an attack of opportunity.
 
 If the attempt fails, the opponent cannot react to trip the werewolf.
 
-**Wolf Empathy (Ex):** Communicate with wolves and dire wolves, and +4
+### Wolf Empathy (Ex)
+Communicate with wolves and dire wolves, and +4
 racial bonus on Charisma-based checks against wolves and dire wolves.
 
-**Skills:** \*A werewolf in hybrid or wolf form gains a +4 racial bonus
+### Skills
+\*A werewolf in hybrid or wolf form gains a +4 racial bonus
 on Survival checks when tracking by scent.
 
 The werewolf presented here is based on a 1st-level human warrior and
@@ -15091,23 +15871,28 @@ Werewolf lords can assume a hybrid form as well as an animal form. In
 dire wolf form, they can trip just as normal wolves do. In hybrid form,
 they can wield weapons or fight with their claws.
 
-**Alternate Form (Su):** A werewolf lord can assume a bipedal hybrid
+### Alternate Form (Su)
+A werewolf lord can assume a bipedal hybrid
 form or the form of a dire wolf.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by a werewolf
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by a werewolf
 lord's bite attack in wolf or hybrid form must succeed on a DC 15
 Fortitude save or contract lycanthropy.
 
-**Trip (Ex):** A werewolf lord in dire wolf form that hits with a bite
+### Trip (Ex)
+A werewolf lord in dire wolf form that hits with a bite
 attack can attempt to trip the opponent (+15 check modifier) as a free
 action without making a touch attack or provoking an attack of
 opportunity. If the attempt fails, the opponent cannot react to trip the
 werewolf lord.
 
-**Wolf Empathy (Ex):** Communicate with wolves and dire wolves, and +4
+### Wolf Empathy (Ex)
+Communicate with wolves and dire wolves, and +4
 racial bonus on Charisma-based checks against wolves and dire wolves.
 
-**Skills:** \*A werewolf lord in hybrid or wolf form gains a +4 racial
+### Skills
+\*A werewolf lord in hybrid or wolf form gains a +4 racial
 bonus on Survival checks when tracking by scent.
 
 *Possessions: +2 mithral chain shirt, +3 heavy shield, +2 bastard sword,
@@ -15155,17 +15940,21 @@ in that shape. They like to use their Improved Bull Rush and Improved
 Sunder feats to shove opponents around and smash their weapons and
 shields.
 
-**Alternate Form (Su):** A dire wereboar can assume a bipedal hybrid
+### Alternate Form (Su)
+A dire wereboar can assume a bipedal hybrid
 form or the form of a dire boar.
 
-**Boar Empathy (Ex):** Communicate with boars and dire boars, and +4
+### Boar Empathy (Ex)
+Communicate with boars and dire boars, and +4
 racial bonus on Charisma-based checks against boars and dire boars.
 
-**Curse of Lycanthropy (Su):** Any humanoid or giant hit by a dire
+### Curse of Lycanthropy (Su)
+Any humanoid or giant hit by a dire
 wereboar's bite attack in animal or hybrid form must succeed on a DC 15
 Fortitude save or contract lycanthropy.
 
-**Ferocity (Ex):** A dire wereboar is such a tenacious combatant that it
+### Ferocity (Ex)
+A dire wereboar is such a tenacious combatant that it
 continues to fight without penalty even while disabled or dying.
 
 ### Creating a Lycanthrope
@@ -15176,7 +15965,8 @@ can be inherited (for natural lycanthropes) or acquired (for afflicted
 lycanthropes). Becoming a lycanthrope is very much like multiclassing as
 an animal and gaining the appropriate Hit Dice.
 
-**Size and Type:** The base creature's type does not change, but the
+### Size and Type
+The base creature's type does not change, but the
 creature gains the shapechanger subtype. The lycanthrope takes on the
 characteristics of some type of carnivorous or omnivorous creature of
 the animal type (referred to hereafter as the base animal).
@@ -15191,24 +15981,29 @@ base creature, whichever is larger.
 A lycanthrope uses either the base creature's or the base animal's
 statistics and special abilities in addition to those described here.
 
-**Hit Dice and Hit Points:** Same as the base creature plus those of the
+### Hit Dice and Hit Points
+Same as the base creature plus those of the
 base animal. To calculate total hit points, apply Constitution modifiers
 according to the score the lycanthrope has in each form.
 
-**Speed:** Same as the base creature or base animal, depending on which
+### Speed
+Same as the base creature or base animal, depending on which
 form the lycanthrope is using. Hybrids use the base creature's speed.
 
-**Armor Class:** The base creature's natural armor bonus increases by +2
+### Armor Class
+The base creature's natural armor bonus increases by +2
 in all forms. In hybrid form, the lycanthrope's natural armor bonus is
 equal to the natural armor bonus of the base animal or the base
 creature, whichever is better.
 
-**Base Attack/Grapple:** Add the base attack bonus for the base animal
+### Base Attack/Grapple
+Add the base attack bonus for the base animal
 to the base attack bonus for the base creature. The lycanthrope's
 grapple bonus uses its attack bonus and modifiers for Strength and size
 depending on the lycanthrope's form.
 
-**Attacks:** Same as the base creature or base animal, depending on
+### Attacks
+Same as the base creature or base animal, depending on
 which form the lycanthrope is using. A lycanthrope in hybrid form gains
 two claw attacks and a bite attack as natural weapons.
 
@@ -15224,10 +16019,12 @@ The bite attack of a hybrid is a secondary attack.
   Huge          2d4    2d6
   ------------- ------ ------
 
-**Damage:** Same as the base creature or base animal, depending on which
+### Damage
+Same as the base creature or base animal, depending on which
 form the lycanthrope is in.
 
-**Special Attacks:** A lycanthrope retains the special attacks of the
+### Special Attacks
+A lycanthrope retains the special attacks of the
 base creature or base animal, depending on which form it is using, and
 also gains the special attacks described below.
 
@@ -15243,7 +16040,8 @@ within one size category of the lycanthrope the victim cannot contract
 lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on
 the curse of lycanthropy.
 
-**Special Qualities:** A lycanthrope retains all the special qualities
+### Special Qualities
+A lycanthrope retains all the special qualities
 of the base creature and the base animal, and also gains those described
 below.
 
@@ -15281,10 +16079,12 @@ form.
 
 ***Scent (Ex):*** A lycanthrope has the scent ability in any form.
 
-**Base Save Bonuses:** Add the base save bonuses of the base animal to
+### Base Save Bonuses
+Add the base save bonuses of the base animal to
 the base save bonuses of the base creature.
 
-**Abilities:** All lycanthropes gain +2 to Wisdom. In addition, when in
+### Abilities
+All lycanthropes gain +2 to Wisdom. In addition, when in
 animal form, a lycanthrope's physical ability scores improve according
 to its kind, as set out in the table below. These adjustments are equal
 to the animal's normal ability scores --10 or --11. A lycanthrope in
@@ -15293,7 +16093,8 @@ hybrid form modifies its physical ability scores by the same amount.
 In addition, a lycanthrope may also gain an additional ability score
 increase by virtue of its extra Hit Dice.
 
-**Skills:** A lycanthrope gains skill points equal to (2 + Int modifier,
+### Skills
+A lycanthrope gains skill points equal to (2 + Int modifier,
 minimum 1) per Hit Die of its animal form, as if it had multiclassed
 into the animal type. (Animal is never its first Hit Die, though, and it
 does not gain quadruple skill points for any animal Hit Die.) Any skill
@@ -15302,7 +16103,8 @@ animal levels. In any form, a lycanthrope also has any racial skill
 bonuses of the base creature and of the base animal, although
 conditional skill bonuses only apply in the associated form.
 
-**Feats:** Add the base animal's feats to the base creature's. If this
+### Feats
+Add the base animal's feats to the base creature's. If this
 results in a lycanthrope having the same feat twice, the lycanthrope
 gains no additional benefit unless the feat normally can be taken more
 once, in which case the duplicated feat works as noted in the feat
@@ -15315,27 +16117,34 @@ its feats when in humanoid form. If this occurs, the lycanthrope still
 has the feats, but cannot use them when in humanoid form. A lycanthrope
 receives Iron Will as a bonus feat.
 
-**Environment:** Same as either the base creature or base animal.
+### Environment
+Same as either the base creature or base animal.
 
-**Organization:** Solitary or pair, sometimes family (3--4), pack
+### Organization
+Solitary or pair, sometimes family (3--4), pack
 (6--10), or troupe (family plus related animals)
 
-**Challenge Rating:** By class level or base creature, modified
+### Challenge Rating
+By class level or base creature, modified
 according to the HD of the base animal: 1 HD or 2 HD, +2; 3 HD to 5 HD,
 +3; 6 HD to 10 HD, +4; 11 HD to 20 HD, +5; 21 or more HD, +6.
 
-**Treasure:** Standard.
+### Treasure
+Standard.
 
-**Alignment:** Any. Noble creatures such as bears, eagles, and lions
+### Alignment
+Any. Noble creatures such as bears, eagles, and lions
 tend to produce good-aligned lycanthropes. Sinister creatures such as
 rats, snakes, and wolves tend to produce evil-aligned lycanthropes. This
 is a reflection of how these animals are perceived, not any innate
 quality of the animal itself, so the alignment of the animal form can be
 arbitrarily assigned.
 
-**Advancement:** By character class.
+### Advancement
+By character class.
 
-**Level Adjustment:** Same as the base creature +2 (afflicted) or +3
+### Level Adjustment
+Same as the base creature +2 (afflicted) or +3
 (natural). In addition, a lycanthrope's character level is increased by
 the number of racial Hit Dice the base animal has.
 
@@ -15496,7 +16305,8 @@ checks untrained.) This skill determines whether an afflicted
 lycanthrope can control his shape. A natural lycanthrope does not need
 this skill, since it has full control over its shape.
 
-**Check (Involuntary Change):** An afflicted character must make a check
+### Check (Involuntary Change)
+An afflicted character must make a check
 at moonrise each night of the full moon to resist involuntarily assuming
 animal form. An injured character must also check for an involuntary
 change after accumulating enough damage to reduce his hit points by
@@ -15513,10 +16323,12 @@ aware of his condition may make one attempt to return to humanoid form
 (see below), but if he fails, he remains in animal form until the next
 dawn.
 
-**Retry (Involuntary Change):** Check to resist an involuntary change
+### Retry (Involuntary Change)
+Check to resist an involuntary change
 once each time a triggering event occurs.
 
-**Check (Voluntary Change):** In addition, an afflicted lycanthrope
+### Check (Voluntary Change)
+In addition, an afflicted lycanthrope
 aware of his condition may attempt to use this skill voluntarily in
 order to change to animal form, assume hybrid form, or return to
 humanoid form, regardless of the state of the moon or whether he has
@@ -15532,13 +16344,15 @@ been injured.
   \* For game purposes, the full moon lasts three days every month.   
   ------------------------------------------------------------------- ------------------
 
-**Retry (Voluntary Change):** A character can retry voluntary changes to
+### Retry (Voluntary Change)
+A character can retry voluntary changes to
 animal form or hybrid form as often as he likes. Each attempt is a
 standard action. However, on a failed check to return to humanoid form,
 the character must remain in animal or hybrid form until the next dawn,
 when he automatically returns to humanoid form.
 
-**Special:** An afflicted lycanthrope cannot attempt a voluntary change
+### Special
+An afflicted lycanthrope cannot attempt a voluntary change
 until it becomes aware of its condition (see Lycanthropy as an
 Affliction).
 ---
@@ -15596,18 +16410,21 @@ to set up a fiery ambush for their enemies.
 A magmin's natural weapons are treated as magic weapons for the purpose
 of overcoming damage reduction.
 
-**Combustion (Ex):** Anyone a magmin touches must succeed on a DC 12
+### Combustion (Ex)
+Anyone a magmin touches must succeed on a DC 12
 Reflex save or take an extra 1d8 points of fire damage as clothes ignite
 or armor becomes searing hot. The damage continues for another 1d4+2
 rounds after the magmin's last successful attack. Magmins can also
 ignite flammable materials with a touch. The save DC is
 Constitution-based.
 
-**Fiery Aura (Ex):** Anyone within 20 feet of a magmin must succeed on a
+### Fiery Aura (Ex)
+Anyone within 20 feet of a magmin must succeed on a
 DC 12 Fortitude save or take 1d6 points of heat damage per round from
 the intense heat. The save DC is Constitution-based.
 
-**Melt Weapons (Ex):** Any metal weapon that strikes a magmin must
+### Melt Weapons (Ex)
+Any metal weapon that strikes a magmin must
 succeed on a DC 12 Fortitude save or melt away into slag. The save DC is
 Constitution-based.
 
@@ -15647,13 +16464,15 @@ A manticore begins most attacks with a volley of spikes, then closes. In
 the outdoors, it often uses its powerful wings to stay aloft during
 battle.
 
-**Spikes (Ex):** With a snap of its tail, a manticore can loose a volley
+### Spikes (Ex)
+With a snap of its tail, a manticore can loose a volley
 of six spikes as a standard action (make an attack roll for each spike).
 This attack has a range of 180 feet with no range increment. All targets
 must be within 30 feet of each other. The creature can launch only
 twenty-four spikes in any 24-hour period.
 
-**Skills:** \*Manticores have a +4 racial bonus on Spot checks.
+### Skills
+\*Manticores have a +4 racial bonus on Spot checks.
 
 ## Medusa
 
@@ -15700,10 +16519,12 @@ to convince the target that there is no danger. It uses normal weapons
 to attack those who avert their eyes or survive its gaze, while its
 poisonous snakes strike at adjacent opponents.
 
-**Petrifying Gaze (Su):** Turn to stone permanently, 30 feet, Fortitude
+### Petrifying Gaze (Su)
+Turn to stone permanently, 30 feet, Fortitude
 DC 15 negates. The save DC is Charisma-based.
 
-**Poison (Ex):** Injury, Fortitude DC 14, initial damage 1d6 Str,
+### Poison (Ex)
+Injury, Fortitude DC 14, initial damage 1d6 Str,
 secondary damage 2d6 Str. The save DC is Constitution-based.
 
 ## Mephit
@@ -15722,22 +16543,26 @@ nature and effects of which vary from creature to creature.
 A mephit's natural weapons are treated as magic weapons for the purpose
 of overcoming damage reduction.
 
-**Breath Weapon (Su):** A mephit can use its breath weapon once every
+### Breath Weapon (Su)
+A mephit can use its breath weapon once every
 1d4 rounds as a standard action. See the individual descriptions for
 details.
 
-**Spell-Like Abilities:** All mephits have one or more spell-like
+### Spell-Like Abilities
+All mephits have one or more spell-like
 abilities (save DC 12 + spell level). See the individual descriptions
 for details.
 
-***Summon Mephit* (Sp):** Once per day, a mephit can attempt to summon
+### *Summon Mephit* (Sp)
+Once per day, a mephit can attempt to summon
 another mephit of the same variety, much as though casting a *summon
 monster* spell, but with only a 25% chance of success. Roll d%: On a
 failure, no creature answers the summons that day. A mephit that has
 just been summoned cannot use its own summon ability for 1 hour. This
 ability is the equivalent of a 2nd-level spell.
 
-**Fast Healing (Ex):** Mephits heal 2 points of damage each round,
+### Fast Healing (Ex)
+Mephits heal 2 points of damage each round,
 provided they are still alive and certain other conditions are met. See
 the individual descriptions for details.
 
@@ -15775,16 +16600,19 @@ Air mephits speak Common and Auran.
 
 #### Combat
 
-**Breath Weapon (Su):** 15-foot cone of dust and grit, damage 1d8,
+### Breath Weapon (Su)
+15-foot cone of dust and grit, damage 1d8,
 Reflex DC 12 half. The save DC is Constitution-based and includes a +1
 racial bonus.
 
-**Spell-Like Abilities:** Once per hour an air mephit can surround
+### Spell-Like Abilities
+Once per hour an air mephit can surround
 itself with vapor, duplicating the effect of a *blur* spell (caster
 level 3rd). Once per day it can use *gust of wind* (DC 14, caster level
 6th) . The save DC is Charisma-based.
 
-**Fast Healing (Ex):** An air mephit heals only if exposed to moving
+### Fast Healing (Ex)
+An air mephit heals only if exposed to moving
 air, be it a breeze, a draft, a spell effect, or even the mephit fanning
 itself.
 
@@ -15823,19 +16651,22 @@ Dust mephits speak Common and Auran.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of irritating particles, damage
+### Breath Weapon (Su)
+10-foot cone of irritating particles, damage
 1d4, Reflex DC 12 half. Living creatures that fail their saves are
 tormented by itching skin and burning eyes. This effect imposes a --4
 penalty to AC and a --2 penalty on attack rolls for 3 rounds. The save
 DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour, a dust mephit can surround
+### Spell-Like Abilities
+Once per hour, a dust mephit can surround
 itself with a plume of dust, duplicating the effect of a *blur* spell
 (caster level 3rd). Once per day it can create a mass of roiling dust
 that duplicates the effect of *wind wall* (DC 15, caster level 6th). The
 save DC is Charisma-based.
 
-**Fast Healing (Ex):** A dust mephit heals only if in an arid, dusty
+### Fast Healing (Ex)
+A dust mephit heals only if in an arid, dusty
 environment.
 
 ### Earth Mephit
@@ -15873,19 +16704,22 @@ Earth mephits speak Common and Terran.
 
 #### Combat
 
-**Breath Weapon (Su):** 15-foot cone of rock shards and pebbles, damage
+### Breath Weapon (Su)
+15-foot cone of rock shards and pebbles, damage
 1d8, Reflex DC 13 half. The save DC is Constitution-based and includes a
 +1 racial bonus.
 
 Spell-Like Abilities: 1/day---*soften earth and stone*. Caster level
 6th.
 
-***Change Size* (Sp):** Once per hour, an earth mephit can magically
+### *Change Size* (Sp)
+Once per hour, an earth mephit can magically
 change its size. This works just like an *enlarge person* spell, except
 that the power works only on the earth mephit. This is the equivalent of
 a 2nd-level spell.
 
-**Fast Healing (Ex):** An earth mephit heals only if it is underground
+### Fast Healing (Ex)
+An earth mephit heals only if it is underground
 or buried up to its waist in earth.
 
 ### Fire Mephit
@@ -15923,15 +16757,18 @@ Fire mephits speak Common and Ignan.
 
 #### Combat
 
-**Breath Weapon (Su):** 15-foot cone, damage 1d8 fire, Reflex half DC
+### Breath Weapon (Su)
+15-foot cone, damage 1d8 fire, Reflex half DC
 12. The save DC is Constitution-based and includes a +1 racial
 adjustment.
 
-**Spell-Like Abilities:** 1/hour---*scorching ray* (DC 14) as the spell
+### Spell-Like Abilities
+1/hour---*scorching ray* (DC 14) as the spell
 cast by a 3rd-level sorcerer; 1/day---*heat metal* (DC 14). Caster level
 6th. The save DC is Charisma-based.
 
-**Fast Healing (Ex):** A fire mephit heals only if it is touching a
+### Fast Healing (Ex)
+A fire mephit heals only if it is touching a
 flame at least as large as a torch.
 
 ### Ice Mephit
@@ -15970,18 +16807,21 @@ Ice mephits speak Common and Auran.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of ice shards, damage 1d4 cold,
+### Breath Weapon (Su)
+10-foot cone of ice shards, damage 1d4 cold,
 Reflex DC 12 half. Living creatures that fail their saves are tormented
 by frostbitten skin and frozen eyes unless they have immunity to cold or
 are otherwise protected. This effect imposes a --4 penalty to AC and a
 --2 penalty on attack rolls for 3 rounds. The save DC is
 Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** 1/hour---*magic missile* (caster level 3rd);
+### Spell-Like Abilities
+1/hour---*magic missile* (caster level 3rd);
 1/day---*chill metal* (DC 14, caster level 6th). The save DC is
 Charisma-based.
 
-**Fast Healing (Ex):** An ice mephit heals only if it is touching a
+### Fast Healing (Ex)
+An ice mephit heals only if it is touching a
 piece of ice of at least Tiny size or if the ambient temperature is
 32°F. or below.
 
@@ -16020,14 +16860,16 @@ Magma mephits speak Common and Ignan.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of magma, damage 1d4 fire, Reflex
+### Breath Weapon (Su)
+10-foot cone of magma, damage 1d4 fire, Reflex
 DC 12 half. Living creatures that fail their saves are tormented by
 burned skin and seared eyes unless they have immunity to fire or are
 otherwise protected. This effect imposes a --4 penalty to AC and a --2
 penalty on attack rolls for 3 rounds. The save DC is onstitution-based
 and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour, a magma mephit can use
+### Spell-Like Abilities
+Once per hour, a magma mephit can use
 *shapechange* to take the form of a pool of lava 3 feet in diameter and
 6 inches deep. The mephit's damage reduction improves to 20/magic when
 in this form. The mephit can't attack while in lava form but can use
@@ -16040,7 +16882,8 @@ Once per day a magma mephit can use *pyrotechnics* (DC 14). It can use
 itself as the fire source without harm. Caster level 6th. The save DC is
 Charisma-based.
 
-**Fast Healing (Ex):** A magma mephit heals only if it is touching
+### Fast Healing (Ex)
+A magma mephit heals only if it is touching
 magma, lava, or a flame at least as large as a torch.
 
 ### Ooze Mephit
@@ -16077,23 +16920,27 @@ Ooze mephits speak Common and Aquan.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of caustic liquid, damage 1d4 acid,
+### Breath Weapon (Su)
+10-foot cone of caustic liquid, damage 1d4 acid,
 Reflex DC 13 half. Living creatures that fail their saves are tormented
 by itching skin and burning eyes unless they have immunity to acid or
 are otherwise protected. This effect imposes a --4 penalty to AC and a
 --2 penalty on attack rolls for 3 rounds. The save DC is
 Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour an ooze mephit can hurl an
+### Spell-Like Abilities
+Once per hour an ooze mephit can hurl an
 acidic blob that functions like *acid arrow* (caster level 3rd). Once
 per day it can create a mass of smelly fog that duplicates the effect of
 *stinking cloud* (DC 15, caster level 6th). The save DC is
 Charisma-based.
 
-**Fast Healing (Ex):** An ooze mephit heals only if in a wet or muddy
+### Fast Healing (Ex)
+An ooze mephit heals only if in a wet or muddy
 environment.
 
-**Skills:** An ooze mephit has a +8 racial bonus on any Swim check to
+### Skills
+An ooze mephit has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -16134,13 +16981,15 @@ Salt mephits speak Common and Terran.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of salt crystals, damage 1d4,
+### Breath Weapon (Su)
+10-foot cone of salt crystals, damage 1d4,
 Reflex DC 13 half. Living creatures that fail their saves are tormented
 by itching skin and burning eyes. This effect imposes a --4 penalty to
 AC and a --2 penalty on attack rolls for 3 rounds. The save DC is
 Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour a salt mephit can use
+### Spell-Like Abilities
+Once per hour a salt mephit can use
 *glitterdust* (DC 14, caster level 3rd).
 
 Once per day it can draw the moisture from an area in a 20-foot radius
@@ -16150,7 +16999,8 @@ especially devastating to plant creatures and aquatic creatures, which
 take a --2 penalty on their saving throws. This ability is the
 equivalent of a 2nd-level spell. The save DCs are Charisma-based.
 
-**Fast Healing (Ex):** A salt mephit heals only if in an arid
+### Fast Healing (Ex)
+A salt mephit heals only if in an arid
 environment.
 
 ### Steam Mephit
@@ -16192,14 +17042,16 @@ Steam mephits speak Common and Ignan.
 Unlike other mephits, steam mephits rush into combat eagerly, driven by
 an oversized ego.
 
-**Breath Weapon (Su):** 10-foot cone of steam, damage 1d4 fire, Reflex
+### Breath Weapon (Su)
+10-foot cone of steam, damage 1d4 fire, Reflex
 DC 12 half. Living creatures that fail their saves are tormented by
 burned skin and seared eyes unless they have immunity to fire or are
 otherwise protected. This effect imposes a --4 penalty to AC and a --2
 penalty on attack rolls for 3 rounds. The save DC is Constitution-based
 and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour a steam mephit can surround
+### Spell-Like Abilities
+Once per hour a steam mephit can surround
 itself with a plume of vapor, duplicating the effect of a *blur* spell
 (caster level 3rd). Once per day it can create a rainstorm of boiling
 water that affects a 20-foot-square area. Living creatures caught in the
@@ -16207,7 +17059,8 @@ storm take 2d6 points of fire damage (Reflex DC 14 half; caster level
 6th). This ability is the equivalent of a 2nd-level spell. The save DCs
 are Charisma-based.
 
-**Fast Healing (Ex):** A steam mephit heals only if it is touching
+### Fast Healing (Ex)
+A steam mephit heals only if it is touching
 boiling water or is in a hot, humid area.
 
 ### Water Mephit
@@ -16247,20 +17100,24 @@ Water mephits speak Common and Aquan.
 
 #### Combat
 
-**Breath Weapon (Su):** 15-foot cone of caustic liquid, damage 1d8 acid,
+### Breath Weapon (Su)
+15-foot cone of caustic liquid, damage 1d8 acid,
 Reflex DC 13 half. The save DC is Constitution-based and includes a +1
 racial bonus.
 
-**Spell-Like Abilities:** Once per hour a water mephit can hurl an
+### Spell-Like Abilities
+Once per hour a water mephit can hurl an
 acidic blob that functions like *acid arrow* (caster level 3rd). Once
 per day it can create a mass of smelly fog that duplicates the effect of
 a *stinking cloud* spell (DC 15, caster level 6th). The save DC is
 Charisma-based.
 
-**Fast Healing (Ex):** A water mephit heals only if it is exposed to
+### Fast Healing (Ex)
+A water mephit heals only if it is exposed to
 rain or submerged up to its waist in water.
 
-**Skills:** A water mephit has a +8 racial bonus on any Swim check to
+### Skills
+A water mephit has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered.
 
@@ -16310,10 +17167,12 @@ fashioned from blowfish spines, with an underwater range increment of 30
 feet. Merfolk often barrage their enemies before closing, when they
 resort to tridents.
 
-**Amphibious (Ex):** Merfolk can breathe both air and water, although
+### Amphibious (Ex)
+Merfolk can breathe both air and water, although
 they rarely travel more than a few feet from the water's edge.
 
-**Skills:** A merfolk has a +8 racial bonus on any Swim check to perform
+### Skills
+A merfolk has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -16364,7 +17223,8 @@ A mimic often surprises an unsuspecting adventurer, lashing out with a
 heavy pseudopod. The creature does not necessarily fight to the death if
 it can succeed in extorting treasure or food from a party.
 
-**Adhesive (Ex):** A mimic exudes a thick slime that acts as a powerful
+### Adhesive (Ex)
+A mimic exudes a thick slime that acts as a powerful
 adhesive, holding fast any creatures or items that touch it. An
 adhesive-covered mimic automatically grapples any creature it hits with
 its slam attack. Opponents so grappled cannot get free while the mimic
@@ -16378,10 +17238,12 @@ Strong alcohol dissolves the adhesive, but the mimic still can grapple
 normally. A mimic can dissolve its adhesive at will, and the substance
 breaks down 5 rounds after the creature dies.
 
-**Crush (Ex):** A mimic deals 1d8+4 points of damage with a successful
+### Crush (Ex)
+A mimic deals 1d8+4 points of damage with a successful
 grapple check.
 
-**Mimic Shape (Ex):** A mimic can assume the general shape of any object
+### Mimic Shape (Ex)
+A mimic can assume the general shape of any object
 that fills roughly 150 cubic feet (5 feet by 5 feet by 6 feet), such as
 a massive chest, a stout bed, or a wide door frame. The creature cannot
 substantially alter its size, though. A mimic's body is hard and has a
@@ -16390,7 +17252,8 @@ examines the mimic can detect the ruse with a successful Spot check
 opposed by the mimic's Disguise check. Of course, by this time it is
 generally far too late.
 
-**Skills:** A mimic has a +8 racial bonus on Disguise checks.
+### Skills
+A mimic has a +8 racial bonus on Disguise checks.
 
 ## Minotaur
 
@@ -16428,19 +17291,22 @@ Minotaurs speak Giant.
 Minotaurs prefer melee combat, where their great strength serves them
 well.
 
-**Powerful Charge (Ex):** A minotaur typically begins a battle by
+### Powerful Charge (Ex)
+A minotaur typically begins a battle by
 charging at an opponent, lowering its head to bring its mighty horns
 into play. In addition to the normal benefits and hazards of a charge,
 this allows the beast to make a single gore attack with a +9 attack
 bonus that deals 4d6+6 points of damage.
 
-**Natural Cunning (Ex):** Although minotaurs are not especially
+### Natural Cunning (Ex)
+Although minotaurs are not especially
 intelligent, they possess innate cunning and logical ability. This gives
 them immunity to *maze* spells, prevents them from ever becoming lost,
 and enables them to track enemies. Further, they are never caught
 flat-footed.
 
-**Skills:** Minotaurs have a +4 racial bonus on Search, Spot, and Listen
+### Skills
+Minotaurs have a +4 racial bonus on Search, Spot, and Listen
 checks.
 
 ### Minotaurs as Characters
@@ -16527,16 +17393,19 @@ Like zombies, mohrgs attack by slamming enemies with their fists. They
 often catch opponents flat-footed, for they move much faster than
 zombies.
 
-**Improved Grab (Ex):** To use this ability, a mohrg must hit a creature
+### Improved Grab (Ex)
+To use this ability, a mohrg must hit a creature
 of its size or smaller with its slam attack. It can then attempt to
 start a grapple as a free action without provoking an attack of
 opportunity.
 
-**Paralyzing Touch (Su):** A mohrg lashes out with its tongue in combat.
+### Paralyzing Touch (Su)
+A mohrg lashes out with its tongue in combat.
 An opponent the tongue touches must succeed on a DC 17 Fortitude save or
 become paralyzed for 1d4 minutes. The save DC is Charisma-based.
 
-**Create Spawn (Su):** Creatures killed by a mohrg rise after 1d4 days
+### Create Spawn (Su)
+Creatures killed by a mohrg rise after 1d4 days
 as zombies under the morhg's control. They do not possess any of the
 abilities they had in life.
 
@@ -16577,13 +17446,15 @@ Mummies can speak Common, but seldom bother to do so.
 
 ### Combat
 
-**Despair (Su):** At the mere sight of a mummy, the viewer must succeed
+### Despair (Su)
+At the mere sight of a mummy, the viewer must succeed
 on a DC 16 Will save or be paralyzed with fear for 1d4 rounds. Whether
 or not the save is successful, that creature cannot be affected again by
 the same mummy's despair ability for 24 hours. The save DC is
 Charisma-based.
 
-**Mummy Rot (Su):** Supernatural disease---slam, Fortitude DC 16,
+### Mummy Rot (Su)
+Supernatural disease---slam, Fortitude DC 16,
 incubation period 1 minute; damage 1d6 Con and 1d6 Cha. The save DC is
 Charisma-based.
 
@@ -16618,9 +17489,11 @@ curse or rite designed to punish treason, infidelity, or crimes of an
 even more abhorrent nature. A mummy lord of this sort is usually
 imprisoned in a tomb that is never meant to be opened again.
 
-**Despair (Su):** The save DC against this mummy lord's despair is 17.
+### Despair (Su)
+The save DC against this mummy lord's despair is 17.
 
-**Mummy Rot (Su):** The save DC against this mummy lord's mummy rot is
+### Mummy Rot (Su)
+The save DC against this mummy lord's mummy rot is
 17.
 
 *Typical Cleric Spells Prepared* (6/7/6/5/5/4; save DC 15 + spell
@@ -16686,11 +17559,13 @@ Dark nagas speak Common and Infernal.
 Dark nagas prefer to fight from an elevated position where they get a
 good view of the battlefield while also staying out of reach.
 
-**Poison (Ex):** Injury, Fortitude DC 16 or lapse into a
+### Poison (Ex)
+Injury, Fortitude DC 16 or lapse into a
 nightmare-haunted sleep for 2d4 minutes. The save DC is
 Constitution-based.
 
-**Spells:** Dark nagas cast spells as 7th-level sorcerers.
+### Spells
+Dark nagas cast spells as 7th-level sorcerers.
 
 *Typical Sorcerer Spells Known* (6/7/7/5; save DC 13 + spell level):
 0---*daze, detect magic, light, mage hand, open/close, ray of frost,
@@ -16698,15 +17573,18 @@ read magic;* 1st---*expeditious retreat, magic missile, ray of
 enfeeblement, shield, silent image;* 2nd---*cat's grace, invisibility,
 scorching ray;* 3rd---*displacement, lightning bolt.*
 
-**Resistance to *Charm*:** Dark nagas have a +2 racial bonus on saving
+### Resistance to *Charm*
+Dark nagas have a +2 racial bonus on saving
 throws against all *charm* effects (not included in the statistics
 block).
 
-**Detect Thoughts (Su):** A dark naga can continuously use detect
+### Detect Thoughts (Su)
+A dark naga can continuously use detect
 thoughts as the spell (caster level 9th; Will DC 15 negates). This
 ability is always active. The save DC is Charisma-based.
 
-**Guarded Thoughts (Ex):** Dark nagas are immune to any form of mind
+### Guarded Thoughts (Ex)
+Dark nagas are immune to any form of mind
 reading.
 
 ### Guardian Naga
@@ -16743,15 +17621,18 @@ Guardian nagas speak Celestial and Common.
 Guardian nagas usually warn off intruders before attacking. If the
 warning is ignored, they may begin a spell assault or spit poison.
 
-**Poison (Ex):** Injury or contact, Fortitude DC 19, initial and
+### Poison (Ex)
+Injury or contact, Fortitude DC 19, initial and
 secondary damage 1d10 Con. The save DC is Constitution-based.
 
-**Spit (Ex):** A guardian naga can spit its venom up to 30 feet as a
+### Spit (Ex)
+A guardian naga can spit its venom up to 30 feet as a
 standard action. This is a ranged touch attack with no range increment.
 Opponents hit by this attack must make successful saves (see above) to
 avoid the effect.
 
-**Spells:** Guardian nagas cast spells as 9th-level sorcerers, and can
+### Spells
+Guardian nagas cast spells as 9th-level sorcerers, and can
 also cast spells from the cleric list and from the Good and Law domains.
 The cleric spells and domain spells are considered arcane spells for a
 guardian naga, meaning that the creature does not need a divine focus to
@@ -16799,13 +17680,16 @@ Spirit nagas speak Abyssal and Common.
 Spirit nagas meet foes boldly so as to use their gaze attacks to best
 effect. They quickly slither forward to bite foes that avert their eyes.
 
-**Charming Gaze (Su):** As *charm person,* 30 feet, Will DC 19 negates.
+### Charming Gaze (Su)
+As *charm person,* 30 feet, Will DC 19 negates.
 The save DC is Charisma-based.
 
-**Poison (Ex):** Injury, Fortitude DC 18, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 18, initial and secondary damage
 1d8 Con. The save DC is Constitution-based.
 
-**Spells:** Spirit nagas cast spells as 7th-level sorcerers, and can
+### Spells
+Spirit nagas cast spells as 7th-level sorcerers, and can
 also cast spells from the cleric spell list and from the Chaos and Evil
 domains as arcane spells. The cleric spells and domain spells are
 considered arcane spells for a spirit naga, meaning that the creature
@@ -16851,10 +17735,12 @@ Water nagas speak Aquan and Common.
 Water nagas prefer to stay mostly concealed in a body of water while
 they launch a spell attack.
 
-**Poison (Ex):** Injury, Fortitude DC 17, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 17, initial and secondary damage
 1d8 Con. The save DC is Constitution-based.
 
-**Spells:** Water nagas cast spells as 7th-level sorcerers but never use
+### Spells
+Water nagas cast spells as 7th-level sorcerers but never use
 fire spells.
 
 *Typical Sorcerer Spells Known* (6/7/7/4; save DC 12 + spell level):
@@ -16863,7 +17749,8 @@ magic;* 1st---*expeditious retreat, magic missile, obscuring mist,
 shield, true strike;* 2nd---*invisibility, acid arrow, mirror image;*
 3rd---*protection from energy, suggestion.*
 
-**Skills:** A water naga has a +8 racial bonus on any Swim check to
+### Skills
+A water naga has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -16912,20 +17799,23 @@ treated as evil-aligned for the purpose of overcoming damage reduction.
 Its natural weapons are treated as magic weapons for the purpose of
 overcoming damage reduction.
 
-**Disease (Ex):** Demon fever---bite, Fortitude DC 18, incubation period
+### Disease (Ex)
+Demon fever---bite, Fortitude DC 18, incubation period
 1 day, damage 1d6 Con. Each day after the first, on a failed save, an
 afflicted creature must immediately succeed on another DC 18 Fortitude
 save or take 1 point of Constitution drain. The save DC is Constitution
 based.
 
-**Spell-Like Abilities:** At will---*detect chaos, detect evil, detect
+### Spell-Like Abilities
+At will---*detect chaos, detect evil, detect
 good, detect law, detect magic, magic missile, polymorph* (self only),
 *ray of enfeeblement* (DC 12)*, sleep* (DC 12). Caster level 8th. A
 night hag can use *etherealness* at will (caster level 16th) so long as
 it possesses its *heartstone* (see below). The save DCs are
 Charisma-based.
 
-**Dream Haunting (Su):** Night hags can visit the dreams of chaotic or
+### Dream Haunting (Su)
+Night hags can visit the dreams of chaotic or
 evil individuals by using a special periapt known as a *heartstone* to
 become ethereal, then hovering over the creature. Once a hag invades
 someone's dreams, it rides on the victim's back until dawn. The sleeper
@@ -16985,10 +17875,12 @@ fight unless he or she succeeds on a Ride check.
 A nightmare's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned for the purpose of overcoming damage reduction.
 
-**Flaming Hooves (Su):** A blow from a nightmare's hooves sets
+### Flaming Hooves (Su)
+A blow from a nightmare's hooves sets
 combustible materials alight.
 
-**Smoke (Su):** During the excitement of battle, a nightmare snorts and
+### Smoke (Su)
+During the excitement of battle, a nightmare snorts and
 neighs with rage. This snorting fills a 15-foot cone with a hot,
 sulfurous smoke that chokes and blinds opponents. Anyone in the cone
 must succeed on a DC 16 Fortitude save or take a --2 penalty on all
@@ -17000,11 +17892,13 @@ Because of the smoke it gives off, a nightmare has concealment against
 creatures 5 feet away and total concealment against creatures 10 feet or
 farther away. The smoke does not obscure the nightmare's vision at all.
 
-**Astral Projection and Etherealness (Su):** These abilities function
+### Astral Projection and Etherealness (Su)
+These abilities function
 just like the spells of the same names (caster level 20th); a nightmare
 can use either at will.
 
-**Carrying Capacity:** A light load for a nightmare is up to 300 pounds;
+### Carrying Capacity
+A light load for a nightmare is up to 300 pounds;
 a medium load, 301--600 pounds; and a heavy load, 601--900 pounds.
 
 ### Cauchemar
@@ -17039,11 +17933,13 @@ abilities, but they all make liberal use of *haste*.
 
 All nightshades have the following special abilities.
 
-**Aversion to Daylight (Ex):** If exposed to natural daylight (not
+### Aversion to Daylight (Ex)
+If exposed to natural daylight (not
 merely a *daylight* spell), nightshades take a --4 penalty on all attack
 rolls, saving throws, and skill checks.
 
-**Desecrating Aura (Su):** All nightshades give off a 20-footradius
+### Desecrating Aura (Su)
+All nightshades give off a 20-footradius
 emanation of utter desecration, imbuing their surroundings with negative
 energy. This ability works much like a *desecrate* spell, except that
 the nightshade's evil is so great that it is treated as the shrine of an
@@ -17103,34 +17999,40 @@ strike.
 A nightcrawler's natural weapons are treated as magic weapons for the
 purpose of overcoming damage reduction.
 
-**Energy Drain (Su):** Living creatures inside a nightcrawler's gizzard
+### Energy Drain (Su)
+Living creatures inside a nightcrawler's gizzard
 gain one negative level each round. The DC is 26 for the Fortitude save
 to remove a negative level. The save DC is Charisma-based.
 
 For each such negative level bestowed, the nightcrawler gains 5
 temporary hit points.
 
-**Improved Grab (Ex):** To use this ability, a nightcrawler must hit
+### Improved Grab (Ex)
+To use this ability, a nightcrawler must hit
 with its bite attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can try to swallow the opponent
 in the following round.
 
-**Poison (Ex):** Injury, Fortitude DC 22, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 22, initial and secondary damage
 2d6 Str. The save DC is Constitution-based.
 
-**Spell-Like Abilities:** At will---*contagion* (DC 18), *deeper
+### Spell-Like Abilities
+At will---*contagion* (DC 18), *deeper
 darkness, detect magic, greater dispel magic, haste, invisibility, see
 invisibility, unholy blight* (DC 18); 3/day---*cone of cold* (DC 19),
 *confusion* (DC 18), *hold monster* (DC 19); 1/day---*finger of death*
 (DC 21), *mass hold monster* (DC 23), *plane shift* (DC 21). Caster
 level 25th. The save DCs are Charisma-based.
 
-**Summon Undead (Su):** A nightcrawler can summon undead creatures once
+### Summon Undead (Su)
+A nightcrawler can summon undead creatures once
 per night: 9--16 shadows, 3--6 greater shadows, or 2--4 dread wraiths.
 The undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Swallow Whole (Ex):** A nightcrawler can try to swallow a grabbed
+### Swallow Whole (Ex)
+A nightcrawler can try to swallow a grabbed
 opponent of Huge or smaller size by making a successful grapple check.
 Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus
 12 points of acid damage per round from the nightcrawler's gizzard and
@@ -17180,32 +18082,37 @@ the unwary.
 A nightwalker's natural weapons are treated as magic weapons for the
 purpose of overcoming damage reduction.
 
-**Crush Item (Su):** A nightwalker can destroy any weapon or item of
+### Crush Item (Su)
+A nightwalker can destroy any weapon or item of
 Large size or smaller (even magic ones, but not artifacts) by picking it
 up and crushing it between its hands. The nightwalker must make a
 successful disarm attempt to grab an item held by an opponent. The item
 is entitled to a DC 34 Fortitude save to resist destruction. The save DC
 is Strength-based.
 
-**Evil Gaze (Su):** Fear, 30 feet. A creature that meets the
+### Evil Gaze (Su)
+Fear, 30 feet. A creature that meets the
 nightwalker's gaze must succeed on a DC 24 Will save or be paralyzed
 with fear for 1d8 rounds. Whether or not the save is successful, that
 creature cannot be affected again by the same nightshade's gaze for 24
 hours. This is a mind-affecting fear effect. The save DC is
 Charisma-based.
 
-**Spell-Like Abilities:** At will---*contagion* (DC 18), *deeper
+### Spell-Like Abilities
+At will---*contagion* (DC 18), *deeper
 darkness, detect magic, greater dispel magic, haste, see invisibility,*
 and *unholy blight* (DC 18); 3/day---*confusion* (DC 18), *hold monster*
 (DC 19), *invisibility;* 1/day---*cone of cold* (DC 19), *finger of
 death* (DC 21), *plane shift* (DC 21). Caster level 21st. The save DCs
 are Charisma-based.
 
-**Summon Undead (Su):** A nightwalker can summon undead creatures once
+### Summon Undead (Su)
+A nightwalker can summon undead creatures once
 per night: 7--12 shadows, 2--5 greater shadows, or 1--2 dread wraiths.
 The undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Skills:** \*When hiding in a dark area, a nightwalker gains a +8
+### Skills
+\*When hiding in a dark area, a nightwalker gains a +8
 racial bonus on Hide checks.
 
 #### Tactics Round-by-Round
@@ -17276,7 +18183,8 @@ their passing.
 A nightwing's natural weapons are treated as magic weapons for the
 purpose of overcoming damage reduction.
 
-**Magic Drain (Su):** A nightwing can weaken magic armor, weapons, and
+### Magic Drain (Su)
+A nightwing can weaken magic armor, weapons, and
 shields by making a successful touch attack. The targeted item must
 succeed on a DC 22 Fortitude save or lose 1 point of its enhancement
 bonus. The save DC is Charisma-based. An item that loses its entire
@@ -17286,18 +18194,21 @@ reverses the effect of the magic drain, provided this occurs within a
 number of days after the attack equal to the caster's level and the
 caster succeeds on a DC 29 caster level check.
 
-**Spell-Like Abilities:** At will---*contagion* (DC 18), *deeper
+### Spell-Like Abilities
+At will---*contagion* (DC 18), *deeper
 darkness, detect magic, haste, see invisibility, unholy blight* (DC 18);
 3/day---*confusion* (DC 18), *greater dispel magic, hold monster* (DC
 19), *invisibility;* 1/day---*cone of cold* (DC 19), *finger of death*
 (DC 21), *plane shift* (DC 21). Caster level 17th. The save DCs are
 Charisma-based.
 
-**Summon Undead (Su):** A nightwing can summon undead creatures once per
+### Summon Undead (Su)
+A nightwing can summon undead creatures once per
 night: 5--12 shadows, 2--4 greater shadows, or 1 dread wraith. The
 undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Skills:** \*When hiding in a dark area or flying in a dark sky, a
+### Skills
+\*When hiding in a dark area or flying in a dark sky, a
 nightwing gains a +8 racial bonus on Hide checks.
 
 ## Nymph
@@ -17333,16 +18244,19 @@ Nymphs speak Sylvan and Common.
 
 ### Combat
 
-**Blinding Beauty (Su):** This ability affects all humanoids within 30
+### Blinding Beauty (Su)
+This ability affects all humanoids within 30
 feet of a nymph. Those who look directly at a nymph must succeed on a DC
 17 Fortitude save or be blinded permanently as though by the *blindness*
 spell. A nymph can suppress or resume this ability as a free action.
 
 The save DC is Charisma-based.
 
-**Spell-Like Abilities:** 1/day---*dimension door.* Caster level 7th.
+### Spell-Like Abilities
+1/day---*dimension door.* Caster level 7th.
 
-**Spells:** A nymph casts divine spells as a 7th-level druid.
+### Spells
+A nymph casts divine spells as a 7th-level druid.
 
 *Typical Druid Spells Prepared* (6/5/4/3/1, save DC 13 + spell level):
 0---*cure minor wounds, detect magic, flare, guidance, light,
@@ -17351,19 +18265,23 @@ longstrider, speak with animals;* 2nd---*barkskin, heat metal, lesser
 restoration, tree shape;* 3rd--- *call lightning, cure moderate wounds,
 protection from energy;* 4th---*rusting grasp.*
 
-**Stunning Glance (Su):** As a standard action, a wrathful nymph can
+### Stunning Glance (Su)
+As a standard action, a wrathful nymph can
 stun a creature within 30 feet with a look. The target creature must
 succeed on a DC 17 Fortitude save or be stunned for 2d4 rounds. The save
 DC is Charisma-based.
 
-**Unearthly Grace (Su):** A nymph adds her Charisma modifier as a bonus
+### Unearthly Grace (Su)
+A nymph adds her Charisma modifier as a bonus
 on all her saving throws, and as a deflection bonus to her Armor Class.
 (The statistics block already reflects these bonuses).
 
-**Wild Empathy (Ex):** This power works like the druid's wild empathy
+### Wild Empathy (Ex)
+This power works like the druid's wild empathy
 class feature, except that a nymph has a +6 racial bonus on the check.
 
-**Skills:** A nymph has a +8 racial bonus on any Swim check to perform
+### Skills
+A nymph has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. She can always choose to take 10
 on a Swim check, even if distracted or endangered. She can use the run
 action while swimming, provided she swims in a straight line.
@@ -17434,18 +18352,21 @@ Marginally more intelligent than his brutish fellows, an ogre barbarian
 is slightly more likely to enter a fair fight, but in general prefers
 the brutish tactics common to all its kind.
 
-**Rage (Ex):** Twice per day, an ogre barbarian can enter a state of
+### Rage (Ex)
+Twice per day, an ogre barbarian can enter a state of
 fierce rage that last for 9 rounds. The following changes are in effect
 as long as he rages: AC 17 (touch 8, flat-footed 17); hp 95; Atk +18/+13
 melee (2d6+16, *+1 greatclub*); SV Fort +14, Will +4; Str 30, Con 22;
 Climb +15, Jump +16. At the end of his rage, the ogre barbarian is
 fatigued for the duration of the encounter.
 
-**Trap Sense (Ex):** An ogre barbarian has a +1 bonus on Reflex saves
+### Trap Sense (Ex)
+An ogre barbarian has a +1 bonus on Reflex saves
 made to avoid traps. He also has a +1 bonus to his AC against attacks by
 traps.
 
-**Uncanny Dodge (Ex):** An ogre barbarian retains his Dex bonus to AC
+### Uncanny Dodge (Ex)
+An ogre barbarian retains his Dex bonus to AC
 regardless of being caught flat-footed or attacked by an invisible
 opponent. His Dex bonus to AC is +0, but this means that he is not
 subject to a rogue's sneak attack in these circumstances.
@@ -17545,16 +18466,19 @@ combat only when necessary. When faced with obviously superior forces,
 they prefer to retreat using *gaseous form* rather than fight a losing
 battle.
 
-**Spell-Like Abilities:** At will---*darkness, invisibility;* 1/day---
+### Spell-Like Abilities
+At will---*darkness, invisibility;* 1/day---
 *charm person* (DC 14)*, cone of cold* (DC 18)*, gaseous form,
 polymorph, sleep* (DC 14). Caster level 9th. The save DCs are
 Charisma-based.
 
-**Flight (Su):** An ogre mage can cease or resume flight as a free
+### Flight (Su)
+An ogre mage can cease or resume flight as a free
 action. While using *gaseous form* it can fly at its normal speed and
 has perfect maneuverability.
 
-**Regeneration (Ex):** Fire and acid deal normal damage to an ogre mage.
+### Regeneration (Ex)
+Fire and acid deal normal damage to an ogre mage.
 
 An ogre mage that loses a limb or body part can reattach it by holding
 the severed member to the stump. Reattachment takes 1 minute. If the
@@ -17615,7 +18539,8 @@ Oozes attack any creatures they encounter. They lash out with pseudopods
 or simply engulf opponents with their bodies, which secrete acids that
 help them catch or digest their prey.
 
-**Blindsight (Ex):** An ooze's entire body is a primitive sensory organ
+### Blindsight (Ex)
+An ooze's entire body is a primitive sensory organ
 that can ascertain prey by scent and vibration within 60 feet.
 
 ### Black Pudding
@@ -17653,7 +18578,8 @@ weighs about 18,000 pounds.
 
 A black pudding attacks by grabbing and squeezing their prey.
 
-**Acid (Ex):** The creature secretes a digestive acid that dissolves
+### Acid (Ex)
+The creature secretes a digestive acid that dissolves
 organic material and metal quickly, but does not affect stone. Any melee
 hit or constrict attack deals acid damage, and the opponent's armor and
 clothing dissolve and become useless immediately unless they succeed on
@@ -17665,22 +18591,26 @@ The pudding's acidic touch deals 21 points of damage per round to wooden
 or metal objects, but the ooze must remain in contact with the object
 for 1 full round to deal this damage.
 
-**Constrict (Ex):** A black pudding deals automatic slam and acid damage
+### Constrict (Ex)
+A black pudding deals automatic slam and acid damage
 with a successful grapple check. The opponent's clothing and armor take
 a --4 penalty on Reflex saves against the acid.
 
-**Improved Grab (Ex):** To use this ability, a black pudding must hit
+### Improved Grab (Ex)
+To use this ability, a black pudding must hit
 with its slam attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict.
 
-**Split (Ex):** Slashing and piercing weapons deal no damage to a black
+### Split (Ex)
+Slashing and piercing weapons deal no damage to a black
 pudding. Instead the creature splits into two identical puddings, each
 with half of the original's current hit points (round down). A pudding
 with 10 hit points or less cannot be further split and dies if reduced
 to 0 hit points.
 
-**Skills:** A black pudding has a +8 racial bonus on Climb checks and
+### Skills
+A black pudding has a +8 racial bonus on Climb checks and
 can always choose to take 10 on a Climb check, even if rushed or
 threatened.
 
@@ -17732,9 +18662,11 @@ pounds, though much larger specimens are not unknown.
 A gelatinous cube attacks by slamming its body into its prey. It is
 capable of lashing out with a pseudopod, but usually engulfs foes.
 
-**Acid (Ex):** A gelatinous cube's acid does not harm metal or stone.
+### Acid (Ex)
+A gelatinous cube's acid does not harm metal or stone.
 
-**Engulf (Ex):** Although it moves slowly, a gelatinous cube can simply
+### Engulf (Ex)
+Although it moves slowly, a gelatinous cube can simply
 mow down Large or smaller creatures as a standard action. It cannot make
 a slam attack during a round in which it engulfs. The gelatinous cube
 merely has to move over the opponents, affecting as many as it can
@@ -17747,13 +18679,15 @@ cube's paralysis and acid, and are considered to be grappled and trapped
 within its body. The save DC is Strength-based and includes a +1 racial
 bonus.
 
-**Paralysis (Ex):** A gelatinous cube secretes an anesthetizing slime. A
+### Paralysis (Ex)
+A gelatinous cube secretes an anesthetizing slime. A
 target hit by a cube's melee or engulf attack must succeed on a DC 20
 Fortitude save or be paralyzed for 3d6 rounds. The cube can
 automatically engulf a paralyzed opponent. The save DC is
 Constitution-based.
 
-**Transparent (Ex):** Gelatinous cubes are hard to see, even under ideal
+### Transparent (Ex)
+Gelatinous cubes are hard to see, even under ideal
 conditions, and it takes a DC 15 Spot check to notice one. Creatures who
 fail to notice a cube and walk into it are automatically engulfed.
 
@@ -17791,7 +18725,8 @@ about 6 inches. A typical specimen weighs about 700 pounds.
 
 A gray ooze strikes like a snake, slamming opponents with its body.
 
-**Acid (Ex):** A gray ooze secretes a digestive acid that quickly
+### Acid (Ex)
+A gray ooze secretes a digestive acid that quickly
 dissolves organic material and metal, but not stone. Any melee hit or
 constrict attack deals acid damage. Armor or clothing dissolves and
 becomes useless immediately unless it succeeds on a DC 16 Reflex save. A
@@ -17803,16 +18738,19 @@ The ooze's acidic touch deals 16 points of damage per round to wooden or
 metal objects, but the ooze must remain in contact with the object for 1
 full round to deal this damage.
 
-**Constrict (Ex):** A gray ooze deals automatic slam and acid damage
+### Constrict (Ex)
+A gray ooze deals automatic slam and acid damage
 with a successful grapple check. The opponent's clothing and armor take
 a --4 penalty on Reflex saves against the acid.
 
-**Improved Grab (Ex):** To use this ability, a gray ooze must hit with
+### Improved Grab (Ex)
+To use this ability, a gray ooze must hit with
 its slam attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can constrict.
 
-**Transparent (Ex):** A gray ooze is hard to identify, even under ideal
+### Transparent (Ex)
+A gray ooze is hard to identify, even under ideal
 conditions, and it takes a DC 15 Spot check to notice one. Creatures who
 fail to notice a gray ooze and walk into it are automatically hit with a
 melee attack for slam and acid damage.
@@ -17852,24 +18790,29 @@ as 1 inch wide. A typical specimen weighs about 5,600 pounds.
 
 An ochre jelly attempts to envelop and squeeze its prey.
 
-**Acid (Ex):** An ochre jelly secretes a digestive acid that dissolves
+### Acid (Ex)
+An ochre jelly secretes a digestive acid that dissolves
 only flesh. Any melee hit or constrict attack deals acid damage.
 
-**Constrict (Ex):** An ochre jelly deals automatic slam and acid damage
+### Constrict (Ex)
+An ochre jelly deals automatic slam and acid damage
 with a successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, an ochre jelly must hit
+### Improved Grab (Ex)
+To use this ability, an ochre jelly must hit
 with its slam attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict.
 
-**Split (Ex):** Slashing and piercing weapons and electricity attacks
+### Split (Ex)
+Slashing and piercing weapons and electricity attacks
 deal no damage to an ochre jelly. Instead the creature splits into two
 identical jellies, each with half of the original's current hit points
 (round down). A jelly with 10 hit points or less cannot be further split
 and dies if reduced to 0 it points.
 
-**Skills:** An ochre jelly has a +8 racial bonus on Climb checks and can
+### Skills
+An ochre jelly has a +8 racial bonus on Climb checks and can
 always choose to take 10 on a Climb check, even if rushed or threatened.
 
 ## Orc
@@ -17924,12 +18867,14 @@ a martial weapon. They enjoy attacking from concealment and setting
 ambushes, and they obey the rules of war (such as honoring a truce) only
 as long as it is convenient for them.
 
-**Light Sensitivity (Ex):** Orcs are dazzled in bright sunlight or
+### Light Sensitivity (Ex)
+Orcs are dazzled in bright sunlight or
 within the radius of a *daylight* spell.
 
 ### Orcs as Characters
 
-**Orc Traits (Ex):** Orcs possess the following racial traits.
+### Orc Traits (Ex)
+Orcs possess the following racial traits.
 
 --- +4 Strength, --2 Intelligence, --2 Wisdom, --2 Charisma.
 
@@ -17959,7 +18904,8 @@ pigmentation, sloping foreheads, jutting jaws, prominent teeth, and
 coarse body hair. Half-orcs who have lived among or near orcs have
 scars, in keeping with orcish tradition.
 
-**Half-Orc Traits (Ex):** Half-orcs possess the following racial traits.
+### Half-Orc Traits (Ex)
+Half-orcs possess the following racial traits.
 
 --- +2 Strength, --2 Intelligence, --2 Charisma.
 
@@ -18016,18 +18962,22 @@ hungry; otherwise it is content to remain hidden. Otyughs slash and
 squeeze opponents with their tentacles, which they also use to drag prey
 into their mouths.
 
-**Constrict (Ex):** An otyugh deals automatic tentacle damage with a
+### Constrict (Ex)
+An otyugh deals automatic tentacle damage with a
 successful grapple check.
 
-**Disease (Ex):** Filth fever---bite, Fortitude DC 14, incubation period
+### Disease (Ex)
+Filth fever---bite, Fortitude DC 14, incubation period
 1d3 days; damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
 
-**Improved Grab (Ex):** To use this ability, an otyugh must hit with a
+### Improved Grab (Ex)
+To use this ability, an otyugh must hit with a
 tentacle attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can constrict.
 
-**Skills:** \*An otyugh has a +8 racial bonus on Hide checks when in its
+### Skills
+\*An otyugh has a +8 racial bonus on Hide checks when in its
 lair, due to its natural coloration.
 
 ## Owl, Giant
@@ -18070,10 +19020,12 @@ Giant owls speak Common and Sylvan.
 A giant owl attacks by gliding silently just a few feet above its prey
 and plunging to strike when directly overhead.
 
-**Superior Low-Light Vision (Ex):** A giant owl can see five times as
+### Superior Low-Light Vision (Ex)
+A giant owl can see five times as
 far as a human can in dim light.
 
-**Skills:** Giant owls have a +8 racial bonus on Listen checks and a +4
+### Skills
+Giant owls have a +8 racial bonus on Listen checks and a +4
 racial bonus on Spot checks.
 
 \*When in flight, giant owls gain a +8 bonus on Move Silently checks.
@@ -18092,7 +19044,8 @@ Giant owl eggs are worth 2,500 gp apiece on the open market, while
 chicks are worth 4,000 gp each. Professional trainers charge 1,000 gp to
 rear or train a giant owl.
 
-**Carrying Capacity:** A light load for a giant owl is up to 300 pounds;
+### Carrying Capacity
+A light load for a giant owl is up to 300 pounds;
 a medium load, 301--600 pounds; and a heavy load, 601--900 pounds.
 
 ## Owlbear
@@ -18134,7 +19087,8 @@ Owlbears attack prey---any creature bigger than a mouse---on sight,
 always fighting to the death. They slash with claws and beak, trying to
 grab their prey and rip it apart.
 
-**Improved Grab (Ex):** To use this ability, an owlbear must hit with a
+### Improved Grab (Ex)
+To use this ability, an owlbear must hit with a
 claw attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
@@ -18175,10 +19129,12 @@ understand Common.
 
 ### Combat
 
-**Spell-Like Abilities:** At will---*detect good* and *detect evil*
+### Spell-Like Abilities
+At will---*detect good* and *detect evil*
 within a 60-foot radius. Caster level 5th.
 
-**Skills:** Pegasi have a +4 racial bonus on Listen and Spot checks.
+### Skills
+Pegasi have a +4 racial bonus on Listen and Spot checks.
 
 ### Training a Pegasus
 
@@ -18195,7 +19151,8 @@ worth 3,000 gp per head. Pegasi mature at the same rate as horses.
 Professional trainers charge 1,000 gp to rear or train a pegasus, which
 serves a good or neutral master with absolute faithfulness for life.
 
-**Carrying Capacity:** A light load for a pegasus is up to 300 pounds; a
+### Carrying Capacity
+A light load for a pegasus is up to 300 pounds; a
 medium load, 301--600 pounds; and a heavy load, 601--900 pounds.
 
 ## Phantom Fungus
@@ -18239,14 +19196,16 @@ A phantom fungus usually roams quietly, hunting for prey. It attacks
 lone individuals almost anywhere, but when tackling groups it prefers an
 open space where it has a better chance .
 
-**Greater Invisibility (Su):** This ability is constant, allowing a
+### Greater Invisibility (Su)
+This ability is constant, allowing a
 phantom fungus to remain invisible even when attacking. It works like
 *greater invisibility* (caster level 12th) and lasts as long as the
 phantom fungus is alive. This ability is not subject to the
 *invisibility purge* spell. A phantom fungus becomes visible 1 minute
 after it is killed.
 
-**Skills:** A phantom fungus has a +5 racial bonus on Move Silently
+### Skills
+A phantom fungus has a +5 racial bonus on Move Silently
 checks.
 
 ## Phase Spider
@@ -18291,15 +19250,18 @@ locates prey, however, it shifts to the Ethereal Plane to attack,
 attempting to catch its victim flat-footed. The spider shifts in, bites
 its victim, and retreats quickly back to the Ethereal Plane.
 
-**Ethereal Jaunt (Su):** A phase spider can shift from the Ethereal
+### Ethereal Jaunt (Su)
+A phase spider can shift from the Ethereal
 Plane to the Material Plane as a free action, and shift back again as a
 move action (or during a move action). The ability is otherwise
 identical with *ethereal jaunt* (caster level 15th).
 
-**Poison (Ex):** Injury, Fortitude DC 17, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 17, initial and secondary damage
 1d8 Con. The save DC is Constitution-based.
 
-**Skills:** A phase spider has a +8 racial bonus on Climb checks and can
+### Skills
+A phase spider has a +8 racial bonus on Climb checks and can
 always choose to take 10 on a Climb check, even if rushed or threatened.
 
 ## Phasm
@@ -18346,11 +19308,13 @@ If pursued or harassed, a phasm transforms into the most fearsome
 creature it knows and attacks. When seriously hurt, it changes to some
 fast or agile form and tries to escape.
 
-**Amorphous (Ex):** A phasm in its natural form has immunity to poison,
+### Amorphous (Ex)
+A phasm in its natural form has immunity to poison,
 *sleep,* paralysis, polymorph, and stunning effects. It is not subject
 to critical hits and, having no clear front or back, cannot be flanked.
 
-**Resilient (Ex):** A phasm has a +4 racial bonus on Fortitude and
+### Resilient (Ex)
+A phasm has a +4 racial bonus on Fortitude and
 Reflex saves (included in the statistics block).
 
 Alternate Form (Su): A phasm can assume any form of Large size or
@@ -18359,11 +19323,13 @@ spell cast on itself (caster level 15th), except that the phasm does not
 regain hit points for changing form. A phasm can remain in its alternate
 form until it chooses to assume a new one or return to its natural form.
 
-**Tremorsense (Ex):** A phasm can automatically sense the location of
+### Tremorsense (Ex)
+A phasm can automatically sense the location of
 anything within 60 feet that is in contact with the ground, so long as
 it is touching the ground itself.
 
-**Skills:** \*When using shapechange, a phasm gains a +10 circumstance
+### Skills
+\*When using shapechange, a phasm gains a +10 circumstance
 bonus on Disguise checks.
 
 ## Planetouched
@@ -18423,10 +19389,12 @@ Aasimars usually like a fair, straightforward contest. Against a
 particularly evil foe, however, they fight with utter conviction and to
 the death.
 
-***Daylight* (Sp):** An aasimar can use day*light* once per day as a
+### *Daylight* (Sp)
+An aasimar can use day*light* once per day as a
 1^st^-level caster or a caster of his class levels, whichever is higher.
 
-**Skills:** An aasimar has a +2 racial bonus on Spot and Listen checks.
+### Skills
+An aasimar has a +2 racial bonus on Spot and Listen checks.
 
 The aasimar warrior presented here had the following ability scores
 before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
@@ -18499,10 +19467,12 @@ cloven feet. No two tieflings are the same.
 Tieflings are sneaky, subtle, and generally conniving. They prefer to
 strike from ambush and usually avoid a fair fight if they can.
 
-***Darkness* (Sp):** A tiefling can use *darkness* once per day (caster
+### *Darkness* (Sp)
+A tiefling can use *darkness* once per day (caster
 level equal to class levels).
 
-**Skills:** A tiefling has a +2 racial bonus on Bluff and Hide checks.
+### Skills
+A tiefling has a +2 racial bonus on Bluff and Hide checks.
 
 The tiefling warrior presented here had the following ability scores
 before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
@@ -18574,20 +19544,24 @@ animal noises.
 A pseudodragon can deliver a vicious bite, but its principal weapon is
 its sting-equipped tail.
 
-**Poison (Ex):** Injury, Fortitude DC 14, initial damage sleep for 1
+### Poison (Ex)
+Injury, Fortitude DC 14, initial damage sleep for 1
 minute, secondary damage sleep for 1d3 hours. The save DC is
 Constitution-based and includes a +2 racial bonus.
 
-**Blindsense (Ex):** A pseudodragon can locate creatures within 60 feet
+### Blindsense (Ex)
+A pseudodragon can locate creatures within 60 feet
 by nonvisual means (mostly hearing and scent, but also by noticing
 vibration and other environmental clues). Opponents the pseudodragon
 can't actually see still have total concealment against the
 pseudodragon.
 
-**Telepathy (Su):** Pseudodragons can communicate telepathically with
+### Telepathy (Su)
+Pseudodragons can communicate telepathically with
 creatures that speak Common or Sylvan, provided they are within 60 feet.
 
-**Skills:** Pseudodragons have a chameleonlike ability that grants them
+### Skills
+Pseudodragons have a chameleonlike ability that grants them
 a +4 racial bonus on Hide checks. \*In forests or overgrown areas, this
 bonus improves to +8.
 
@@ -18627,16 +19601,19 @@ its tail.
 In battle, a purple worm forms into a coil 20 feet in diameter, biting
 and stinging anything within reach.
 
-**Improved Grab (Ex):** To use this ability, a purple worm must hit with
+### Improved Grab (Ex)
+To use this ability, a purple worm must hit with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can attempt to swallow the foe the
 following round.
 
-**Poison (Ex):** Injury, Fortitude DC 25, initial damage 1d6 Str,
+### Poison (Ex)
+Injury, Fortitude DC 25, initial damage 1d6 Str,
 secondary damage 2d6 Str. The save DC is Constitution-based.
 
-**Swallow Whole (Ex):** A purple worm can try to swallow a grabbed
+### Swallow Whole (Ex)
+A purple worm can try to swallow a grabbed
 opponent of a smaller size than itself by making a successful grapple
 check. Once inside, the opponent takes 2d8+12 points of crushing damage
 plus 8 points of acid damage per round from the worm's gizzard. A
@@ -18647,7 +19624,8 @@ opponent must cut its own way out. A Gargantuan worm's interior can hold
 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller
 opponents.
 
-**Skills:** A purple worm has a +8 racial bonus on any Swim check to
+### Skills
+A purple worm has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -18692,12 +19670,14 @@ In close combat, which a rakshasa disdains as ignoble, it employs its
 sharp claws and powerful bite. Whenever possible, it uses its other
 abilities to make such encounters unnecessary.
 
-**Detect Thoughts (Su):** A rakshasa can continuously use detect
+### Detect Thoughts (Su)
+A rakshasa can continuously use detect
 thoughts as the spell (caster level 18th; Will DC 15 negates). It can
 suppress or resume this ability as a free action. The save DC is
 Charisma-based.
 
-**Spells:** A rakshasa casts spells as a 7th-level sorcerer.
+### Spells
+A rakshasa casts spells as a 7th-level sorcerer.
 
 *Typical Sorcerer Spells Known* (6/7/7/5; save DC 13 + spell level):
 0---*detect magic, light, mage hand, message, read magic, resistance,
@@ -18705,7 +19685,8 @@ touch of fatigue;* 1st---*charm person, mage armor, magic missile,
 shield, silent image;* 2nd---*bear's endurance, invisibility, acid
 arrow;* 3rd---*haste, suggestion.*
 
-**Change Shape (Su):** A rakshasa can assume any humanoid form, or
+### Change Shape (Su)
+A rakshasa can assume any humanoid form, or
 revert to its own form, as a standard action. In humanoid form, a
 rakshasa loses its claw and bite attacks (although it often equips
 itself with weapons and armor instead). A rakshasa remains in one form
@@ -18713,7 +19694,8 @@ until it chooses to assume a new one. A change in form cannot be
 dispelled, but the rakshasa reverts to its natural form when killed. A
 *true seeing* spell reveals its natural form.
 
-**Skills:** A rakshasa has a +4 racial bonus on Bluff and Disguise
+### Skills
+A rakshasa has a +4 racial bonus on Bluff and Disguise
 checks. \*When using change shape, a rakshasa gains an additional +10
 circumstance bonus on Disguise checks. If reading an opponent's mind,
 its circumstance bonus on Bluff and Disguise checks increases by a
@@ -18810,17 +19792,21 @@ Rasts paralyze as many of their foes as possible, then attack any that
 are still moving. A rast can claw or bite, but cannot do both during the
 same round.
 
-**Paralyzing Gaze (Su):** Paralysis for 1d6 rounds, 30 feet, Fortitude
+### Paralyzing Gaze (Su)
+Paralysis for 1d6 rounds, 30 feet, Fortitude
 DC 13 negates. The save DC is Charisma-based.
 
-**Improved Grab (Ex):** To use this ability, a rast must hit with its
+### Improved Grab (Ex)
+To use this ability, a rast must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
-**Blood Drain (Ex):** A rast drains blood from a grabbed opponent,
+### Blood Drain (Ex)
+A rast drains blood from a grabbed opponent,
 dealing 1 point of Constitution damage each round it maintains the hold.
 
-**Flight (Su):** A rast can cease or resume flight as a free action. A
+### Flight (Su)
+A rast can cease or resume flight as a free action. A
 rast that loses this ability falls and can perform only a single action
 (either a move action or an attack action) each round.
 
@@ -18865,7 +19851,8 @@ Ravids fight only in self-defense. A ravid itself is not very powerful
 but is always accompanied by at least one animated object that defends
 it.
 
-**Positive Energy Lash (Su):** A ravid can make a touch attack or hit
+### Positive Energy Lash (Su)
+A ravid can make a touch attack or hit
 with a claw or tail slap attack to infuse a target with positive energy.
 The energy produces an unpleasant tingle in living creatures, and
 against undead foes (even incorporeal ones) it deals 2d10 points of
@@ -18877,11 +19864,13 @@ a ravid animates as though by the spell *animate objects* (caster level
 the ravid isn't intelligent enough to employ elaborate tactics with
 them.
 
-**Flight (Su):** A ravid can cease or resume flight as a free action. A
+### Flight (Su)
+A ravid can cease or resume flight as a free action. A
 rast that loses this ability falls and can perform only a single action
 (either a move action or an attack action) each round.
 
-**Feats:** A ravid has the Multiattack feat even through it does not
+### Feats
+A ravid has the Multiattack feat even through it does not
 have the requisite three natural weapons.
 
 ## Remorhaz
@@ -18922,14 +19911,16 @@ Remorhazes cannot speak.
 Remorhazes hide under the snow and ice until they hear movement above
 them, then attack from below and surprise prey.
 
-**Improved Grab (Ex):** To use this ability, a remorhaz must hit an
+### Improved Grab (Ex)
+To use this ability, a remorhaz must hit an
 opponent least one size category smaller than itself with its bite
 attack. It can then attempt to start a grapple as a free action without
 provoking an attack of opportunity. If it wins the grapple check, it
 establishes a hold and can attempt to swallow the opponent the following
 round.
 
-**Swallow Whole (Ex):** When a remorhaz begins its turn with a grappled
+### Swallow Whole (Ex)
+When a remorhaz begins its turn with a grappled
 opponent in its mouth, it can swallow that opponent with a successful
 grapple check. Once inside, the opponent takes 2d8+12 points of
 bludgeoning damage plus 8d6 points of fire damage per round from the
@@ -18940,7 +19931,8 @@ hole; another swallowed opponent must cut its own way out. A Huge
 remorhaz's interior can hold 2 Large, 4 Medium, 8 Small, 32 Tiny, 128
 Diminutive, or 512 Fine or smaller opponents.
 
-**Heat (Ex):** An enraged remorhaz generates heat so intense that
+### Heat (Ex)
+An enraged remorhaz generates heat so intense that
 anything touching its body takes 8d6 points of fire damage. Creatures
 striking a remorhaz with natural attacks or unarmed attacks are subject
 to this damage, but creatures striking with melee weapons do not take
@@ -18989,7 +19981,8 @@ solitary roc is typically hunting and will attack any Medium or larger
 creature that appears edible. A mated pair of rocs attack in concert,
 fighting to the death to defend their nests or hatchlings.
 
-**Skills:** Rocs have a +4 racial bonus on Spot checks.
+### Skills
+Rocs have a +4 racial bonus on Spot checks.
 
 ## Roper
 
@@ -19032,7 +20025,8 @@ tactic often allows it to attack with surprise. When prey comes within
 reach, it lashes out with its strands. In melee, it bites adjacent
 opponents with its powerful maw.
 
-**Drag (Ex):** If a roper hits with a strand attack, the strand latches
+### Drag (Ex)
+If a roper hits with a strand attack, the strand latches
 onto the opponent's body. This deals no damage but drags the stuck
 opponent 10 feet closer each subsequent round (provoking no attack of
 opportunity) unless that creature breaks free, which requires a DC 23
@@ -19046,17 +20040,20 @@ is currently attached to a target, the roper takes a --4 penalty on its
 opposed attack roll to resist the sunder attempt. Severing a strand
 deals no damage to a roper.
 
-**Strands (Ex):** Most encounters with a roper begin when it fires
+### Strands (Ex)
+Most encounters with a roper begin when it fires
 strong, sticky strands. The creature can have up to six strands at once,
 and they can strike up to 50 feet away (no range increment). If a strand
 is severed, the roper can extrude a new one on its next turn as a free
 action.
 
-**Weakness (Ex):** A roper's strands can sap an opponent's strength.
+### Weakness (Ex)
+A roper's strands can sap an opponent's strength.
 Anyone grabbed by a strand must succeed on a DC 18 Fortitude save or
 take 2d8 points of Strength damage. The save DC is Constitution-based.
 
-**Skills:** \*Ropers have a +8 racial bonus on Hide checks in stony or
+### Skills
+\*Ropers have a +8 racial bonus on Hide checks in stony or
 icy areas.
 
 ## Rust Monster
@@ -19106,7 +20103,8 @@ at armor, then at shields and smaller items. It prefers ferrous metals
 (steel or iron) over precious metals (such as gold or silver) but will
 devour the latter if given the opportunity.
 
-**Rust (Ex):** A rust monster that makes a successful touch attack with
+### Rust (Ex)
+A rust monster that makes a successful touch attack with
 its antennae causes the target metal to corrode, falling to pieces and
 becoming useless immediately. The touch can destroy up to a 10-foot cube
 of metal instantly. Magic armor and weapons, and other magic items made
@@ -19173,37 +20171,45 @@ swimming, a sahuagin tears with its feet as it strikes with its talons
 or a weapon. About half of any group of sahuagin are also armed with
 nets.
 
-**Blindsense (Ex):** A sahuagin can locate creatures underwater within a
+### Blindsense (Ex)
+A sahuagin can locate creatures underwater within a
 30-foot radius. This ability works only when the sahuagin is underwater.
 
-**Blood Frenzy:** Once per day a sahuagin that takes damage in combat
+### Blood Frenzy
+Once per day a sahuagin that takes damage in combat
 can fly into a frenzy in the following round, clawing and biting madly
 until either it or its opponent is dead. It gains +2 Constitution and +2
 Strength, and takes a --2 penalty to Armor Class. A sahuagin cannot end
 its frenzy voluntarily.
 
-**Rake (Ex):** Attack bonus +2 melee, damage 1d4+1. A sahuagin also
+### Rake (Ex)
+Attack bonus +2 melee, damage 1d4+1. A sahuagin also
 gains two rake attacks when it attacks while swimming.
 
-**Freshwater Sensitivity (Ex):** A sahuagin fully immersed in fresh
+### Freshwater Sensitivity (Ex)
+A sahuagin fully immersed in fresh
 water must succeed on a DC 15 Fortitude save or become fatigued. Even on
 a success, it must repeat the save attempt every 10 minutes it remains
 immersed.
 
-**Light Blindness (Ex):** Abrupt exposure to bright light (such as
+### Light Blindness (Ex)
+Abrupt exposure to bright light (such as
 sunlight or a *daylight* spell) blinds sahuagin for round. On subsequent
 rounds, they are dazzled while operating in bright light.
 
-**Speak with Sharks (Ex):** Sahuagin can communicate telepathically with
+### Speak with Sharks (Ex)
+Sahuagin can communicate telepathically with
 sharks up to 150 feet away. The communication is limited to fairly
 simple concepts such as "food," "danger," and "enemy." Sahuagin can use
 the Handle Animal skill to befriend and train sharks.
 
-**Water Dependent (Ex):** Sahuagin can survive out of the water for 1
+### Water Dependent (Ex)
+Sahuagin can survive out of the water for 1
 hour per 2 points of Constitution (after that, refer to the drowning
 rules on page 304 of the *Dungeon Master 's Guide*).
 
-**Skills:** A sahuagin has a +8 racial bonus on any Swim check to
+### Skills
+A sahuagin has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -19267,30 +20273,36 @@ speak Common.
 If a salamander has damage reduction, its natural weapons are treated as
 magic weapons for the purpose of overcoming damage reduction.
 
-**Constrict (Ex):** A salamander deals automatic tail slap damage
+### Constrict (Ex)
+A salamander deals automatic tail slap damage
 (including fire damage) with a successful grapple check. A noble
 salamander can constrict multiple creatures simultaneously, provided
 they are all at least two sizes smaller than it.
 
-**Heat (Ex):** A salamander generates so much heat that its mere touch
+### Heat (Ex)
+A salamander generates so much heat that its mere touch
 deals additional fire damage. Salamanders' metallic weapons also conduct
 this heat.
 
-**Improved Grab (Ex):** To use this ability, a salamander must hit a
+### Improved Grab (Ex)
+To use this ability, a salamander must hit a
 creature of up to one size larger than itself with its tail slap attack.
 It can then attempt to start a grapple as a free action without
 provoking an attack of opportunity. If it wins the grapple check, it
 establishes a hold and can constrict.
 
-**Spell-Like Abilities:** (Noble salamanders only) 3/day---*burning
+### Spell-Like Abilities
+(Noble salamanders only) 3/day---*burning
 hands* (DC 13), *fireball* (DC 15), *flaming sphere* (DC 14), *wall of
 fire* (DC 16); 1/day---*dispel magic, summon monster VII* (Huge fire
 elemental). Caster level 15th. The save DCs are Charisma-based.
 
-**Skills:** Salamanders have a +4 racial bonus on Craft (blacksmithing)
+### Skills
+Salamanders have a +4 racial bonus on Craft (blacksmithing)
 checks.
 
-**Feats:** Salamanders have the Multiattack feat even though they do not
+### Feats
+Salamanders have the Multiattack feat even though they do not
 have the requisite three natural weapons.
 
 ## Satyr
@@ -19335,7 +20347,8 @@ powerful head butt. A satyr expecting trouble is likely to be armed with
 a bow and a dagger and typically looses arrows from hiding, weakening an
 enemy before closing.
 
-**Pipes (Su):** Satyrs can play a variety of magical tunes on their pan
+### Pipes (Su)
+Satyrs can play a variety of magical tunes on their pan
 pipes. Usually, only one satyr in a group carries pipes. When it plays,
 all creatures within a 60-foot spread (except satyrs) must succeed on a
 DC 13 Will save or be affected by *charm person, sleep,* or *fear*
@@ -19346,7 +20359,8 @@ creature that successfully saves against any of the pipe's effects
 cannot be affected by the same set of pipes for 24 hours. The save DC is
 Charisma-based.
 
-**Skills:** Satyrs have a +4 racial bonus on Hide, Listen, Move
+### Skills
+Satyrs have a +4 racial bonus on Hide, Listen, Move
 Silently, Perform, and Spot checks.
 
 ### Satyrs as Characters
@@ -19425,14 +20439,17 @@ tremendous courage, always fighting to the death, even against creatures
 many times their size. Pairs and prides of sea cats attack in concert,
 trying to wear the opponent down until one beast can dispatch it.
 
-**Hold Breath (Ex):** A sea cat can hold its breath for a number of
+### Hold Breath (Ex)
+A sea cat can hold its breath for a number of
 rounds equal to 6  its Constitution score before it risks drowning.
 
-**Rend (Ex):** A sea cat that hits with both claw attacks latches onto
+### Rend (Ex)
+A sea cat that hits with both claw attacks latches onto
 the opponent's body and tears the flesh. This automatically deals an
 extra 2d6+6 points of damage.
 
-**Skills:** A sea cat has a +8 racial bonus on any Swim check to perform
+### Skills
+A sea cat has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -19475,14 +20492,17 @@ intelligibly.
 
 Shadows lurk in dark places, waiting for living prey to happen by.
 
-**Strength Damage (Su):** The touch of a shadow deals 1d6 points of
+### Strength Damage (Su)
+The touch of a shadow deals 1d6 points of
 Strength damage to a living foe. A creature reduced to Strength 0 by a
 shadow dies. This is a negative energy effect.
 
-**Create Spawn (Su):** Any humanoid reduced to Strength 0 by a shadow
+### Create Spawn (Su)
+Any humanoid reduced to Strength 0 by a shadow
 becomes a shadow under the control of its killer within 1d4 rounds.
 
-**Skills:** Shadows have a +2 racial bonus on Listen and Spot checks and
+### Skills
+Shadows have a +2 racial bonus on Listen and Spot checks and
 a +4 racial bonus on Search checks. \*A shadow gains a +4 racial bonus
 on Hide checks in areas of shadowy illumination. In brightly lit areas,
 it takes a --4 penalty on Hide checks.
@@ -19495,7 +20515,8 @@ tactics.
 
 #### Combat
 
-**Strength Damage (Su):** The touch of a greater shadow deals 1d8 points
+### Strength Damage (Su)
+The touch of a greater shadow deals 1d8 points
 of Strength damage to a living foe.
 
 ## Shadow Mastiff
@@ -19543,25 +20564,29 @@ mastiffs are cunning enough to either move out of the light or back off
 and break up the opposition with their baying. They have been known to
 seize and carry off items enspelled with *daylight* spells.
 
-**Bay (Su):** When a shadow mastiff howls or barks, all creatures except
+### Bay (Su)
+When a shadow mastiff howls or barks, all creatures except
 evil outsiders within a 300-foot spread must succeed on a DC 13 Will
 save or become panicked for 2d4 rounds. This is a sonic mind-affecting
 fear effect. Whether or not the save is successful, an affected creature
 is immune to the same mastiff 's bay for 24 hours. The save DC is
 Charisma-based.
 
-**Trip (Ex):** A shadow mastiff that hits with its bite attack can
+### Trip (Ex)
+A shadow mastiff that hits with its bite attack can
 attempt to trip the opponent as a free action (+3 check modifier)
 without making a touch attack or provoking an attack of opportunity. If
 the attempt fails, the opponent cannot react to trip the shadow mastiff.
 
-**Shadow Blend (Su):** In any condition of illumination other than full
+### Shadow Blend (Su)
+In any condition of illumination other than full
 daylight, a shadow mastiff can disappear into the shadows, giving it
 total concealment. Artificial illumination, even a *light* or *continual
 flame* spell, does not negate this ability. A *daylight* spell, however,
 will.
 
-**Skills:** \*A shadow mastiff has a +4 racial bonus on Survival checks
+### Skills
+\*A shadow mastiff has a +4 racial bonus on Survival checks
 when tracking by scent.
 
 ## Shambling Mound
@@ -19604,15 +20629,18 @@ creature stands erect. It weighs about 3,800 pounds.
 A shambling mound batters or constricts its opponents with two huge,
 armlike appendages.
 
-**Improved Grab (Ex):** To use this ability, a shambler must hit with
+### Improved Grab (Ex)
+To use this ability, a shambler must hit with
 both slam attacks. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict.
 
-**Constrict (Ex):** A shambler deals 2d6+7 points of damage with a
+### Constrict (Ex)
+A shambler deals 2d6+7 points of damage with a
 successful grapple check.
 
-**Immunity to Electricity (Ex):** Shamblers take no damage from
+### Immunity to Electricity (Ex)
+Shamblers take no damage from
 electricity. Instead, any electricity attack used against a shambler
 temporarily grants it 1d4 points of Constitution. The shambler loses
 these points at the rate of 1 per hour.
@@ -19671,22 +20699,26 @@ Shield guardians are straightforward in battle, bashing with their heavy
 stone fists. They are made for defense and are not particularly
 impressive on offense.
 
-**Find Master (Su):** As long as a shield guardian and its amulet are on
+### Find Master (Su)
+As long as a shield guardian and its amulet are on
 the same plane, the shield guardian can find the amulet wearer (or just
 the amulet, if it is removed after the guardian is called).
 
-**Guard (Ex):** If ordered to do so, a shield guardian moves swiftly to
+### Guard (Ex)
+If ordered to do so, a shield guardian moves swiftly to
 defend the wearer of its amulet, blocking blows and disrupting foes. All
 attacks against the amulet wearer take a --2 penalty when the shield
 guardian is adjacent to its master.
 
-***Shield Other* (Sp):** The wearer of a shield guardian's amulet can
+### *Shield Other* (Sp)
+The wearer of a shield guardian's amulet can
 activate this defensive ability if within 100 feet of the shield
 guardian. Just as the spell of the same name, this ability transfers to
 the shield guardian half the damage that would be dealt to the amulet
 wearer (this ability does not provide the spell's AC or save bonuses).
 
-***Spell Storing* (Sp):** A shield guardian can store one spell of 4th
+### *Spell Storing* (Sp)
+A shield guardian can store one spell of 4th
 level or lower that is cast into it by another creature. It "casts" this
 spell when commanded to do so or when a predefined situation arises.
 Once this spell is used, the shield guardian can store another spell (or
@@ -19763,22 +20795,26 @@ flees once it delivers its shocks, but if other shocker lizards are
 nearby, they all home in on their comrade's discharges and attempt to
 administer their shocks to the foe.
 
-**Stunning Shock (Su):** Once per round, a shocker lizard can deliver an
+### Stunning Shock (Su)
+Once per round, a shocker lizard can deliver an
 electrical shock to a single opponent within 5 feet. This attack deals
 2d8 points of nonlethal damage to living opponents (Reflex DC 12 half ).
 The save DC is Constitution-based.
 
-**Lethal Shock (Su):** Whenever two or more shocker lizards are within
+### Lethal Shock (Su)
+Whenever two or more shocker lizards are within
 20 feet of each other, they can work together to create a lethal shock.
 This effect has a radius of 20 feet, centered on any one contributing
 lizard. The shock deals 2d8 points of electricity damage for each lizard
 contributing to it, to a maximum of 12d8. A Reflex save (DC 10 + number
 of lizards contributing) reduces the damage by half.
 
-**Electricity Sense (Ex):** Shocker lizards automatically detect any
+### Electricity Sense (Ex)
+Shocker lizards automatically detect any
 electrical discharges within 100 feet.
 
-**Skills:** Shocker lizards have a +4 racial bonus on Hide checks due to
+### Skills
+Shocker lizards have a +4 racial bonus on Hide checks due to
 their coloration. Shocker lizards have a +2 racial bonus on Listen and
 Spot checks.
 
@@ -19810,20 +20846,24 @@ always be simple. A skeleton attacks until destroyed.
 creature (other than an undead) that has a skeletal system (referred to
 hereafter as the base creature).
 
-**Size and Type:** The creature's type changes to undead. It retains any
+### Size and Type
+The creature's type changes to undead. It retains any
 subtype except for alignment subtypes (such as good) and subtypes that
 indicate kind. It does not gain the augmented subtype. It uses all the
 base creature's statistics and special abilities except as noted here.
 
-**Hit Dice:** Drop any Hit Dice gained from class levels (to a minimum
+### Hit Dice
+Drop any Hit Dice gained from class levels (to a minimum
 of 1) and raise remaining Hit Dice to d12s. If the creature has more
 than 20 Hit Dice, it can't be made into a skeleton by the *animate dead*
 spell.
 
-**Speed:** Winged skeletons can't use their wings to fly. If the base
+### Speed
+Winged skeletons can't use their wings to fly. If the base
 creature flew magically, so can the skeleton.
 
-**Armor Class:** Natural armor bonus changes to a number based on the
+### Armor Class
+Natural armor bonus changes to a number based on the
 skeleton's size:
 
   ----------------- -----
@@ -19835,14 +20875,16 @@ skeleton's size:
   Colossal          +10
   ----------------- -----
 
-**Attacks:** A skeleton retains all the natural weapons, manufactured
+### Attacks
+A skeleton retains all the natural weapons, manufactured
 weapon attacks, and weapon proficiencies of the base creature, except
 for attacks that can't work without flesh. A creature with hands gains
 one claw attack per hand; the skeleton can strike with each of its claw
 attacks at its full attack bonus. A skeleton's base attack bonus is
 equal to 1/2 its Hit Dice.
 
-**Damage:** Natural and manufactured weapons deal damage normally. A
+### Damage
+Natural and manufactured weapons deal damage normally. A
 claw attack deals damage depending on the skeleton's size. (If the base
 creature already had claw attacks with its hands, use the skeleton claw
 damage only if it's better.)
@@ -19858,10 +20900,12 @@ damage only if it's better.)
   Colossal             2d8
   -------------------- -----
 
-**Special Attacks:** A skeleton retains none of the base creature's
+### Special Attacks
+A skeleton retains none of the base creature's
 special attacks.
 
-**Special Qualities:** A skeleton loses most special qualities of the
+### Special Qualities
+A skeleton loses most special qualities of the
 base creature. It retains any extraordinary special qualities that
 improve its melee or ranged attacks. A skeleton gains the following
 special qualities.
@@ -19871,23 +20915,30 @@ special qualities.
 *Damage Reduction 5/Bludgeoning:* Skeletons lack flesh or internal
 organs.
 
-**Saves:** Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will
+### Saves
+Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will
 +1/2 HD + 2.
 
-**Abilities:** A skeleton's Dexterity increases by +2, it has no
+### Abilities
+A skeleton's Dexterity increases by +2, it has no
 Constitution or Intelligence score, its Wisdom changes to 10, and its
 Charisma changes to 1.
 
-**Skills:** A skeleton has no skills.
+### Skills
+A skeleton has no skills.
 
-**Feats:** A skeleton loses all feats of the base creature and gains
+### Feats
+A skeleton loses all feats of the base creature and gains
 Improved Initiative.
 
-**Environment:** Any, usually same as base creature.
+### Environment
+Any, usually same as base creature.
 
-**Organization:** Any.
+### Organization
+Any.
 
-**Challenge Rating:** Depends on Hit Dice, as follows:
+### Challenge Rating
+Depends on Hit Dice, as follows:
 
   ---------- ------------------
   Hit Dice   Challenge Rating
@@ -19903,14 +20954,18 @@ Improved Initiative.
   18--20     8
   ---------- ------------------
 
-**Treasure:** None.
+### Treasure
+None.
 
-**Alignment:** Always neutral evil.
+### Alignment
+Always neutral evil.
 
-**Advancement:** As base creature (or --- if the base creature advances
+### Advancement
+As base creature (or --- if the base creature advances
 by character class).
 
-**Level Adjustment:** ---.
+### Level Adjustment
+---.
 
   ------------------------------------------------------------ ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
                                                                Human Warrior Skeleton                                                               Wolf Skeleton                                                                        Owlbear Skeleton
@@ -20018,10 +21073,12 @@ A skum is about the same height and weight as a human. Skum speak Aquan.
 
 ### Combat
 
-**Rake (Ex):** Attack bonus +0 melee, damage 1d6+2. A skum also gains
+### Rake (Ex)
+Attack bonus +0 melee, damage 1d6+2. A skum also gains
 two rake attacks when it attacks while swimming.
 
-**Skills:** \*Skum have a +4 racial bonus on Hide, Listen, and Spot
+### Skills
+\*Skum have a +4 racial bonus on Hide, Listen, and Spot
 checks underwater.
 
 A skum has a +8 racial bonus on any Swim check to perform some special
@@ -20067,22 +21124,26 @@ In close combat a spectre attacks with its numbing, life-draining touch.
 It makes full use of its incorporeal nature, moving through walls,
 ceilings, and floors as it attacks.
 
-**Energy Drain (Su):** Living creatures hit by a spectre's incorporeal
+### Energy Drain (Su)
+Living creatures hit by a spectre's incorporeal
 touch attack gain two negative levels. The DC is 15 for the Fortitude
 save to remove a negative level. The save DC is Charisma-based. For each
 such negative level bestowed, the spectre gains 5 temporary hit points.
 
-**Create Spawn (Su):** Any humanoid slain by a spectre becomes a spectre
+### Create Spawn (Su)
+Any humanoid slain by a spectre becomes a spectre
 in 1d4 rounds. Spawn are under the command of the spectre that created
 them and remain enslaved until its death. They do not possess any of the
 abilities they had in life.
 
-**Unnatural Aura (Su):** Animals, whether wild or domesticated, can
+### Unnatural Aura (Su)
+Animals, whether wild or domesticated, can
 sense the unnatural presence of a spectre at a distance of 30 feet. They
 do not willingly approach nearer than that and panic if forced to do so;
 they remain panicked as long as they are within that range.
 
-**Sunlight Powerlessness (Ex):** Spectres are powerless in natural
+### Sunlight Powerlessness (Ex)
+Spectres are powerless in natural
 sunlight (not merely a *daylight* spell) and flee from it. A spectre
 caught in sunlight cannot attack and can take only a single move or
 attack action in a round.
@@ -20104,10 +21165,12 @@ Most sphinxes fight on the ground, using their wings to help them pounce
 much as lions do. If outnumbered by earthbound creatures, a sphinx takes
 wing and attacks on the fly.
 
-**Pounce (Ex):** If a sphinx charges a foe, it can make a full attack,
+### Pounce (Ex)
+If a sphinx charges a foe, it can make a full attack,
 including two rake attacks.
 
-**Rake (Ex):** A sphinx that pounces onto a creature can make two rake
+### Rake (Ex)
+A sphinx that pounces onto a creature can make two rake
 attacks with its hind legs. Each sphinx's description provides its
 attack bonus and damage.
 
@@ -20147,9 +21210,11 @@ In battle, an androsphinx rips apart enemies with its razor-sharp claws.
 It relies on its natural weapons in a fight, employing its spells for
 defense or healing.
 
-**Rake (Ex):** Attack bonus +18 melee, damage 2d4+3.
+### Rake (Ex)
+Attack bonus +18 melee, damage 2d4+3.
 
-**Roar (Su):** Three times per day an androsphinx can loose a mighty
+### Roar (Su)
+Three times per day an androsphinx can loose a mighty
 roar. The first time it does this, all creatures within 500 feet must
 succeed on a DC 19 Will save or be affected as though by a *fear* spell
 for 2d6 rounds.
@@ -20168,7 +21233,8 @@ carried items can avoid damage with a DC 19 Reflex save. Other
 androsphinxes are immune to these effects. The save DCs are
 Charisma-based.
 
-**Spells:** An androsphinx casts divine spells as a 6th-level cleric
+### Spells
+An androsphinx casts divine spells as a 6th-level cleric
 from the cleric spell list and from the Good, Healing, and Protection
 domains.
 
@@ -20217,7 +21283,8 @@ Criosphinxes attack with their claws, as do their kin, but they can also
 butt with their horns. They don't cast spells and employ only the most
 simple battle tactics.
 
-**Rake (Ex):** Attack bonus +15 melee, damage 1d6+3.
+### Rake (Ex)
+Attack bonus +15 melee, damage 1d6+3.
 
 ### Gynosphinx
 
@@ -20254,9 +21321,11 @@ In close combat, gynosphinxes use their powerful claws to flay the flesh
 from their enemies. Despite their deadly nature, they prefer to avoid
 combat whenever possible.
 
-**Rake (Ex):** Attack bonus +11 melee, damage 1d6+2.
+### Rake (Ex)
+Attack bonus +11 melee, damage 1d6+2.
 
-**Spell-Like Abilities:** 3/day---*clairaudience/clairvoyance, detect
+### Spell-Like Abilities
+3/day---*clairaudience/clairvoyance, detect
 magic, read magic, see invisibility*; 1/day---*comprehend languages,
 locate object, dispel magic, remove curse* (DC 18), *legend lore*.
 Caster level 14th. The save DC is Charisma-based.
@@ -20301,9 +21370,11 @@ Hieracosphinxes can make short work of even the most dangerous opponents
 with their claws. They are not particularly intelligent, but are cunning
 enough to dive at their enemies from above with their flying ability.
 
-**Rake (Ex):** Attack bonus +13 melee, damage 1d6+2.
+### Rake (Ex)
+Attack bonus +13 melee, damage 1d6+2.
 
-**Skills:** Hieracosphinxes have a +4 racial bonus on Spot checks.
+### Skills
+Hieracosphinxes have a +4 racial bonus on Spot checks.
 
 ## Spider Eater
 
@@ -20341,18 +21412,22 @@ A spider eater attacks with its venomous sting and powerful mandibles.
 Its usual tactic is to deliver a sting, then back off, hovering out of
 reach until the venom takes effect.
 
-**Implant (Ex):** Female spider eaters lay their eggs inside paralyzed
+### Implant (Ex)
+Female spider eaters lay their eggs inside paralyzed
 creatures of Large or larger size. The young emerge about six weeks
 later, literally devouring the host from inside.
 
-**Poison (Ex):** Injury, Fortitude DC 17, initial damage none, secondary
+### Poison (Ex)
+Injury, Fortitude DC 17, initial damage none, secondary
 damage paralysis for 1d8+5 weeks. The save DC is Constitution-based.
 
-**Freedom of Movement (Su):** Spider eaters have a continuous freedom of
+### Freedom of Movement (Su)
+Spider eaters have a continuous freedom of
 movement ability as the spell (caster level 12th). When the spider eater
 serves as a mount, this effect does not extend to its rider.
 
-**Skills:** Spider eaters have a +4 racial bonus on Listen and Spot
+### Skills
+Spider eaters have a +4 racial bonus on Listen and Spot
 checks.
 
 ### Training a Spider Eater
@@ -20368,7 +21443,8 @@ Spider eater eggs are worth 2,000 gp apiece on the open market, while
 young are worth 3,000 gp each. Professional trainers charge 3,000 gp to
 rear or train a spider eater.
 
-**Carrying Capacity:** A light load for a spider eater is up to 306
+### Carrying Capacity
+A light load for a spider eater is up to 306
 pounds; a medium load, 307--612 pounds; and a heavy load, 613--920
 pounds.
 
@@ -20383,7 +21459,8 @@ Sprites fight their opponents with spell-like abilities and pintsized
 weaponry. They prefer ambushes and other trickery over direct
 confrontation.
 
-**Skills:** All sprites have a +2 racial bonus on Search, Spot, and
+### Skills
+All sprites have a +2 racial bonus on Search, Spot, and
 Listen checks.
 
 ### Grig
@@ -20425,17 +21502,20 @@ Grigs speak Sylvan. Some also speak Common.
 Grigs are fierce by sprite standards, attacking opponents fearlessly
 with bow and dagger.
 
-**Spell-Like Abilities:** 3/day---*disguise self, entangle* (DC 13)*,
+### Spell-Like Abilities
+3/day---*disguise self, entangle* (DC 13)*,
 invisibility* (self only), *pyrotechnics* (DC 14)*, ventriloquism* (DC
 13). Caster level 9th. The save DCs are Charisma-based.
 
-**Fiddle (Su):** One grig in each band carries a tiny, grig-sized
+### Fiddle (Su)
+One grig in each band carries a tiny, grig-sized
 fiddle. When the fiddler plays, any nonsprite within 30 feet of the
 instrument must succeed on a DC 12 Will save or be affected as though by
 *irresistible dance* for as long as the playing continues. The save DC
 is Charisma-based.
 
-**Skills:** Grigs have a +8 racial bonus on Jump checks. \*They also
+### Skills
+Grigs have a +8 racial bonus on Jump checks. \*They also
 have a +5 racial bonus on Move Silently checks in a forest setting.
 
 ### Nixie
@@ -20480,7 +21560,8 @@ Nixies speak Aquan and Sylvan. Some also speak Common.
 Nixies rely on their *charm person* ability to deter enemies, entering
 combat only to protect themselves and their territory.
 
-***Charm Person* (Sp):** A nixie can use *charm person* three times per
+### *Charm Person* (Sp)
+A nixie can use *charm person* three times per
 day as the spell (caster level 4th). Those affected must succeed on a DC
 15 Will save or be *charmed* for 24 hours. Most *charmed* creatures are
 used to perform heavy labor, guard duty, and other onerous tasks for the
@@ -20488,17 +21569,21 @@ nixie community. Shortly before the effect wears off, the nixie escorts
 the *charmed* creature away and orders it to keep walking. The save DC
 is Charisma-based.
 
-**Amphibious (Ex):** Although nixies are aquatic, they can survive
+### Amphibious (Ex)
+Although nixies are aquatic, they can survive
 indefinitely on land.
 
-***Water Breathing* (Sp):** Once per day a nixie can use *water
+### *Water Breathing* (Sp)
+Once per day a nixie can use *water
 breathing* as the spell (caster level 12th). Nixies usually bestow this
 effect on those they have *charmed.*
 
-**Wild Empathy (Ex):** This ability works like the druid's wild empathy
+### Wild Empathy (Ex)
+This ability works like the druid's wild empathy
 class feature, except that a nixie has a +6 racial bonus on the check.
 
-**Skills:** A nixie has a +8 racial bonus on any Swim check to perform
+### Skills
+A nixie has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line. \*Nixies
@@ -20544,11 +21629,13 @@ The normally carefree pixies ferociously attack evil creatures and
 unwanted intruders. They take full advantage of their invisibility and
 other abilities to harass and drive away opponents.
 
-**Greater Invisibility (Su):** A pixie remains invisible even when it
+### Greater Invisibility (Su)
+A pixie remains invisible even when it
 attacks. This ability is constant, but the pixie can suppress or resume
 it as a free action.
 
-**Spell-Like Abilities:** 1/day---*lesser confusion* (DC 14), *dancing
+### Spell-Like Abilities
+1/day---*lesser confusion* (DC 14), *dancing
 lights, detect chaos, detect good, detect evil, detect law, detect
 thoughts* (DC 15), *dispel magic, entangle* (DC 14), *permanent image*
 (DC 19; visual and auditory elements only), *polymorph* (self only).
@@ -20557,7 +21644,8 @@ Caster level 8th. The save DCs are Charisma-based.
 One pixie in ten can use *irresistible dance* (caster level 8th) once
 per day.
 
-**Special Arrows (Ex):** Pixies sometimes employ arrows that deal no
+### Special Arrows (Ex)
+Pixies sometimes employ arrows that deal no
 damage but can erase memory or put a creature to sleep.
 
 *Memory Loss:* An opponent struck by this arrow must succeed on a DC 15
@@ -20646,7 +21734,8 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and
 plunging its proboscis into the flesh. This is a touch attack and can
 target only Small or larger creatures.
 
-**Attach (Ex):** If a stirge hits with a touch attack, it uses its eight
+### Attach (Ex)
+If a stirge hits with a touch attack, it uses its eight
 pincers to latch onto the opponent's body. An attached stirge is
 effectively grappling its prey. The stirge loses its Dexterity bonus to
 AC and has an AC of 12, but holds on with great tenacity. Stirges have a
@@ -20657,7 +21746,8 @@ An attached stirge can be struck with a weapon or grappled itself. To
 remove an attached stirge through grappling, the opponent must achieve a
 pin against the stirge.
 
-**Blood Drain (Ex):** A stirge drains blood, dealing 1d4 points of
+### Blood Drain (Ex)
+A stirge drains blood, dealing 1d4 points of
 Constitution damage in any round when it begins its turn attached to a
 victim. Once it has dealt 4 points of Constitution damage, it detaches
 and flies off to digest the meal. If its victim dies before the stirge's
@@ -20753,21 +21843,25 @@ A bat swarm seeks to surround and attack any warm-blooded prey it
 encounters. The swarm deals 1d6 points of damage to any creature whose
 space it occupies at the end of its move.
 
-**Distraction (Ex):** Any living creature that begins its turn with a
+### Distraction (Ex)
+Any living creature that begins its turn with a
 swarm in its space must succeed on a DC 11 Fortitude save or be
 nauseated for 1 round. The save DC is Constitution-based.
 
-**Wounding (Ex):** Any living creature damaged by a bat swarm continues
+### Wounding (Ex)
+Any living creature damaged by a bat swarm continues
 to bleed, losing 1 hit point per round thereafter. Multiple wounds do
 not result in cumulative bleeding loss. The bleeding can be stopped by a
 DC 10 Heal check or the application of a *cure* spell or some other
 healing magic.
 
-**Blindsense (Ex):** A bat swarm notices and locates creatures within 20
+### Blindsense (Ex)
+A bat swarm notices and locates creatures within 20
 feet. Opponents still have total concealment against the bat swarm (but
 swarm attacks ignore concealment).
 
-**Skills:** A bat swarm has a +4 racial bonus on Listen and Spot checks.
+### Skills
+A bat swarm has a +4 racial bonus on Listen and Spot checks.
 These bonuses are lost if its blindsense is negated.
 
 ### Centipede Swarm
@@ -20803,14 +21897,17 @@ A centipede swarm seeks to surround and attack any living prey it
 encounters. A swarm deals 2d6 points of damage to any creature whose
 space it occupies at the end of its move.
 
-**Distraction (Ex):** Any living creature that begins its turn with a
+### Distraction (Ex)
+Any living creature that begins its turn with a
 centipede swarm in its space must succeed on a DC 13 Fortitude save or
 be nauseated for 1 round. The save DC is Constitution-based.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 13, initial and secondary damage
 1d4 Dex. The save DC is Constitution-based.
 
-**Skills:** A centipede swarm has a +4 racial bonus on Spot checks and a
+### Skills
+A centipede swarm has a +4 racial bonus on Spot checks and a
 +8 racial bonus on Climb checks, and uses its Dexterity modifier instead
 of its Strength modifier for Climb checks. A centipede swarm has a +8
 racial bonus on Climb checks and can always choose to take 10 on a Climb
@@ -20860,11 +21957,13 @@ wickedness that a swarm of insects could never attempt.
 A hellwasp swarm's attack is treated as an evil-aligned weapon and a
 magic weapon for the purpose of overcoming damage reduction.
 
-**Distraction (Ex):** Any living creature that begins its turn with a
+### Distraction (Ex)
+Any living creature that begins its turn with a
 hellwasp swarm in its space must succeed on a DC 18 Fortitude save or be
 nauseated for 1 round. The save DC is Constitution-based.
 
-**Inhabit (Ex):** A hellwasp swarm can enter the body of a helpless or
+### Inhabit (Ex)
+A hellwasp swarm can enter the body of a helpless or
 dead creature by crawling into its mouth and other orifices. Inhabiting
 requires 1 minute, and the victim must be Small, Medium, or Large
 (although four swarms working together can inhabit a Huge creature). The
@@ -20893,10 +21992,12 @@ inhabiting a Small host.
 A *remove disease* or *heal* spell cast on an inhabited victim forces
 the hellwasp swarm to abandon its host.
 
-**Poison (Ex):** Injury, Fortitude DC 18, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 18, initial and secondary damage
 1d6 Dex. The save DC is Constitution-based.
 
-**Hive Mind (Ex):** Any hellwasp swarm with at least 1 hit point per Hit
+### Hive Mind (Ex)
+Any hellwasp swarm with at least 1 hit point per Hit
 Die (or 12 hit points, for a standard hellwasp swarm) forms a hive mind,
 giving it an Intelligence of 6. When a hellwasp swarm is reduced below
 this hit point threshold, it becomes mindless.
@@ -20937,11 +22038,13 @@ A locust swarm surrounds and attacks any living prey it encounters. A
 swarm deals 2d6 points of damage to any creature whose space it occupies
 at the end of its move.
 
-**Distraction (Ex):** Any living creature that begins its turn with a
+### Distraction (Ex)
+Any living creature that begins its turn with a
 locust swarm in its space must succeed on a DC 12 Fortitude save or be
 nauseated for 1 round. The save DC is Constitution-based.
 
-**Skills:** A locust swarm has a +4 racial bonus on Listen and Spot
+### Skills
+A locust swarm has a +4 racial bonus on Listen and Spot
 checks.
 
 ### Rat Swarm
@@ -20977,15 +22080,18 @@ A rat swarm seeks to surround and attack any warm-blooded prey it
 encounters. A swarm deals 1d6 points of damage to any creature whose
 space it occupies at the end of its move.
 
-**Disease (Ex):** Filth fever---swarm attack, Fortitude DC 12,
+### Disease (Ex)
+Filth fever---swarm attack, Fortitude DC 12,
 incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is
 Constitution-based.
 
-**Distraction (Ex):** Any living creature that begins its turn with a
+### Distraction (Ex)
+Any living creature that begins its turn with a
 swarm in its square must succeed on a DC 12 Fortitude save or be
 nauseated for 1 round. The save DC is Constitution-based.
 
-**Skills:** A rat swarm has a +4 racial bonus on Hide and Move Silently
+### Skills
+A rat swarm has a +4 racial bonus on Hide and Move Silently
 checks, and a +8 racial bonus on Balance, Climb, and Swim checks. A rat
 swarm can always choose to take 10 on all Climb checks, even if rushed
 or threatened. A rat swarm uses its Dexterity modifier instead of its
@@ -21027,14 +22133,17 @@ A spider swarm seeks to surround and attack any living prey it
 encounters. A swarm deals 1d6 points of damage to any creature whose
 space it occupies at the end of its move.
 
-**Distraction (Ex):** Any living creature that begins its turn with a
+### Distraction (Ex)
+Any living creature that begins its turn with a
 spider swarm in its space must succeed on a DC 11 Fortitude save or be
 nauseated for 1 round. The save DC is Constitution-based.
 
-**Poison (Ex):** Injury, Fortitude DC 11, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 11, initial and secondary damage
 1d3 Str. The save DC is Constitution-based.
 
-**Skills:** A spider swarm has a +4 racial bonus on Hide and Spot checks
+### Skills
+A spider swarm has a +4 racial bonus on Hide and Spot checks
 and a +8 racial bonus on Climb checks. It uses its Dexterity modifier
 instead of its Strength modifier for Climb checks. It can always choose
 to take 10 on a Climb check, even if rushed or threatened.
@@ -21087,25 +22196,30 @@ The tarrasque attacks with its claws, teeth, horns, and tail.
 The tarrasque's natural weapons are treated as epic weapons for the
 purpose of overcoming damage reduction.
 
-**Augmented Critical (Ex):** The tarrasque's bite threatens a critical
+### Augmented Critical (Ex)
+The tarrasque's bite threatens a critical
 hit on a natural attack roll of 18--20, dealing triple damage on a
 successful critical hit.
 
-**Frightful Presence (Su):** The tarrasque can inspire terror by
+### Frightful Presence (Su)
+The tarrasque can inspire terror by
 charging or attacking. Affected creatures must succeed on a DC 36 Will
 save or become shaken, remaining in that condition as long as they
 remain with 60 feet of the tarrasque. The save DC is Charisma-based.
 
-**Improved Grab (Ex):** To use this ability, the tarrasque must hit a
+### Improved Grab (Ex)
+To use this ability, the tarrasque must hit a
 Huge or smaller opponent with its bite attack. It can then attempt to
 start a grapple as a free action without provoking an attack of
 opportunity. If it wins the grapple check, it establishes a hold and can
 try to swallow the foe the following round.
 
-**Rush (Ex):** Once per minute, the normally slow-moving tarrasque can
+### Rush (Ex)
+Once per minute, the normally slow-moving tarrasque can
 move at a speed of 150 feet.
 
-**Swallow Whole (Ex):** The tarrasque can try to swallow a grabbed
+### Swallow Whole (Ex)
+The tarrasque can try to swallow a grabbed
 opponent of Huge or smaller size by making a successful grapple check.
 Once inside, the opponent takes 2d8+8 points of crushing damage plus
 2d8+6 points of acid damage per round from the tarrasque's digestive
@@ -21115,13 +22229,15 @@ exits, muscular action closes the hole; another swallowed opponent must
 cut its own way out. The tarrasque's gullet can hold 2 Huge, 8 Large, 32
 Medium, 128 Small, or 512 Tiny or smaller creatures.
 
-**Carapace (Ex):** The tarrasque's armorlike carapace is exceptionally
+### Carapace (Ex)
+The tarrasque's armorlike carapace is exceptionally
 tough and highly reflective, deflecting all rays, lines, cones, and even
 *magic missile*spells. There is a 30% chance of reflecting any such
 effect back at the caster; otherwise, it is merely negated. Check for
 reflection before rolling to overcome the creature's spell resistance.
 
-**Regeneration (Ex):** No form of attack deals lethal damage to the
+### Regeneration (Ex)
+No form of attack deals lethal damage to the
 tarrasque. The tarrasque regenerates even if it fails a saving throw
 against a *disintegrate* spell or a death effect. If the tarrasque fails
 its save against a spell or effect that would kill it instantly (such as
@@ -21139,7 +22255,8 @@ If the tarrasque loses a limb or body part, the lost portion regrows in
 1d6 minutes (the detached piece dies and decays normally). The creature
 can reattach the severed member instantly by holding it to the stump.
 
-**Skills:** The tarrasque has a +8 racial bonus on Listen and Spot
+### Skills
+The tarrasque has a +8 racial bonus on Listen and Spot
 checks.
 
 ## Tendriculos
@@ -21183,7 +22300,8 @@ nothing more than a small hillock), a tendriculos attacks savagely,
 showing no fear. It attempts to swallow as much flesh as it can, as
 quickly as it can.
 
-**Improved Grab (Ex):** To use this ability, a tendriculos must hit a
+### Improved Grab (Ex)
+To use this ability, a tendriculos must hit a
 creature at least one size smaller than itself with its bite attack. It
 can then attempt to start a grapple as a free action without provoking
 an attack of opportunity. If it wins the grapple check, it establishes a
@@ -21193,7 +22311,8 @@ If it wins the grapple check, it establishes a hold, picks up the
 opponent, and transfers it to the mouth as a free action, automatically
 dealing bite damage.
 
-**Swallow Whole/Paralysis (Ex):** A tendriculos can try to swallow a
+### Swallow Whole/Paralysis (Ex)
+A tendriculos can try to swallow a
 grabbed opponent by making a successful grapple check. Once inside the
 plant's mass, the opponent must succeed on a DC 20 Fortitude save or be
 paralyzed for 3d6 rounds by the tendriculos's digestive juices, taking
@@ -21209,7 +22328,8 @@ the hole; another swallowed opponent must cut its own way out. A Huge
 tendriculos's interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny,
 or 512 Diminutive or smaller opponents.
 
-**Regeneration (Ex):** Bludgeoning weapons and acid deal normal damage
+### Regeneration (Ex)
+Bludgeoning weapons and acid deal normal damage
 to a tendriculos. A tendriculos that loses part of its body mass can
 regrow it in 1d6 minutes. Holding the severed portion against the mass
 enables it to reattach instantly.
@@ -21252,10 +22372,12 @@ the rock or by coiling up its body and launching itself like a spring.
 (Treat this as a charge, even though the thoqqua does not need to move
 10 feet before attacking.)
 
-**Heat (Ex):** Merely touching or being touched by a thoqqua
+### Heat (Ex)
+Merely touching or being touched by a thoqqua
 automatically deals 2d6 fire damage.
 
-**Burn (Ex):** When a thoqqua hits with its slam attack, the opponent
+### Burn (Ex)
+When a thoqqua hits with its slam attack, the opponent
 must succeed on a DC 12 Reflex save or catch fire. The save DC is
 Constitution-based. The flame burns for 1d4 rounds if not extinguished
 sooner. A burning creature can use a full-round action to put out the
@@ -21297,10 +22419,12 @@ Titans speak Abyssal, Common, Celestial, Draconic, and Giant.
 A titan's natural weapons, as well as any weapons it wields, are treated
 as chaotic-aligned for the purpose of overcoming damage reduction.
 
-**Oversized Weapon (Ex):** A titan wields a great, two-handed warhammer
+### Oversized Weapon (Ex)
+A titan wields a great, two-handed warhammer
 (big enough for Gargantuan creatures) without penalty.
 
-**Spell-Like Abilities:** At will---*chain lightning* (DC 23), *charm
+### Spell-Like Abilities
+At will---*chain lightning* (DC 23), *charm
 monster* (DC 21), *cure critical wounds* (DC 21), *fire storm* (DC 24),
 *greater dispel magic, hold monster* (DC 22), *invisibility,
 invisibility purge, levitate, persistent image* (DC 22), *polymorph*
@@ -21393,14 +22517,16 @@ subject of food.
 
 ### Combat
 
-**Improved Grab (Ex):** To use this ability, a tojanida must hit with a
+### Improved Grab (Ex)
+To use this ability, a tojanida must hit with a
 bite or claw attack. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. Underwater, a
 tojanida can tow a grabbed victim of its own size or smaller at its swim
 speed (but it cannot run). A favorite tactic is to grab a single
 opponent, then withdraw, hauling the opponent away from its allies.
 
-**Ink Cloud (Ex):** A tojanida can emit a spherical cloud of jet-black
+### Ink Cloud (Ex)
+A tojanida can emit a spherical cloud of jet-black
 ink with a radius of 30 feet once per minute as a free action. The
 effect is otherwise similar to *fog cloud* cast by an individual of a
 level equal to the tojanida's Hit Dice. Out of water, the ink emerges in
@@ -21409,12 +22535,14 @@ opponent's eyes. The affected creature must succeed on a Reflex save or
 be blinded for 1 round. The save DC is 13 against a juvenile, 15 against
 an adult, and 21 against an elder. The save DCs are Constitution based.
 
-**All-Around Vision (Ex):** The multiple apertures in a tojanida's shell
+### All-Around Vision (Ex)
+The multiple apertures in a tojanida's shell
 allow it to look in any direction, bestowing a +4 racial bonus on Spot
 and Search checks. Opponents gain no flanking bonuses when attacking a
 tojanida.
 
-**Skills:** A tojanida has a +8 racial bonus on any Swim check to
+### Skills
+A tojanida has a +8 racial bonus on any Swim check to
 perform some special action or avoid a hazard. It can always choose to
 take 10 on a Swim check, even if distracted or endangered. It can use
 the run action while swimming, provided it swims in a straight line.
@@ -21465,7 +22593,8 @@ Treants prefer to watch potential foes carefully before attacking. They
 often charge suddenly from cover to trample the despoilers of forests.
 If sorely pressed, they animate trees as reinforcements.
 
-***Animate Trees* (Sp):** A treant can animate trees within 180 feet at
+### *Animate Trees* (Sp)
+A treant can animate trees within 180 feet at
 will, controlling up to two trees at a time. It takes 1 full round for a
 normal tree to uproot itself. Thereafter it moves at a speed of 10 feet
 and fights as a treant in all respects. Animated trees lose their
@@ -21474,10 +22603,12 @@ moves out of range. The ability is otherwise similar to *liveoak*
 (caster level 12th). Animated trees have the same vulnerability to fire
 that a treant has.
 
-**Double Damage against Objects (Ex):** A treant or animated tree that
+### Double Damage against Objects (Ex)
+A treant or animated tree that
 makes a full attack against an object or structure deals double damage.
 
-**Trample (Ex):** Reflex DC 22 half. The save DC is Strength-based.
+### Trample (Ex)
+Reflex DC 22 half. The save DC is Strength-based.
 Skills: \*Treants have a +16 racial bonus on Hide checks made in
 forested areas.
 
@@ -21521,10 +22652,12 @@ their homes. They attack with either melee or ranged weapons as the
 circumstances warrant. When encountered outside their lair, they are 90%
 likely to be mounted on friendly sea creatures such as porpoises.
 
-**Spell-Like Abilities:** 1/day---*summon nature's ally IV.* Caster
+### Spell-Like Abilities
+1/day---*summon nature's ally IV.* Caster
 level 7th. Tritons often choose water elementals for their companions.
 
-**Skills:** A triton has a +8 racial bonus on any Swim check to perform
+### Skills
+A triton has a +8 racial bonus on any Swim check to perform
 some special action or avoid a hazard. It can always choose to take 10
 on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight line.
@@ -21739,11 +22872,13 @@ Trolls have no fear of death: They launch themselves into combat without
 hesitation, flailing wildly at the closest opponent. Even when
 confronted with fire, they try to get around the flames and attack.
 
-**Rend (Ex):** If a troll hits with both claw attacks, it latches onto
+### Rend (Ex)
+If a troll hits with both claw attacks, it latches onto
 the opponent's body and tears the flesh. This attack automatically deals
 an additional 2d6+9 points of damage.
 
-**Regeneration (Ex):** Fire and acid deal normal damage to a troll. If a
+### Regeneration (Ex)
+Fire and acid deal normal damage to a troll. If a
 troll loses a limb or body part, the lost portion regrows in 3d6
 minutes. The creature can reattach the severed member instantly by
 holding it to the stump.
@@ -21858,10 +22993,12 @@ forests. They either charge, impaling foes with their horns like lances,
 or strike with their hooves. The horn is a +3 magic weapon, though its
 power fades if removed from the unicorn.
 
-**Magic Circle against Evil (Su):** This ability continuously duplicates
+### Magic Circle against Evil (Su)
+This ability continuously duplicates
 the effect of the spell. A unicorn cannot suppress this ability.
 
-**Spell-Like Abilities:** Unicorns can use *detect evil* at will as a
+### Spell-Like Abilities
+Unicorns can use *detect evil* at will as a
 free action.
 
 Once per day a unicorn can use *greater teleport* to move anywhere
@@ -21874,10 +23011,12 @@ creature with its horn. Once per day it can use *neutralize poison* (DC
 21, caster level 8th) with a touch of its horn. The save DC is
 Charisma-based.
 
-**Wild Empathy (Ex):** This power works like the druid's wild empathy
+### Wild Empathy (Ex)
+This power works like the druid's wild empathy
 class feature, except that a unicorn has a +6 racial bonus on the check.
 
-**Skills:** Unicorns have a +4 racial bonus on Move Silently checks.
+### Skills
+Unicorns have a +4 racial bonus on Move Silently checks.
 \*Unicorns have a +3 competence bonus on Survival checks within the
 boundaries of their forest.
 
@@ -21894,7 +23033,8 @@ The save DC for this celestial charger's *neutralize poison* ability (DC
 A celestial charger's natural weapons are treated as magic weapons for
 the purpose of overcoming damage reduction.
 
-**Smite Evil (Su):** Once per day a celestial charger can make a normal
+### Smite Evil (Su)
+Once per day a celestial charger can make a normal
 melee attack to deal 15 points of extra damage against an evil foe.
 
 *Cleric Spells Prepared* (6/7/6/5/4; save DC 18 + spell level): 0---
@@ -21928,19 +23068,24 @@ creature).
 A vampire uses all the base creature's statistics and special abilities
 except as noted here.
 
-**Size and Type:** The creature's type changes to undead (augmented
+### Size and Type
+The creature's type changes to undead (augmented
 humanoid or monstrous humanoid). Do not recalculate base attack bonus,
 saves, or skill points. Size is unchanged.
 
-**Hit Dice:** Increase all current and future Hit Dice to d12s.
+### Hit Dice
+Increase all current and future Hit Dice to d12s.
 
-**Speed:** Same as the base creature. If the base creature has a swim
+### Speed
+Same as the base creature. If the base creature has a swim
 speed, the vampire retains the ability to swim and is not vulnerable to
 immersion in running water (see below).
 
-**Armor Class:** The base creature's natural armor bonus improves by +6.
+### Armor Class
+The base creature's natural armor bonus improves by +6.
 
-**Attack:** A vampire retains all the attacks of the base creature and
+### Attack
+A vampire retains all the attacks of the base creature and
 also gains a slam attack if it didn't already have one. If the base
 creature can use weapons, the vampire retains this ability. A creature
 with natural weapons retains those natural weapons. A vampire fighting
@@ -21948,12 +23093,14 @@ without weapons uses either its slam attack or its primary natural
 weapon (if it has any). A vampire armed with a weapon uses its slam or a
 weapon, as it desires.
 
-**Full Attack:** A vampire fighting without weapons uses either its slam
+### Full Attack
+A vampire fighting without weapons uses either its slam
 attack (see above) or its natural weapons (if it has any). If armed with
 a weapon, it usually uses the weapon as its primary attack along with a
 slam or other natural weapon as a natural secondary attack.
 
-**Damage:** Vampires have slam attacks. If the base creature does not
+### Damage
+Vampires have slam attacks. If the base creature does not
 have this attack form, use the appropriate damage value from the table
 below according to the vampire's size. Creatures that have other kinds
 of natural weapons retain their old damage values or use the appropriate
@@ -21972,7 +23119,8 @@ value from the table below, whichever is better.
   Colossal     4d6
   ------------ --------
 
-**Special Attacks:** A vampire retains all the special attacks of the
+### Special Attacks
+A vampire retains all the special attacks of the
 base creature and gains those described below. Saves have a DC of 10 +
 1/2 vampire's HD + vampire's Cha modifier unless noted otherwise.
 
@@ -22020,7 +23168,8 @@ negative levels. For each negative level bestowed, the vampire gains 5
 temporary hit points. A vampire can use its energy drain ability once
 per round.
 
-**Special Qualities:** A vampire retains all the special qualities of
+### Special Qualities
+A vampire retains all the special qualities of
 the base creature and gains those described below.
 
 *Alternate Form (Su):* A vampire can assume the shape of a bat, dire
@@ -22061,38 +23210,49 @@ maneuverability.
 
 *Turn Resistance (Ex):* A vampire has +4 turn resistance.
 
-**Abilities:** Increase from the base creature as follows: Str +6, Dex
+### Abilities
+Increase from the base creature as follows: Str +6, Dex
 +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no
 Constitution score.
 
-**Skills:** Vampires have a +8 racial bonus on Bluff, Hide, Listen, Move
+### Skills
+Vampires have a +8 racial bonus on Bluff, Hide, Listen, Move
 Silently, Search, Sense Motive, and Spot checks. Otherwise same as the
 base creature.
 
-**Feats:** Vampires gain Alertness, Combat Reflexes, Dodge, Improved
+### Feats
+Vampires gain Alertness, Combat Reflexes, Dodge, Improved
 Initiative, and Lightning Reflexes, assuming the base creature meets the
 prerequisites and doesn't already have these feats.
 
-**Environment:** Any, usually same as base creature.
+### Environment
+Any, usually same as base creature.
 
-**Organization:** Solitary, pair, gang (3--5), or troupe (1--2 plus 2--5
+### Organization
+Solitary, pair, gang (3--5), or troupe (1--2 plus 2--5
 vampire spawn)
 
-**Challenge Rating:** Same as the base creature +2.
+### Challenge Rating
+Same as the base creature +2.
 
-**Treasure:** Double standard.
+### Treasure
+Double standard.
 
-**Alignment:** Always evil (any).
+### Alignment
+Always evil (any).
 
-**Advancement:** By character class.
+### Advancement
+By character class.
 
-**Level Adjustment:** Same as the base creature +8.
+### Level Adjustment
+Same as the base creature +8.
 
 #### Vampire Weaknesses
 
 For all their power, vampires have a number of weaknesses.
 
-**Repelling a Vampire:** Vampires cannot tolerate the strong odor of
+### Repelling a Vampire
+Vampires cannot tolerate the strong odor of
 garlic and will not enter an area laced with it. Similarly, they recoil
 from a mirror or a strongly presented holy symbol. These things don't
 harm the vampire---they merely keep it at bay. A recoiling vampire must
@@ -22108,7 +23268,8 @@ They are utterly unable to enter a home or other building unless invited
 in by someone with the authority to do so. They may freely enter public
 places, since these are by definition open to all.
 
-**Slaying a Vampire:** Reducing a vampire's hit points to 0 or lower
+### Slaying a Vampire
+Reducing a vampire's hit points to 0 or lower
 incapacitates it but doesn't always destroy it (see the note on fast
 healing). However, certain attacks can slay vampires. Exposing any
 vampire to direct sunlight disorients it: It can take only a single move
@@ -22127,13 +23288,15 @@ Vampires are always evil, which causes characters of certain classes to
 lose some class abilities. In addition, certain classes take additional
 penalties.
 
-**Clerics:** Vampire clerics lose their ability to turn undead but gain
+### Clerics
+Vampire clerics lose their ability to turn undead but gain
 the ability to rebuke undead. This ability does not affect the vampire's
 controller or any other vampires that a master controls. A vampire
 cleric has access to two of the following domains: Chaos, Destruction,
 Evil, or Trickery.
 
-**Sorcerers and Wizards:** Vampire sorcerers and wizards retain their
+### Sorcerers and Wizards
+Vampire sorcerers and wizards retain their
 class abilities, but if a character has a familiar other than a rat or
 bat, the link between them is broken, and the familiar shuns its former
 companion. The character can summon another familiar, but it must be a
@@ -22181,13 +23344,15 @@ hammering their foes with powerful blows and dashing them against rocks
 or walls. They also use their gaseous form and flight abilities to
 strike where opponents are most vulnerable.
 
-**Blood Drain (Ex):** A vampire spawn can suck blood from a living
+### Blood Drain (Ex)
+A vampire spawn can suck blood from a living
 victim with its fangs by making a successful grapple check. If it pins
 the foe, it drains blood, dealing 1d4 points of Constitution drain each
 round. On each such successful drain attack, the vampire spawn gains 5
 temporary hit pints.
 
-**Domination (Su):** A vampire spawn can crush an opponent's will just
+### Domination (Su)
+A vampire spawn can crush an opponent's will just
 by looking onto his or her eyes. This is similar to a gaze attack,
 except that the vampire must take a standard action, and those merely
 looking at it are not affected. Anyone the vampire targets must succeed
@@ -22195,12 +23360,14 @@ on a DC 14 Will save or fall instantly under the vampire's influence as
 though by a *dominate person* spell from a 5thlevel caster. The ability
 has a range of 30 feet. The save DC is Charisma-based.
 
-**Energy Drain (Su):** Living creatures hit by a vampire spawn's slam
+### Energy Drain (Su)
+Living creatures hit by a vampire spawn's slam
 attack gain one negative level. The DC is 14 for the Fortitude save to
 remove a negative level. The save DC is Charisma-based. For each such
 negative level bestowed, the vampire spawn gains 5 temporary hit points.
 
-**Fast Healing (Ex):** A vampire spawn heals 2 points of damage each
+### Fast Healing (Ex)
+A vampire spawn heals 2 points of damage each
 round so long as it has at least 1 hit point. If reduced to 0 hit points
 in combat, it automatically assumes gaseous form and attempts to escape.
 It must reach its coffin home within 2 hours or be utterly destroyed.
@@ -22208,15 +23375,18 @@ It must reach its coffin home within 2 hours or be utterly destroyed.
 it is helpless. It regains 1 hit point after 1 hour, then is no longer
 helpless and resumes healing at the rate of 2 hit points per round.
 
-**Gaseous Form (Su):** As a standard action, a vampire spawn can assume
+### Gaseous Form (Su)
+As a standard action, a vampire spawn can assume
 *gaseous form* at will as the spell (caster level 6th), but it can
 remain gaseous indefinitely and has a fly speed of 20 feet with perfect
 maneuverability.
 
-**Spider Climb (Ex):** A vampire spawn can climb sheer surfaces as
+### Spider Climb (Ex)
+A vampire spawn can climb sheer surfaces as
 though with a *spider climb* spell.
 
-**Skills:** Vampire spawn have a +4 racial bonus on Bluff, Hide, Listen,
+### Skills
+Vampire spawn have a +4 racial bonus on Bluff, Hide, Listen,
 Move Silently, Search, Sense Motive, and Spot checks.
 
 ### Vampire Spawn Weaknesses
@@ -22263,7 +23433,8 @@ attacks make them even more dangerous. A vargouille's natural weapons,
 as well as any weapons it wields, are treated as evil-aligned for the
 purpose of overcoming damage reduction.
 
-**Shriek (Su):** Instead of biting, a vargouille can open its distended
+### Shriek (Su)
+Instead of biting, a vargouille can open its distended
 mouth and let out a terrible shriek. Those within 60 feet (except other
 vargouilles) who hear the shriek and can clearly see the creature must
 succeed on a DC 12 Fortitude save or be paralyzed with fear for 2d4
@@ -22274,7 +23445,8 @@ again by the same vargouille's shriek for 24 hours. The shriek is a
 mind-affecting fear effect. The save DC is Constitution-based and
 includes a +1 racial bonus.
 
-**Kiss (Su):** A vargouille can kiss a paralyzed target with a
+### Kiss (Su)
+A vargouille can kiss a paralyzed target with a
 successful melee touch attack. An affected opponent must succeed on a DC
 15 Fortitude save or begin a terrible transformation that turns the
 creature into a vargouille within 24 hours (and often much sooner; roll
@@ -22292,7 +23464,8 @@ can delay death, but to reverse the transformation requires *remove
 disease*. The save DC is Constitution-based and includes a +4 racial
 bonus.
 
-**Poison (Ex):** Injury, Fortitude DC 12 or be unable to heal the
+### Poison (Ex)
+Injury, Fortitude DC 12 or be unable to heal the
 vargouille's bite damage naturally or magically. A *neutralize poison*
 or *heal* spell removes the effect, while *delay poison* allows magical
 healing. The save DC is Constitution-based and includes a +1 racial
@@ -22334,17 +23507,20 @@ Wights speak Common.
 
 Wights attack by hammering with their fists.
 
-**Create Spawn (Su):** Any humanoid slain by a wight becomes a wight in
+### Create Spawn (Su)
+Any humanoid slain by a wight becomes a wight in
 1d4 rounds. Spawn are under the command of the wight that created them
 and remain enslaved until its death. They do not possess any of the
 abilities they had in life.
 
-**Energy Drain (Su):** Living creatures hit by a wight's slam attack
+### Energy Drain (Su)
+Living creatures hit by a wight's slam attack
 gain one negative level. The DC is 14 for the Fortitude save to remove a
 negative level. The save DC is Charisma-based. For each such negative
 level bestowed, the wight gains 5 temporary hit points.
 
-**Skills:** Wights have a +8 racial bonus on Move Silently checks.
+### Skills
+Wights have a +8 racial bonus on Move Silently checks.
 
 ## Will-O'-Wisp
 
@@ -22389,11 +23565,13 @@ adventurers, luring them into morasses or other hazardous places. When
 they are forced to fight, they loose small electrical shocks, which act
 as melee touch attacks.
 
-**Immunity to Magic (Ex):** A will-o'-wisp is immune to most spells or
+### Immunity to Magic (Ex)
+A will-o'-wisp is immune to most spells or
 spell-like abilities that allow spell resistance, except *magic missile*
 and *maze.*
 
-**Natural Invisibility (Ex):** A startled or frightened will-o'-wisp can
+### Natural Invisibility (Ex)
+A startled or frightened will-o'-wisp can
 extinguish its glow, effectively becoming invisible as the spell.
 
 ## Winter Wolf
@@ -22436,19 +23614,23 @@ larger than themselves. A pack usually circles an opponent, each wolf
 attacking in turn to exhaust it. If they're in a hurry, white wolves try
 to pin their foes.
 
-**Breath Weapon (Su):** 15-foot cone, once every 1d4 rounds, damage 4d6
+### Breath Weapon (Su)
+15-foot cone, once every 1d4 rounds, damage 4d6
 cold, Reflex DC 16 half. The save DC is Constitution-based.
 
-**Freezing Bite (Su):** A winter wolf deals an extra 1d6 points of cold
+### Freezing Bite (Su)
+A winter wolf deals an extra 1d6 points of cold
 damage every time it bites an opponent, as if its bite were a frost
 weapon.
 
-**Trip (Ex):** A winter wolf that hits with a bite attack can attempt to
+### Trip (Ex)
+A winter wolf that hits with a bite attack can attempt to
 trip the opponent (+8 check modifier) as a free action without making a
 touch attack or provoking an attack of opportunity. If the attempt
 fails, the opponent cannot react to trip the winter wolf.
 
-**Skills:** Winter wolves have a +1 racial bonus on Listen, Move
+### Skills
+Winter wolves have a +1 racial bonus on Listen, Move
 Silently, and Spot checks. Winter wolves have a +2 racial bonus on Hide
 checks. \*Their natural coloration grants them a +7 racial bonus on Hide
 checks in areas of snow and ice. A winter wolf has a +4 racial bonus on
@@ -22497,12 +23679,14 @@ until the creature is exhausted, at which point the pack moves in for
 the kill. If they get impatient or heavily outnumber the opponent, worgs
 attempt to pin it.
 
-**Trip (Ex):** A worg that hits with a bite attack can attempt to trip
+### Trip (Ex)
+A worg that hits with a bite attack can attempt to trip
 the opponent (+3 check modifier) as a free action without making a touch
 attack or provoking an attack of opportunity. If the attempt fails, the
 opponent cannot react to trip the worg.
 
-**Skills:** A worg has a +1 racial bonus on Listen, Move Silently, and
+### Skills
+A worg has a +1 racial bonus on Listen, Move Silently, and
 Spot checks, and a +2 racial bonus on Hide checks. \*A worg has a +4
 racial bonus on Survival checks when tracking by scent.
 
@@ -22548,22 +23732,26 @@ Wraiths speak Common and Infernal.
 
 Both the wraith and the dread wraith share the following abilities.
 
-**Unnatural Aura (Su):** Animals, whether wild or domesticated, can
+### Unnatural Aura (Su)
+Animals, whether wild or domesticated, can
 sense the unnatural presence of a wraith at a distance of 30 feet. They
 will not willingly approach nearer than that and panic if forced to do
 so; they remain panicked as long as they are within that range.
 
-**Daylight Powerlessness (Ex):** Wraiths are utterly powerless in
+### Daylight Powerlessness (Ex)
+Wraiths are utterly powerless in
 natural sunlight (not merely a *daylight* spell) and flee from it.
 
 ### Wraith
 
-**Constitution Drain (Su):** Living creatures hit by a wraith's
+### Constitution Drain (Su)
+Living creatures hit by a wraith's
 incorporeal touch attack must succeed on a DC 14 Fortitude save or take
 1d6 points of Constitution drain. The save DC is Charisma-based. On each
 such successful attack, the wraith gains 5 temporary hit points.
 
-**Create Spawn (Su):** Any humanoid slain by a wraith becomes a wraith
+### Create Spawn (Su)
+Any humanoid slain by a wraith becomes a wraith
 in 1d4 rounds. Its body remains intact and inanimate, but its spirit is
 torn free from its corpse and transformed. Spawn are under the command
 of the wraith that created them and remain enslaved until its death.
@@ -22578,17 +23766,20 @@ possesses unearthly quickness, and makes use of its Spring Attack feat
 and natural reach to strike with deadly effect and melt back into the
 shadows---or the walls.
 
-**Lifesense (Su):** A dread wraith notices and locates living creatures
+### Lifesense (Su)
+A dread wraith notices and locates living creatures
 within 60 feet, just as if it possessed the blindsight ability. It also
 senses the strength of their life force automatically, as if it had cast
 *deathwatch.*
 
-**Constitution Drain (Su):** Living creatures hit by a dread wraith's
+### Constitution Drain (Su)
+Living creatures hit by a dread wraith's
 incorporeal touch attack must succeed on a DC 25 Fortitude save or take
 1d8 points of Constitution drain. The save DC is Charisma-based. On each
 such successful attack, the dread wraith gains 5 temporary hit points.
 
-**Create Spawn (Su):** Any humanoid slain by a dread wraith becomes a
+### Create Spawn (Su)
+Any humanoid slain by a dread wraith becomes a
 wraith in 1d4 rounds. Its body remains intact and inanimate, but its
 spirit is torn free from its corpse and transformed. Spawn are under the
 command of the wraith that created them and remain enslaved until its
@@ -22640,15 +23831,18 @@ dives from the air, snatching the opponent with its talons and stinging
 it to death. A wyvern can slash with its talons only when making a flyby
 attack.
 
-**Improved Grab (Ex):** To use this ability, a wyvern must hit with its
+### Improved Grab (Ex)
+To use this ability, a wyvern must hit with its
 talons. It can then attempt to start a grapple as a free action without
 provoking an attack of opportunity. If it wins the grapple check, it
 establishes a hold and stings.
 
-**Poison (Ex):** Injury, Fortitude DC 17, initial and secondary damage
+### Poison (Ex)
+Injury, Fortitude DC 17, initial and secondary damage
 2d6 Con. The save DC is Constitution-based.
 
-**Skills:** Wyverns have a +3 racial bonus on Spot checks.
+### Skills
+Wyverns have a +3 racial bonus on Spot checks.
 
 ## Xill
 
@@ -22691,14 +23885,16 @@ combat: Usually, one or two distract physically powerful enemies by
 attacking, then assuming a defensive stance while their fellows maneuver
 to advantage.
 
-**Implant (Ex):** As a standard action, a xill can lay eggs inside a
+### Implant (Ex)
+As a standard action, a xill can lay eggs inside a
 paralyzed creature. The young emerge about 90 days later, literally
 devouring the host from inside. A *remove disease* spell rids a victim
 of the egg, as does a DC 25 Heal check. If the check fails, the healer
 can try again, but each attempt (successful or not) deals 1d4 points of
 damage to the patient.
 
-**Improved Grab (Ex):** To use this ability, a xill must hit with one or
+### Improved Grab (Ex)
+To use this ability, a xill must hit with one or
 more claw attacks. It can then attempt to start a grapple as a free
 action without provoking an attack of opportunity. It receives a +2
 bonus on the grapple check for each claw that hits. If it wins the
@@ -22706,11 +23902,13 @@ grapple check and maintains the hold in the next round, it automatically
 bites the foe at that time. The bite deals no damage but injects a
 paralyzing venom.
 
-**Paralysis (Ex):** Those bitten by a xill must succeed on a DC 14
+### Paralysis (Ex)
+Those bitten by a xill must succeed on a DC 14
 Fortitude save or be paralyzed for 1d4 hours. The save DC is
 Constitution-based.
 
-**Planewalk (Su):** These planar travelers like to slip between the
+### Planewalk (Su)
+These planar travelers like to slip between the
 folds of space to attack enemies as though from thin air. They can cross
 from the Ethereal Plane with a move action but take 2 rounds to cross
 back, during which time they are immobile. As a xill fades away, it
@@ -22767,11 +23965,13 @@ until a foe comes within reach, then emerge suddenly. Groups of xorns
 often send one of their number to the surface to negotiate for food
 while the remainder position themselves for a surprise attack.
 
-**All-Around Vision (Ex):** A xorn's symmetrically placed eyes allow it
+### All-Around Vision (Ex)
+A xorn's symmetrically placed eyes allow it
 to look in any direction, providing a +4 racial bonus on Spot and Search
 checks. A xorn can't be flanked.
 
-**Earth Glide (Ex):** A xorn can glide through stone, dirt, or almost
+### Earth Glide (Ex)
+A xorn can glide through stone, dirt, or almost
 any other sort of earth except metal as easily as a fish swims through
 water. Its burrowing leaves behind no tunnel or hole, nor does it create
 any ripple or other signs of its presence. A *move earth* spell cast on
@@ -22819,22 +24019,26 @@ in daylight, even if their lives depend on it.
 A yeth hound's natural weapons, as well as any weapons it wields, are
 treated as evil-aligned for the purpose of overcoming damage reduction.
 
-**Bay (Su):** When a yeth hound howls or barks, all creatures except
+### Bay (Su)
+When a yeth hound howls or barks, all creatures except
 other evil outsiders within a 300-foot spread must succeed on a DC 11
 Will save or become panicked for 2d4 rounds. This is a sonic
 mind-affecting fear effect. Whether or not the save is successful, an
 affected creature is immune to the same hound's bay for 24 hours. The
 save DC is Charisma-based.
 
-**Trip (Ex):** A yeth hound that hits with its bite attack can attempt
+### Trip (Ex)
+A yeth hound that hits with its bite attack can attempt
 to trip the opponent (+3 check modifier) as a free action without making
 a touch attack or provoking an attack of opportunity. If the attempt
 fails, the opponent cannot react to trip the yeth hound.
 
-**Flight (Su):** A yeth hound can cease or resume flight as a free
+### Flight (Su)
+A yeth hound can cease or resume flight as a free
 action.
 
-**Skills:** \*A yeth hound has a +4 racial bonus on Survival checks when
+### Skills
+\*A yeth hound has a +4 racial bonus on Survival checks when
 tracking by scent.
 
 ## Yrthak
@@ -22880,28 +24084,33 @@ Despite their intelligence, yrthaks do not speak.
 A yrthak prefers to attack from the air, strafing the ground with sonic
 attacks or snatching up and dropping prey.
 
-**Sonic Lance (Su):** Once every 2 rounds, a yrthak can focus sonic
+### Sonic Lance (Su)
+Once every 2 rounds, a yrthak can focus sonic
 energy in a ray up to 60 feet long. This is a ranged touch attack that
 deals 6d6 points of damage to a single target.
 
-**Explosion (Su):** A yrthak can fire its sonic lance at the ground, a
+### Explosion (Su)
+A yrthak can fire its sonic lance at the ground, a
 large rock, a stone wall, or the like to create an explosion of
 shattered stone. This attack deals 2d6 points of piercing damage to all
 within 10 feet of the effect's center. This counts as a use of the sonic
 lance attack and thus is usable only once every 2 rounds, and never on
 the round following a sonic lance attack.
 
-**Blindsight (Ex):** A yrthak can ascertain all foes within 120 feet.
+### Blindsight (Ex)
+A yrthak can ascertain all foes within 120 feet.
 Beyond that range it is considered blinded. Yrthaks are invulnerable to
 gaze attacks, visual effects of spells such as illusions, and other
 attack forms that rely on sight. A yrthak whose sense of hearing is
 impaired is effectively blinded, treating all targets as having total
 concealment.
 
-**Immunities:** Yrthaks have immunity to gaze attacks, visual effects,
+### Immunities
+Yrthaks have immunity to gaze attacks, visual effects,
 illusions, and other attack forms that rely on sight.
 
-**Skills:** Yrthaks have a +4 racial bonus on Listen checks.
+### Skills
+Yrthaks have a +4 racial bonus on Listen checks.
 
 ## Zombie
 
@@ -22916,21 +24125,25 @@ newly created zombie must be very simple.
 creature (other than an undead) that has a skeletal system (referred to
 hereafter as the base creature).
 
-**Size and Type:** The creature's type changes to undead. It retains any
+### Size and Type
+The creature's type changes to undead. It retains any
 subtypes except alignment subtypes and subtypes that indicate kind. It
 does not gain the augmented subtype. It uses all the base creature's
 statistics and special abilities except as noted here.
 
-**Hit Dice:** Drop any Hit Dice from class levels (to a minimum of 1),
+### Hit Dice
+Drop any Hit Dice from class levels (to a minimum of 1),
 double the number of Hit Dice left, and raise them to d12s. If the base
 creature has more than 10 Hit Dice (not counting those gained with
 experience), it can't be made into a zombie with the *animate dead*
 spell.
 
-**Speed:** If the base creature can fly, its maneuverability rating
+### Speed
+If the base creature can fly, its maneuverability rating
 drops to clumsy.
 
-**Armor Class:** Natural armor bonus increases by a number based on the
+### Armor Class
+Natural armor bonus increases by a number based on the
 zombie's size:
 
   ----------------- -----
@@ -22943,14 +24156,17 @@ zombie's size:
   Colossal          +11
   ----------------- -----
 
-**Base Attack:** A zombie has a base attack bonus equal to 1/2 its Hit
+### Base Attack
+A zombie has a base attack bonus equal to 1/2 its Hit
 Dice.
 
-**Attacks:** A zombie retains all the natural weapons, manufactured
+### Attacks
+A zombie retains all the natural weapons, manufactured
 weapon attacks, and weapon proficiencies of the base creature. A zombie
 also gains a slam attack.
 
-**Damage:** Natural and manufactured weapons deal damage normally. A
+### Damage
+Natural and manufactured weapons deal damage normally. A
 slam attack deals damage depending on the zombie's size. (Use the base
 creature's slam damage if it's better.)
 
@@ -22966,10 +24182,12 @@ creature's slam damage if it's better.)
   Colossal     4d6
   ------------ -----
 
-**Special Attacks:** A zombie retains none of the base creature's
+### Special Attacks
+A zombie retains none of the base creature's
 special attacks.
 
-**Special Qualities:** A zombie loses most special qualities of the base
+### Special Qualities
+A zombie loses most special qualities of the base
 creature. It retains any extraordinary special qualities that improve
 its melee or ranged attacks. A zombie gains the following special
 quality.
@@ -22979,23 +24197,30 @@ only a single move action or attack action each round. A zombie can move
 up to its speed and attack in the same round, but only if it attempts a
 charge.
 
-**Saves:** Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will
+### Saves
+Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will
 +1/2 HD + 2.
 
-**Abilities:** A zombie's Strength increases by +2, its Dexterity
+### Abilities
+A zombie's Strength increases by +2, its Dexterity
 decreases by 2, it has no Constitution or Intelligence score, its Wisdom
 changes to 10, and its Charisma changes to 1.
 
-**Skills:** A zombie has no skills.
+### Skills
+A zombie has no skills.
 
-**Feats:** A zombie loses all feats of the base creature and gains
+### Feats
+A zombie loses all feats of the base creature and gains
 Toughness.
 
-**Environment:** Any land and underground.
+### Environment
+Any land and underground.
 
-**Organization:** Any.
+### Organization
+Any.
 
-**Challenge Rating:** Depends on Hit Dice, as follows:
+### Challenge Rating
+Depends on Hit Dice, as follows:
 
   ---------- ------------------
   Hit Dice   Challenge Rating
@@ -23010,14 +24235,17 @@ Toughness.
   18--20     6
   ---------- ------------------
 
-**Treasure:** None.
+### Treasure
+None.
 
-**Alignment:** Always neutral evil.
+### Alignment
+Always neutral evil.
 
 Advancement: As base creature, but double Hit Dice (maximum 20), or ---
 if the base creature advances by character class.
 
-**Level Adjustment:** ---.
+### Level Adjustment
+---.
 
   ---------------------- ----------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------
                          Kobold Zombie                                                                                   Human Commoner Zombie                                                                Troglodyte Zombie

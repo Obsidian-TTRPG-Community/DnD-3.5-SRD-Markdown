@@ -123,7 +123,8 @@ information is given here.
 Unless noted otherwise, creatures using natural weapons deal double
 damage on critical hits.
 
-**Manufactured Weapons:** Creatures that use swords, bows, spears, and
+### Manufactured Weapons
+Creatures that use swords, bows, spears, and
 the like follow the same rules as characters do. The bonus for attacks
 with two-handed weapons is 1-1/2 times the creature's Strength modifier
 (if it is a bonus), and is given first. Offhand weapons add only 1/2 the
@@ -172,16 +173,19 @@ ability adjustments, subtract 10 from any even-numbered ability score
 and subtract 11 from any odd-numbered score. (Exceptions are noted in
 the Combat section of a creature's descriptive text.)
 
-**Strength:** Quadrupeds can carry heavier loads than bipeds can. Any
+### Strength
+Quadrupeds can carry heavier loads than bipeds can. Any
 creature with four or more motive limbs can carry a load as a quadruped,
 even if it does not necessarily use all the limbs at once.
 
-**Intelligence:** A creature can speak all the languages mentioned in
+### Intelligence
+A creature can speak all the languages mentioned in
 its description, plus one additional language per point of Intelligence
 bonus. Any creature with an Intelligence score of 3 or higher
 understands at least one language (Common, unless noted otherwise).
 
-**Nonabilities:** Some creatures lack certain ability scores. These
+### Nonabilities
+Some creatures lack certain ability scores. These
 creatures do not have an ability score of 0---they lack the ability
 altogether. The modifier for a nonability is +0.
 
@@ -202,7 +206,8 @@ An asterisk (\*) beside the relevant score and in the Skills section of
 the descriptive text indicates a conditional adjustment, one that
 applies only in certain situations.
 
-**Natural Tendencies:** Some creatures simply aren't made for certain
+### Natural Tendencies
+Some creatures simply aren't made for certain
 types of physical activity. If it seems clear that a particular creature
 simply is not made for a particular physical activity, that creature
 takes a --8 penalty on skill checks that defy its natural tendencies.

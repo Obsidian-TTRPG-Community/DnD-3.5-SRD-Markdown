@@ -18,11 +18,13 @@ The planes break down into a number of general types: the Material
 Plane, the Transitive Planes, the Inner Planes, the Outer Planes, and
 the demiplanes.
 
-**Material Plane:** The Material Plane tends to be the most Earthlike of
+### Material Plane
+The Material Plane tends to be the most Earthlike of
 all planes and operates under the same set of natural laws that our own
 real world does. This is the default plane for most adventures.
 
-**Transitive Planes:** These three planes have one important common
+### Transitive Planes
+These three planes have one important common
 characteristic: Each is used to get from one place to another. The
 Astral Plane is a conduit to all other planes, while the Ethereal Plane
 and the Plane of Shadow both serve as means of transportation within the
@@ -30,13 +32,15 @@ Material Plane they're connected to. These planes have the strongest
 regular interaction with the Material Plane and are often accessed by
 using various spells. They have native inhabitants as well.
 
-**Inner Planes:** These six planes are manifestations of the basic
+### Inner Planes
+These six planes are manifestations of the basic
 building blocks of the universe. Each is made up of a single type of
 energy or element that overwhelms all others. The natives of a
 particular Inner Plane are made of the same energy or element as the
 plane itself.
 
-**Outer Planes:** The deities live on the Outer Planes, as do creatures
+### Outer Planes
+The deities live on the Outer Planes, as do creatures
 such as celestials, demons, and devils. Each of the Outer Planes has an
 alignment, representing a particular moral or ethical outlook, and the
 natives of each plane tend to behave in agreement with that plane's
@@ -44,7 +48,8 @@ alignment. The Outer Planes are also the final resting place of souls
 from the Material Plane, whether that final rest takes the form of calm
 introspection or eternal damnation.
 
-**Demiplanes:** This catch-all category covers all extradimensional
+### Demiplanes
+This catch-all category covers all extradimensional
 spaces that function like planes but have measurable size and limited
 access. Other kinds of planes are theoretically infinite in size, but a
 demiplane might be only a few hundred feet across.
@@ -58,17 +63,21 @@ Planar traits are broken down into a number of general areas.
 
 All planes have the following kinds of traits.
 
-**Physical Traits:** These traits determine the laws of physics and
+### Physical Traits
+These traits determine the laws of physics and
 nature on the plane, including how gravity and time function.
 
-**Elemental and Energy Traits:** These traits determine the dominance of
+### Elemental and Energy Traits
+These traits determine the dominance of
 particular elemental or energy forces.
 
-**Alignment Traits:** Just as characters may be lawful neutral or
+### Alignment Traits
+Just as characters may be lawful neutral or
 chaotic good, many planes are tied to a particular moral or ethical
 outlook.
 
-**Magic Traits:** Magic works differently from plane to plane, and magic
+### Magic Traits
+Magic works differently from plane to plane, and magic
 traits set the boundaries for what it can and can't do.
 
 ## Physical Traits
@@ -78,7 +87,8 @@ gravity works and how time passes. Other physical traits pertain to the
 size and shape of a plane and how easily a plane's nature can be
 altered.
 
-**Gravity:** The direction of gravity's pull may be unusual, and it
+### Gravity
+The direction of gravity's pull may be unusual, and it
 might even change directions within the plane itself.
 
 *Normal Gravity:* Most planes have gravity similar to that of the
@@ -145,7 +155,8 @@ free action; this check can be made once per round. Any character who
 fails this Wisdom check in successive rounds receives a +6 bonus on
 subsequent checks until he or she succeeds.
 
-**Time:** The rate of time's passage can vary on different planes,
+### Time
+The rate of time's passage can vary on different planes,
 though it remains constant within any particular plane. Time is always
 subjective for the viewer. The same subjectivity applies to various
 planes. Travelers may discover that they'll pick up or lose time while
@@ -196,7 +207,8 @@ unnoticed.
 If a plane is timeless with respect to magic, any spell cast with a
 noninstantaneous duration is permanent until dispelled.
 
-**Shape and Size:** Planes come in a variety of sizes and shapes. Most
+### Shape and Size
+Planes come in a variety of sizes and shapes. Most
 planes are infinite, or at least so large that they may as well be
 infinite.
 
@@ -216,7 +228,8 @@ teleport the traveler to an opposite edge when he crosses them.
 
 Some demiplanes are self-contained.
 
-**Morphic Traits:** This trait measures how easily the basic nature of a
+### Morphic Traits
+This trait measures how easily the basic nature of a
 plane can be changed. Some planes are responsive to sentient thought,
 while others can be manipulated only by extremely powerful creatures.
 And some planes respond to physical or magical efforts.
@@ -473,16 +486,19 @@ still function normally.
 
 ## How Planes Interact
 
-**Separate Planes:** Two planes that are separate do not overlap or
+### Separate Planes
+Two planes that are separate do not overlap or
 directly connect to each other. They are like planets in different
 orbits. The only way to get from one separate plane to the other is to
 go through a third plane.
 
-**Coterminous Planes:** Planes that touch at specific points are
+### Coterminous Planes
+Planes that touch at specific points are
 coterminous. Where they touch, a connection exists, and travelers can
 leave one reality behind and enter the other.
 
-**Coexistent Planes:** If a link between two planes can be created at
+### Coexistent Planes
+If a link between two planes can be created at
 any point, the two planes are coexistent. These planes overlap each
 other completely. A coexistent plane can be reached from anywhere on the
 plane it overlaps. When moving on a coexistent plane, it is often

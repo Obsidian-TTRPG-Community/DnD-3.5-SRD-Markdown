@@ -17,14 +17,16 @@ beyond 20^th^ level. A ten-level prestige class can progress beyond
 higher. A class with fewer than ten levels cannot progress beyond the
 maximum for that class, regardless of character level.
 
-**Epic Save Bonus:** A character's base save bonus does not increase
+### Epic Save Bonus
+A character's base save bonus does not increase
 after character level reaches 20th. However, the character does receive
 a cumulative +1 epic bonus on all saving throws at every even-numbered
 level beyond 20th, as shown on Table: Epic Save and Epic Attack Bonuses.
 Any time a feat, prestige class, or other rule refers to your base save
 bonus, use the sum of your base save bonus and epic save bonus.
 
-**Epic Attack Bonus:** Similarly, the character's base attack bonus does
+### Epic Attack Bonus
+Similarly, the character's base attack bonus does
 not increase after character level reaches 20th. However, the character
 does receive a cumulative +1 epic bonus on all attacks at every
 odd-numbered level beyond 20th, as shown on Table: Epic Save and Epic
@@ -32,10 +34,12 @@ Attack Bonuses. Any time a feat, prestige class, or other rule refers to
 your base attack bonus, use the sum of your base attack bonus and epic
 attack bonus.
 
-**Class Skill Max Ranks:** The maximum number of ranks a character can
+### Class Skill Max Ranks
+The maximum number of ranks a character can
 have in a class skill is equal to his or her character level +3.
 
-**Cross-Class Skill Max Ranks:** For cross-class skills, the maximum
+### Cross-Class Skill Max Ranks
+For cross-class skills, the maximum
 number of ranks is one-half the maximum for a class skill.
 
 Feats: Every character gains one feat (which may be an epic or nonepic

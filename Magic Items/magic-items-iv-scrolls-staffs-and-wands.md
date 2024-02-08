@@ -25,7 +25,8 @@ written form. A spell on a scroll can be used only once. The writing
 vanishes from the scroll when the spell is activated. Using a scroll is
 basically like casting a spell.
 
-**Physical Description:** A scroll is a heavy sheet of fine vellum or
+### Physical Description
+A scroll is a heavy sheet of fine vellum or
 high-quality paper. An area about 8 1/2 inches wide and 11 inches long
 is sufficient to hold one spell. The sheet is reinforced at the top and
 bottom with strips of leather slightly longer than the sheet is wide. A
@@ -42,7 +43,8 @@ metal, or wood. Most scroll cases are inscribed with magic symbols which
 often identify the owner or the spells stored on the scrolls inside. The
 symbols often hide magic traps.
 
-**Activation:** To activate a scroll, a spellcaster must read the spell
+### Activation
+To activate a scroll, a spellcaster must read the spell
 written on it. Doing so involves several steps and conditions.
 
 *Decipher the Writing:* The writing on a scroll must be deciphered
@@ -969,7 +971,8 @@ wands, which can contain a wide variety of spells, each staff is of a
 certain kind and holds specific spells. A staff has 50 charges when
 created.
 
-**Physical Description:** A typical staff is 4 feet to 7 feet long and 2
+### Physical Description
+A typical staff is 4 feet to 7 feet long and 2
 inches to 3 inches thick, weighing about 5 pounds. Most staffs are wood,
 but a rare few are bone, metal, or even glass. (These are extremely
 exotic.) Staffs often have a gem or some device at their tip or are shod
@@ -977,7 +980,8 @@ in metal at one or both ends. Staffs are often decorated with carvings
 or runes. A typical staff is like a walking stick, quarterstaff, or
 cudgel. It has AC 7, 10 hit points, hardness 5, and a break DC of 24.
 
-**Activation:** Staffs use the spell trigger activation method, so
+### Activation
+Staffs use the spell trigger activation method, so
 casting a spell from a staff is usually a standard action that doesn't
 provoke attacks of opportunity. (If the spell being cast, however, has a
 longer casting time than 1 standard action, it takes that long to cast
@@ -985,7 +989,8 @@ the spell from a staff.) To activate a staff, a character must hold it
 forth in at least one hand (or whatever passes for a hand, for
 nonhumanoid creatures).
 
-**Special Qualities:** Roll d%. A 01--30 result indicates that something
+### Special Qualities
+Roll d%. A 01--30 result indicates that something
 (a design, inscription, or the like) provides some clue to the staff 's
 function, and 31--100 indicates no special qualities.
 
@@ -1036,7 +1041,8 @@ Furthermore, a staff can hold a spell of any level, unlike a wand, which
 is limited to spells of 4th level or lower. The minimum caster level of
 a staff is 8th. Standard staffs are described below.
 
-**Abjuration:** Usually carved from the heartwood of an ancient oak or
+### Abjuration
+Usually carved from the heartwood of an ancient oak or
 other large tree, this staff allows use of the following spells:
 
 -   *Shield* (1 charge)
@@ -1050,7 +1056,8 @@ Strong abjuration; CL 13th; Craft Staff, *dismissal, dispel magic,
 lesser globe of invulnerability, resist energy, repulsion, shield;*
 Price 65,000 gp.
 
-**Charming:** Made of twisting wood ornately shaped and carved, this
+### Charming
+Made of twisting wood ornately shaped and carved, this
 staff allows use of the following spells:
 
 -   *Charm person* (1 charge)
@@ -1059,7 +1066,8 @@ staff allows use of the following spells:
 Moderate enchantment; CL 8th; Craft Staff, *charm person, charm
 monster;* Price 16,500 gp.
 
-**Conjuration:** This staff is usually made of ash or walnut and bears
+### Conjuration
+This staff is usually made of ash or walnut and bears
 ornate carvings of many different kinds of creatures. It allows use of
 the following spells:
 
@@ -1073,7 +1081,8 @@ the following spells:
 Strong conjuration; CL 13th; Craft Staff, *cloudkill, stinking cloud,
 summon monster VI, summon swarm, unseen servant;* Price 65,000 gp.
 
-**Defense:** The *staff of defense* is a simple-looking staff that
+### Defense
+The *staff of defense* is a simple-looking staff that
 throbs with power when held defensively. It allows use of the following
 spells:
 
@@ -1085,7 +1094,8 @@ spells:
 Strong abjuration; CL 15th; Craft Staff, *shield, shield of faith,
 shield of law, shield other*, creator must be lawful; Price 58,250 gp.
 
-**Divination:** Made from a supple length of willow, often with a forked
+### Divination
+Made from a supple length of willow, often with a forked
 tip, this staff allows use of the following spells:
 
 -   *Detect secret doors* (1 charge)
@@ -1099,7 +1109,8 @@ Strong divination; CL 13th; Craft Staff, *detect secret doors*, *locate
 creature, locate object, prying eyes, tongues*, *true seeing*; Price
 73,500 gp.
 
-**Earth and Stone:** This staff is topped with a fist-sized emerald that
+### Earth and Stone
+This staff is topped with a fist-sized emerald that
 gleams with smoldering power. It allows the use of the following spells:
 
 -   *Passwall* (1 charge)
@@ -1108,7 +1119,8 @@ gleams with smoldering power. It allows the use of the following spells:
 Moderate transmutation; CL 11th; Craft Staff, *move earth, passwall*;
 Price 80,500 gp.
 
-**Enchantment:** Often made from applewood and topped with a clear
+### Enchantment
+Often made from applewood and topped with a clear
 crystal, this staff allows use of the following spells:
 
 -   *Sleep* (1 charge)
@@ -1122,7 +1134,8 @@ Strong enchantment; CL 13th; Craft Staff,*crushing despair, mass
 suggestion, mind fog, sleep, suggestion, hideous laughter;* Price 65,000
 gp.
 
-**Evocation:** Usually very smooth and carved from hickory, willow, or
+### Evocation
+Usually very smooth and carved from hickory, willow, or
 yew, this staff allows use of the following spells:
 
 -   *Magic missile* (1 charge)
@@ -1137,7 +1150,8 @@ storm, magic missile,*
 
 *shatter, wall of force;* Price 65,000 gp.
 
-**Fire:** Crafted from bronzewood with brass bindings, this staff allows
+### Fire
+Crafted from bronzewood with brass bindings, this staff allows
 use of the following spells:
 
 -   *Burning hands* (1 charge)
@@ -1147,7 +1161,8 @@ use of the following spells:
 Moderate evocation; CL 8th; Craft Staff, *burning hands, fireball, wall
 of fire*; Price 17,750 gp.
 
-**Frost:** Tipped on either end with a glistening diamond, this
+### Frost
+Tipped on either end with a glistening diamond, this
 rune-covered staff allows use of the following spells:
 
 -   *Ice storm* (1 charge)
@@ -1157,7 +1172,8 @@ rune-covered staff allows use of the following spells:
 Moderate evocation; CL 10th; Craft Staff, *cone of cold*, *ice storm,
 wall of ice;* Price 56,250 gp.
 
-**Healing:** This white ash staff, with inlaid silver runes, allows use
+### Healing
+This white ash staff, with inlaid silver runes, allows use
 of the following spells:
 
 -   *Lesser restoration* (1 charge)
@@ -1169,7 +1185,8 @@ Moderate conjuration; CL 8th; Craft Staff, *cure serious wounds, lesser
 restoration, remove blindness/deafness, remove disease*; Price 27,750
 gp.
 
-**Illusion:** This staff is made from ebony or other dark wood and
+### Illusion
+This staff is made from ebony or other dark wood and
 carved into an intricately twisted, fluted, or spiral shape. It allows
 use of the following spells:
 
@@ -1184,7 +1201,8 @@ Strong illusion; CL 13th; Craft Staff, *disguise self, major image,
 mirror image, persistent image, project image, rainbow pattern;* Price
 65,000 gp.
 
-**Illumination:** This staff is usually sheathed in silver and decorated
+### Illumination
+This staff is usually sheathed in silver and decorated
 with sunbursts. It allows use of the following spells:
 
 -   *Dancing lights* (1 charge)
@@ -1195,7 +1213,8 @@ with sunbursts. It allows use of the following spells:
 Strong evocation; CL 15th; Craft Staff, *dancing lights, daylight,
 flare, sunburst*; Price 48,250 gp.
 
-**Life:** Made of thick oak shod in gold, this staff allows use of the
+### Life
+Made of thick oak shod in gold, this staff allows use of the
 following spells:
 
 -   *Heal* (1 charge)
@@ -1204,7 +1223,8 @@ following spells:
 Moderate conjuration; CL 11th; Craft Staff, *heal, resurrection*; Price
 155,750 gp.
 
-**Necromancy:** This staff is made from ebony or other dark wood and
+### Necromancy
+This staff is made from ebony or other dark wood and
 carved with the images of bones and skulls. It allows use of the
 following spells:
 
@@ -1219,7 +1239,8 @@ Strong necromancy; CL 13th; Craft Staff, *cause fear, circle of death,
 enervation, ghoul touch, halt undead, waves of fatigue;* Price 65,000
 gp.
 
-**Passage:** This potent item allows use of the following spells:
+### Passage
+This potent item allows use of the following spells:
 
 -   *Dimension door* (1 charge)
 -   *Passwall* (1 charge)
@@ -1230,7 +1251,8 @@ gp.
 Strong varied; CL 17th; Craft Staff, *astral projection, dimension door,
 greater teleport, passwall, phase door*; Price 170,500 gp.
 
-**Power:** The *staff of power* is a very potent magic item, with
+### Power
+The *staff of power* is a very potent magic item, with
 offensive and defensive abilities. It is usually topped with a
 glistening gem, its shaft straight and smooth. It has the following
 powers:
@@ -1278,7 +1300,8 @@ missile,* heightened *ray of enfeeblement, continual flame, levitate,*
 heightened *fireball,* heightened *lightning bolt, cone of cold, hold
 monster, wall of force, globe of invulnerability;* Price 211,000 gp.
 
-**Size Alteration:** Stout and sturdy, this staff of dark wood allows
+### Size Alteration
+Stout and sturdy, this staff of dark wood allows
 use of the following spells:
 
 -   *Enlarge person* (1 charge)
@@ -1291,7 +1314,8 @@ Faint conjuration; CL 8th; Craft Staff, *enlarge person, mass enlarge
 person, reduce person, mass reduce person, shrink item*; Price 29,000
 gp.
 
-**Swarming Insects:** Made of twisted dark wood with dark spots
+### Swarming Insects
+Made of twisted dark wood with dark spots
 resembling crawling insects (which occasionally seem to move), this
 staff allows use of the following spells:
 
@@ -1301,7 +1325,8 @@ staff allows use of the following spells:
 Moderate conjuration; CL 9th; Craft Staff, *insect plague, summon
 swarm*; Price 24,750 gp.
 
-**Transmutation:** This staff is generally carved from or decorated with
+### Transmutation
+This staff is generally carved from or decorated with
 petrified wood and allows use of the following spells:
 
 -   *Expeditious retreat* (1 charge)
@@ -1315,7 +1340,8 @@ Strong transmutation; CL 13th; Craft Staff, *alter self, baleful
 polymorph, blink, disintegrate, expeditious retreat, polymorph;* Price
 65,000 gp.
 
-**Woodlands:** Appearing to have grown naturally into its shape, this
+### Woodlands
+Appearing to have grown naturally into its shape, this
 oak, ash, or yew staff allows use of the following spells:
 
 -   *Charm animal* (1 charge)
@@ -1341,14 +1367,16 @@ lower. Each wand has 50 charges when created, and each charge expended
 allows the user to use the wand's spell one time. A wand that runs out
 of charges is just a stick.
 
-**Physical Description:** A typical wand is 6 inches to 12 inches long
+### Physical Description
+A typical wand is 6 inches to 12 inches long
 and about 1/4 inch thick, and often weighs no more than 1 ounce. Most
 wands are wood, but some are bone. A rare few are metal, glass, or even
 ceramic, but these are quite exotic. Occasionally, a wand has a gem or
 some device at its tip, and most are decorated with carvings or runes. A
 typical wand has AC 7, 5 hit points, hardness 5, and a break DC of 16.
 
-**Activation:** Wands use the spell trigger activation method, so
+### Activation
+Wands use the spell trigger activation method, so
 casting a spell from a wand is usually a standard action that doesn't
 provoke attacks of opportunity. (If the spell being cast, however, has a
 longer casting time than 1 action, it takes that long to cast the spell
@@ -1357,7 +1385,8 @@ whatever passes for a hand, for nonhumanoid creatures) and point it in
 the general direction of the target or area. A wand may be used while
 grappling or while swallowed whole.
 
-**Special Qualities:** Roll d%. A 01--30 result indicates that something
+### Special Qualities
+Roll d%. A 01--30 result indicates that something
 (a design, inscription, or the like) provides some clue to the wand's
 function, and 31--100 indicates no special qualities.
 

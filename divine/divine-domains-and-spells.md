@@ -10,7 +10,8 @@ the terms of the Open Game License v1.0a.
 
 ## Artifice Domain
 
-**Granted Power:** Gain +4 bonus on Craft checks. The character casts
+### Granted Power
+Gain +4 bonus on Craft checks. The character casts
 conjuration (creation) spells at +1 caster level. (Those with access to
 both the Artifice and Creation domains cast conjuration \[creation\]
 spells at +3 caster level.)
@@ -31,7 +32,8 @@ spells at +3 caster level.)
 
 ## Charm Domain
 
-**Granted Power:** The character can boost his or her Charisma by 4
+### Granted Power
+The character can boost his or her Charisma by 4
 points once per day. Activating this power is a free action. The
 Charisma increase lasts 1 minute.
 
@@ -51,7 +53,8 @@ Charisma increase lasts 1 minute.
 
 ## Community Domain
 
-**Granted Power:** Use *calm emotions* as a spell-like ability once per
+### Granted Power
+Use *calm emotions* as a spell-like ability once per
 day. Gain a +2 competence bonus on Diplomacy checks.
 
 ### Community Domain Spells
@@ -70,7 +73,8 @@ day. Gain a +2 competence bonus on Diplomacy checks.
 
 ## Creation Domain
 
-**Granted Power:** Cast conjuration (creation) spells at +2 caster
+### Granted Power
+Cast conjuration (creation) spells at +2 caster
 level. (Those with access to both the Artifice and Creation domains cast
 conjuration (creation) spells at +3 caster level.)
 
@@ -90,7 +94,8 @@ conjuration (creation) spells at +3 caster level.)
 
 ## Darkness Domain
 
-**Granted Power:** Free Blind-Fight feat.
+### Granted Power
+Free Blind-Fight feat.
 
 ### Darkness Domain Spells
 
@@ -108,7 +113,8 @@ conjuration (creation) spells at +3 caster level.)
 
 ## Glory Domain
 
-**Granted Power:** Turn undead with a +2 bonus on the turning check and
+### Granted Power
+Turn undead with a +2 bonus on the turning check and
 +1d6 to the turning damage roll.
 
 ### Glory Domain Spells
@@ -127,7 +133,8 @@ conjuration (creation) spells at +3 caster level.)
 
 ## Liberation Domain
 
-**Granted Power:** The character gains a +2 morale bonus on all saving
+### Granted Power
+The character gains a +2 morale bonus on all saving
 throws against enchantment spells or effects.
 
 ### Liberation Domain Spells
@@ -146,7 +153,8 @@ throws against enchantment spells or effects.
 
 ## Madness Domain
 
-**Granted Power:** The character gains an Insanity score equal to half
+### Granted Power
+The character gains an Insanity score equal to half
 his or her class level. For spellcasting (determining bonus spells and
 DCs), the character uses his or her Wisdom score plus his or her
 Insanity score in place of Wisdom alone.
@@ -175,7 +183,8 @@ power before the roll is made.
 
 ## Nobility Domain
 
-**Granted Power:** The character has the spell-like ability to inspire
+### Granted Power
+The character has the spell-like ability to inspire
 allies, giving them a +2 morale bonus on saving throws, attack rolls,
 ability checks, skill checks, and weapon damage rolls. Allies must be
 able to hear the character speak for 1 round. Using this ability is a
@@ -201,7 +210,8 @@ Charisma bonus and can be used once per day.
 The Repose domain is similar to the Death domain,but is granted by
 good-aligned deities whose clerics are barred from casting evil spells.
 
-**Granted Power:** The character may use a *death touch* once per day.
+### Granted Power
+The character may use a *death touch* once per day.
 The *death touch* is a spell-like ability that is a death effect. The
 character must succeed at a melee touch attack against a living creature
 (using the rules for touch spells). When the character touches, roll 1d6
@@ -224,7 +234,8 @@ current hit points, it dies.
 
 ## Rune Domain
 
-**Granted Power:** Free Scribe Scroll feat.
+### Granted Power
+Free Scribe Scroll feat.
 
 ### Rune Domain Spells
 
@@ -242,7 +253,8 @@ current hit points, it dies.
 
 ## Scalykind Domain
 
-**Granted Power:** Rebuke or command animals (reptilian creatures and
+### Granted Power
+Rebuke or command animals (reptilian creatures and
 snakes only) as an evil cleric rebukes or commands undead.
 
 Use this ability a total number of times per day equal to 3 + Charisma
@@ -266,7 +278,8 @@ modifier.
 
 ## Weather Domain
 
-**Granted Power:** Survival is a class skill.
+### Granted Power
+Survival is a class skill.
 
 ### Weather Domain Spells
 
@@ -287,14 +300,22 @@ modifier.
 ## Armor of Darkness
 
 -   Abjuration \[Darkness\]
--   **Level:** Darkness 4
--   **Components:** V, S , D F
--   **Casting Time:** 1 action
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 10 minutes/level
--   **Saving Throw:** Will negates (harmless)
--   **Spell Resistance:** Yes (harmless)
+-   ### Level
+Darkness 4
+-   ### Components
+V, S , D F
+-   ### Casting Time
+1 action
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+10 minutes/level
+-   ### Saving Throw
+Will negates (harmless)
+-   ### Spell Resistance
+Yes (harmless)
 
 The spell envelops the warded creature in a shroud of shadows. The
 shroud can, if the caster desires, conceal the wearer's features. In any
@@ -309,15 +330,23 @@ gain +4 turn resistance.
 ## Blacklight
 
 -   Evocation \[Darkness\]
--   **Level:** Darkness 3, Sor/Wiz 3
--   **Components:** V, S , M
--   **Casting Time:** 1 action
--   **Range:** Close (25 ft. + 5 ft./2 levels)
--   **Area:** A 20-ft.-radius emanation centered on a creature, object,
+-   ### Level
+Darkness 3, Sor/Wiz 3
+-   ### Components
+V, S , M
+-   ### Casting Time
+1 action
+-   ### Range
+Close (25 ft. + 5 ft./2 levels)
+-   ### Area
+A 20-ft.-radius emanation centered on a creature, object,
     or point in space
--   **Duration:** 1 round/level (D)
--   **Saving Throw:** Will negates or none (object)
--   **Spell Resistance:** Yes or no (object)
+-   ### Duration
+1 round/level (D)
+-   ### Saving Throw
+Will negates or none (object)
+-   ### Spell Resistance
+Yes or no (object)
 
 The caster creates an area of total darkness. The darkness is
 impenetrable to normal vision and darkvision, but the caster can see
@@ -337,14 +366,22 @@ level. The 3rd-level cleric spell *daylight* counters or dispels
 ## Bolt of Glory
 
 -   Evocation \[Good\]
--   **Level:** Glory 6
--   **Components:** V, S , D F
--   **Casting Time:** 1 action
--   **Range:** Close (25 ft. + 5 ft./level)
--   **Effect:** Ray
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** Yes
+-   ### Level
+Glory 6
+-   ### Components
+V, S , D F
+-   ### Casting Time
+1 action
+-   ### Range
+Close (25 ft. + 5 ft./level)
+-   ### Effect
+Ray
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+Yes
 
 This spell projects a bolt of energy from the Positive Energy Plane
 against one creature. The caster must succeed at a ranged touch attack
@@ -361,14 +398,22 @@ depending on its nature and home plane of existence:
 ## Bolts of Bedevilment
 
 -   Enchantment \[Mind-Affecting\]
--   **Level:** Madness 5
--   **Components:** V, S
--   **Casting Time:** One action
--   **Range:** Medium (100 ft. + 10 ft./level)
--   **Effect:** Ray
--   **Duration:** 1 round/level
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Level
+Madness 5
+-   ### Components
+V, S
+-   ### Casting Time
+One action
+-   ### Range
+Medium (100 ft. + 10 ft./level)
+-   ### Effect
+Ray
+-   ### Duration
+1 round/level
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 This spell grants the caster the ability to make one ray attack per
 round. The ray dazes one living creature, clouding its mind so that it
@@ -379,14 +424,22 @@ spells, use mental abilities, and so on.
 ## Crown of Glory
 
 -   Evocation
--   **Level:** Glory 8
--   **Components:** V, S , M, D F
--   **Casting Time:** 1 full round
--   **Range:** Personal
--   **Area:** 120-ft.-radius emanation centered on you
--   **Duration:** 1 minute/level
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Level
+Glory 8
+-   ### Components
+V, S , M, D F
+-   ### Casting Time
+1 full round
+-   ### Range
+Personal
+-   ### Area
+120-ft.-radius emanation centered on you
+-   ### Duration
+1 minute/level
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 The caster is imbued with an aura of celestial authority, inspiring awe
 in all lesser creatures.
@@ -415,15 +468,23 @@ subject to it.
 ## Genesis
 
 -   Conjuration (Creation)
--   **Level:** Creation 9
--   **Components:** V, S , M, X P
--   **Casting Time:** 1 week (8 hours/day)
--   **Range:** 180 ft.
--   **Effect:** A demiplane on the Ethereal Plane centered on your
+-   ### Level
+Creation 9
+-   ### Components
+V, S , M, X P
+-   ### Casting Time
+1 week (8 hours/day)
+-   ### Range
+180 ft.
+-   ### Effect
+A demiplane on the Ethereal Plane centered on your
     location
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 This spell creates an immobile, finite plane with limited access---a
 demi-plane.
@@ -457,19 +518,27 @@ previously created demiplane.
 ## Hardening
 
 -   Transmutation
--   **Level:** Sor/Wiz 6, Artifice 7
--   **Components:** V, S
--   **Casting Time:** 1 action
--   **Range:** Touch
--   **Target:** One item of a volume no greater than 10 cu. ft./level
+-   ### Level
+Sor/Wiz 6, Artifice 7
+-   ### Components
+V, S
+-   ### Casting Time
+1 action
+-   ### Range
+Touch
+-   ### Target
+One item of a volume no greater than 10 cu. ft./level
 
 (see text)
 
-**Duration:** Permanent
+### Duration
+Permanent
 
-**Saving Throw:** None
+### Saving Throw
+None
 
-**Spell Resistance:** Yes (object)
+### Spell Resistance
+Yes (object)
 
 This spell increases the hardness of materials. For every two caster
 levels, increase by 1 the hardness of the material targeted by the
@@ -487,14 +556,22 @@ per level.
 ## Maddening Scream
 
 -   Enchantment (Compulsion) \[Mind-Affecting\]
--   **Level:** Sor/Wiz 8, Madness 8
--   **Components:** V
--   **Casting Time:** One action
--   **Range:** Touch
--   **Target:** Living creature touched
--   **Duration:** 1d4+1 rounds
--   **Saving Throw:** None
--   **Spell Resistance:** Yes
+-   ### Level
+Sor/Wiz 8, Madness 8
+-   ### Components
+V
+-   ### Casting Time
+One action
+-   ### Range
+Touch
+-   ### Target
+Living creature touched
+-   ### Duration
+1d4+1 rounds
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+Yes
 
 The subject cannot keep him or herself from behaving as though
 completely mad. This spell makes it impossible for the victim to do
@@ -507,14 +584,22 @@ to use a shield.
 ## Rage
 
 -   Enchantment
--   **Level:** Madness 3
--   **Components:** V, S
--   **Casting Time:** One action
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 1 round/level
--   **Saving Throw:** Will negates (harmless)
--   **Spell Resistance:** Yes (harmless)
+-   ### Level
+Madness 3
+-   ### Components
+V, S
+-   ### Casting Time
+One action
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+1 round/level
+-   ### Saving Throw
+Will negates (harmless)
+-   ### Spell Resistance
+Yes (harmless)
 
 The caster can put a creature into a blood frenzy. In this rage, the
 creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus
@@ -524,12 +609,18 @@ and no fatigue period occurs after the rage is over.)
 ## Surelife
 
 -   Abjuration
--   **Level:** Repose 8
--   **Components:** V, S, M
--   **Casting Time:** 1 round
--   **Range:** Personal
--   **Target:** You
--   **Duration:** 1 minute/2 levels
+-   ### Level
+Repose 8
+-   ### Components
+V, S, M
+-   ### Casting Time
+1 round
+-   ### Range
+Personal
+-   ### Target
+You
+-   ### Duration
+1 minute/2 levels
 
 This spell allows the caster to protect him or herself against some
 condition that would ordinarily cause certain death. The character can
@@ -546,14 +637,22 @@ full normal effects if the character is still subjected to it.
 ## Touch of Madness
 
 -   Enchantment \[Mind-Affecting\]
--   **Level:** Madness 2
--   **Components:** V, S
--   **Casting Time:** One action
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 1 round/level
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Level
+Madness 2
+-   ### Components
+V, S
+-   ### Casting Time
+One action
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+1 round/level
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 The caster may daze one living creature by making a successful touch
 attack. If the target creature does not make a successful Will save, its
@@ -565,19 +664,27 @@ so on.
 ## True Creation
 
 -   Conjuration (Creation)
--   **Level:** Creation 8
--   **Components:** V, S , M, X P
--   **Casting Time:** 10 minutes
--   **Range:** 0 ft.
--   **Effect:** Unattended, nonmagical object of nonliving matter, up to
+-   ### Level
+Creation 8
+-   ### Components
+V, S , M, X P
+-   ### Casting Time
+10 minutes
+-   ### Range
+0 ft.
+-   ### Effect
+Unattended, nonmagical object of nonliving matter, up to
 
 1 cu. ft./level
 
-**Duration:** Instantaneous
+### Duration
+Instantaneous
 
-**Saving Throw:** None
+### Saving Throw
+None
 
-**Spell Resistance:** No
+### Spell Resistance
+No
 
 The caster creates a nonmagical, unattended object of any sort of
 matter. Items created are permanent and cannot be negated by dispelling
@@ -596,14 +703,22 @@ whichever is more.
 ## Undeath to Death
 
 -   Necromancy
--   **Level:** Sor/Wiz 6, Clr 6, Repose 6
--   **Components:** V, S , M, D F
--   **Casting Time:** 1 action
--   **Range:** Medium (100 ft. + 10 ft./level)
--   **Area:** Several undead creatures within a 50-ft.-radius burst
--   **Duration:** Instantaneous
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Level
+Sor/Wiz 6, Clr 6, Repose 6
+-   ### Components
+V, S , M, D F
+-   ### Casting Time
+1 action
+-   ### Range
+Medium (100 ft. + 10 ft./level)
+-   ### Area
+Several undead creatures within a 50-ft.-radius burst
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 *Undeath to death* snuffs out the animating forces of undead creatures,
 killing them instantly. The spell slays 1d4 HD worth of undead creatures

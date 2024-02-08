@@ -658,12 +658,14 @@ characters to make difficult choices.
   91--100                     Substitute specific cursed item
   --------------------------- ---------------------------------
 
-**Delusion:** The user believes the item is what it appears to be, yet
+### Delusion
+The user believes the item is what it appears to be, yet
 it actually has no magical power other than to deceive. The user is
 mentally fooled into thinking the item is functioning and cannot be
 convinced otherwise without the help of a *remove curse* spell.
 
-**Opposite Effect or Target:** These cursed items malfunction, so that
+### Opposite Effect or Target
+These cursed items malfunction, so that
 either they do the opposite of what the creator intended, or they target
 the user instead of someone else. The interesting point to keep in mind
 here is that these items aren't always bad to have. Opposite-effect
@@ -676,7 +678,8 @@ is placed upon it that compels the wielder to keep and use it. In such
 cases, a *remove curse* spell is generally needed to get rid of the
 item.
 
-**Intermittent Functioning:** The three varieties of intermittent
+### Intermittent Functioning
+The three varieties of intermittent
 functioning items all function perfectly as described---at least some of
 the time. The three varieties are unreliable, dependent, and
 uncontrolled items.
@@ -716,7 +719,8 @@ following table.
 times. Roll d% every day. On a result of 01--05 the item activates at
 some random point during that day.
 
-**Requirement:** In a sense, a command word is a requirement.
+### Requirement
+In a sense, a command word is a requirement.
 Nevertheless, some items have much more stringent requirements that must
 be met for them to be usable. To keep an item with this kind of curse
 functioning, one or more of the following conditions must be met.
@@ -761,7 +765,8 @@ met, usually the item functions for one day before the requirement must
 be met again (although some requirements are one time only, others
 monthly, and still others continuous).
 
-**Drawback:** Items with drawbacks are usually still beneficial to the
+### Drawback
+Items with drawbacks are usually still beneficial to the
 possessor but they also carry some negative aspect. Although sometimes
 drawbacks occur only when the item is used (or held, in the case of some
 items such as weapons), usually the drawback remains with the character
@@ -855,7 +860,8 @@ dweomer* reveals the true nature of a cursed item.
 
   : Table: Specific Cursed Items
 
-**Amulet of Inescapable Location:** This device is typically worn on a
+### Amulet of Inescapable Location
+This device is typically worn on a
 chain or as a brooch. It appears, to magical analysis, to prevent
 location, scrying or detection or influence by *detect thoughts* or
 telepathy. It seems to be an *amulet of proof against detection and
@@ -865,7 +871,8 @@ saves against divination spells.
 Moderate abjuration; CL 10th; Create Wondrous Item, *bestow curse;*
 Price 1,000 gp.
 
-**Armor of Arrow Attraction:** Magical analysis indicates that this
+### Armor of Arrow Attraction
+Magical analysis indicates that this
 armor is a normal suit of *+3 full plate.* However, the armor is cursed.
 It works normally with regard to melee attacks but actually serves to
 attract ranged weapons. The wearer takes a --15 penalty to AC against
@@ -875,7 +882,8 @@ reveal itself until the character is fired upon in earnest.
 Strong abjuration; CL 16th; Craft Magic Arms and Armor, *bestow curse;*
 Price 9,000 gp.
 
-**Armor of Rage:** This armor is similar in appearance to *armor of
+### Armor of Rage
+This armor is similar in appearance to *armor of
 command* and functions as a suit of *+1 full plate*. However, when it is
 worn, the armor causes the character to take a --4 penalty to Charisma.
 All unfriendly characters within 300 feet have a +1 morale bonus on
@@ -887,7 +895,8 @@ understand the reason for the depth of their enmity.)
 Strong necromancy; CL 16th; Craft Magic Arms and Armor, *bestow curse;*
 Price 1,600 gp.
 
-**Bag of Devouring:** This bag appears to be an ordinary sack. Detection
+### Bag of Devouring
+This bag appears to be an ordinary sack. Detection
 for magical properties makes it seem as if it were a *bag of holding*.
 The sack is, however, a lure used by an extradimensional creature---in
 fact, one of its feeding orifices.
@@ -914,7 +923,8 @@ magic.
 Moderate conjuration; CL 17th; In effect, this is a creature and cannot
 be created; Price n/a.
 
-**Boots of Dancing:** These boots initially appear and function as one
+### Boots of Dancing
+These boots initially appear and function as one
 of the other kinds of magic boots. But when the wearer is in (or fleeing
 from) melee combat, *boots of dancing* impede movement, making him
 behave as if *irresistible dance* had been cast upon him. Only a *remove
@@ -924,7 +934,8 @@ nature is revealed.
 Strong enchantment; CL 16th; Create Wondrous Item, *irresistible dance;*
 Price 30,000 gp.
 
-**Bracers of Defenselessness:** These appear to be *bracers of armor +5*
+### Bracers of Defenselessness
+These appear to be *bracers of armor +5*
 and actually serve as such until the wearer is attacked in anger by an
 enemy with a Challenge Rating equal to or greater than her level. At
 that moment and thereafter, the bracers cause a --5 penalty to AC. Once
@@ -934,7 +945,8 @@ only by means of a *remove curse* spell.
 Moderate conjuration; CL 16th; Create Wondrous Item, *mage armor, bestow
 curse;* Price 1,200 gp.
 
-**Broom of Animated Attack:** This item is indistinguishable in
+### Broom of Animated Attack
+This item is indistinguishable in
 appearance from a normal broom. It is identical to a *broom of flying*
 by all tests short of attempted use.
 
@@ -954,7 +966,8 @@ hardness 4.
 Moderate transmutation; CL 10th; Create Wondrous Item, *fly, animate
 objects;* Price 5,200 gp.
 
-**Cloak of Poisonousness:** This cloak is usually made of a woolen
+### Cloak of Poisonousness
+This cloak is usually made of a woolen
 material, although it can be made of leather. A *detect poison* spell
 can reveal the presence of poison impregnated in the cloak's fabric. The
 garment can be handled without harm, but as soon as it is actually
@@ -970,7 +983,8 @@ before.
 Strong abjuration; CL 15th; Create Wondrous Item, *poison,* and *limited
 wish* or *miracle;* Price 62,000 gp.
 
-**Crystal Hypnosis Ball:** This cursed item is indistinguishable from a
+### Crystal Hypnosis Ball
+This cursed item is indistinguishable from a
 normal *crystal ball.* However, anyone attempting to use the scrying
 device becomes fascinated for 1d6 minutes, and a telepathic *suggestion*
 is implanted in his mind (Will DC 19 negates).
@@ -985,7 +999,8 @@ time, the user remains unaware of his subjugation.
 Moderate divination; CL 17th; In effect, this is a minor artifact and
 cannot be created; Price n/a.
 
-**Dust of Sneezing and Choking:** This fine dust appears to be *dust of
+### Dust of Sneezing and Choking
+This fine dust appears to be *dust of
 appearance.* If cast into the air, it causes those within a 20- foot
 spread to fall into fits of sneezing and coughing. Those failing a DC 15
 Fortitude save take 2d6 points of Constitution damage immediately. In
@@ -997,7 +1012,8 @@ saving throw are nonetheless disabled by choking (treat as stunned) for
 Faint conjuration; CL 7th; Create Wondrous Item, *poison;* Price 2,400
 gp.
 
-**Flask of Curses:** This item looks like an ordinary beaker, bottle,
+### Flask of Curses
+This item looks like an ordinary beaker, bottle,
 container, decanter, flask, or jug. It may contain a liquid, or it may
 emit smoke. When the flask is first unstoppered, all within 30 feet must
 make a DC 17 Will save or be cursed, taking a --2 penalty on attack
@@ -1007,7 +1023,8 @@ cast upon them.
 Moderate conjuration; CL 7th; Create Wondrous Item, *bestow curse;*
 Price 2,100 gp.
 
-**Gauntlets of Fumbling:** These gauntlets may be of supple leather or
+### Gauntlets of Fumbling
+These gauntlets may be of supple leather or
 heavy protective material suitable for use with armor. In the former
 instance, they appear to be *gloves of Dexterity.* In the latter case,
 they appear to be *gauntlets of ogre power.* The gauntlets perform
@@ -1022,7 +1039,8 @@ means of a *remove curse* spell, a *wish,* or a *miracle.*
 Moderate transmutation; CL 7th; Create Wondrous Item, *bestow curse;*
 Price 1,300 gp.
 
-**Helm of Opposite Alignment:** This metal hat looks like a typical
+### Helm of Opposite Alignment
+This metal hat looks like a typical
 helmet. When placed upon the head, however, its curse immediately takes
 effect (Will DC 15 negates). On a failed save, the alignment of the
 wearer is radically altered to an alignment as different as possible
@@ -1047,7 +1065,8 @@ functioned once, it loses its magical properties.
 Strong transmutation; CL 12th; Create Wondrous Item, creator must be
 12th level; Price 4,000 gp;Weight 3 lb.
 
-**Incense of Obsession:** These blocks of incense appear to be *incense
+### Incense of Obsession
+These blocks of incense appear to be *incense
 of meditation.* If meditation and prayer are conducted while *incense of
 obsession* is burning nearby, its odor and smoke cause the user to
 become totally confident that her spell ability is superior, due to the
@@ -1059,7 +1078,8 @@ or until 24 hours have elapsed.
 Moderate enchantment; CL 6th; Create Wondrous Item, *bestow curse;*
 Price 200 gp.
 
-**Mace of Blood:** This *+3 heavy mace* must be coated in blood every
+### Mace of Blood
+This *+3 heavy mace* must be coated in blood every
 day, or its bonus fades away (until the mace is coated again). The
 character using this mace must make a DC 13 Will save every day it is
 within his possession or become chaotic evil.
@@ -1067,7 +1087,8 @@ within his possession or become chaotic evil.
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, creator must be
 at least 9th level and chaotic evil; Price 16,000 gp.
 
-**Medallion of Thought Projection:** This device seems like a *medallion
+### Medallion of Thought Projection
+This device seems like a *medallion
 of thoughts*, even down to the range at which it functions, except that
 the thoughts overheard are muffled and distorted, requiring a DC 15 Will
 save to sort out. However, while the user thinks she is picking up the
@@ -1080,7 +1101,8 @@ creatures in the path of the beam, thus alerting them to her presence.
 Faint divination; CL 7th; Create Wondrous Item, *detect thoughts, ghost
 sound;* Price 1,800 gp.
 
-**Necklace of Strangulation:** A *necklace of strangulation* appears to
+### Necklace of Strangulation
+A *necklace of strangulation* appears to
 be a rare and wondrous piece of valuable jewelry and, short of the use
 of something as powerful as a *miracle* or a *wish*, can only be
 identified as a cursed item when placed around a character's neck. The
@@ -1093,7 +1115,8 @@ one month) does the necklace loosen, ready for another victim.
 Strong conjuration; CL 18th; Create Wondrous Item, *slay living;* Price
 60,000 gp.
 
-**Net of Snaring:** This net provides a +3 bonus on attack rolls but can
+### Net of Snaring
+This net provides a +3 bonus on attack rolls but can
 only be used underwater, thus making it a somewhat useful item rather
 than what most would really call a cursed item. Underwater, it can be
 commanded to shoot forth up to 30 feet to trap a creature.
@@ -1101,7 +1124,8 @@ commanded to shoot forth up to 30 feet to trap a creature.
 Moderate evocation; CL 8th; Craft Magic Arms and Armor, *freedom of
 movement;* Price 10,000 gp.
 
-**Periapt of Foul Rotting:** This engraved gem appears to be of little
+### Periapt of Foul Rotting
+This engraved gem appears to be of little
 value. If any character keeps the periapt in her possession for more
 than 24 hours, she contracts a terrible rotting affliction that
 permanently drains 1 point of Dexterity, Constitution, and Charisma
@@ -1115,7 +1139,8 @@ periapt of foul rotting likewise crumbles to dust.
 Faint abjuration; CL 10th; Create Wondrous Item, *contagion;* Price
 17,000 gp.
 
-**Potion of Poison:** This potion has lost its once beneficial magical
+### Potion of Poison
+This potion has lost its once beneficial magical
 abilities and has become a potent poison. The imbiber must make a DC 16
 Fortitude save or take 1d10 points of Constitution damage. A minute
 later he must save again (DC 16) or take 1d10 points of Constitution
@@ -1124,7 +1149,8 @@ damage.
 Moderate conjuration; CL 12th; Craft Wondrous Item, *poison;* Price
 5,000 gp.
 
-**Robe of Powerlessness:** A *robe of powerlessness* appears to be a
+### Robe of Powerlessness
+A *robe of powerlessness* appears to be a
 magic robe of another sort. As soon as a character dons this garment,
 she takes a --10 penalty to Strength and Intelligence, forgetting spells
 and magic knowledge accordingly. The robe can be removed easily, but in
@@ -1134,7 +1160,8 @@ curse* spell followed by *heal*.
 Moderate transmutation; CL 13th; Create Wondrous Item, *bestow curse,
 permanency;* Price 5,500 gp.
 
-**Robe of Vermin:** The wearer notices nothing unusual when the robe is
+### Robe of Vermin
+The wearer notices nothing unusual when the robe is
 donned, other than that it offers great magical defense (as a *cloak of
 protection +4*). However, as soon as he is in a situation requiring
 concentration and action against hostile opponents, the true nature of
@@ -1152,7 +1179,8 @@ spell.
 Moderate abjuration; CL 13th; Create Wondrous Item, *summon swarm,*
 creator must be at least 13th level; Price 16,500 gp.
 
-**Ring of Clumsiness:** This ring operates exactly like a *ring of
+### Ring of Clumsiness
+This ring operates exactly like a *ring of
 feather falling*. However, it also makes the wearer clumsy. She takes a
 --4 penalty to Dexterity and has a 20% chance of spell failure when
 trying to cast any arcane spell that has a somatic component. (This
@@ -1161,7 +1189,8 @@ chance of spell failure stacks with other arcane spell failure chances.)
 Strong transmutation; CL 15th; Forge Ring, *feather fall, bestow curse;*
 Price 500 gp.
 
-**Scarab of Death:** This small pin appears to be any one of the various
+### Scarab of Death
+This small pin appears to be any one of the various
 beneficial amulets, brooches, or scarabs. However, if it is held for
 more than 1 round or carried by a living creature for 1 minute, it
 changes into a horrible burrowing beetlelike creature. The thing tears
@@ -1176,7 +1205,8 @@ long-term storage of the item.
 Strong abjuration; CL 19th; Create Wondrous Item, *slay living;* Price
 80,000 gp.
 
-**Spear, Cursed Backbiter:** This is a *+2 shortspear,* but each time it
+### Spear, Cursed Backbiter
+This is a *+2 shortspear,* but each time it
 is used in melee against a foe and the attack roll is a natural 1, it
 damages its wielder instead of her intended target. When the curse takes
 effect, the spear curls around to strike its wielder in the back,
@@ -1187,7 +1217,8 @@ hurler is doubled.
 Moderate evocation; CL 10th; Craft Magic Arms and Armor, *bestow curse;*
 Price 7,500 gp.
 
-**Stone of Weight (Loadstone):** This stone appears to be a dark,
+### Stone of Weight (Loadstone)
+This stone appears to be a dark,
 smoothly polished stone. It reduces the possessor's base land speed to
 one-half of normal. Once picked up, the stone cannot be disposed of by
 any nonmagical means---if it is thrown away or smashed, it reappears
@@ -1198,7 +1229,8 @@ individual.
 Faint transmutation; CL 5th; Create Wondrous Item, *slow;* Price 1,000
 gp.
 
-**--2 Sword, Cursed:** This longsword performs well against targets in
+### --2 Sword, Cursed
+This longsword performs well against targets in
 practice, but when used against an opponent in combat, it causes its
 wielder to take a --2 penalty on attack rolls.
 
@@ -1213,7 +1245,8 @@ weapon. The sword can be gotten rid of only by means of *limited wish*,
 Strong evocation; CL 15th; Craft Magic Arms and Armor, *bestow curse,*
 and *limited wish* or *miracle;* Price 1,500 gp.
 
-**Sword, Berserking:** This item appears to have the characteristics of
+### Sword, Berserking
+This item appears to have the characteristics of
 a *+2 greatsword.* However, whenever the sword is used in battle, its
 wielder goes berserk (gaining all the benefits and drawbacks of the
 barbarian's rage ability). He attacks the nearest creature and continues
@@ -1224,7 +1257,8 @@ see it as a boon.
 Moderate evocation; CL 8th; Craft Magic Arms and Armor, *rage, bestow
 curse;* Price 17,500 gp.
 
-**Vacuous Grimoire:** A book of this sort looks like a normal one on
+### Vacuous Grimoire
+A book of this sort looks like a normal one on
 some mildly interesting topic. Any character who opens the work and
 reads so much as a single word therein must make two DC 15 Will saves.
 The first is to determine if the reader takes 1 point of permanent
@@ -1260,7 +1294,8 @@ means.
 Described below is a selection of the most well-known (not necessarily
 the most numerous) minor artifacts.
 
-**Book of Infinite Spells:** This work bestows upon any character of any
+### Book of Infinite Spells
+This work bestows upon any character of any
 class the ability to use the spells within its pages. However, any
 character not already able to use spells gains one negative level for as
 long as the book is in her possession or while she uses its power. A
@@ -1307,7 +1342,8 @@ determining casting time, spell failure, and so on.
 
 Strong (all schools); CL 18th;Weight 3 lb.
 
-**Deck of Many Things:** A *deck of many things* (both beneficial and
+### Deck of Many Things
+A *deck of many things* (both beneficial and
 baneful) is usually found in a box or leather pouch. Each deck contains
 a number of cards or plaques made of ivory or vellum. Each is engraved
 with glyphs, characters, and sigils. As soon as one of these cards is
@@ -1458,7 +1494,8 @@ entrapment. Draw no more cards.
 
 Strong (all schools); CL 20th.
 
-**Hammer of Thunderbolts:** This *+3 Large returning warhammer* deals
+### Hammer of Thunderbolts
+This *+3 Large returning warhammer* deals
 4d6 points of damage on any hit. Further, if the wielder wears a *belt
 of giant Strength* and *gauntlets of ogre power* and he knows that the
 hammer is a *hammer of thunderbolts* (not just a *+3 warhammer*), the
@@ -1474,7 +1511,8 @@ for 1 round (Fortitude DC 15 negates). The hammer's range increment is
 
 Strong evocation, necromancy, and transmutation; CL 20th; Weight 15 lb.
 
-**Philosopher's Stone:** This rare substance appears to be an ordinary,
+### Philosopher's Stone
+This rare substance appears to be an ordinary,
 sooty piece of blackish rock. If the stone is broken open (break DC 20),
 a cavity is revealed at the stone's heart. This cavity is lined with a
 magical type of quicksilver that enables any arcane spellcaster to
@@ -1492,7 +1530,8 @@ resurrection* spell for any dead body it is sprinkled upon.
 
 Strong transmutation; CL 20th;Weight 3 lb.
 
-**Sphere of Annihilation:** A *sphere of annihilation* is a globe of
+### Sphere of Annihilation
+A *sphere of annihilation* is a globe of
 absolute blackness, a ball of nothingness 2 feet in diameter. The object
 is actually a hole in the continuity of the multiverse. Any matter that
 comes in contact with a sphere is instantly sucked into the void, gone,
@@ -1542,7 +1581,8 @@ See also *talisman of the sphere* (below).
 
 Strong transmutation; CL 20th.
 
-**Staff of the Magi:** A long wooden staff, shod in iron and inscribed
+### Staff of the Magi
+A long wooden staff, shod in iron and inscribed
 with sigils and runes of all types, this potent artifact contains many
 spell powers and other functions. Some of its powers use charges, while
 others don't. The following powers do not use charges:
@@ -1601,7 +1641,8 @@ of a retributive strike.
 
 Strong (all schools); CL 20th;Weight 5 lb.
 
-**Talisman of Pure Good:** A good (LG, NG, CG) divine spellcaster who
+### Talisman of Pure Good
+A good (LG, NG, CG) divine spellcaster who
 possesses this item can cause a flaming crack to open at the feet of an
 evil (LE, NE, CE) divine spellcaster who is up to 100 feet away. The
 intended victim is swallowed up forever and sent hurtling to the center
@@ -1617,7 +1658,8 @@ damage. All other characters are unaffected by the device.
 
 Strong evocation \[good\]; CL 18th.
 
-**Talisman of the Sphere:** This small adamantine loop and handle are
+### Talisman of the Sphere
+This small adamantine loop and handle are
 useless to those unable to cast arcane spells. Characters
 
 who cannot cast arcane spells take 5d6 points of damage merely from
@@ -1636,7 +1678,8 @@ canceled.
 
 Strong transmutation; CL 16th;Weight 1 lb.
 
-**Talisman of Reluctant Wishes:** A talisman of this sort appears the
+### Talisman of Reluctant Wishes
+A talisman of this sort appears the
 same as a *stone of controlling earth elementals.* Its powers are quite
 different, however, and dependent on the Charisma of the individual
 holding the talisman. Whenever a character touches a *talisman of
@@ -1663,7 +1706,8 @@ diamond in its stead.
 
 Strong conjuration; CL 20th;Weight 1 lb.
 
-**Talisman of Ultimate Evil:** An evil (LE, NE, CE) divine spellcaster
+### Talisman of Ultimate Evil
+An evil (LE, NE, CE) divine spellcaster
 who possesses this item can cause a flaming crack to open at the feet of
 a good (LG, NG, CG) divine spellcaster who is up to 100 feet away. The
 intended victim is swallowed up forever and sent hurtling to the center
@@ -1691,7 +1735,8 @@ Each should have only a single, specific means of destruction.
 
 ### Major Artifact Descriptions
 
-**The Moaning Diamond:** The *Moaning Diamond* appears to be an uncut
+### The Moaning Diamond
+The *Moaning Diamond* appears to be an uncut
 diamond the size of a human fist. At all times, it gives forth a baleful
 moaning sound, as if in pain. Despite the noise, the *Moaning Diamond*
 is not evil. The wielder of the stone can, three times per day, call
@@ -1701,7 +1746,8 @@ an elder earth elemental with maximum hit points that serves the caster
 until it is slain. Only one such elemental can be summoned at a time; if
 it is slain, a new creature cannot be summoned for 24 hours.
 
-**The Orbs of Dragonkind:** Each of these fabled orbs contains the
+### The Orbs of Dragonkind
+Each of these fabled orbs contains the
 essence and personality of an ancient dragon of a different variety (one
 for each of the major ten different chromatic and metallic dragons). The
 bearer of an *Orb* can *dominate* dragons of its particular variety
@@ -1749,13 +1795,15 @@ power once per day. She can use *dominate* on any other possessor of an
 -   *White Dragon Orb: Protection from energy (cold)* (Fortitude DC 17
     negates).
 
-**The Saint's Mace:** This relic appears to be a simple, well-used
+### The Saint's Mace
+This relic appears to be a simple, well-used
 cudgel, but its simple appearance hides great power. The *saint's mace*
 has a +5 enhancement bonus and functions as a heavy mace with the holy,
 lawful, and disruption special abilities. The wielder can project
 *searing light* from the mace at will, at caster level 20th.
 
-**The Shadowstaff:** This artifact was crafted centuries ago, weaving
+### The Shadowstaff
+This artifact was crafted centuries ago, weaving
 together the wispy strands of shadow itself into a twisted black staff.
 The *Shadowstaff* makes the wielder slightly shadowy and incorporeal,
 granting him a +4 bonus to AC and Reflex saves (which stacks with any

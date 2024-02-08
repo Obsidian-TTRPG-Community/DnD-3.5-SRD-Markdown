@@ -275,7 +275,8 @@ higher than the listed values for the staffs.
 
 Standard epic staffs are described below.
 
-**Cosmos:** This staff allows use of the following spells.
+### Cosmos
+This staff allows use of the following spells.
 
 -   Chain lightning (intensified, 1 charge, DC 29)
 -   Meteor swarm (intensified, 1 charge, DC 34)
@@ -285,7 +286,8 @@ Standard epic staffs are described below.
 Intensify Spell, *chain lightning, meteor swarm, sunburst; Market
 Price:* 683,437 gp.
 
-**Domination:** This staff allows use of the following heightened
+### Domination
+This staff allows use of the following heightened
 spells.
 
 -   Dominate monster (1 charge, DC 33)
@@ -297,7 +299,8 @@ spells.
 Heighten Spell, *demand, dominate monster, geas, mass charm monster;
 Market Price:* 464,400 gp.
 
-**Fiery Power:** This +*5 flaming quarterstaff* grants its wielder fire
+### Fiery Power
+This +*5 flaming quarterstaff* grants its wielder fire
 resistance 30 whenever held. In addition, it has the following powers.
 
 -   *Wall of fire* (extended, 1 charge, DC 18)
@@ -327,7 +330,8 @@ Spell Focus (Evocation), *continual flame, delayed blast fireball,
 meteor swarm, protection from energy, summon monster IX, wall of fire;
 Market Price:* 500,000 gp.
 
-**The Hierophants:** This staff allows use of the following spells.
+### The Hierophants
+This staff allows use of the following spells.
 
 -   Creeping doom (enlarged, extended, 1 charge, DC 23)
 -   Command plants (enlarged, extended, 1 charge, DC 25)
@@ -338,7 +342,8 @@ Market Price:* 500,000 gp.
 Enlarge Spell, Extend Spell, Intensify Spell, *creeping doom, command
 plants, elemental swarm, shambler; Market Price:* 501,187 gp.
 
-**Mighty Force:** This staff has three powers.
+### Mighty Force
+This staff has three powers.
 
 -   *Shield* (quickened, 1 charge, may be activated once per round)
 -   *Forcecage* (1 charge)
@@ -348,7 +353,8 @@ plants, elemental swarm, shambler; Market Price:* 501,187 gp.
 Quicken Spell, *crushing hand, forcecage, shield; Market Price:* 265,000
 gp.
 
-**Nature's Fury:** This +*5 aberration bane quarterstaff* allows use of
+### Nature's Fury
+This +*5 aberration bane quarterstaff* allows use of
 the following spells.
 
 -   *Earthquake* (1 charge)
@@ -363,7 +369,8 @@ Heighten Spell, Improved Heighten Spell, *earthquake, fire storm, summon
 monster I* (or *summon nature's ally* I), *whirlwind; Market Price:*
 500,000 gp.
 
-**Necromancy:** This staff allows use of the following spells.
+### Necromancy
+This staff allows use of the following spells.
 
 -   Circle of death (intensified, 2 charges, DC 29)
 -   Create greater undead (1 charge)
@@ -378,7 +385,8 @@ Intensify Spell, Heighten Spell, Improved Heighten Spell, *circle of
 death, create greater undead, finger of death, soul bind; Market Price:*
 1,505,312 gp; *Cost to Create:* 1,290,156 gp + 14,303 XP.
 
-**Planar Might:** The wielder of this powerful staff is immune to the
+### Planar Might
+The wielder of this powerful staff is immune to the
 effects of any planar alignment traits, as well as the positive-dominant
 and negative-dominant traits or a plane. It also allows use of the
 following spells.
@@ -400,7 +408,8 @@ might,* it remains a +*5 quarterstaff* with no special abilities.
 *gate, greater planar ally, greater planar binding, protection from
 energy; Market Price:* 460,000 gp.
 
-**Prism:** This staff allows use of the following spells.
+### Prism
+This staff allows use of the following spells.
 
 -   *Prismatic sphere* (extended, 1 charge, DC 25)
 -   *Prismatic spray* (extended, 1 charge, DC 22)
@@ -410,7 +419,8 @@ energy; Market Price:* 460,000 gp.
 Extend Spell, *prismatic sphere, prismatic spray, prismatic wall; Market
 Price:* 326,812 gp.
 
-**Rapid Barrage:** Either of the staff's two powers can be activated as
+### Rapid Barrage
+Either of the staff's two powers can be activated as
 a free action (though the staff may only be activated once per round).
 
 -   *Magic missile* (intensified, quickened, 1 charge, 5 missiles
@@ -422,7 +432,8 @@ a free action (though the staff may only be activated once per round).
 Enhance Spell, Heighten Spell, Intensify Spell, Quicken Spell,
 *fireball, magic missile; Market Price:* 417,750 gp.
 
-**Spheres:** This staff allows use of the following spells.
+### Spheres
+This staff allows use of the following spells.
 
 -   *Freezing sphere* (1 charge, DC 19)
 -   *Resilient sphere* (1 charge, DC 16)
@@ -432,7 +443,8 @@ Enhance Spell, Heighten Spell, Intensify Spell, Quicken Spell,
 *freezing sphere, resilient sphere, telekinetic sphere; Market Price:*
 228,375 gp.
 
-**Walls:** This staff allows use of the following spells.
+### Walls
+This staff allows use of the following spells.
 
 -   *Wall of iron* (1 charge)
 -   *Wall of stone* (1 charge)
@@ -442,7 +454,8 @@ Enhance Spell, Heighten Spell, Intensify Spell, Quicken Spell,
 Extend Spell, extended *wall of force, wall of iron, wall of stone;
 Market Price:* 275,625 gp.
 
-**Winter:** This staff allows the use of the following spells.
+### Winter
+This staff allows the use of the following spells.
 
 -   *Cone of cold* (intensified, 2 charges, DC 28)
 -   *Ice storm* (intensified, 2 charges, DC 26)
@@ -508,7 +521,8 @@ description.
 
 Standard epic wondrous items are described below.
 
-**Amulet of Epic Natural Armor:** This amulet toughens the wearer's body
+### Amulet of Epic Natural Armor
+This amulet toughens the wearer's body
 and flesh, giving him or her an enhancement bonus to his or her natural
 armor of +6 or higher, depending on the type of amulet.
 
@@ -517,14 +531,16 @@ Wondrous Item, *barkskin,* creator's caster level must be three times
 the amulet's bonus; *Market Price:* 720,000 gp (+6), 980,000 gp (+7),
 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10); *Weight:* ---.
 
-**Belt of Epic Strength:** This belt adds an enhancement bonus of +8 or
+### Belt of Epic Strength
+This belt adds an enhancement bonus of +8 or
 higher to the wearer's Strength score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *bull's strength; Market Price:* 640,000 gp (+8),
 1,000,000 gp (+10), 1,440,000 gp (+12); *Weight:* 1 lb.
 
-**Boots of Swiftness:** These shoes grant their wearer a +6 enhancement
+### Boots of Swiftness
+These shoes grant their wearer a +6 enhancement
 bonus to Dexterity. The wearer's speed doubles (this does not stack with
 any magical or supernatural enhancement to speed), he or she gains the
 evasion ability (as the rogue class feature), and the wearer's jumping
@@ -537,7 +553,8 @@ per day, the wearer can utter a command word to activate the boots'
 Wondrous Item, *cat's grace, expeditious retreat, haste, jump; Market
 Price:* 256,000 gp; *Weight:* 1 lb.
 
-**Bracers of Epic Armor:** These items surround the wearer with an
+### Bracers of Epic Armor
+These items surround the wearer with an
 invisible but tangible field of force, granting him or her an armor
 bonus of +11 or higher, just as though he or she were wearing armor.
 Both bracers must be worn for the magic to be effective.
@@ -547,14 +564,16 @@ Wondrous Item, *mage armor,* creator's caster level must be twice the
 bracers' bonus; *Market Price:* 1,210,000 (+11), 1,440,000 (+12),
 1,690,000 gp (+13), 1,960,000 (+14), 2,250,000 gp (+15); *Weight:* 1 lb.
 
-**Bracers of Epic Health:** These grant the wearer an enhancement bonus
+### Bracers of Epic Health
+These grant the wearer an enhancement bonus
 of +8 or higher to Constitution.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *endurance; Market Price:* 640,000 gp (+8), 1,000,000 gp
 (+10), 1,440,000 gp (+12); *Weight:* 1 lb.
 
-**Bracers of Relentless Might:** These bracers grant a +12 enhancement
+### Bracers of Relentless Might
+These bracers grant a +12 enhancement
 bonus to the wearer's Strength and Constitution. The wearer is treated
 as two size categories larger than normal (to a maximum of Colossal) for
 purposes of combat-related opposed checks that apply a modifier based on
@@ -564,7 +583,8 @@ size, such as bull rush, grapple, and trip.
 Wondrous Item, *bull's strength, endurance, enlarge; Market Price:*
 4,384,000 gp; *Weight:* 1 lb.
 
-**Cabinet of Feasting:** This cabinet has the ability to produce a feast
+### Cabinet of Feasting
+This cabinet has the ability to produce a feast
 for up to forty people, three times per day. Merely opening the doors of
 the cabinet reveals platters of food of all types and flavors of the
 very freshest sort. The meal has all the qualities and benefits of that
@@ -574,14 +594,16 @@ produced by a *heroes' feast* spell.
 Wondrous Item, *heroes' feast; Market Price:* 288,000 gp; *Weight:* 20
 lb.
 
-**Cloak of Epic Charisma:** When worn, this cloak grants a +8 or higher
+### Cloak of Epic Charisma
+When worn, this cloak grants a +8 or higher
 enhancement bonus to a character's Charisma score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *charm monster; Market Price:* 640,000 gp (+8), 1,000,000
 gp (+10), 1,440,000 gp (+12); *Weight:* 1 lb.
 
-**Cloak of Epic Resistance:** These garments offer magic protection in
+### Cloak of Epic Resistance
+These garments offer magic protection in
 the form of a +6 or higher resistance bonus on all saving throws
 (Fortitude, Reflex, and Will).
 
@@ -590,7 +612,8 @@ Wondrous Item, *resistance,* creator's caster level must be three times
 the cloak's bonus; *Market Price:* 360,000 (+6), 490,000 (+7), 640,000
 gp (+8), 810,000 (+9), 1,000,000 gp (+10); *Weight:* 1 lb.
 
-**Gate Key:** When properly operated, the gate key can be used to attune
+### Gate Key
+When properly operated, the gate key can be used to attune
 any bounded space, such as a doorway or a cave opening, to another
 bounded space on another plane of existence previously visited by the
 wielder. When two bounded spaces are attuned, an interdimensional portal
@@ -608,21 +631,24 @@ or similar magic reveals their presence).
 *Caster Level:* 21st; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *gate; Market Price:* 378,000 gp; *Weight:* 1 lb.
 
-**Gloves of Epic Dexterity:** These gloves add an enhancement bonus of
+### Gloves of Epic Dexterity
+These gloves add an enhancement bonus of
 +8 or higher to the wearer's Dexterity score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *cat's grace; Market Price:* 640,000 gp (+8), 1,000,000
 gp (+10), 1,440,000 gp (+12); *Weight:* ---.
 
-**Headband of Epic Intellect:** This headband adds an enhancement bonus
+### Headband of Epic Intellect
+This headband adds an enhancement bonus
 of +8 or higher to the wearer's Intelligence score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *commune* or *legend lore; Market Price:* 640,000 gp
 (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); *Weight:* ---.
 
-**Horseshoes of the Peerless Steed:** These horseshoes magically adhere
+### Horseshoes of the Peerless Steed
+These horseshoes magically adhere
 to the feet of any hoofed creature. Anyone riding the creature gains a
 +10 competence bonus on Ride checks and is treated as having ranks in
 the appropriate Ride skill (and thus does not take the --5 penalty for
@@ -636,14 +662,16 @@ of the creature wearing the horseshoes doubles.
 Wondrous Item, Ride skill, *haste, spell resistance; Market Price:*
 217,000 gp; *Weight:* 1 lb. each.
 
-**Mantle of Epic Spell Resistance:** This garment is worn over normal
+### Mantle of Epic Spell Resistance
+This garment is worn over normal
 clothing or armor. It grants the wearer spell resistance 40.
 
 *Caster Level:* 29th; *Prerequisites:* Craft Wondrous Item, Craft Epic
 Wondrous Item, *spell resistance; Market Price:* 290,000 gp. *Weight:* 1
 lb.
 
-**Mantle of Great Stealth:** The wearer of this cloak gains a +30 bonus
+### Mantle of Great Stealth
+The wearer of this cloak gains a +30 bonus
 on Hide and Move Silently checks. The wearer's outline is blurry and
 indistinct, granting concealment (20% miss chance) at all times (as the
 *blur* spell). The mantle also grants nondetection to its wearer (as the
@@ -653,7 +681,8 @@ spell).
 Wondrous Item, *blur, invisibility, nondetection, silence; Market
 Price:* 242,000 gp; *Weight:* 1 lb.
 
-**Periapt of Epic Wisdom:** This large pearl set on a chain grants an
+### Periapt of Epic Wisdom
+This large pearl set on a chain grants an
 enhancement bonus of +8 or higher to the wearer's Wisdom score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
@@ -1033,7 +1062,8 @@ that no longer can be made by common mortal means---even by the hands of
 epic creators. Such items have no established market price. Below is a
 selection of known minor artifacts.
 
-**Everfull Purse:** This leather belt pouch has the power to turn a
+### Everfull Purse
+This leather belt pouch has the power to turn a
 single gold coin into many overnight. If a single gold piece is placed
 in the *everfull purse* at sunset, it will be replaced at sunrise by 25
 gold pieces. The *purse* has no effect if more than one gold piece is
@@ -1041,7 +1071,8 @@ left within, or if anything other than gold is placed within.
 
 *Caster Level:* 20th; *Weight:* 1/2 lb.
 
-**Libram of Gainful Conjuration:** This mystic book is of great value to
+### Libram of Gainful Conjuration
+This mystic book is of great value to
 arcane spellcasters of good alignment (LG, NG, CG). Study of the work
 requires one week. Upon completion, the good arcane caster gains a +1
 inherent bonus to the ability score controlling his or her arcane
@@ -1061,7 +1092,8 @@ benefit from reading a similar tome a second time.
 
 *Caster Level:* 19th; *Weight:* 3 lb.
 
-**Libram of Ineffable Damnation:** This mystic book is of great value to
+### Libram of Ineffable Damnation
+This mystic book is of great value to
 arcane spellcasters of evil alignment (LE, NE, CE). Study of the work
 requires one week. Upon completion, the evil arcane caster gains a +1
 inherent bonus to the ability score controlling his or her arcane
@@ -1081,7 +1113,8 @@ benefit from reading a similar tome a second time.
 
 *Caster Level:* 19th; *Weight:* 3 lb.
 
-**Libram of Silver Magic:** This mystic book is of great value to arcane
+### Libram of Silver Magic
+This mystic book is of great value to arcane
 spellcasters of neutral alignment (LN, N, CN). Study of the work
 requires one week. Upon completion, the neutral arcane caster gains a +1
 inherent bonus to the ability score controlling his or her arcane
@@ -1101,7 +1134,8 @@ benefit from reading a similar tome a second time.
 
 *Caster Level:* 19th; *Weight:* 3 lb.
 
-**Manual of Puissant Skill at Arms:** This treatise contains expert
+### Manual of Puissant Skill at Arms
+This treatise contains expert
 advice and instruction in the arts of combat. Any barbarian, fighter,
 monk, paladin, or ranger who spends one week studying the manual gains a
 +1 inherent bonus to Strength and experience points sufficient to place
@@ -1120,7 +1154,8 @@ time.
 
 *Caster Level:* 19th; *Weight:* 3 lb.
 
-**Manual of Stealthy Pilfering:** This guide to thievery grants any
+### Manual of Stealthy Pilfering
+This guide to thievery grants any
 rogue who spends a week studying its lessons a +1 inherent bonus to
 Dexterity and experience points sufficient to place him or her halfway
 into the next level of experience. A character without any rogue levels
@@ -1135,7 +1170,8 @@ tome a second time.
 
 *Caster Level:* 19th; *Weight:* 3 lb.
 
-**Rogue's Dice:** This pair of cubes appears much like any other pair of
+### Rogue's Dice
+This pair of cubes appears much like any other pair of
 typical (6-sided) dice. A character with a pair of *rogue's dice* who
 wishes to roll them must announce that he or she is rolling the dice
 (accidental rolls have no effect). Rolling the dice is a standard
@@ -1173,7 +1209,8 @@ is made.
 
 ## Major Artifacts
 
-**Axe of the Dwarvish Lords:** This is a +*6 keen throwing goblinoid
+### Axe of the Dwarvish Lords
+This is a +*6 keen throwing goblinoid
 bane dwarven waraxe*. Any dwarf who holds it doubles the range of his or
 her darkvision. Any nondwarf who grasps the *Axe* takes 2 points of
 temporary Charisma damage; these points cannot be healed or restored in
@@ -1183,7 +1220,8 @@ stonemasonry, and weaponsmithing) checks. The wielder of the *Axe* can
 summon an elder earth elemental (as *summon monster IX;* duration 20
 rounds) once per week.
 
-**Codex of the Infinite Planes:** The *Codex* is enormous---supposedly,
+### Codex of the Infinite Planes
+The *Codex* is enormous---supposedly,
 it requires two strong men to lift it. No matter how many pages are
 turned, another always remains. Anyone opening the *Codex* for the first
 time is utterly annihilated, as with a *destruction* spell (Fortitude DC
@@ -1216,7 +1254,8 @@ catastrophe per power use, even if he or she fails both checks.
   76--100   Death: The reader utters a *wail of the banshee* and then is subject to a *destruction* spell. This repeats every round for 10 rounds until the reader is dead.
   --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Cup and Talisman of the Demigod:** The *Cup* is a large gem-set golden
+### Cup and Talisman of the Demigod
+The *Cup* is a large gem-set golden
 chalice requiring two hands to lift. It emits light (as the *daylight*
 spell) at all times and automatically dispels any darkness-based spells
 whose area it enters. If the cup is filled with holy water (requiring a
@@ -1233,7 +1272,8 @@ month. Any evil or chaotic creature that touches the *Cup* or *Talisman*
 is struck with a *holy word* (if evil) or *dictum* (if chaotic) spell
 (or both if the creature is chaotic evil).
 
-**Eye of the Orc:** This lump of rock has a marquis-cut black sapphire
+### Eye of the Orc
+This lump of rock has a marquis-cut black sapphire
 set in its center, making it appear similar to a large eye. If possessed
 by an orc, it grants a +6 enhancement bonus to Strength and Charisma,
 and the orc's darkvision range is doubled. Nonorcs who possess the *Eye*
@@ -1245,7 +1285,8 @@ she can perceive things as if he or she had *true seeing* cast upon him
 or her. This can be activated only once per day but lasts as long as the
 character concentrates on it (requiring a standard action each round).
 
-**Golem Armor:** This enormous suit of black iron +*10 full plate armor*
+### Golem Armor
+This enormous suit of black iron +*10 full plate armor*
 increases the wearer's size by one category (to a maximum of Colossal).
 The wearer gains a +10 enhancement bonus to Strength and is rendered
 immune to mind-affecting effects, poison, disease, and similar effects.
@@ -1256,14 +1297,16 @@ reduction 15/adamantine. He or she also cannot regain hit points by any
 means (mundane or magical) while the armor is worn. It requires 1 hour
 to don or extract oneself from *Golem Armor.*
 
-**Invulnerable Coat:** The *Invulnerable Coat* +*5 chain shirt of heavy
+### Invulnerable Coat
+The *Invulnerable Coat* +*5 chain shirt of heavy
 fortification.*It grants its wearer damage reduction 10/epic and
 resistance 20 against acid, cold, electricity, fire, and sonic energy.
 If the wearer can turn undead, treat the wearer as having +4 class
 levels for purposes of caster level, turning undead, smiting evil, and
 laying on hands.
 
-**Iron Gauntlet of War:** The *Gauntlet* grants a +8 enhancement bonus
+### Iron Gauntlet of War
+The *Gauntlet* grants a +8 enhancement bonus
 to Strength. The wearer doubles the damage bonus on any smite attacks he
 or she makes. If the wearer has the Leadership feat, the wearer's
 Leadership score increases by +4, but the wearer can never attract or
@@ -1275,7 +1318,8 @@ it cannot speak. It will always seek to dominate any wearer who isn't
 lawful evil, forcing such an owner to commit lawful evil deeds (or else
 find a more suitable wearer).
 
-**Ring of Nine Facets:** This ring is set with a gem of nine facets,
+### Ring of Nine Facets
+This ring is set with a gem of nine facets,
 each one in-scribed with a different incomprehensible rune. Each day at
 sunrise, the gem turns to display a different facet. The active facet
 determines the *Ring's*power for that day. Each day, roll 1d10 to

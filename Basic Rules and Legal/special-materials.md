@@ -27,7 +27,8 @@ Characters may choose to carry several different types of weapons,
 depending upon the campaign and types of creatures they most commonly
 encounter.
 
-**Adamantine:** This ultrahard metal adds to the quality of a weapon or
+### Adamantine
+This ultrahard metal adds to the quality of a weapon or
 suit of armor. Weapons fashioned from adamantine have a natural ability
 to bypass hardness when sundering weapons or attacking objects, ignoring
 hardness less than 20. Armor made from adamantine grants its wearer
@@ -55,7 +56,8 @@ Adamantine has 40 hit points per inch of thickness and hardness 20.
   Weapon                    +3,000 gp
   ------------------------- --------------------
 
-**Darkwood:** This rare magic wood is as hard as normal wood but very
+### Darkwood
+This rare magic wood is as hard as normal wood but very
 light. Any wooden or mostly wooden item (such as a bow, an arrow, or a
 spear) made from darkwood is considered a masterwork item and weighs
 only half as much as a normal wooden item of that type. Items not
@@ -69,7 +71,8 @@ item.
 
 Darkwood has 10 hit points per inch of thickness and hardness 5.
 
-**Dragonhide:** Armorsmiths can work with the hides of dragons to
+### Dragonhide
+Armorsmiths can work with the hides of dragons to
 produce armor or shields of masterwork quality. One dragon produces
 enough hide for a single suit of masterwork hide armor for a creature
 one size category smaller than the dragon. By selecting only choice
@@ -90,7 +93,8 @@ that type.
 
 Dragonhide has 10 hit points per inch of thickness and hardness 10.
 
-**Iron, Cold:** This iron, mined deep underground, known for its
+### Iron, Cold
+This iron, mined deep underground, known for its
 effectiveness against fey creatures, is forged at a lower temperature to
 preserve its delicate properties. Weapons made of cold iron cost twice
 as much to make as their normal counterparts. Also, any magical
@@ -104,7 +108,8 @@ cost by 50%.
 
 Cold iron has 30 hit points per inch of thickness and hardness 10.
 
-**Mithral:** Mithral is a very rare silvery, glistening metal that is
+### Mithral
+Mithral is a very rare silvery, glistening metal that is
 lighter than iron but just as hard. When worked like steel, it becomes a
 wonderful material from which to create armor and is occasionally used
 for other items as well. Most mithral armors are one category lighter
@@ -136,7 +141,8 @@ Mithral has 30 hit points per inch of thickness and hardness 15.
   Other items            +500 gp/lb.
   ---------------------- --------------------
 
-**Silver, Alchemical:** A complex process involving metallurgy and
+### Silver, Alchemical
+A complex process involving metallurgy and
 alchemy can bond silver to a weapon made of steel so that it bypasses
 the damage reduction of creatures such as lycanthropes.
 
