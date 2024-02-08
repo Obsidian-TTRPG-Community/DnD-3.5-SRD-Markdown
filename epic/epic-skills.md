@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Skills
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -12,52 +11,6 @@ the terms of the Open Game License v1.0a.
 Despite the near-magical nature of some epic level skill uses, all uses
 of skills are considered exceptional abilities (except if noted
 otherwise), and thus function normally even within areas of antimagic.
-
-## Table of Contents
-
--   [Skill Synergy](#skill-synergy)
--   [Skill Descriptions](#skill-descriptions)
--   [Appraise](#appraise)
--   [Balance](#balance)
--   [Bluff](#bluff)
--   [Climb](#climb)
--   [Concentration](#concentration)
--   [Craft](#epic-skills--craft)
--   [Craft (Alchemy)](#craft)
--   [Decipher Script](#decipher-script)
--   [Diplomacy](#diplomacy)
--   [Disable Device](#disable-device)
--   [Disguise](#disguise)
--   [Escape Artist](#escape-artist)
--   [Forgery](#forgery)
--   [Gather Information](#gather-information)
--   [Handle Animal](#handle-animal)
--   [Heal](#heal)
--   [Hide](#hide)
--   [Intimidate](#intimidate)
--   [Jump](#jump)
--   [Knowledge](#knowledge)
--   [Listen](#listen)
--   [Move Silently](#move-silently)
--   [Open Lock](#open-lock)
--   [Perform](#perform)
--   [Profession](#profession)
--   [Ride](#ride)
--   [Search](#search)
--   [Sense Motive](#sense-motive)
--   [Sleight of Hand](#sleight-of-hand)
--   [Spellcraft](#spellcraft)
--   [Spot](#spot)
--   [Survival](#survival)
--   [Swim](#swim)
--   [Tumble](#tumble)
--   [Use Magic Device](#use-magic-device)
--   [Use Rope](#use-rope)
--   [Psionic Skills](#psionic-skills)
-    -   [Autohypnosis](#autohypnosis)
-    -   [Stabilize Self](#stabilize-self)
--   [Miscellaneous](#miscellaneous)
-    -   [Scrying Spells](#scrying-spells)
 
 ## Skill Synergy
 
@@ -161,7 +114,7 @@ grappled.
   Cast spell with somatic component while grappled   50 + spell level
   -------------------------------------------------- ------------------
 
-## Craft {#epic-skills--craft}
+## Craft
 
 The character can craft items more quickly than normal.
 
@@ -170,13 +123,14 @@ The character can craft items more quickly than normal.
   Quick creation   +10 or more to DC
   ---------------- -------------------
 
-**Quick Creation:** A character can voluntarily increase the DC of
+### Quick Creation
+A character can voluntarily increase the DC of
 crafting an item by any multiple of 10. This allows the character to
 create an item more quickly (since he or she will be multiplying this
 higher DC by his or her skill check result to determine progress). The
 character must decide the increase to the DC before making the check.
 
-## Craft (Alchemy) {#craft}
+## Craft (Alchemy)
 
   ---------------------------- ---------------------
   Task                         DC (or DC Modifier)
@@ -240,10 +194,13 @@ accompanying table.
   Helpful                                                                              ---                                                                         ---           ---       Less than 1    1       50
   ------------------ ---------------------------------------------------------------------------------------------------------------------------------------- ------------- ------------- ------------- ------ ---------
 
-**Hos:** hostile. **Unf:** unfriendly. **Indif:** indifferent.
-**Friend:** friendly. **Help:** helpful.
+### Hos:** hostile. **Unf:** unfriendly. **Indif
+indifferent.
+### Friend:** friendly. **Help
+helpful.
 
-**Fanatic:** The attitude of fanatic is added here. In addition to the
+### Fanatic
+The attitude of fanatic is added here. In addition to the
 obvious effects, any NPC whose attitude is fanatic gains a +2 morale
 bonus to Strength and Constitution scores, a +1 morale bonus on Will
 saves, and a --1 penalty to AC whenever fighting for the character or
@@ -308,7 +265,8 @@ category less than Medium-size; double it for each size category greater
 than Medium-size. If the space is long, such as in a chimney, multiple
 checks may be called for.
 
-**Pass through *Wall of Force*:** This allows a character to find a gap
+### Pass through *Wall of Force*
+This allows a character to find a gap
 of weakness in a *wall of force* (or similar force effect) and squeeze
 through it.
 
@@ -321,7 +279,8 @@ The character can forge handwriting he or she haven't even seen.
   Forge document without sample   +50
   ------------------------------- -------------------------
 
-**Forge Document without Sample:** The character can forge a document
+### Forge Document without Sample
+The character can forge a document
 without having seen a similar document or having a sample of the
 handwriting to be copied.
 
@@ -361,7 +320,8 @@ train in much less time than normally required.
   1 minute                            +100
   ----------------------------------- -------------
 
-**Reduce Teaching/Training:** Normally, teaching or training a creature
+### Reduce Teaching/Training
+Normally, teaching or training a creature
 requires two months of time. A character can accelerate the process of
 teaching or training a creature, reducing the time required to the
 listed time, by adding the DC modifier to the base DC for teaching or
@@ -378,7 +338,8 @@ The character can greatly speed a patient's recovery of hit points.
   Perfect recovery   100
   ------------------ -----
 
-**Quicken Recovery:** The character can allow a character to regain hit
+### Quicken Recovery
+The character can allow a character to regain hit
 points in a single hour as if he or she had provided long-term care for
 a full day (2 or 3 hit points per level, based on activity). The
 character can quicken the recovery of up to six patients at a time. No
@@ -416,7 +377,8 @@ concealment, as normal.
 
 Intimidate does not possess an epic usage.
 
-**Special:** The DC to intimidate any creature whose attitude is fanatic
+### Special
+The DC to intimidate any creature whose attitude is fanatic
 is increased by +20.
 
 ## Jump
@@ -483,10 +445,13 @@ performance.
   Helpful                                                                              ---                                                                         ---           ---       Less than 1    1       50
   ------------------ ---------------------------------------------------------------------------------------------------------------------------------------- ------------- ------------- ------------- ------ ---------
 
-**Hos:** hostile. **Unf:** unfriendly. **Indif:** indifferent.
-**Friend:** friendly. **Help:** helpful.
+### Hos:** hostile. **Unf:** unfriendly. **Indif
+indifferent.
+### Friend:** friendly. **Help
+helpful.
 
-**Fanatic:** The attitude of fanatic is added here. In addition to the
+### Fanatic
+The attitude of fanatic is added here. In addition to the
 obvious effects, any NPC whose attitude is fanatic gains a +2 morale
 bonus to Strength and Constitution scores, a +1 morale bonus on Will
 saves, and a --1 penalty to AC whenever fighting for the character or
@@ -522,16 +487,19 @@ The character can stand upon his or her mount in combat.
   60   Attack from cover
   ---- ---------------------
 
-**Stand on Mount:** This allows the character to stand on his or her
+### Stand on Mount
+This allows the character to stand on his or her
 mount's back even during movement or combat. The character takes no
 penalties to actions while doing so.
 
-**Unconscious Control:** As a free action, the character can attempt to
+### Unconscious Control
+As a free action, the character can attempt to
 control a light horse, pony, or heavy horse while in combat. If the
 character fails, he or she controls the mount as a move-equivalent
 action. A character does not need to roll for warhorses or warponies.
 
-**Attack from Cover:** The character can react instantly to drop down
+### Attack from Cover
+The character can react instantly to drop down
 and hang alongside his or her mount, using it as one-half cover. The
 character can attack and cast spells while using his or her mount as
 cover without penalty. If the character fails, he or she doesn't get the
@@ -546,7 +514,8 @@ The character can sense the presence of magic in an area.
   Sense magic   60
   ------------- ----
 
-**Sense Magic:** The character senses the presence of any active magical
+### Sense Magic
+The character senses the presence of any active magical
 effects in the area being searched. The character can't determine the
 number, strength, or type of the effects.
 
@@ -562,7 +531,8 @@ thoughts.
   Detect surface thoughts     100
   --------------------------- -----
 
-**Discern Partial Alignment:** This use of the skill lets a character
+### Discern Partial Alignment
+This use of the skill lets a character
 discern one component of a target's alignment. When making the check,
 the character states whether he or she is trying to discern the
 law--chaos or good--evil component. A character can't retry the check,
@@ -570,12 +540,14 @@ and he or she can't use this to discern more than one component of the
 alignment (but see below). The target must be visible and within 30 feet
 of the character.
 
-**Discern Full Alignment:** This use of the skill lets a character
+### Discern Full Alignment
+This use of the skill lets a character
 determine both components of a target's alignment. The character can't
 retry the check. The target must be visible and within 30 feet of the
 character.
 
-**Detect Surface Thoughts:** This lets a character read the surface
+### Detect Surface Thoughts
+This lets a character read the surface
 thoughts of a single target (as the 3rd-round effect of the *detect
 thoughts* spell). There is no saving throw to resist this effect, though
 the target can use Bluff to disguise his or her surface thoughts (see
@@ -605,7 +577,8 @@ The character can identify properties of a magic item.
   50                  Quick identification of alchemical substances and potions
   ------------------- -----------------------------------------------------------
 
-**Identify Basic Property of Magic Item:** This use of the skill
+### Identify Basic Property of Magic Item
+This use of the skill
 requires one round of inspection, and functions exactly as if the
 character had cast an *identify* spell on the item. A character can't
 attempt this on the same item more than once.
@@ -616,7 +589,8 @@ command words and charges remaining). A character can't attempt this on
 the same item more than once. If an item has different caster levels for
 different properties, use the highest caster level.
 
-**Quick Identification:** A character can identify a substance or potion
+### Quick Identification
+A character can identify a substance or potion
 in the field as a full-round action, without an alchemical lab or any
 cost. The character can't retry this check (or take 20); if he or she
 fails, the character must identify the substance in an alchemical lab,
@@ -642,7 +616,8 @@ the DC by 20 or more, he or she can pinpoint the location of the
 invisible creature, though it still maintains total concealment from the
 character (50% miss chance).
 
-**Defeat Illusion:** The character can automatically detect any illusion
+### Defeat Illusion
+The character can automatically detect any illusion
 with a visual component for what it truly is. No Will save is required,
 and the character doesn't have to interact with the illusion (but he or
 she must be able to see it).
@@ -712,7 +687,8 @@ normal.
   80   Swim up waterfall
   ---- -------------------
 
-**Swim up Waterfall:** This use of the skill allows a character to swim
+### Swim up Waterfall
+This use of the skill allows a character to swim
 an angled or vertical surface, as long as he or she remains completely
 or mostly immersed in water. Other examples might include swimming up a
 whirlpool or an incredibly large wave.
@@ -722,7 +698,8 @@ whirlpool or an incredibly large wave.
   Speed swimming   --20
   ---------------- -------------
 
-**Speed Swimming:** By taking a --20 penalty on the check, a character
+### Speed Swimming
+By taking a --20 penalty on the check, a character
 can swim his or her speed as a move-equivalent action, or double his or
 her speed as a full-round action.
 
@@ -742,16 +719,19 @@ a series of bounces.
   100   Ignore falling damage.
   ----- ---------------------------------------------------------------------
 
-**Free Stand:** The character can stand up from prone as a free action
+### Free Stand
+The character can stand up from prone as a free action
 (instead of as a move-equivalent action).
 
-**Climb Vertical Surface:** The character can climb up to 20 feet (as
+### Climb Vertical Surface
+The character can climb up to 20 feet (as
 part of normal move-ment) by jumping and bouncing off walls, trees, or
 similar vertical surfaces. The character must have at least two vertical
 surfaces to bounce off, and the two must be within 10 feet of each
 other.
 
-**Ignore Falling Damage:** The character can fall from any height and
+### Ignore Falling Damage
+The character can fall from any height and
 take no damage.
 
 Special: A character with 25 or more ranks in Tumble gains a +5 dodge
@@ -787,7 +767,8 @@ move-equivalent action.
 knows how to untie. This doesn't affect any Escape Artist checks made to
 escape these bindings.
 
-**Animate Held Rope:** The character can command any rope he or she
+### Animate Held Rope
+The character can command any rope he or she
 holds as if it had the *animate rope* spell cast upon it (except that
 using the skill in this way doesn't grant any bonus on Use Rope checks
 made with the animated rope). Each command requires a separate Use Rope
@@ -868,17 +849,20 @@ spell, add these to your caster level check.
   Break scrying    Opposed caster level check
   ---------------- ----------------------------
 
-**Learn Scryer:** If you determine that you're being scried upon, you
+### Learn Scryer
+If you determine that you're being scried upon, you
 can learn the identity of the scryer with a DC 30 caster level check. If
 successful, you learn the name, race, and location of the scryer.
 
-**Return Scrying:** If you determine that you're being scried upon, you
+### Return Scrying
+If you determine that you're being scried upon, you
 can look back through the sensor at the scryer with a DC 50 caster level
 check. This allows you to spy on the scrying being as if you had cast a
 *scrying* spell upon that person. This return scrying can be detected by
 your target as normal.
 
-**Break Scrying:** If you determine that you're being scried, you can
+### Break Scrying
+If you determine that you're being scried, you can
 make an opposed caster level check with the scryer. (Your caster level
 must be at least 21st to attempt this task.) If you are successful, the
 scrying ends, and the scryer may not target you with a Divination

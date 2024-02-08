@@ -1,102 +1,12 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Spells
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
 # EPIC SPELLS
-
-## Table of Contents
-
--   [What Are Epic Spells?](#what-are-epic-spells)
--   [Acquiring Epic Spells](#acquiring-epic-spells)
--   [Epic Spell Development](#epic-spell-development)
--   [Epic Spellcasting](#epic-spellcasting)
--   [Epic Spell Terms](#epic-spell-terms)
--   [Epic Spell Formulas and
-    Calculations](#epic-spell-formulas-and-calculations)
--   [Dispelling,Epic Spells,and Antimagic
-    Field](#dispelling-epic-spells-and-antimagic-field)
--   [Epic Spell Descriptions](#epic-spell-descriptions)
--   [Animus Blast](#animus-blast)
--   [Animus Blizzard](#animus-blizzard)
--   [Contingent Resurrection](#contingent-resurrection)
--   [Create Living Vault (Ritual)](#create-living-vault)
--   [Crown of Vermin](#crown-of-vermin)
--   [Damnation](#damnation)
--   [Demise Unseen](#demise-unseen)
--   [Dire Winter](#dire-winter)
--   [Dragon Knight (Ritual)](#dragon-knight)
--   [Dragon Strike (Ritual)](#dragon-strike)
--   [Dreamscape](#dreamscape)
--   [Eclipse](#eclipse)
--   [Eidolon](#eidolon)
--   [Enslave (Ritual)](#enslave)
--   [Epic Counterspell](#epic-counterspell)
--   [Epic Mage Armor](#epic-mage-armor)
--   [Epic Repulsion](#epic-repulsion)
--   [Epic Spell Reflection](#epic-spell-reflection)
--   [Eternal Freedom](#eternal-freedom)
--   [Greater Spell Resistance](#greater-spell-resistance)
--   [Greater Ruin](#greater-ruin)
--   [Hellball](#hellball)
--   [Kinetic Control](#kinetic-control)
--   [Let Go of Me](#let-go-of-me)
--   [Living Lightning](#living-lightning)
--   [Lord of Nightmares](#lord-of-nightmares)
--   [Mass Frog](#mass-frog)
--   [Momento Mori](#momento-mori)
--   [Mummy Dust](#mummy-dust)
--   [Nailed to the Sky](#nailed-to-the-sky)
--   [Origin of Species: Achaierai](#origin-of-species-achaierai)
--   [Peripety](#peripety)
--   [Pestilence](#pestilence)
--   [Rain of Fire](#rain-of-fire)
--   [Raise Island](#raise-island)
--   [Ruin](#ruin)
--   [Safe Time](#safe-time)
--   [Soul Dominion](#soul-dominion)
--   [Soul Scry](#soul-scry)
--   [Spell Worm](#spell-worm)
--   [Summon Behemoth](#summon-behemoth)
--   [Superb Dispelling](#superb-dispelling)
--   [Time Duplicate](#time-duplicate)
--   [Vengeful Gaze of God](#vengeful-gaze-of-god)
--   [Verdigris](#verdigris)
--   [Verdigris Tsunami](#verdigris-tsunami)
--   [Developing Epic Spells](#developing-epic-spells)
--   [Seed Descriptions](#seed-descriptions)
-    -   [Seed:Afflict](#seed-afflict)
-    -   [Seed:Animate](#seed-animate)
-    -   [Seed:Animate Dead](#seed-animate-dead)
-    -   [Seed: Armor](#seed-armor)
-    -   [Seed: Banish](#seed-banish)
-    -   [Seed: Compel](#seed-compel)
-    -   [Seed: Conceal](#seed-conceal)
-    -   [Seed: Conjure](#seed-conjure)
-    -   [Seed: Contact](#seed-contact)
-    -   [Seed: Delude](#seed-delude)
-    -   [Seed: Destroy](#seed-destroy)
-    -   [Seed: Dispel](#seed-dispel)
-    -   [Seed: Energy](#seed-energy)
-    -   [Seed: Foresee](#seed-foresee)
-    -   [Seed: Fortify](#seed-fortify)
-    -   [Seed: Heal](#seed-heal)
-    -   [Seed: Life](#seed-life)
-    -   [Seed: Reflect](#seed-reflect)
-    -   [Seed: Reveal](#seed-reveal)
-    -   [Seed: Slay](#seed-slay)
-    -   [Seed: Summon](#seed-summon)
-    -   [Seed: Transform](#seed-transform)
-    -   [Seed: Transport](#seed-transport)
-    -   [Seed: Ward](#seed-ward)
--   [Epic Psionic Powers](#epic-psionic-powers)
-    -   [Epic Psionic Seeds](#epic-psionic-seeds)
--   [Non-Epic Spell](#non-epic-spell)
-    -   [Genesis](#genesis)
 
 ## What Are Epic Spells?
 
@@ -168,12 +78,14 @@ when casting an epic spell, but he or she can't take 20. When routinely
 casting epic spells, most spellcasters take 10 on their Spellcraft
 checks.
 
-**Epic Spell Levels:** Epic spells have no fixed level. However, for
+### Epic Spell Levels
+Epic spells have no fixed level. However, for
 purposes of Concentration checks, spell resistance, and other possible
 situations where spell level is important, epic spells are all treated
 as if they were 10th-level spells.
 
-**Metamagic, Items, and Epic Spells:** Metamagic feats and other epic
+### Metamagic, Items, and Epic Spells
+Metamagic feats and other epic
 feats that manipulate normal spells cannot be used with epic spells.
 
 A character can't craft a magic item that casts an epic spell,
@@ -189,30 +101,36 @@ appropriate factor.
 
 ## Epic Spell Terms
 
-**Epic Spell:** Spells that are different from common spells. Epic
+### Epic Spell
+Spells that are different from common spells. Epic
 spells are usually custom-made. Epic spells do not take up normal spell
 slots, but instead are gained and used under a completely separate
 progression.
 
-**Epic Spell Slots:** A character must have an available epic spell slot
+### Epic Spell Slots
+A character must have an available epic spell slot
 to prepare or cast an epic spell, just as he or she needs a normal spell
 slot for a nonepic spell. A character doesn't gain epic spell slots by
 virtue of his or her level and class, however. A character gets one epic
 spell slot for every 10 ranks he or she has in the relevant Knowledge
 skill.
 
-**Factor:** When creating an epic spell, a character can modify the
+### Factor
+When creating an epic spell, a character can modify the
 basic use of a seed. Each modification is called a factor, and most
 factors increase the difficulty of casting the spell.
 
-**Mitigating Factor:** The opposite of a normal factor, a mitigating
+### Mitigating Factor
+The opposite of a normal factor, a mitigating
 factor modifies the spell but makes it easier to cast.
 
-**Seed:** Every custom epic spell created by spellcasters begins with a
+### Seed
+Every custom epic spell created by spellcasters begins with a
 base effect called a seed. Seeds are the fundamental building blocks of
 epic spells.
 
-**Spellcraft DC:** For epic spells, the Spellcraft DC is a measure of
+### Spellcraft DC
+For epic spells, the Spellcraft DC is a measure of
 how difficult the spell is for a spellcaster to cast. It also measures
 how powerful an epic spell is.
 
@@ -220,19 +138,23 @@ how powerful an epic spell is.
 
 The following formulas are important to epic spellcasters.
 
-**Epic Spells Per Day:** Knowledge (arcana), Knowledge (religion), or
+### Epic Spells Per Day
+Knowledge (arcana), Knowledge (religion), or
 Knowledge (nature) ranks ÷ 10 (round down).
 
-**To Cast an Epic Spell:** Spellcraft check (DC = epic spell's
+### To Cast an Epic Spell
+Spellcraft check (DC = epic spell's
 Spellcraft DC).
 
-**Level of an Epic Spell:** Epic spells are considered 10th level for
+### Level of an Epic Spell
+Epic spells are considered 10th level for
 the purpose of Concentration checks, spell resistance, and other
 determinations.
 
-**Saving Throw for an Epic Spell:** DC = 20 + key ability modifier.
+### Saving Throw for an Epic Spell
+DC = 20 + key ability modifier.
 
-## Dispelling,Epic Spells,and Antimagic Field {#dispelling-epic-spells-and-antimagic-field}
+## Dispelling,Epic Spells,and Antimagic Field
 
 A lucky nonepic spellcaster casting *greater dispel magic* might be able
 to dispel an epic spell. The game mechanics do not change, and epic
@@ -257,14 +179,16 @@ Each epic spell description follows the same format used for 0- to
 9th-level spells. There are two additional entries for epic spells:
 Spellcraft DC and To Develop.
 
-**Spellcraft DC:** This is the DC of the Spellcraft check required to
+### Spellcraft DC
+This is the DC of the Spellcraft check required to
 cast the epic spell. When casting an epic spell, the character gains a
 +5 bonus on his or her Spellcraft check if the base seed of the epic
 spell is from the character's arcane school specialty or primary psionic
 discipline. The character takes a --15 penalty if the epic spell seed is
 from his or her prohibited arcane school.
 
-**To Develop:** The first part of this entry shows the resources in
+### To Develop
+The first part of this entry shows the resources in
 gold, time, and experience points a character must expend to develop the
 spell shown. If the character expends the resources, he or she develops
 the spell if he or she has access to all the seeds. Spells containing
@@ -277,15 +201,24 @@ when they attempt to create and develop their own unique epic spells.
 ## Animus Blast
 
 -   Evocation \[Cold\]
--   **Spellcraft DC:** 50
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Area:** 20-ft.-radius hemisphere burst
--   **Duration:** Instantaneous
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** Yes
--   **To Develop:** 450,000 gp; 9 days; 18,000 XP. Seeds: *energy* (DC
+-   ### Spellcraft DC
+50
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Area
+20-ft.-radius hemisphere burst
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+450,000 gp; 9 days; 18,000 XP. Seeds: *energy* (DC
     19), *animate dead* (DC 23). Factors: set undead type to skeleton
     (--12 DC), 1-action casting time (+20 DC).
 
@@ -301,15 +234,24 @@ limit for controlled undead work just as well with undead created with
 ## Animus Blizzard
 
 -   Evocation \[Cold\]
--   **Spellcraft DC:** 78
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft.
--   **Area:** 20-ft.-radius hemisphere burst
--   **Duration:** Instantaneous
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** Yes
--   **To Develop:** 702,000 gp; 15 days; 28,080 XP. Seeds: *energy* (DC
+-   ### Spellcraft DC
+78
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft.
+-   ### Area
+20-ft.-radius hemisphere burst
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+702,000 gp; 15 days; 28,080 XP. Seeds: *energy* (DC
     19), *animate dead* (DC 23). Factors: increase damage to 30d6 (+40
     DC), set undead type to wight (--4 DC).
 
@@ -324,15 +266,24 @@ as well with undead created with *animus blizzard.*
 ## Contingent Resurrection
 
 -   Conjuration (Healing)
--   **Spellcraft DC:** 52
--   **Components:** V, S , D F
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** You or creature touched
--   **Duration:** Contingent until expended, then instantaneous
--   **Saving Throw:** None (see text)
--   **Spell Resistance:** Yes (harmless)
--   **To Develop:** 468,000 gp; 10 days; 18,720 XP. Seed: *life* (DC
+-   ### Spellcraft DC
+52
+-   ### Components
+V, S , D F
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+You or creature touched
+-   ### Duration
+Contingent until expended, then instantaneous
+-   ### Saving Throw
+None (see text)
+-   ### Spell Resistance
+Yes (harmless)
+-   ### To Develop
+468,000 gp; 10 days; 18,720 XP. Seed: *life* (DC
     27). Factor: activates when subject is slain (+25 DC).
 
 *Contingent resurrection* returns the subject to life if he or she is
@@ -350,18 +301,27 @@ level (or 1 point of Constitution if the subject was 1st level).
 *Contingent resurrection* does not work on a creature that has died of
 old age.
 
-## Create Living Vault [(Ritual)]{.small} {#create-living-vault}
+## Create Living Vault [(Ritual)]
 
 -   Conjuration (Creation)
--   **Spellcraft DC:** 58
--   **Components:** V, S, XP
--   **Casting Time:** 100 days, 11 minutes
--   **Range:** 0 ft.
--   **Effect:** One living vault, 50 ft. by 50 ft. by 10 ft.
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** None
--   **To Develop:** 540,000 gp; 11 days; 21,600 XP. Seeds: *animate*
+-   ### Spellcraft DC
+58
+-   ### Components
+V, S, XP
+-   ### Casting Time
+100 days, 11 minutes
+-   ### Range
+0 ft.
+-   ### Effect
+One living vault, 50 ft. by 50 ft. by 10 ft.
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+None
+-   ### To Develop
+540,000 gp; 11 days; 21,600 XP. Seeds: *animate*
     (DC 25) large chunk of stone, *fortify* (DC 27). Factors: allow
     vault to "grow" to proper size after created in 4d4 days (ad hoc +20
     DC), increase HD of object by 92 (+184 DC), grant magical immunity
@@ -387,16 +347,25 @@ contact it.
 ## Crown of Vermin
 
 -   Conjuration (Summoning)
--   **Spellcraft DC:** 56
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Personal
--   **Effect:** Aura of one thousand insects that surrounds you in a
+-   ### Spellcraft DC
+56
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Personal
+-   ### Effect
+Aura of one thousand insects that surrounds you in a
     10-ft.-radius spread
--   **Duration:** 20 rounds (D)
--   **Saving Throw:** None (see text)
--   **Spell Resistance:** No
--   **To Develop:** 504,000 gp; 11 days; 20,160 XP. Seeds: *summon* (DC
+-   ### Duration
+20 rounds (D)
+-   ### Saving Throw
+None (see text)
+-   ### Spell Resistance
+No
+-   ### To Develop
+504,000 gp; 11 days; 20,160 XP. Seeds: *summon* (DC
     14), *fortify* (DC 17). Factors: summon vermin mass instead of one
     creature (ad hoc +8 DC), grant damage reduction 1/epic (+15 DC),
     allow mass to move at your speed (ad hoc +2 DC), perfect control of
@@ -446,14 +415,22 @@ launched both outside and within the character's *crown of vermin.*
 ## Damnation
 
 -   Enchantment (Compulsion) \[Teleportation\] \[Mind-Affecting\]
--   **Spellcraft DC:** 97
--   **Components:** V, S, XP
--   **Casting Time:** 1 standard action
--   **Target:** Creature touched
--   **Duration:** Instantaneous (20 hours for compulsion)
--   **Saving Throw:** Will negates (see text)
--   **Spell Resistance:** Yes
--   **To Develop:** 873,000 gp; 18 days; 34,920 XP. Seeds: *foresee* (to
+-   ### Spellcraft DC
+97
+-   ### Components
+V, S, XP
+-   ### Casting Time
+1 standard action
+-   ### Target
+Creature touched
+-   ### Duration
+Instantaneous (20 hours for compulsion)
+-   ### Saving Throw
+Will negates (see text)
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+873,000 gp; 18 days; 34,920 XP. Seeds: *foresee* (to
     preview likely hellscape) (DC 17), *transport* (DC 27), *compel* (to
     keep target in hell) (DC 19). Factors: interplanar travel (+4 DC),
     unwilling target (+4 DC), 1-action casting time (+20 DC), +15 to DC
@@ -477,15 +454,24 @@ balors, if in a chaotic evil plane) every hour he or she spends in hell.
 ## Demise Unseen
 
 -   Necromancy (Death, Evil), Illusion (Figment)
--   **Spellcraft DC:** 80
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Target:** One creature of up to 80 HD
--   **Duration:** Instantaneous
--   **Saving Throw:** Fort negates
--   **Spell Resistance:** Yes
--   **To Develop:** 738,000 gp; 15 days; 29,520 XP. Seeds: *slay* (DC
+-   ### Spellcraft DC
+80
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Target
+One creature of up to 80 HD
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fort negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+738,000 gp; 15 days; 29,520 XP. Seeds: *slay* (DC
     25), *animate dead* (DC 23), *delude* (DC 14). Factors: change
     undead type to ghoul (--10 DC), apply to all five senses (+8 DC),
     1-action casting time (+20 DC).
@@ -508,15 +494,24 @@ created with *demise unseen.*
 ## Dire Winter
 
 -   Evocation \[Cold\]
--   **Spellcraft DC:** 319
--   **Components:** V, S , X P
--   **Casting Time:** 1 minute
--   **Range:** 1,000 ft.
--   **Area:** 1,000-ft.-radius emanation
--   **Duration:** 20 hours
--   **Saving Throw:** None
--   **Spell Resistance:** None
--   **To Develop:** 2,871,000 gp; 58 days; 114,840 XP. Seed: *energy*
+-   ### Spellcraft DC
+319
+-   ### Components
+V, S , X P
+-   ### Casting Time
+1 minute
+-   ### Range
+1,000 ft.
+-   ### Area
+1,000-ft.-radius emanation
+-   ### Duration
+20 hours
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+None
+-   ### To Develop
+2,871,000 gp; 58 days; 114,840 XP. Seed: *energy*
     (emanate 2d6 cold in 10-ft. radius) (DC 19). Factor: 100 times
     increase in base area (+400 DC). Mitigating factor: burn 10,000 XP
     (--100 DC).
@@ -530,18 +525,27 @@ wind. The snow and wind produce a blizzard effect within the area.
 
 *XP Cost:* 10,000 XP.
 
-## Dragon Knight [(Ritual)]{.small} {#dragon-knight}
+## Dragon Knight [(Ritual)]
 
 -   Conjuration (Summoning) \[Fire\]
--   **Spellcraft DC:** 38
--   **Components:** V, S, Ritual
--   **Casting Time:** 1 standard action
--   **Range:** 75 ft.
--   **Effect:** One summoned adult red dragon
--   **Duration:** 20 rounds (D)
--   **Saving Throw:** None (see text)
--   **Spell Resistance:** No
--   **To Develop:** 342,000 gp; 7 days; 13,680 XP. Seed: *summon* (DC
+-   ### Spellcraft DC
+38
+-   ### Components
+V, S, Ritual
+-   ### Casting Time
+1 standard action
+-   ### Range
+75 ft.
+-   ### Effect
+One summoned adult red dragon
+-   ### Duration
+20 rounds (D)
+-   ### Saving Throw
+None (see text)
+-   ### Spell Resistance
+No
+-   ### To Develop
+342,000 gp; 7 days; 13,680 XP. Seed: *summon* (DC
     14). Factors: summon creature other than outsider (+10 DC), summon
     CR 14 creature (+24 DC), 1-action casting time (+20 DC). Mitigating
     factor: two additional casters contributing 8th-level spell slots
@@ -555,18 +559,27 @@ to attack, to attack particular enemies, or to perform other actions.
 This is a ritual spell requiring two other spellcasters, each of which
 must contribute an unused 8th-level spell slot to the casting.
 
-## Dragon Strike [(Ritual)]{.small} {#dragon-strike}
+## Dragon Strike [(Ritual)]
 
 -   Conjuration (Summoning) \[Fire\]
--   **Spellcraft DC:** 50
--   **Components:** V, S, Ritual, XP
--   **Casting Time:** 1 standard action
--   **Range:** 75 ft.
--   **Effect:** Ten summoned adult red dragons
--   **Duration:** 20 rounds (D)
--   **Saving Throw:** None (see text)
--   **Spell Resistance:** No
--   **To Develop:** 450,000 gp; 9 days; 18,000 XP. Seed: *summon* (DC
+-   ### Spellcraft DC
+50
+-   ### Components
+V, S, Ritual, XP
+-   ### Casting Time
+1 standard action
+-   ### Range
+75 ft.
+-   ### Effect
+Ten summoned adult red dragons
+-   ### Duration
+20 rounds (D)
+-   ### Saving Throw
+None (see text)
+-   ### Spell Resistance
+No
+-   ### To Develop
+450,000 gp; 9 days; 18,000 XP. Seed: *summon* (DC
     14). Factors: summon creature other than outsider (+10 DC), summon
     CR 14 creature (+24 DC), summon ten creatures (x10 DC), 1-action
     casting time (+20 DC). Mitigating factors: eleven additional casters
@@ -585,16 +598,25 @@ enemies, or to perform other actions.
 ## Dreamscape
 
 -   Conjuration \[Teleportation\]
--   **Spellcraft DC:** 29
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** You and other touched willing creatures weighing up to
+-   ### Spellcraft DC
+29
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+You and other touched willing creatures weighing up to
     1,000 lb.
--   **Duration:** Instantaneous (D)
--   **Saving Throw:** Yes (harmless) (see text) S
--   **Spell Resistance:** Yes (harmless)
--   **To Develop:** 261,000 gp; 6 days; 10,400 XP. Seed: *transport* (DC
+-   ### Duration
+Instantaneous (D)
+-   ### Saving Throw
+Yes (harmless) (see text) S
+-   ### Spell Resistance
+Yes (harmless)
+-   ### To Develop
+261,000 gp; 6 days; 10,400 XP. Seed: *transport* (DC
     27). Factor: transport to region of dreams (+2 DC).
 
 The character and any creatures he or she touches are drawn into the
@@ -623,15 +645,24 @@ region of dreams receive a Will save, negating the effect if successful.
 ## Eclipse
 
 -   Conjuration (Creation) \[Transportation\]
--   **Spellcraft DC:** 42
--   **Components:** V, S , X P
--   **Casting Time:** 10 minutes
--   **Range:** 200 miles
--   **Area:** 5-mile radius, centered on you
--   **Duration:** Up to 8 hours (D)
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 378,000 gp; 8 days; 15,1200 XP. Seeds: *conjure* (DC
+-   ### Spellcraft DC
+42
+-   ### Components
+V, S , X P
+-   ### Casting Time
+10 minutes
+-   ### Range
+200 miles
+-   ### Area
+5-mile radius, centered on you
+-   ### Duration
+Up to 8 hours (D)
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+378,000 gp; 8 days; 15,1200 XP. Seeds: *conjure* (DC
     21), *transport* (to move disk into position 100 miles up) (DC 27).
     Factors: increase mass by 1,000% (+40 DC), spread mass into
     paper-thin disk (ad hoc +2 DC), keep disk in place for 8 hours (ad
@@ -653,15 +684,24 @@ lasts.
 ## Eidolon
 
 -   Conjuration (Creation) \[Transportation\]
--   **Spellcraft DC:** 79
--   **Components:** V, S , X P
--   **Casting Time:** 1 minute
--   **Range:** 5 ft.
--   **Effect:** One duplicate of caster
--   **Duration:** 8 hours
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 711,000 gp; 15 days; 28,440 XP. Seed: *conjure* (to
+-   ### Spellcraft DC
+79
+-   ### Components
+V, S , X P
+-   ### Casting Time
+1 minute
+-   ### Range
+5 ft.
+-   ### Effect
+One duplicate of caster
+-   ### Duration
+8 hours
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+711,000 gp; 15 days; 28,440 XP. Seed: *conjure* (to
     make base substance) (DC 21), *transform* (DC 21), *transport* (to
     move part of caster's soul into duplicate) (DC 27). Factors:
     nonliving substance to humanoid (+10 DC), transform into specific
@@ -697,18 +737,27 @@ character with permanent level drain.
 
 *XP Cost:* 2,500 XP.
 
-## Enslave [(Ritual)]{.small} {#enslave}
+## Enslave [(Ritual)]
 
 -   Enchantment (Compulsion) \[Mind-Affecting\]
--   **Spellcraft DC:** 80
--   **Components:** V, S, XP
--   **Casting Time:** 1 standard action
--   **Range:** 75 ft.
--   **Target:** One living creature
--   **Duration:** Permanent
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
--   **To Develop:** 720,000 gp; 15 days; 28,800 XP. Seed: compel (DC
+-   ### Spellcraft DC
+80
+-   ### Components
+V, S, XP
+-   ### Casting Time
+1 standard action
+-   ### Range
+75 ft.
+-   ### Target
+One living creature
+-   ### Duration
+Permanent
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+720,000 gp; 15 days; 28,800 XP. Seed: compel (DC
     19). Factors: stricter compulsion of any creature (ad hoc +11 DC),
     1-action casting time (+20 DC), permanent (x5 DC). Mitigating
     factors: 2d6 backlash (--2 DC), four additional casters contributing
@@ -737,15 +786,24 @@ subject is so protected, but it does not prevent the establishment of
 ## Epic Counterspell
 
 -   Abjuration
--   **Spellcraft DC:** 69
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Target:** One creature or object
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 621,000 gp; 13 days; 24,840 XP. Seed: *dispel* (DC
+-   ### Spellcraft DC
+69
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Target
+One creature or object
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+621,000 gp; 13 days; 24,840 XP. Seed: *dispel* (DC
     19). Factors: +30 to dispel check (+30 DC), 1-action casting time
     (+20 DC).
 
@@ -761,15 +819,24 @@ foe's spell.
 ## Epic Mage Armor
 
 -   Conjuration (Creation) \[Force\]
--   **Spellcraft DC:** 46
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 24 hours (D)
--   **Saving Throw:** Will negates (harmless)
--   **Spell Resistance:** Yes (harmless)
--   **To Develop:** 414,000 gp; 9 days; 16,560 XP. Seed: *armor* (DC
+-   ### Spellcraft DC
+46
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+24 hours (D)
+-   ### Saving Throw
+Will negates (harmless)
+-   ### Spell Resistance
+Yes (harmless)
+-   ### To Develop
+414,000 gp; 9 days; 16,560 XP. Seed: *armor* (DC
     14). Factor: +16 additional armor bonus (+32 DC).
 
 An invisible but tangible field of force surrounds the subject of *epic
@@ -782,15 +849,24 @@ armor.
 ## Epic Repulsion
 
 -   Abjuration
--   **Spellcraft DC:** 52
--   **Components:** V, S
--   **Casting Time:** 10 minutes
--   **Range:** Touch
--   **Target:** Object or creature touched
--   **Duration:** Permanent
--   **Saving Throw:** None
--   **Spell Resistance:** Yes
--   **To Develop:** 468,000 gp; 10 days; 18,720 XP. Seed: *ward* (DC
+-   ### Spellcraft DC
+52
+-   ### Components
+V, S
+-   ### Casting Time
+10 minutes
+-   ### Range
+Touch
+-   ### Target
+Object or creature touched
+-   ### Duration
+Permanent
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+468,000 gp; 10 days; 18,720 XP. Seed: *ward* (DC
     14). Factor: permanent 5 DC). Mitigating factor: increase casting
     time by 9 minutes (--18 DC).
 
@@ -804,15 +880,24 @@ this protection and touch the warded creature.
 ## Epic Spell Reflection
 
 -   Abjuration
--   **Spellcraft DC:** 68
--   **Components:** V, S , X P
--   **Casting Time:** 41 days, 11 minutes
--   **Range:** Touch
--   **Target:** Object or creature touched
--   **Duration:** Permanent
--   **Saving Throw:** None
--   **Spell Resistance:** Yes
--   **To Develop:** 630,000 gp; 13 days; 25,200 XP. Seed: reflect (DC
+-   ### Spellcraft DC
+68
+-   ### Components
+V, S , X P
+-   ### Casting Time
+41 days, 11 minutes
+-   ### Range
+Touch
+-   ### Target
+Object or creature touched
+-   ### Duration
+Permanent
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+630,000 gp; 13 days; 25,200 XP. Seed: reflect (DC
     27). Factors: reflect up to 9th-level spells (+160 DC), change range
     to touch (+2 DC), permanent (x5 DC). Mitigating factors: increase
     casting time by 10 minutes (--20 DC), increase casting time by 41
@@ -830,15 +915,24 @@ spell.
 ## Eternal Freedom
 
 -   Abjuration
--   **Spellcraft DC:** 150
--   **Components:** V, S, Ritual, XP
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Touched creature or object of 2,000 lb. or less
--   **Duration:** Permanent
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
--   **To Develop:** 1,350,000 gp; 27 days; 54,000 XP. Seed: *ward* (DC
+-   ### Spellcraft DC
+150
+-   ### Components
+V, S, Ritual, XP
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Touched creature or object of 2,000 lb. or less
+-   ### Duration
+Permanent
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+1,350,000 gp; 27 days; 54,000 XP. Seed: *ward* (DC
     14). Factors: specific protections *entangle* (+0 DC), *hold
     monster* (+8 DC), *hold person* (+4 DC), *imprisonment* (+16 DC),
     paralysis (ad hoc +6 DC), petrification (ad hoc +6 DC), *sleep* (+0
@@ -859,15 +953,24 @@ slot to the casting.
 ## Greater Spell Resistance
 
 -   Transmutation
--   **Spellcraft DC:** 45
--   **Components:** V, S, Ritual
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 20 hours
--   **Saving Throw:** Will negates (harmless)
--   **Spell Resistance:** Yes (harmless)
--   **To Develop:** 405,000 gp; 9 days; 16,200 XP. Seed: *fortify* (DC
+-   ### Spellcraft DC
+45
+-   ### Components
+V, S, Ritual
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+20 hours
+-   ### Saving Throw
+Will negates (harmless)
+-   ### Spell Resistance
+Yes (harmless)
+-   ### To Develop
+405,000 gp; 9 days; 16,200 XP. Seed: *fortify* (DC
     27). Factor: +10 additional SR (+40 DC). Mitigating factor: two
     additional casters contributing 6th-level spell slots (--22 DC).
 
@@ -880,16 +983,25 @@ requiring two other spellcasters, each of whom must contribute an unused
 ## Greater Ruin
 
 -   Transmutation
--   **Spellcraft DC:** 59
--   **Components:** V, S , X P
--   **Casting Time:** 1 standard action
--   **Range:** 12,000 ft.
--   **Target:** One creature, or up to a 10-foot cube of nonliving
+-   ### Spellcraft DC
+59
+-   ### Components
+V, S , X P
+-   ### Casting Time
+1 standard action
+-   ### Range
+12,000 ft.
+-   ### Target
+One creature, or up to a 10-foot cube of nonliving
     matter
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude half
--   **Spell Resistance:** Yes
--   **To Develop:** 531,000 gp; 11 days; 21,240 XP. Seed: *destroy* (DC
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+531,000 gp; 11 days; 21,240 XP. Seed: *destroy* (DC
     29). Factors: increase damage to 35d6 (+30 DC), 1-action casting
     time (+20 DC).Mitigating factor: burn 2,000 XP (--20 DC).
 
@@ -902,15 +1014,24 @@ remains. *XP Cost:* 2,000 XP.
 ## Hellball
 
 -   Evocation \[Acid, Fire, Electricity, Sonic\]
--   **Spellcraft DC:** 90
--   **Components:** V, S , X P
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Area:** 40-ft.-radius spread
--   **Duration:** Instantaneous
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** Yes
--   **To Develop:** 810,000 gp; 17 days; 32,400 XP. Seed: *energy*
+-   ### Spellcraft DC
+90
+-   ### Components
+V, S , X P
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Area
+40-ft.-radius spread
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+810,000 gp; 17 days; 32,400 XP. Seed: *energy*
     (deals 10d6 each of acid, fire, electricity, sonic) (DC 76).
     Factors: double base area (+6 DC), 1-action casting time (+20 DC).
     Mitigating factors: 10d6 backlash (--10 DC), burn 200 XP (--2 DC).
@@ -930,13 +1051,20 @@ the indicated range, expands into its full area.
 ## Kinetic Control
 
 -   Abjuration
--   **Spellcraft DC:** 100
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Personal; touch
--   **Target:** You; creature or object touched
--   **Duration:** 12 hours or until discharged
--   **To Develop:** 927,000 gp; 19 days; 37,080 XP. Seeds: *ward* (5
+-   ### Spellcraft DC
+100
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Personal; touch
+-   ### Target
+You; creature or object touched
+-   ### Duration
+12 hours or until discharged
+-   ### To Develop
+927,000 gp; 19 days; 37,080 XP. Seeds: *ward* (5
     points against bludgeoning and piercing) (DC 14), *reflect* (DC 27).
     Factors: also against slashing (+4 DC), additional 15 points of
     protection (+30 DC), contingent reflection of damage on creature
@@ -964,15 +1092,24 @@ character has not redirected is discharged into the character.
 ## Let Go of Me
 
 -   Transmutation
--   **Spellcraft DC:** 43
--   **Components:** None
--   **Casting Time:** 1 free action
--   **Range:** Touch (see text)
--   **Target:** One creature or force grappling you
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude half
--   **Spell Resistance:** Yes
--   **To Develop:** 387,000 gp; 8 days; 15,480 XP. Seed: *destroy* (DC
+-   ### Spellcraft DC
+43
+-   ### Components
+None
+-   ### Casting Time
+1 free action
+-   ### Range
+Touch (see text)
+-   ### Target
+One creature or force grappling you
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+387,000 gp; 8 days; 15,480 XP. Seed: *destroy* (DC
     29). Factors: quickened (+28 DC), no verbal or somatic components
     (+4 DC). Mitigating factors: limited circumstance (ad hoc --8 DC),
     10d6 backlash (--10 DC).
@@ -985,16 +1122,25 @@ automatically destroyed.
 ## Living Lightning
 
 -   Evocation \[Electricity\]
--   **Spellcraft DC:** 140
--   **Components:** None
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft. or 150 ft.
--   **Area:** A bolt 5 ft. wide by 300 ft. long, or 10 ft. wide by 150
+-   ### Spellcraft DC
+140
+-   ### Components
+None
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft. or 150 ft.
+-   ### Area
+A bolt 5 ft. wide by 300 ft. long, or 10 ft. wide by 150
     ft. long
--   **Duration:** Instantaneous
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** Yes
--   **To Develop:** 1,260,000 gp; 26 days; 50,400 XP. Seeds: *life* (DC
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+1,260,000 gp; 26 days; 50,400 XP. Seeds: *life* (DC
     27), *energy* (DC 19). Factors: 1-action casting time (+20 DC), no
     verbal or somatic components (+4 DC), giving life to a spell (ad hoc
     x2 DC).
@@ -1027,15 +1173,24 @@ rested to regain his or her epic spell slots for the next day.
 ## Lord of Nightmares
 
 -   Conjuration (Summoning)
--   **Spellcraft DC:** 50
--   **Components:** V, S, X P
--   **Casting Time:** 1 standard action
--   **Range:** 75 ft.
--   **Effect:** One summoned creature
--   **Duration:** 20 rounds
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 450,000 gp; 9 days; 18,000 XP. Seed: *summon* (DC
+-   ### Spellcraft DC
+50
+-   ### Components
+V, S, X P
+-   ### Casting Time
+1 standard action
+-   ### Range
+75 ft.
+-   ### Effect
+One summoned creature
+-   ### Duration
+20 rounds
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+450,000 gp; 9 days; 18,000 XP. Seed: *summon* (DC
     14). Factors: summon CR 31 creature (+58 DC), allow creature to
     possess body and act at its own discretion (ad hoc --20 DC),
     1-action casting time (+20 DC). Mitigating factors: 12d6 backlash
@@ -1070,15 +1225,24 @@ permanent.
 ## Mass Frog
 
 -   Transmutation
--   **Spellcraft DC:** 55
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Area:** 40-ft.-radius hemisphere
--   **Duration:** Permanent
--   **Saving Throw:** Fortitude negates
--   **Spell Resistance:** Yes
--   **To Develop:** 495,000 gp; 10 days; 19,800 XP. Seed: *transform*
+-   ### Spellcraft DC
+55
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Area
+40-ft.-radius hemisphere
+-   ### Duration
+Permanent
+-   ### Saving Throw
+Fortitude negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+495,000 gp; 10 days; 19,800 XP. Seed: *transform*
     (DC 21). Factors: change target to area of 20-ft. hemisphere (+10
     DC), increase area by 100% (+4 DC), 1 action casting time (+20 DC).
 
@@ -1096,15 +1260,24 @@ ground upon transformation.
 ## Momento Mori
 
 -   Necromancy \[Death\]
--   **Spellcraft DC:** 86
--   **Components:** None
--   **Casting Time:** 1 quickened action
--   **Range:** 300 ft.
--   **Target:** One living creature
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude partial (see text)
--   **Spell Resistance:** Yes
--   **To Develop:** 774,000 gp; 16 days; 30,960 XP. Seed: *slay* (DC
+-   ### Spellcraft DC
+86
+-   ### Components
+None
+-   ### Casting Time
+1 quickened action
+-   ### Range
+300 ft.
+-   ### Target
+One living creature
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude partial (see text)
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+774,000 gp; 16 days; 30,960 XP. Seed: *slay* (DC
     25). Factor: increase to 160 HD (+8 DC), quickened (+28 DC), no
     verbal or somatic components (+4 DC), +10 to DC of subject's save
     (+20 DC).
@@ -1120,15 +1293,24 @@ points of damage.
 ## Mummy Dust
 
 -   Necromancy \[Evil\]
--   **Spellcraft DC:** 35
--   **Components:** V, S ,M, XP
--   **Casting Time:** 1 standard action
--   **Range:** Touch
--   **Effect:** Two 18-HD mummies
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 315,000 gp; 7 days; 12,600 XP. Seed: *animate dead*
+-   ### Spellcraft DC
+35
+-   ### Components
+V, S ,M, XP
+-   ### Casting Time
+1 standard action
+-   ### Range
+Touch
+-   ### Effect
+Two 18-HD mummies
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+315,000 gp; 7 days; 12,600 XP. Seed: *animate dead*
     (DC 23). Factors: 1-action casting time (+20 DC). Mitigating
     factors: burn 400 XP (--4 DC), expensive material component (ad hoc
     --4 DC).
@@ -1177,15 +1359,24 @@ dust that blow away into nothing at the first wind.
 ## Nailed to the Sky
 
 -   Conjuration \[Teleportation\]
--   **Spellcraft DC:** 62
--   **Components:** V, S ,XP
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Target:** Creature or object weighing up to 1,000 lb.
--   **Duration:** Instantaneous
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
--   **To Develop:** 558,000 gp; 12 days; 22,320 XP. Seeds: *foresee* (to
+-   ### Spellcraft DC
+62
+-   ### Components
+V, S ,XP
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Target
+Creature or object weighing up to 1,000 lb.
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+558,000 gp; 12 days; 22,320 XP. Seeds: *foresee* (to
     preview endpoint of teleportation) (DC 17), *transport* (DC 27).
     Factors: unwilling target (+4 DC), increase range from touch (+4
     DC), 1-action casting time (+20 DC). Mitigating factor: burn 1,000
@@ -1210,15 +1401,24 @@ round. The target immediately begins to suffocate.
 ## Origin of Species: Achaierai
 
 -   Conjuration (Creation, Healing)
--   **Spellcraft DC:** 38
--   **Components:** V, S, DF, XP
--   **Casting Time:** 100 days, 11 minutes
--   **Range:** 0 ft.
--   **Effect:** One constructed creature up to Medium (20 cu. ft.)
--   **Duration:** Permanent
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 360,000 gp; 8 days; 14,400 XP. Seeds: conjure (DC
+-   ### Spellcraft DC
+38
+-   ### Components
+V, S, DF, XP
+-   ### Casting Time
+100 days, 11 minutes
+-   ### Range
+0 ft.
+-   ### Effect
+One constructed creature up to Medium (20 cu. ft.)
+-   ### Duration
+Permanent
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+360,000 gp; 8 days; 14,400 XP. Seeds: conjure (DC
     21), life (DC 27), fortify (DC 17). Factors: +4 HD (5 hp per HD)
     (+20 DC), +6 to natural AC (+12 DC), add three more natural attacks
     (ad hoc +6 DC), add black cloud spell-like ability (+33 DC), add SR
@@ -1241,13 +1441,20 @@ picks up achaierai traits and alignment.
 ## Peripety
 
 -   Abjuration
--   **Spellcraft DC:** 27
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Personal
--   **Target:** You
--   **Duration:** 12 hours
--   **To Develop:** 243,000 gp; 5 days; 9,720 XP. Seed: *reflect* (DC
+-   ### Spellcraft DC
+27
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Personal
+-   ### Target
+You
+-   ### Duration
+12 hours
+-   ### To Develop
+243,000 gp; 5 days; 9,720 XP. Seed: *reflect* (DC
     27).
 
 Ranged attacks targeted against the character rebound on the original
@@ -1260,15 +1467,24 @@ the spell ends.
 ## Pestilence
 
 -   Conjuration, Necromancy
--   **Spellcraft DC:** 104
--   **Components:** V, S, Ritual, XP
--   **Casting Time:** 10 minutes
--   **Range:** 0 ft.
--   **Area:** 1,000-ft.-radius hemisphere
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude negates
--   **Spell Resistance:** Yes
--   **To Develop:** 936,000 gp; 19 days; 37,440 XP. Seed: afflict (DC
+-   ### Spellcraft DC
+104
+-   ### Components
+V, S, Ritual, XP
+-   ### Casting Time
+10 minutes
+-   ### Range
+0 ft.
+-   ### Area
+1,000-ft.-radius hemisphere
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+936,000 gp; 19 days; 37,440 XP. Seed: afflict (DC
     19). Factors: additional target type (plants) (+10 DC). change
     target to area (+10 DC), change 20-ft. radius to 1,000-ft. radius
     (+200 DC), disease effects (as per contagion spell) (ad hoc +21 DC).
@@ -1298,15 +1514,24 @@ casting. The primary caster must also burn 10,000 XP.
 ## Rain of Fire
 
 -   Evocation \[Fire\]
--   **Spellcraft DC:** 50
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 0 ft.
--   **Area:** 2-mile-radius emanation
--   **Duration:** 20 hours
--   **Saving Throw:** Reflex negates (see text)
--   **Spell Resistance:** Yes
--   **To Develop:** 450,000 gp; 9 days; 18,000 XP. Seeds: *energy
+-   ### Spellcraft DC
+50
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+0 ft.
+-   ### Area
+2-mile-radius emanation
+-   ### Duration
+20 hours
+-   ### Saving Throw
+Reflex negates (see text)
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+450,000 gp; 9 days; 18,000 XP. Seeds: *energy
     (fire)* (DC 19), *energy (weather)* (DC 19). Factor: change rain to
     wisps of flame (ad hoc +12 DC).
 
@@ -1323,15 +1548,24 @@ stationary and persists even if the caster leaves.
 ## Raise Island
 
 -   Conjuration (Creation)
--   **Spellcraft DC:** 38
--   **Components:** V, S, XP, Ritual
--   **Casting Time:** 65 days, 11 minutes
--   **Range:** 0 ft.
--   **Area:** 100-ft.-radius hemispherical island
--   **Duration:** Permanent
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 360,000 gp; 8 days; 14,400 XP. Seed: conjure (DC
+-   ### Spellcraft DC
+38
+-   ### Components
+V, S, XP, Ritual
+-   ### Casting Time
+65 days, 11 minutes
+-   ### Range
+0 ft.
+-   ### Area
+100-ft.-radius hemispherical island
+-   ### Duration
+Permanent
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+360,000 gp; 8 days; 14,400 XP. Seed: conjure (DC
     21). Factors: change area to 10-ft. radius, 30-ft. high cylinder (+2
     DC), change radius to 100 ft. (+40 DC), change height to 1,000 feet
     (+133 DC), permanent (x5 DC). Mitigating factors: increase casting
@@ -1352,16 +1586,25 @@ works if the ocean is less than 1,000 feet deep where the spell is cast.
 ## Ruin
 
 -   Transmutation
--   **Spellcraft DC:** 27
--   **Components:** V, S, X P
--   **Casting Time:** 1 full round
--   **Range:** 12,000 ft.
--   **Target:** One creature, or up to a 10-foot cube of nonliving
+-   ### Spellcraft DC
+27
+-   ### Components
+V, S, X P
+-   ### Casting Time
+1 full round
+-   ### Range
+12,000 ft.
+-   ### Target
+One creature, or up to a 10-foot cube of nonliving
     matter
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude half
--   **Spell Resistance:** Yes
--   **To Develop:** 243,000 gp; 5 days; 9,720 XP. Seed: *destroy* (DC
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+243,000 gp; 5 days; 9,720 XP. Seed: *destroy* (DC
     29). Factor: reduce casting time by 9 rounds (+18 DC). Mitigating
     factor: burn 2,000 XP (--20 DC).
 
@@ -1376,15 +1619,24 @@ remains.
 ## Safe Time
 
 -   Conjuration \[Teleportation\]
--   **Spellcraft DC:** 64
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** You or creature touched
--   **Duration:** Contingent until expended, then 1 round of safe time
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 576,000 gp; 12 days; 23,040 XP. Seed: *transport*
+-   ### Spellcraft DC
+64
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+You or creature touched
+-   ### Duration
+Contingent until expended, then 1 round of safe time
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+576,000 gp; 12 days; 23,040 XP. Seed: *transport*
     (DC 27). Factors: move to time stream (+8 DC), reduce static time to
     1 round (ad hoc +4 DC), activates when you would otherwise take 50
     or more points of damage (+25 DC).
@@ -1407,15 +1659,24 @@ time, the character stands frozen and fixed in space for 1 full round.
 ## Soul Dominion
 
 -   Divination, Enchantment (Compulsion) \[Mind-Affecting\]
--   **Spellcraft DC:** 72
--   **Components:** V, S
--   **Casting Time:** 10 minutes
--   **Range:** See text
--   **Target:** One other living creature
--   **Duration:** 20 minutes (D)
--   **Saving Throw:** Will negates (see text)
--   **Spell Resistance:** No
--   **To Develop:** 648,000 gp; 13 days; 25,920 XP. Seeds: *contact* (DC
+-   ### Spellcraft DC
+72
+-   ### Components
+V, S
+-   ### Casting Time
+10 minutes
+-   ### Range
+See text
+-   ### Target
+One other living creature
+-   ### Duration
+20 minutes (D)
+-   ### Saving Throw
+Will negates (see text)
+-   ### Spell Resistance
+No
+-   ### To Develop
+648,000 gp; 13 days; 25,920 XP. Seeds: *contact* (DC
     23), *reveal* (DC 19), *compel* (DC 19). Factors: apply to all five
     senses (+8 DC), total compulsory control (+10 DC), stricter
     compulsion of any creature (ad hoc +11 DC). Mitigating factor:
@@ -1439,15 +1700,24 @@ control undead or incorporeal creatures with *soul dominion.*
 ## Soul Scry
 
 -   Divination
--   **Spellcraft DC:** 55
--   **Components:** V, S
--   **Casting Time:** 10 minutes
--   **Range:** See text
--   **Target:** One other living creature
--   **Duration:** 20 minutes (D)
--   **Saving Throw:** Will negates
--   **Spell Resistance:** No
--   **To Develop:** 495,000 gp; 10 days; 19,800 XP. Seeds: *contact* (DC
+-   ### Spellcraft DC
+55
+-   ### Components
+V, S
+-   ### Casting Time
+10 minutes
+-   ### Range
+See text
+-   ### Target
+One other living creature
+-   ### Duration
+20 minutes (D)
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+No
+-   ### To Develop
+495,000 gp; 10 days; 19,800 XP. Seeds: *contact* (DC
     23), *reveal* (DC 19), *conceal* (DC 17). Factors: apply to all five
     senses (+8 DC), conceal detection (ad hoc +6 DC). Mitigating factor:
     increase casting time by 9 minutes (--18 DC).
@@ -1472,15 +1742,24 @@ knocked unconscious or killed, the spell immediately ends.
 ## Spell Worm
 
 -   Enchantment (Compulsion) \[Mind-Affecting\]
--   **Spellcraft DC:** 45
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 75 ft.
--   **Target:** One living creature
--   **Duration:** 20 hours or until completed
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
--   **To Develop:** 405,000 gp; 9 days; 16,200 XP. Seed: *compel* (DC
+-   ### Spellcraft DC
+45
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+75 ft.
+-   ### Target
+One living creature
+-   ### Duration
+20 hours or until completed
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+405,000 gp; 9 days; 16,200 XP. Seed: *compel* (DC
     19). Factors: unobtrusive (ad hoc +6 DC), 1-action casting time (+20
     DC).
 
@@ -1500,15 +1779,24 @@ purely mental exercise not obvious to observers.
 ## Summon Behemoth
 
 -   Conjuration (Summoning)
--   **Spellcraft DC:** 72
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 75 ft.
--   **Effect:** Summoned creature
--   **Duration:** 20 rounds (D)
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 648,000 gp; 13 days; 25,920 XP. Seed: *summon* (DC
+-   ### Spellcraft DC
+72
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+75 ft.
+-   ### Effect
+Summoned creature
+-   ### Duration
+20 rounds (D)
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+648,000 gp; 13 days; 25,920 XP. Seed: *summon* (DC
     14). Factors: summon CR 21 creature (DC +38), 1-action casting time
     (+20 DC).
 
@@ -1523,15 +1811,24 @@ of the spell and disappear at the end of their turn.
 ## Superb Dispelling
 
 -   Abjuration
--   **Spellcraft DC:** 59
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Target:** One creature or object
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
--   **To Develop:** 531,000 gp; 11 days; 21,240 XP. Seed: *dispel* (DC
+-   ### Spellcraft DC
+59
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Target
+One creature or object
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
+-   ### To Develop
+531,000 gp; 11 days; 21,240 XP. Seed: *dispel* (DC
     19). Factors: additional +30 to dispel check (+30 DC), 1-action
     casting time (+20 DC). Mitigating factor: 10d6 backlash (--10 DC).
 
@@ -1541,14 +1838,22 @@ check is +40, and the character takes 10d6 points of backlash damage.
 ## Time Duplicate
 
 -   Conjuration \[Teleportation\]
--   **Spellcraft DC:** 71
--   **Components:** V, S
--   **Casting Time:** 1 free action
--   **Effect:** You
--   **Duration:** 1 round (see text)
--   **Saving Throw:** None (harmless)
--   **Spell Resistance:** None (harmless)
--   **To Develop:** 639,000 gp; 13 days; 25,560 XP. Seed: *transport*
+-   ### Spellcraft DC
+71
+-   ### Components
+V, S
+-   ### Casting Time
+1 free action
+-   ### Effect
+You
+-   ### Duration
+1 round (see text)
+-   ### Saving Throw
+None (harmless)
+-   ### Spell Resistance
+None (harmless)
+-   ### To Develop
+639,000 gp; 13 days; 25,560 XP. Seed: *transport*
     (to move future you back in time 1 round) (DC 27). Factors: move to
     time stream (+8 DC), stretch the base temporal effect (ad hoc +8
     DC), quickened (+28 DC).
@@ -1594,16 +1899,25 @@ a version of him or her from farther in the future.
 ## Vengeful Gaze of God
 
 -   Transmutation
--   **Spellcraft DC:** 419
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 12,000 ft.
--   **Target:** One creature, or up to a 10-foot cube of nonliving
+-   ### Spellcraft DC
+419
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+12,000 ft.
+-   ### Target
+One creature, or up to a 10-foot cube of nonliving
     matter in line of sight
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude half
--   **Spell Resistance:** Yes
--   **To Develop:** 3,771,000 gp; 76 days; 150,840 XP. Seed: *destroy*
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude half
+-   ### Spell Resistance
+Yes
+-   ### To Develop
+3,771,000 gp; 76 days; 150,840 XP. Seed: *destroy*
     (DC 29). Factor: increase damage to 305d6 (+570 DC), 1-action
     casting time (+20 DC). Mitigating factor: 200d6 backlash (--200 DC).
 
@@ -1617,15 +1931,24 @@ damage
 ## Verdigris
 
 -   Conjuration (Creation)
--   **Spellcraft DC:** 58
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft.
--   **Area:** 100-ft.-radius hemisphere
--   **Duration:** 24 hours
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** No
--   **To Develop:** 522,000 gp; 11 days; 20,880 XP. Seed: *conjure* (DC
+-   ### Spellcraft DC
+58
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft.
+-   ### Area
+100-ft.-radius hemisphere
+-   ### Duration
+24 hours
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+No
+-   ### To Develop
+522,000 gp; 11 days; 20,880 XP. Seed: *conjure* (DC
     21). Factors: change area to 20-ft. radius hemisphere (+2 DC),
     increase radius to 100 ft. (+16 DC), deal 10d6 damage during growth
     (ad hoc +19 DC).
@@ -1644,15 +1967,24 @@ vanishes.
 ## Verdigris Tsunami
 
 -   Conjuration (Creation)
--   **Spellcraft DC:** 170
--   **Components:** V, S, Ritual, XP
--   **Casting Time:** 10 minutes
--   **Range:** 1,500 ft.
--   **Area:** 1,000-ft.-radius hemisphere
--   **Duration:** Permanent
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** No
--   **To Develop:** 1,530,000 gp; 31 days; 61,200 XP. Seed: conjure (DC
+-   ### Spellcraft DC
+170
+-   ### Components
+V, S, Ritual, XP
+-   ### Casting Time
+10 minutes
+-   ### Range
+1,500 ft.
+-   ### Area
+1,000-ft.-radius hemisphere
+-   ### Duration
+Permanent
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+No
+-   ### To Develop
+1,530,000 gp; 31 days; 61,200 XP. Seed: conjure (DC
     21). Factor: change area to 20-ft.-radius hemisphere (+2 DC),
     increase radius to 1,000 ft. (+196 DC), increase range to 1,500 ft.
     (+8 DC), deal 10d6 damage during growth (ad hoc +19 DC), increase
@@ -1728,35 +2060,43 @@ starting point when creating customized versions of the spells.
 \*Spellcasters without at least 24 ranks in Knowledge (religion) or
 Knowledge (nature) may not use *heal* or *life* spell seeds.
 
-**Resource Cost:** The development of an epic spell uses up raw
+### Resource Cost
+The development of an epic spell uses up raw
 materials costing a number of gold pieces equal to 9,000 xthe final
 Spellcraft DC of the epic spell being developed.
 
-**Development Time:** Developing an epic spell takes one day for each
+### Development Time
+Developing an epic spell takes one day for each
 50,000 gp in resources required to develop the spell, rounded up to
 whole days.
 
-**XP Cost:** To develop an epic spell, a character must spend 1/25 of
+### XP Cost
+To develop an epic spell, a character must spend 1/25 of
 its resource price in experience points.
 
-**Adding Seed DCs:** When two or more epic seeds are combined in an epic
+### Adding Seed DCs
+When two or more epic seeds are combined in an epic
 spell, their base Spellcraft DCs are added together. Both contribute
 toward the spell's final Spellcraft DC.
 
-**Determining School:** When combining two or more seeds to develop an
+### Determining School
+When combining two or more seeds to develop an
 epic spell, the school of the finished spell is decided by the caster
 from among the seeds that make up the epic spell.
 
-**Combining Descriptors:** When two or more epic seeds are combined in
+### Combining Descriptors
+When two or more epic seeds are combined in
 an epic spell, all the descriptors from each seed apply to the finished
 spell.
 
-**Combining Components and Casting Times:** Almost every epic spell has
+### Combining Components and Casting Times
+Almost every epic spell has
 verbal and somatic components and a 1-minute casting time, regardless of
 the number of epic seeds combined. The only exceptions are epic spells
 with the *heal* and *life* seeds, which have divine focus components.
 
-**Combining Range, Targets, Area, and Effect:** One seed might have a
+### Combining Range, Targets, Area, and Effect
+One seed might have a
 range of 12,000 feet, another seed might have a range of 400 feet, and a
 third seed might not have a range at all. Likewise, some seeds have
 targets, while others have an effect or an area. To determine which seed
@@ -1769,23 +2109,27 @@ a base seed by examining the spell's effects. If no one seed is most
 important, simply pick one seed for the purposes of making this
 determination.
 
-**Combining Durations:** When combining two or more seeds to develop an
+### Combining Durations
+When combining two or more seeds to develop an
 epic spell, the seed with the shortest duration determines the duration
 of the finished epic spell. If any seed of an epic spell is dismissible
 by the caster, the epic spell is dismissible.
 
-**Saving Throws:** Even if more than one seed has an associated saving
+### Saving Throws
+Even if more than one seed has an associated saving
 throw, the final spell will have only a single saving throw. If two or
 more seeds have the same kind of saving throw (Fortitude, Reflex, or
 Will), then obviously that will be used for the spell's saving throw. If
 the seeds have different kinds of saving throws, simply choose the
 saving throw that seems most appropriate for the final spell.
 
-**Spell Resistance:** When combining two or more seeds to develop an
+### Spell Resistance
+When combining two or more seeds to develop an
 epic spell, if even one seed is subject to spell resistance, the
 finished epic spell is subject to it as well.
 
-**Factors:** Factors are not part of epic seeds, but they are the tools
+### Factors
+Factors are not part of epic seeds, but they are the tools
 used to modify specific parameters of any given seed. Applying factors
 to the seeds of an epic spell can increase or decrease the final
 Spellcraft DC, increase the duration, change the area of a spell, and
@@ -1803,7 +2147,8 @@ DC of an epic spell correctly, it's important to determine the
 mitigating factors last, after all the factors that increase the DC have
 been accounted for.
 
-**Development Is an Art:** Many times developing a completely new epic
+### Development Is an Art
+Many times developing a completely new epic
 spell requires some guesswork and rule stretching. As with making and
 pricing magic items, a sort of balancing act is required. Often the
 description of a seed will need to be stretched for a particular spell.
@@ -1812,7 +2157,8 @@ that cannot be extrapolated from the seeds and factors presented
 here---the example spells use ad hoc factors frequently. In all cases,
 the GM determines the actual Spellcraft DC of the new spell
 
-**Approval:** This is the final step, and it's critically important. The
+### Approval
+This is the final step, and it's critically important. The
 epic spell development work and reasoning must be shown to the GM and
 receive his or her approval. If the GM doesn't approve, then the epic
 spell cannot be developed. However, the GM should explain why the epic
@@ -1919,7 +2265,8 @@ Spellcraft DC, a character must first "use up" the maximum of 10 minutes
 to add days to the casting time, with a further modifier of --2 per day,
 up to the maximum of 100 days.
 
-**Additional Participants:** Epic spells can be developed that
+### Additional Participants
+Epic spells can be developed that
 specifically require additional participants. These spells are called
 rituals. An epic spell developed as a ritual requires a specific number
 of additional participants, who each must use up one spell slot of a
@@ -1969,17 +2316,25 @@ Each seed description hereafter follows the same format used for 0- to
 DC of the Spellcraft check required to cast an epic spell with this
 seed.
 
-### Seed:Afflict {#seed-afflict}
+### Seed:Afflict
 
 -   Enchantment (Compulsion) \[Fear, Mind-Affecting\]
--   **Spellcraft DC:** 14
--   **Components:** V, S
--   **Casting Time:** 1 standard action
--   **Range:** 300 ft.
--   **Target:** One living creature
--   **Duration:** 20 minutes
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Spellcraft DC
+14
+-   ### Components
+V, S
+-   ### Casting Time
+1 standard action
+-   ### Range
+300 ft.
+-   ### Target
+One living creature
+-   ### Duration
+20 minutes
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 Afflicts the target with a --2 morale penalty on attack rolls, checks,
 and saving throws. For each additional --1 penalty assessed on either
@@ -2001,17 +2356,25 @@ If the target fails its saving throw, the sense selected doesn't
 function for the spell's duration, with all attendant penalties that
 apply for losing the specified sense.
 
-### Seed:Animate {#seed-animate}
+### Seed:Animate
 
 -   Transmutation
--   **Spellcraft DC:** 25
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft.
--   **Target:** Object or 20 cu. ft. of matter
--   **Duration:** 20 rounds
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Spellcraft DC
+25
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft.
+-   ### Target
+Object or 20 cu. ft. of matter
+-   ### Duration
+20 rounds
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 This seed can imbue inanimate objects with mobility and a semblance of
 life (not actual life). The animated object attacks whomever or whatever
@@ -2027,17 +2390,25 @@ Die granted to an animated object of a given size, increase the
 Spellcraft DC by +2. To animate attended objects (objects carried or
 worn by another creature), increase the Spellcraft DC by +10.
 
-### Seed:Animate Dead {#seed-animate-dead}
+### Seed:Animate Dead
 
 -   Necromancy \[Evil\]
--   **Spellcraft DC:** 23
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** One or more corpses touched
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Spellcraft DC
+23
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+One or more corpses touched
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 The caster can turn the bones or bodies of dead creatures into undead
 that follow his or her spoken commands. The undead can follow the
@@ -2080,14 +2451,22 @@ similar undead as a basis for comparison.
 ### Seed: Armor
 
 -   Conjuration (Creation) \[Force\]
--   **Spellcraft DC:** 14
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 24 hours (D)
--   **Saving Throw:** Will negates (harmless)
--   **Spell Resistance:** Yes (harmless)
+-   ### Spellcraft DC
+14
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+24 hours (D)
+-   ### Saving Throw
+Will negates (harmless)
+-   ### Spell Resistance
+Yes (harmless)
 
 This seed grants a creature additional armor, providing a +4 bonus to
 Armor Class. The bonus is either an armor bonus or a natural armor
@@ -2104,15 +2483,23 @@ these types, increase the Spellcraft DC by +10.
 ### Seed: Banish
 
 -   Abjuration
--   **Spellcraft DC:** 27
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 75 ft.
--   **Target:** One or more extraplanar creatures, no two of which can
+-   ### Spellcraft DC
+27
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+75 ft.
+-   ### Target
+One or more extraplanar creatures, no two of which can
     be more than 30 ft. apart
--   **Duration:** Instantaneous
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 This seed forces extraplanar creatures out of the caster's home plane.
 The caster can banish up to 14 HD of extraplanar creatures. For each
@@ -2123,14 +2510,22 @@ than outsider to be banished, increase the Spellcraft DC by +20.
 ### Seed: Compel
 
 -   Enchantment (Compulsion) \[Mind-Affecting\]
--   **Spellcraft DC:** 19
--   **Components:** V, M
--   **Casting Time:** 1 minute
--   **Range:** 75 ft.
--   **Target:** One living creature
--   **Duration:** 20 hours or until completed
--   **Saving Throw:** Will negates
--   **Spell Resistance:** Yes
+-   ### Spellcraft DC
+19
+-   ### Components
+V, M
+-   ### Casting Time
+1 minute
+-   ### Range
+75 ft.
+-   ### Target
+One living creature
+-   ### Duration
+20 hours or until completed
+-   ### Saving Throw
+Will negates
+-   ### Spell Resistance
+Yes
 
 This seed compels a target to follow a course of activity. At the basic
 level of effect, a spell using the *compel* seed must be worded in such
@@ -2149,14 +2544,22 @@ activity is not performed.
 ### Seed: Conceal
 
 -   Illusion (Glamer)
--   **Spellcraft DC:** 17
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Personal or touch
--   **Target:** You or a creature or object of up to 2,000 lb.
--   **Duration:** 200 minutes or until expended (D)
--   **Saving Throw:** None or Will negates (harmless, object)
--   **Spell Resistance:** No or Yes (harmless, object)
+-   ### Spellcraft DC
+17
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Personal or touch
+-   ### Target
+You or a creature or object of up to 2,000 lb.
+-   ### Duration
+200 minutes or until expended (D)
+-   ### Saving Throw
+None or Will negates (harmless, object)
+-   ### Spell Resistance
+No or Yes (harmless, object)
 
 This seed can conceal a creature or object touched from sight, even from
 darkvision. If the subject is a creature carrying gear, the gear
@@ -2181,15 +2584,23 @@ spell works.
 ### Seed: Conjure
 
 -   Conjuration (Creation)
--   **Spellcraft DC:** 21
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 0 ft.
--   **Effect:** Unattended, nonmagical object of nonliving matter up to
+-   ### Spellcraft DC
+21
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+0 ft.
+-   ### Effect
+Unattended, nonmagical object of nonliving matter up to
     20 cu. ft.
--   **Duration:** 8 hours
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Duration
+8 hours
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 This seed creates a nonmagical, unattended object of nonliving matter of
 up to 20 cubic feet in volume. The caster must succeed at an appropriate
@@ -2215,14 +2626,22 @@ will breed true.
 ### Seed: Contact
 
 -   Divination
--   **Spellcraft DC:** 23
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** See text
--   **Target:** One creature
--   **Duration:** 200 minutes
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Spellcraft DC
+23
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+See text
+-   ### Target
+One creature
+-   ### Duration
+200 minutes
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 This seed forges a telepathic bond with a particular creature with which
 the caster is familiar (or one that the caster can currently see
@@ -2249,15 +2668,23 @@ caster's desire when the spell is cast.
 ### Seed: Delude
 
 -   Illusion (Figment)
--   **Spellcraft DC:** 14
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 12,000 ft.
--   **Effect:** Visual figment that can extend for up to twenty 30-ft.
+-   ### Spellcraft DC
+14
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+12,000 ft.
+-   ### Effect
+Visual figment that can extend for up to twenty 30-ft.
     cubes (S)
--   **Duration:** Concentration plus 20 hours
--   **Saving Throw:** Will disbelief (if interacted with)
--   **Spell Resistance:** No
+-   ### Duration
+Concentration plus 20 hours
+-   ### Saving Throw
+Will disbelief (if interacted with)
+-   ### Spell Resistance
+No
 
 A spell developed with the *delude* seed creates the visual illusion of
 an object, creature, or force, as visualized by the caster. The caster
@@ -2280,15 +2707,23 @@ development using this or other seeds.
 ### Seed: Destroy
 
 -   Transmutation
--   **Spellcraft DC:** 29
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 12,000 ft.
--   **Target:** One creature, or up to a 10-foot cube of nonliving
+-   ### Spellcraft DC
+29
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+12,000 ft.
+-   ### Target
+One creature, or up to a 10-foot cube of nonliving
     matter
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude half
--   **Spell Resistance:** Yes
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude half
+-   ### Spell Resistance
+Yes
 
 This seed deals 20d6 points of damage to the target. The damage is of no
 particular type or energy. For each additional 1d6 points of damage
@@ -2307,14 +2742,22 @@ check against the other spellcaster to bring down a *ward* spell.
 ### Seed: Dispel
 
 -   Abjuration
--   **Spellcraft DC:** 19
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft.
--   **Target:** One creature, object, or spell
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Spellcraft DC
+19
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft.
+-   ### Target
+One creature, object, or spell
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 This seed can end ongoing spells that have been cast on a creature or
 object, temporarily suppress the magical abilities of a magic item, or
@@ -2344,17 +2787,25 @@ dispel check against any spell that he or she cast him or her self.
 ### Seed: Energy
 
 -   Evocation \[Acid, Fire, Electricity, Cold, or Sonic\]
--   **Spellcraft DC:** 19
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft. or touched creature or object of 2,000 lb. or
+-   ### Spellcraft DC
+19
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft. or touched creature or object of 2,000 lb. or
     less
--   **Area:** A bolt 5 ft. wide to 300 ft. long; or a 10-ft.-radius
+-   ### Area
+A bolt 5 ft. wide to 300 ft. long; or a 10-ft.-radius
     emanation; or a wall whose area is up to one 200-ft. square; or a
     sphere or hemi-sphere with a radius of up to 20 ft.
--   **Duration:** Instantaneous or 20 hours (see text)
--   **Saving Throw:** Reflex half
--   **Spell Resistance:** Yes
+-   ### Duration
+Instantaneous or 20 hours (see text)
+-   ### Saving Throw
+Reflex half
+-   ### Spell Resistance
+Yes
 
 This seed uses whichever one of five energy types the caster chooses:
 acid, cold, electricity, fire, or sonic. The caster can cast the energy
@@ -2399,12 +2850,18 @@ the *energy* seed.
 ### Seed: Foresee
 
 -   Divination
--   **Spellcraft DC:** 17
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Personal
--   **Target:** You
--   **Duration:** Instantaneous or concentration (see text)
+-   ### Spellcraft DC
+17
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Personal
+-   ### Target
+You
+-   ### Duration
+Instantaneous or concentration (see text)
 
 The caster can foretell the immediate future, or gain information about
 specific questions. He or she is 90% likely to receive a meaningful
@@ -2431,14 +2888,22 @@ DC by +2.
 ### Seed: Fortify
 
 -   Transmutation
--   **Spellcraft DC:** 17 (see text)
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** 20 hours; permanent for age adjustment
--   **Saving Throw:** Will negates (harmless)
--   **Spell Resistance:** Yes (harmless)
+-   ### Spellcraft DC
+17 (see text)
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+20 hours; permanent for age adjustment
+-   ### Saving Throw
+Will negates (harmless)
+-   ### Spell Resistance
+Yes (harmless)
 
 Spells using the *fortify* seed grant a +1 enhancement bonus to
 whichever one of the following the caster chooses:
@@ -2489,14 +2954,22 @@ higher age categories are also adjusted accordingly.
 ### Seed: Heal
 
 -   Conjuration (Healing)
--   **Spellcraft DC:** 25
--   **Components:** V, S, DF
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Creature touched
--   **Duration:** Instantaneous
--   **Saving Throw:** Yes (harmless; see text)
--   **Spell Resistance:** Yes (harmless)
+-   ### Spellcraft DC
+25
+-   ### Components
+V, S, DF
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Creature touched
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Yes (harmless; see text)
+-   ### Spell Resistance
+Yes (harmless)
 
 Spells developed with the *heal* seed channel positive energy into a
 creature to wipe away disease and injury. Such a spell completely cures
@@ -2536,14 +3009,22 @@ saving throw, or the negative levels are converted to actual level loss.
 ### Seed: Life
 
 -   Conjuration (Healing)
--   **Spellcraft DC:** 27
--   **Components:** V, S, DF
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** Dead creature touched
--   **Duration:** Instantaneous
--   **Saving Throw:** None (see text)
--   **Spell Resistance:** Yes (harmless)
+-   ### Spellcraft DC
+27
+-   ### Components
+V, S, DF
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+Dead creature touched
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None (see text)
+-   ### Spell Resistance
+Yes (harmless)
 
 A spell developed with the *life* seed will restore life and complete
 vigor to any deceased creature. The condition of the remains is not a
@@ -2580,12 +3061,18 @@ Intelligence bonus (if any).
 ### Seed: Reflect
 
 -   Abjuration
--   **Spellcraft DC:** 27
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Personal
--   **Target:** You
--   **Duration:** Until expended or 12 hours
+-   ### Spellcraft DC
+27
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Personal
+-   ### Target
+You
+-   ### Duration
+Until expended or 12 hours
 
 Attacks targeted against the caster rebound on the original attacker.
 Each use of the *reflect* seed in an epic spell is effective against one
@@ -2615,14 +3102,22 @@ the *reflect* seed is expended.
 ### Seed: Reveal
 
 -   Divination
--   **Spellcraft DC:** 19 (see text)
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** See text
--   **Effect:** Magical sensor
--   **Duration:** 20 minutes (D)
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Spellcraft DC
+19 (see text)
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+See text
+-   ### Effect
+Magical sensor
+-   ### Duration
+20 minutes (D)
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 The caster of this seed can see some distant location or hear the sounds
 at some distant location almost as if he or she was there. To both hear
@@ -2660,14 +3155,22 @@ increase the Spellcraft DC by +4.
 ### Seed: Slay
 
 -   Necromancy \[Death\]
--   **Spellcraft DC:** 25
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft.
--   **Target:** One living creature
--   **Duration:** Instantaneous
--   **Saving Throw:** Fortitude partial or half (see text)
--   **Spell Resistance:** Yes
+-   ### Spellcraft DC
+25
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft.
+-   ### Target
+One living creature
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+Fortitude partial or half (see text)
+-   ### Spell Resistance
+Yes
 
 A spell developed using the *slay* seed snuffs out the life force of a
 living creature, killing it instantly. The *slay* seed kills a creature
@@ -2687,14 +3190,22 @@ or the negative levels are converted to actual level loss.
 ### Seed: Summon
 
 -   Conjuration (Summoning)
--   **Spellcraft DC:** 14
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 75 ft.
--   **Effect:** One summoned creature
--   **Duration:** 20 rounds (D)
--   **Saving Throw:** Will negates (see text)
--   **Spell Resistance:** Yes (see text)
+-   ### Spellcraft DC
+14
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+75 ft.
+-   ### Effect
+One summoned creature
+-   ### Duration
+20 rounds (D)
+-   ### Saving Throw
+Will negates (see text)
+-   ### Spell Resistance
+Yes (see text)
 
 This seed can summon an outsider. It appears where the caster designates
 and acts immediately, on his or her turn, if its spell resistance is
@@ -2730,14 +3241,22 @@ compulsion to serve the caster.
 ### Seed: Transform
 
 -   Transmutation
--   **Spellcraft DC:** 21
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** 300 ft.
--   **Target:** One creature or inanimate, nonmagical object
--   **Duration:** Permanent
--   **Saving Throw:** Fortitude negates (see text)
--   **Spell Resistance:** Yes
+-   ### Spellcraft DC
+21
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+300 ft.
+-   ### Target
+One creature or inanimate, nonmagical object
+-   ### Duration
+Permanent
+-   ### Saving Throw
+Fortitude negates (see text)
+-   ### Spell Resistance
+Yes
 
 Spells using the *transform* seed change the subject into another form
 of creature or object. The new form can range in size from Diminutive to
@@ -2791,15 +3310,23 @@ the Spellcraft DC by +2.
 ### Seed: Transport
 
 -   Conjuration \[Teleportation\]
--   **Spellcraft DC:** 27
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target:** You and touched objects or other touched willing
+-   ### Spellcraft DC
+27
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target
+You and touched objects or other touched willing
     creatures weighing up to 1,000 lb.
--   **Duration:** Instantaneous, or 5 rounds for temporal transport
--   **Saving Throw:** None or Will negates (see text)
--   **Spell Resistance:** No or Yes (see text)
+-   ### Duration
+Instantaneous, or 5 rounds for temporal transport
+-   ### Saving Throw
+None or Will negates (see text)
+-   ### Spell Resistance
+No or Yes (see text)
 
 Spells using the *transport* seed instantly take the caster to a
 designated destination, regardless of distance. For interplanar travel,
@@ -2842,15 +3369,23 @@ Spellcraft DC by --4.
 ### Seed: Ward
 
 -   Abjuration
--   **Spellcraft DC:** 14
--   **Components:** V, S
--   **Casting Time:** 1 minute
--   **Range:** Touch
--   **Target or Effect:** Touched creature or object of 2,000 lb. or
+-   ### Spellcraft DC
+14
+-   ### Components
+V, S
+-   ### Casting Time
+1 minute
+-   ### Range
+Touch
+-   ### Target or Effect
+Touched creature or object of 2,000 lb. or
     less; or 10-ft.-radius spherical emanation, centered on you
--   **Duration:** 24 hours
--   **Saving Throw:** None
--   **Spell Resistance:** Yes
+-   ### Duration
+24 hours
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+Yes
 
 This seed can grant a creature protection from damage of a specified
 type. The caster can protect a creature from standard damage or from
@@ -2964,15 +3499,23 @@ to their Knowledge (psionics) skill divided by 10 (round down).
 ### Genesis
 
 -   Conjuration (Creation)
--   **Level:** Sor/Wiz 9, Creation 9
--   **Components:** V, S, M, XP
--   **Casting Time:** 1 week (8 hours/day)
--   **Range:** 180 ft. (see text)
--   **Effect:** A demiplane coterminous with the Ethereal Plane,
+-   ### Level
+Sor/Wiz 9, Creation 9
+-   ### Components
+V, S, M, XP
+-   ### Casting Time
+1 week (8 hours/day)
+-   ### Range
+180 ft. (see text)
+-   ### Effect
+A demiplane coterminous with the Ethereal Plane,
     centered on your location
--   **Duration:** Instantaneous
--   **Saving Throw:** None
--   **Spell Resistance:** No
+-   ### Duration
+Instantaneous
+-   ### Saving Throw
+None
+-   ### Spell Resistance
+No
 
 The spellcaster creates a finite plane with limited access: a demiplane.
 Demiplanes created by this power are very small, very minor planes.

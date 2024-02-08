@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Divine / Divine Minions
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -14,13 +13,6 @@ minions who have accomplished some great deed in service to the deity.
 Such minions usually have the same alignment as the deity. No minion's
 alignment is opposed to the patron deity's alignment on either the
 law--chaos axis or the good--evil axis.
-
-## Table of Contents
-
--   [Proxies](#proxies)
--   [Petitioners](#petitioners)
--   [Creating a Petitioner](#creating-a-petitioner)
--   [Exceptional Petitioners](#exceptional-petitioners)
 
 ## Proxies
 
@@ -75,18 +67,23 @@ base creature). The creature's type changes to outsider, and the
 creature uses all the base creature's statistics and special abilities
 except as noted here.
 
-**Hit Dice:** Change to 2d8. Retain bonus hit points.
+### Hit Dice
+Change to 2d8. Retain bonus hit points.
 
-**AC:** Natural Armor Class, Dexterity, and size bonuses or penalties
+### AC
+Natural Armor Class, Dexterity, and size bonuses or penalties
 apply. Armor bonuses are not applicable.
 
-**Attacks:** Base attack bonus is reduced to +2, subject to
+### Attacks
+Base attack bonus is reduced to +2, subject to
 modifications for size and Strength.
 
-**Special Attacks:** A petitioner loses all supernatural and spell-like
+### Special Attacks
+A petitioner loses all supernatural and spell-like
 attacks, but retains normal and exceptional attacks.
 
-**Special Qualities:** A petitioner loses all supernatural and
+### Special Qualities
+A petitioner loses all supernatural and
 spell-like abilities, but retains exceptional abilities. In addition, it
 gains the following qualities.
 
@@ -122,27 +119,37 @@ qualities may include any one of the following.
 Such modifications are the result of the nature of the plane or the
 powerful beings within it.
 
-**Saves:** Base saving throw bonuses are +3.
+### Saves
+Base saving throw bonuses are +3.
 
-**Abilities:** Same as the base creature. Some cosmologies or deities
+### Abilities
+Same as the base creature. Some cosmologies or deities
 may set a maximum of 18 for petitioner ability scores. Abilities higher
 than that are reduced to the maximum.
 
-**Skills:** Petitioners have no skills. Previous skills are lost.
+### Skills
+Petitioners have no skills. Previous skills are lost.
 
-**Feats:** Petitioners have no feats. Previous feats are lost.
+### Feats
+Petitioners have no feats. Previous feats are lost.
 
-**Climate/Terrain:** Any land and underground (within the same plane).
+### Climate/Terrain
+Any land and underground (within the same plane).
 
-**Organization:** Same as the base creature.
+### Organization
+Same as the base creature.
 
-**Challenge Rating:** 1.
+### Challenge Rating
+1.
 
-**Treasure:** None.
+### Treasure
+None.
 
-**Alignment:** Same as the native plane.
+### Alignment
+Same as the native plane.
 
-**Advancement:** None.
+### Advancement
+None.
 
 ## Exceptional Petitioners
 

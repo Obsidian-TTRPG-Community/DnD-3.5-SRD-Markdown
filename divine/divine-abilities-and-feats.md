@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Divine / Divine Abilities and Feats
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -23,142 +22,15 @@ common salient divine abilities are described here. A few deities have
 unique salient divine abilities that are described in the deity's
 individual entry.
 
-**Using Salient Divine Abilities:** Using a salient divine ability is a
+### Using Salient Divine Abilities
+Using a salient divine ability is a
 standard action unless otherwise noted in the ability description. Using
 a salient divine ability does not provoke an attack of opportunity.
 
-**Salient Divine Abilities and Antimagic:** A salient divine ability
+### Salient Divine Abilities and Antimagic
+A salient divine ability
 functions normally within an antimagic field, and is never subject to
 spell resistance.
-
-## Table of Contents
-
--   [Salient Divine Ability
-    Descriptions](#salient-divine-ability-descriptions)
--   [Ability Name](#ability-name)
--   [Alter Form](#alter-form)
--   [Alter Reality](#alter-reality)
--   [Alter Size](#alter-size)
--   [Annihilating Strike](#annihilating-strike)
--   [Arcane Mastery](#arcane-mastery)
--   [Area Divine Shield](#area-divine-shield)
--   [Automatic Metamagic](#automatic-metamagic)
--   [Avatar](#avatar)
--   [Banestrike](#banestrike)
--   [Battlesense](#battlesense)
--   [Call Creatures](#call-creatures)
--   [Clearsight](#clearsight)
--   [Command Plants](#command-plants)
--   [Control Creatures](#control-creatures)
--   [Craft Artifact](#craft-artifact)
--   [Create Object](#create-object)
--   [Create Greater Object](#create-greater-object)
--   [Divine Air Mastery](#divine-air-mastery)
--   [Divine Archery](#divine-archery)
--   [Divine Armor Mastery](#divine-armor-mastery)
--   [Divine Bard](#divine-bard)
--   [Divine Battle Mastery](#divine-battle-mastery)
--   [Divine Blast](#divine-blast)
--   [Divine Blessing](#divine-blessing)
--   [Divine Celerity](#divine-celerity)
--   [Divine Creation](#divine-creation)
--   [Divine Dodge](#divine-dodge)
--   [Divine Druid](#divine-druid)
--   [Divine Earth Mastery](#divine-earth-mastery)
--   [Divine Fast Healing](#divine-fast-healing)
--   [Divine Fire Mastery](#divine-fire-mastery)
--   [Divine Glibness](#divine-glibness)
--   [Divine Inspiration](#divine-inspiration)
--   [Divine Monk](#divine-monk)
--   [Divine Paladin](#divine-paladin)
--   [Divine Radiance](#divine-radiance)
--   [Divine Rage](#divine-rage)
--   [Divine Ranger](#divine-ranger)
--   [Divine Recall](#divine-recall)
--   [Divine Rogue](#divine-rogue)
--   [Divine Shield](#divine-shield)
--   [Divine Skill Focus](#divine-skill-focus)
--   [Divine Sneak Attack](#divine-sneak-attack)
--   [Divine Spell Focus](#divine-spell-focus)
--   [Divine Spellcasting](#divine-spellcasting)
-    -   [Spell Slots Above 9th Level](#spell-slots-above-9th-level)
--   [Divine Splendor](#divine-splendor)
--   [Divine Storm](#divine-storm)
--   [Divine Water Mastery](#divine-water-mastery)
--   [Divine Weapon Focus](#divine-weapon-focus)
--   [Divine Weapon Mastery](#divine-weapon-mastery)
--   [Divine Weapon Specialization](#divine-weapon-specialization)
--   [Energy Burst](#energy-burst)
--   [Energy Storm](#energy-storm)
--   [Extra Domain](#extra-domain)
--   [Extra Energy Immunity](#extra-energy-immunity)
--   [Extra Sense Enhancement](#extra-sense-enhancement)
--   [Footsore](#footsore)
--   [Free Move](#free-move)
--   [Frightful Presence](#frightful-presence)
--   [Gift of Life](#gift-of-life)
--   [Grow Creature](#grow-creature)
--   [Hand of Death](#hand-of-death)
--   [Increased Damage Reduction](#increased-damage-reduction)
--   [Increased Energy Resistance](#increased-energy-resistance)
--   [Increased Spell Resistance](#increased-spell-resistance)
--   [Indomitable Strength](#indomitable-strength)
--   [Instant Counterspell](#instant-counterspell)
--   [Instant Move](#instant-move)
--   [Irresistible Blows](#irresistible-blows)
--   [Irresistible Performance](#irresistible-performance)
--   [Know Death](#know-death)
--   [Know Secrets](#know-secrets)
--   [Lay Curse](#lay-curse)
--   [Lay Quest](#lay-quest)
--   [Life and Death](#life-and-death)
--   [Life Drain](#life-drain)
--   [Mass Divine Blast](#mass-divine-blast)
--   [Mass Life and Death](#mass-life-and-death)
--   [Master Crafter](#master-crafter)
--   [Mind of the Beast](#mind-of-the-beast)
--   [Possess Mortal](#possess-mortal)
--   [Power of Luck](#power-of-luck)
--   [Power of Nature](#power-of-nature)
--   [Power of Truth](#power-of-truth)
--   [Rejuvenation](#rejuvenation)
--   [See Magic](#see-magic)
--   [Shapechange](#shapechange)
--   [Shift Form](#shift-form)
--   [Speak with Creatures](#speak-with-creatures)
--   [Spontaneous Wizard Spells](#spontaneous-wizard-spells)
--   [Stride](#stride)
--   [Sunder and Disjoin](#sunder-and-disjoin)
--   [Supreme Initiative](#supreme-initiative)
--   [True Knowledge](#true-knowledge)
--   [True Shapechange](#true-shapechange)
--   [Undead Mastery](#undead-mastery)
--   [Undead Qualities](#undead-qualities)
--   [Wave of Chaos](#wave-of-chaos)
--   [Wound Enemy](#wound-enemy)
--   [Feats](#feats)
-    -   [Blindsight,5-Ft.Radius \[General\]](#blindsight-5-ftradius)
-    -   [Disguise Spell \[Metamagic\]](#disguise-spell)
-    -   [Divine Might \[Divine \]](#divine-might)
-    -   [Divine Vengeance \[Divine \]](#divine-vengeance)
-    -   [Energy Substitution \[Metamagic\]](#energy-substitution)
-    -   [Extra Music \[General\]](#extra-music)
-    -   [Eyes in the Back of Your Head
-        \[General\]](#eyes-in-the-back-of-your-head)
-    -   [Fleet of Foot \[General\]](#fleet-of-foot)
-    -   [Hold the Line \[General\]](#hold-the-line)
-    -   [Jack of All Trades \[General\]](#jack-of-all-trades)
-    -   [Knock-Down \[General\]](#knock-down)
-    -   [Persistent Spell \[Metamagic\]](#persistent-spell)
-    -   [Plant Control \[General\]](#plant-control)
-    -   [Plant Defiance \[General\]](#plant-defiance)
-    -   [Power Critical \[General\]](#power-critical)
-    -   [Reach Spell \[Metamagic\]](#reach-spell)
-    -   [Repeat Spell \[Metamagic\]](#repeat-spell)
-    -   [Sacred Spell \[Metamagic\]](#sacred-spell)
-    -   [Sharp-Shooting \[General\]](#sharp-shooting)
-    -   [Subdual Substitution \[Metamagic\]](#subdual-substitution)
-    -   [Superior Expertise \[General\]](#superior-expertise)
 
 ## Salient Divine Ability Descriptions
 
@@ -166,7 +38,8 @@ Here is the format for salient divine ability descriptions.
 
 ## Ability Name
 
-**Prerequisite:** A minimum divine rank, minimum ability score, another
+### Prerequisite
+A minimum divine rank, minimum ability score, another
 salient divine ability, a minimum base attack bonus, a feat, a skill, or
 some other condition that a deity must have in order to acquire this
 salient divine ability. This entry is absent if a salient divine ability
@@ -174,15 +47,18 @@ has no prerequisite. An ability may have more than one prerequisite. All
 salient divine abilities have a minimum prerequisite of divine rank 1.
 Quasi-deities (rank 0) have no salient divine abilities.
 
-**Benefit:** What the ability enables the deity to do. If a deity has
+### Benefit
+What the ability enables the deity to do. If a deity has
 the same ability more than once, its benefits do not stack unless
 indicated otherwise in the description. In general, having a salient
 divine ability twice is the same as having it once.
 
-**Notes:** Additional facts about the ability that may be helpful when
+### Notes
+Additional facts about the ability that may be helpful when
 using the ability in play.
 
-**Rest:** Some abilities require the deity to rest afterward. If no rest
+### Rest
+Some abilities require the deity to rest afterward. If no rest
 is required, the entry is absent. A resting deity can engage in light
 activities such as talking or walking at half speed. When attempting
 anything more strenuous than that, the deity can only take partial
@@ -192,7 +68,8 @@ its current rest requirement is fulfilled. Any time the deity spends
 performing strenuous activities does not count toward the required rest
 time.
 
-**Suggested Portfolio Elements:** This entry gives one or more portfolio
+### Suggested Portfolio Elements
+This entry gives one or more portfolio
 elements that are associated with the salient divine ability in
 question. The information is provided as guidance and should not be
 taken as a rule.
@@ -201,9 +78,11 @@ taken as a rule.
 
 This is an extraordinary ability.
 
-**Prerequisite:** Alter Size salient divine ability.
+### Prerequisite
+Alter Size salient divine ability.
 
-**Benefit:** As a move-equivalent action, the deity can alter its form,
+### Benefit
+As a move-equivalent action, the deity can alter its form,
 including clothing and equipment. The assumed form must be corporeal.
 The deity's body can undergo a limited physical transmutation, including
 adding or subtracting one or two limbs. If the form selected has wings,
@@ -213,7 +92,8 @@ breathe water if the form has gills, and so on.
 The deity can remain in the altered form indefinitely, but resumes its
 own form if slain.
 
-**Notes:** The deity's attack bonus, Armor Class, and saves do not
+### Notes
+The deity's attack bonus, Armor Class, and saves do not
 change. The deity does not gain any of the assumed form's special
 abilities, attack forms, defenses, ability scores, or mannerisms. The
 deity can change physical qualities (such as hair color, hair
@@ -223,17 +103,21 @@ create disguises, gaining a bonus of +10 on its Disguise checks. The
 deity can use its Alter Size ability simultaneously along with this one
 to become taller, shorter, thinner, or heavier.
 
-**Suggested Portfolio Elements:** Nature, secrets, thieves.
+### Suggested Portfolio Elements
+Nature, secrets, thieves.
 
 ## Alter Reality
 
-**Prerequisite:** Cha 29.
+### Prerequisite
+Cha 29.
 
-**Benefit:** This ability is similar to the *wish* spell. The deity
+### Benefit
+This ability is similar to the *wish* spell. The deity
 merely thinks of something and then makes it so. Doing this requires at
 least a standard action.
 
-**Notes:** The deity can duplicate any spell of 9th level or lower as a
+### Notes
+The deity can duplicate any spell of 9th level or lower as a
 standard action. The duplicated spell has no material or XP component,
 and the DC of its saving throw (if one is allowed) is 20 + the deity's
 rank + the deity's Charisma modifier.
@@ -270,18 +154,21 @@ deity can imagine. Each 10-foot cube of material to be reshaped requires
 1 round of effort, and the deity must rest for one day per 10-foot cube
 shaped after the work is completed.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Alter Size
 
-**Benefit:** As a free action, the deity can assume any size from Fine
+### Benefit
+As a free action, the deity can assume any size from Fine
 to Colossal. The deity also can change the size of up to 100 pounds of
 objects it touches. If the deity has a familiar, personal mount, or
 personal intelligent weapon, the creature can change size with the deity
 if the deity touches it, but its weight counts against the deity's
 weight limit. This is a supernatural ability.
 
-**Notes:** This ability allows the deity to assume any proportions from
+### Notes
+This ability allows the deity to assume any proportions from
 the size of a grain of sand up or as much as 1,600 feet tall. A radical
 change in size can have great impact on the deity's combat ability. The
 deity's Strength, Armor Class, attack bonus, and damage dealt with
@@ -292,13 +179,16 @@ score can never be reduced to less than 1 through this ability. Also
 note that use of this divine ability does not affect all the deities'
 characteristics.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Annihilating Strike
 
-**Prerequisites:** Divine rank 11, base attack bonus +20, Str 25.
+### Prerequisites
+Divine rank 11, base attack bonus +20, Str 25.
 
-**Benefit:** When the deity strikes with a weapon or natural weapon, the
+### Benefit
+When the deity strikes with a weapon or natural weapon, the
 opponent struck might be obliterated. Creatures, attended objects, and
 magic items must make Fortitude saves (DC 20 + the deity's rank + the
 damage dealt) or be reduced to --10 hit points and killed outright.
@@ -307,33 +197,41 @@ to 1,000 cubic feet (a 10-foot cube) of nonliving matter per rank, so
 the ability destroys only part of any very large object or structure
 targeted.
 
-**Notes:** Deities with a rank equal to or greater than the attacking
+### Notes
+Deities with a rank equal to or greater than the attacking
 deity are not subject to this ability. This ability has no effect on
 objects or effects that are not subject to physical attacks.
 
-**Suggested Portfolio Elements:** Death, justice, vengeance, war.
+### Suggested Portfolio Elements
+Death, justice, vengeance, war.
 
 ## Arcane Mastery
 
-**Prerequisites:** Spellcaster level 1st, Int 29, Spell Mastery.
+### Prerequisites
+Spellcaster level 1st, Int 29, Spell Mastery.
 
-**Benefit:** The deity can prepare any wizard spell that it can cast
+### Benefit
+The deity can prepare any wizard spell that it can cast
 without using a spellbook.
 
-**Notes:** This ability gives the deity access to every spell on the
+### Notes
+This ability gives the deity access to every spell on the
 sorcerer/wizard spell list, provided that the deity has sufficient
 wizard levels and a sufficient Intelligence score to cast them. The
 deity also can invent new sorcerer/wizard spells without researching
 them.
 
-**Suggested Portfolio Elements:** Knowledge, magic.
+### Suggested Portfolio Elements
+Knowledge, magic.
 
 ## Area Divine Shield
 
-**Prerequisites:** Divine rank 6, Cha 29, Divine Shield salient divine
+### Prerequisites
+Divine rank 6, Cha 29, Divine Shield salient divine
 ability.
 
-**Benefit:** Except where noted here, this ability works like the Divine
+### Benefit
+Except where noted here, this ability works like the Divine
 Shield ability. The deity produces a transparent barrier whose area is
 up to one 10-foot square per rank, or a sphere or hemisphere with a
 radius of up to 1 foot per rank. The barrier can be placed anywhere
@@ -346,22 +244,27 @@ respect to a willing creature, the deity also can make the barrier
 one-way with respect to the creature and its allies, allowing them to
 attack through the shield and still use its protection.
 
-**Notes:** The deity can shape the shield around itself or around a
+### Notes
+The deity can shape the shield around itself or around a
 willing creature so that it is skintight, which prevents the subject
 from being touched.
 
-**Suggested Portfolio Elements:** Mercy, protection.
+### Suggested Portfolio Elements
+Mercy, protection.
 
 ## Automatic Metamagic
 
-**Prerequisite:** Spellcaster level 1st.
+### Prerequisite
+Spellcaster level 1st.
 
-**Benefit:** The deity chooses one metamagic feat. As a free action, the
+### Benefit
+The deity chooses one metamagic feat. As a free action, the
 deity can apply the selected feat to the spells from any one
 spellcasting class the deity has or to its spell-like abilities. A spell
 altered by the use of this ability does not use up a higher-level slot.
 
-**Notes:** The deity must obey all the limitations normally associated
+### Notes
+The deity must obey all the limitations normally associated
 with the metamagic feat. Any metamagic feat selected cannot have a level
 requirement of 21st or higher. Feats that depend on making the spell's
 level higher, such as Heighten Spell, do not work with this ability. A
@@ -369,13 +272,16 @@ deity can have this ability multiple times, choosing a metamagic feat
 and either a spellcasting class or spell-like abilities to which the
 ability will apply each time.
 
-**Suggested Portfolio Elements:** Knowledge, magic.
+### Suggested Portfolio Elements
+Knowledge, magic.
 
 ## Avatar
 
-**Prerequisites:** Divine rank 6, Cha 29.
+### Prerequisites
+Divine rank 6, Cha 29.
 
-**Benefit:** An avatar serves as a deity's alter ego, effectively
+### Benefit
+An avatar serves as a deity's alter ego, effectively
 allowing the deity to be in two or more places at the same time. An
 avatar is an extension of a deity. The deity senses and knows everything
 the avatar senses and knows and vice versa. Each avatar counts as a
@@ -415,18 +321,22 @@ salient divine abilities.
 An avatar does not have any remote sensing or remote communication
 powers.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Banestrike
 
-**Prerequisite:** Base attack bonus +20.
+### Prerequisite
+Base attack bonus +20.
 
-**Benefit:** Any weapon the deity weilds gains a bonus of +4 on attack
+### Benefit
+Any weapon the deity weilds gains a bonus of +4 on attack
 rolls, and it deals an extra +4d6 points of damage against the
 designated foe. The bonus and extra damage stack with any other
 properties the weapon has.
 
-**Notes:** The deity selects one kind of enemy from the list below.
+### Notes
+The deity selects one kind of enemy from the list below.
 
   --------------------- --------------------------------
   Aberrations           Oozes
@@ -450,23 +360,28 @@ of foe each time. The deity can imbue only one bane special ability to a
 weapon at a time and can change among them once a round as a free
 action.
 
-**Suggested Portfolio Elements:** Death, justice, vengeance, war.
+### Suggested Portfolio Elements
+Death, justice, vengeance, war.
 
 ## Battlesense
 
-**Benefit:** The deity cannot be surprised or flanked except by a deity
+### Benefit
+The deity cannot be surprised or flanked except by a deity
 of higher rank. The deity retains its Dexterity bonus to Armor Class
 even if caught flat-footed or attacked by an invisible opponent, and is
 not subject to sneak attacks except by deities of higher rank.
 
-**Notes:** If the deity has the uncanny dodge or improved uncanny dodge
+### Notes
+If the deity has the uncanny dodge or improved uncanny dodge
 class feature, this ability replaces it.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Call Creatures
 
-**Benefit:** The kind of creature the deity can call is noted in the
+### Benefit
+The kind of creature the deity can call is noted in the
 deity's description. Each creature called can have no more Hit Dice than
 the deity has divine ranks, and the deity cannot have more creatures
 serving it at any given time than the deity has ranks. The creatures are
@@ -476,26 +391,32 @@ opens to the Material Plane. The creatures willingly serve to the best
 of their ability. The calling effect is otherwise similar to the calling
 property of the *gate* spell.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different kind of creature each time.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Clearsight
 
-**Prerequisites:** Divine rank 6, Wis 29.
+### Prerequisites
+Divine rank 6, Wis 29.
 
-**Benefit:** The deity can see illusions, transmuted creatures and
+### Benefit
+The deity can see illusions, transmuted creatures and
 objects, and disguised creatures or objects for what they really are,
 provided they are within 10 feet per divine rank of the deity. This
 ability is similar to the *true seeing* spell, except that it does not
 reveal creatures' alignments and it does foil mundane disguises.
 
-**Suggested Portfolio Elements:** Knowledge, truth.
+### Suggested Portfolio Elements
+Knowledge, truth.
 
 ## Command Plants
 
-**Benefit:** The deity can make plants grow in a radius of up to one
+### Benefit
+The deity can make plants grow in a radius of up to one
 mile per divine rank once per day. The deity can use this ability even
 in a place where no plants grow, though in this case the plants wither
 and die after one day. This ability works like the *plant growth* spell,
@@ -509,11 +430,13 @@ which option the deity chooses. At any one time, the deity can charm a
 number of plant creatures equal to its divine rank with this ability,
 regardless of Hit Dice.
 
-**Suggested Portfolio Elements:** Agriculture, earth, fertility.
+### Suggested Portfolio Elements
+Agriculture, earth, fertility.
 
 ## Control Creatures
 
-**Benefit:** The deity can command some kind of creature as noted in the
+### Benefit
+The deity can command some kind of creature as noted in the
 deity's description. This ability is similar to the *dominate monster*
 spell, but it is not a mind-affecting ability (the deity seizes direct
 control over the creature's body). Each day the deity can attempt to
@@ -538,27 +461,34 @@ maximum number of creatures under its control, it can still attempt to
 take control of other creatures, but must first release one or more
 creatures already under its control.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different kind of creature each time.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Craft Artifact
 
-**Prerequisites:** Craft Magic Arms and Armor, Craft Rod, Craft Staff,
+### Prerequisites
+Craft Magic Arms and Armor, Craft Rod, Craft Staff,
 Craft Wand, Craft Wondrous Item, Forge Ring, Scribe Scroll.
 
-**Benefit:** The deity can craft magic arms and armor, staffs, wands,
+### Benefit
+The deity can craft magic arms and armor, staffs, wands,
 wondrous items, rings, and scrolls that exceed the normal limits for
 such items
 
-**Suggested Portfolio Elements:** Crafts, knowledge, magic.
+### Suggested Portfolio Elements
+Crafts, knowledge, magic.
 
 ## Create Object
 
-**Prerequisites:** Divine rank 6, Int 29.
+### Prerequisites
+Divine rank 6, Int 29.
 
-**Benefit:** As a full-round action, the deity can create one or more
+### Benefit
+As a full-round action, the deity can create one or more
 simple, nonmagical objects with a total weight of up to 50 pounds per
 divine rank, or with a total volume of 10 cubic feet per rank. If the
 deity uses this ability on a divinely morphic plane or within its own
@@ -566,7 +496,8 @@ godly realm, double the volume and weight the deity can create. If the
 deity's realm is located on a divinely morphic plane, triple the volume
 and weight the deity can create there.
 
-**Notes:** For purposes of this ability, a simple object can have no
+### Notes
+For purposes of this ability, a simple object can have no
 moving parts more complex than a door hinge and must be composed of a
 single material. The material can be no more valuable than iron (1 sp
 per pound). Once created, the objects are permanent and nonmagical. If
@@ -574,14 +505,17 @@ the deity has the appropriate Craft skill, the deity can make a Craft
 
 check when creating the item to make it a masterwork item.
 
-**Suggested Portfolio Elements:** Crafts, creation.
+### Suggested Portfolio Elements
+Crafts, creation.
 
 ## Create Greater Object
 
-**Prerequisites:** Divine rank 11, Int 29, Create Object salient divine
+### Prerequisites
+Divine rank 11, Int 29, Create Object salient divine
 ability.
 
-**Benefit:** As a full-round action, the deity can create objects
+### Benefit
+As a full-round action, the deity can create objects
 weighing up to 100 pounds per divine rank, or with a volume of 20 cubic
 feet per rank. If the deity uses this ability on a divinely morphic
 plane or within its own godly realm, double the volume and
@@ -590,11 +524,13 @@ weight the deity can create. If the deity's realm is located on a
 divinely morphic plane, triple the volume and weight the deity can
 create there.
 
-**Notes:** This ability works like the Create Object ability, except as
+### Notes
+This ability works like the Create Object ability, except as
 noted below. A deity can use this ability to create any kind of
 nonmagical object.
 
-**Rest:** The deity must convert a considerable amount of its own energy
+### Rest
+The deity must convert a considerable amount of its own energy
 into the object, which can leave the deity impaired. The deity can
 create an object with a value of up to 100 gp without impairment. For
 every additional 100 gp of value (or fraction of 100
@@ -605,13 +541,16 @@ create a 200 gp item without resting. If the deity's realm is located on
 a divinely morphic plane, it can create a 300 gp item there without
 having to rest.
 
-**Suggested Portfolio Elements:** Crafts, creation.
+### Suggested Portfolio Elements
+Crafts, creation.
 
 ## Divine Air Mastery
 
-**Prerequisite:** Air domain.
+### Prerequisite
+Air domain.
 
-**Benefit:** The deity gains a competence bonus on attack rolls, damage,
+### Benefit
+The deity gains a competence bonus on attack rolls, damage,
 and Armor Class equal to its divine rank if both the deity and its foe
 are airborne. The deity can fly with perfect maneuverability. When
 flying, the deity can automatically know the location of
@@ -619,14 +558,17 @@ flying, the deity can automatically know the location of
 any corporeal creature within 10 feet per divine rank, by sensing the
 disturbance in the air the creature causes.
 
-**Suggested Portfolio Elements:** Air, wind.
+### Suggested Portfolio Elements
+Air, wind.
 
 ## Divine Archery
 
-**Prerequisites:** Base attack bonus +20, Dex 29, Point Blank Shot, Far
+### Prerequisites
+Base attack bonus +20, Dex 29, Point Blank Shot, Far
 Shot.
 
-**Benefit:** The deity can fire a ranged weapon at any target within
+### Benefit
+The deity can fire a ranged weapon at any target within
 line of sight and within range of the deity's personal senses. No range
 increment applies to the attack. The deity does not incur any attacks of
 opportunity for firing a bow when threatened. As a full-round action,
@@ -636,23 +578,29 @@ Focus feat with the type of bow she uses to perform this attack. When
 shooting a ranged weapon, the deity can ignore any cover bonus to the
 target's AC or any miss chance conferred by the target's concealment.
 
-**Suggested Portfolio Elements:** Archers, war.
+### Suggested Portfolio Elements
+Archers, war.
 
 ## Divine Armor Mastery
 
-**Prerequisites:** Armor Proficiency (light), Armor Proficiency
+### Prerequisites
+Armor Proficiency (light), Armor Proficiency
 (medium).
 
-**Benefit:** The deity ignores the maximum Dexterity bonus limit for
+### Benefit
+The deity ignores the maximum Dexterity bonus limit for
 medium or light armor.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Divine Bard
 
-**Prerequisite:** Bard level 20th.
+### Prerequisite
+Bard level 20th.
 
-**Benefit:** This ability has several benefits:
+### Benefit
+This ability has several benefits:
 
 -   For the deity's bardic abilities that have a range (countersong,
     *fascinate,* inspire competence, inspire greatness), that range is a
@@ -684,28 +632,34 @@ medium or light armor.
     deity can attempt a countersong as if it had prepared an action to
     do so.
 
-**Suggested Portfolio Elements:** Art, bards, beauty, dance, love,
+### Suggested Portfolio Elements
+Art, bards, beauty, dance, love,
 music, poetry.
 
 ## Divine Battle Mastery
 
-**Prerequisites:** Fighter level 20th, Combat Reflexes, Int 13, Dex 13,
+### Prerequisites
+Fighter level 20th, Combat Reflexes, Int 13, Dex 13,
 Dodge, Expertise, Mobility, Spring Attack, Whirlwind Attack, War domain.
 
-**Benefit:** The deity can make an unlimited number of attacks of
+### Benefit
+The deity can make an unlimited number of attacks of
 opportunity in one round. (The deity still can't make more than one
 attack of opportunity against a single opponent in a round.) As a
 full-round action, the deity may make one melee attack at its full base
 attack bonus against each opponent within reach. The deity does not
 incur any attacks of opportunity from this action.
 
-**Suggested Portfolio Elements:** Justice, vengeance, war.
+### Suggested Portfolio Elements
+Justice, vengeance, war.
 
 ## Divine Blast
 
-**Prerequisite:** Cha 29.
+### Prerequisite
+Cha 29.
 
-**Benefit:** The deity can use this ability a number of times per day
+### Benefit
+The deity can use this ability a number of times per day
 equal to 3 + its Charisma bonus. The ray created can extend up to one
 mile per rank (the deity chooses the length). Targets the ray strikes
 take 1d12 points of damage per rank of the deity, plus 1d12
@@ -719,48 +673,59 @@ the damage it deals results directly from divine power and is therefore
 not subject to being reduced by *protection from elements* and similar
 magic.
 
-**Notes:** The ray destroys a *wall of force, prismatic wall,* or
+### Notes
+The ray destroys a *wall of force, prismatic wall,* or
 *prismatic sphere* it hits (all layers in a prismatic effect are
 destroyed). The ray itself is unaffected and can strike a target behind
 the *wall of force* or prismatic effect.
 
 A divine shield can stop the ray.
 
-**Suggested Portfolio Elements:** Death, destruction, war.
+### Suggested Portfolio Elements
+Death, destruction, war.
 
 ## Divine Blessing
 
-**Prerequisite:** Selected ability score 40.
+### Prerequisite
+Selected ability score 40.
 
-**Benefit:** Choose one ability: Strength, Dexterity, Constitution,
+### Benefit
+Choose one ability: Strength, Dexterity, Constitution,
 Intelligence, Wisdom, or Charisma. The deity must have a score of at
 least 40 in the selected ability. The deity can grant mortals a +6
 enhancement bonus to that ability that lasts for one day. In a single
 day and at one time, the deity can affect a number of creatures equal to
 its divine rank.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different ability score each time.
 
-**Suggested Portfolio Elements:** Agility, beauty, endurance, knowledge,
+### Suggested Portfolio Elements
+Agility, beauty, endurance, knowledge,
 strength, wisdom.
 
 ## Divine Celerity
 
-**Prerequisite:** Dex 29.
+### Prerequisite
+Dex 29.
 
-**Benefit:** The deity acts as if *hasted* for a number of minutes per
+### Benefit
+The deity acts as if *hasted* for a number of minutes per
 day equal to its divine rank. The duration of the effect need not be
 consecutive rounds. Activating this ability is a free action.
 
-**Suggested Portfolio Elements:** Travel, wind.
+### Suggested Portfolio Elements
+Travel, wind.
 
 ## Divine Creation
 
-**Prerequisites:** Divine rank 16, Int 29, Create Object salient divine
+### Prerequisites
+Divine rank 16, Int 29, Create Object salient divine
 ability, Create Greater Object salient divine ability.
 
-**Benefit:** As a full-round action, the deity can create mortal
+### Benefit
+As a full-round action, the deity can create mortal
 creatures or magic items whose total weight is up to 100 pounds per
 divine rank, or with a total volume of 20 cubic feet per rank. If the
 deity uses this ability on a divinely morphic plane or within its
@@ -769,7 +734,8 @@ own godly realm, double the volume and weight the deity can create. If
 the deity's realm is located on a divinely morphic plane, triple the
 volume and weight the deity can create there.
 
-**Notes:** This ability works like the Create Greater Object ability,
+### Notes
+This ability works like the Create Greater Object ability,
 except as noted below.
 
 A deity can use this ability to create any kind of creature that does
@@ -777,7 +743,8 @@ not have a divine rank. The deity can create a creature with class
 levels, but never with more class levels than the deity has itself or
 the deity's divine rank, whichever is lower.
 
-**Rest:** The deity must convert a considerable amount of its own energy
+### Rest
+The deity must convert a considerable amount of its own energy
 into a creature, which always leaves the deity impaired. The deity must
 rest for 10 minutes ×the creature's Hit Dice ×the creature's Challenge
 Rating for each creature created, with a minimum of 10 minutes per
@@ -789,31 +756,38 @@ The deity can create any kind of magic item except an artifact.
 The rest requirement for creating magic items is the same as for the
 Create Greater object ability.
 
-**Suggested Portfolio Elements:** Crafts, creation, supreme.
+### Suggested Portfolio Elements
+Crafts, creation, supreme.
 
 ## Divine Dodge
 
-**Prerequisite:** Dex 29.
+### Prerequisite
+Dex 29.
 
-**Benefit:** Any physical attack or individually targeted spell directed
+### Benefit
+Any physical attack or individually targeted spell directed
 at the deity has a percent miss chance equal to 50 + the deity's rank.
 Area effects that include the deity have a similar chance to be
 ineffective.
 
-**Notes:** The ability is similar to the *blink* spell, except that it
+### Notes
+The ability is similar to the *blink* spell, except that it
 is defensive only and the deity does not move to the Ethereal Plane, but
 simply exits from reality for a brief moment. This ability never
 interferes with the deity's own attacks. If an attack overcomes the miss
 chance, the deity still gets the benefit of a saving throw (if one is
 allowed).
 
-**Suggested Portfolio Elements:** Agility, gambling, luck, protection.
+### Suggested Portfolio Elements
+Agility, gambling, luck, protection.
 
 ## Divine Druid
 
-**Prerequisites:** Druid level 20th.
+### Prerequisites
+Druid level 20th.
 
-**Benefit:** While in a *wild shape,*the deity gains all the
+### Benefit
+While in a *wild shape,*the deity gains all the
 extraordinary and supernatural abilities of the creature whose form it
 adopts. In addition to animal forms, the deity can take the form of
 magical beasts or plant creatures. Some deities can assume additional
@@ -822,13 +796,16 @@ forms. These are specified in the deity's description.
 The deity can assume the form of any animal, magical beast, or plant
 creature from Fine to Colossal in size.
 
-**Suggested Portfolio Elements:** Nature.
+### Suggested Portfolio Elements
+Nature.
 
 ## Divine Earth Mastery
 
-**Prerequisites:** Earth domain.
+### Prerequisites
+Earth domain.
 
-**Benefit:** The deity gains a competence bonus on attack rolls, damage,
+### Benefit
+The deity gains a competence bonus on attack rolls, damage,
 and Armor Class equal to its divine rank if both the deity and its foe
 are touching the ground. The deity gains a burrow speed commensurate
 with its size (see Divine Characteristics), as well as the ability to
@@ -849,30 +826,38 @@ stone, or metal into a different kind of earth, stone, or metal. The
 deity can affect any object it can see, but no more than one object per
 round.
 
-**Suggested Portfolio Elements:** Earth.
+### Suggested Portfolio Elements
+Earth.
 
 ## Divine Fast Healing
 
-**Prerequisites:** Con 29 or the fast healing special quality.
+### Prerequisites
+Con 29 or the fast healing special quality.
 
-**Benefit:** The deity gains fast healing of 20 + divine rank. Lost
+### Benefit
+The deity gains fast healing of 20 + divine rank. Lost
 limbs or body parts reattach instantly when pressed against the wound on
 the body.
 
-**Notes:** This ability does not stack with the fast healing special
+### Notes
+This ability does not stack with the fast healing special
 quality.
 
-**Notes:** A deity can have this ability multiple times, and its effects
+### Notes
+A deity can have this ability multiple times, and its effects
 stack. A deity with two applications of this ability improves its fast
 healing by 40 + (divine rank ×2).
 
-**Suggested Portfolio Elements:** Endurance, healing.
+### Suggested Portfolio Elements
+Endurance, healing.
 
 ## Divine Fire Mastery
 
-**Prerequisites:** Fire domain.
+### Prerequisites
+Fire domain.
 
-**Benefit:** The deity gains a competence bonus on attack rolls, damage,
+### Benefit
+The deity gains a competence bonus on attack rolls, damage,
 and Armor Class equal to its divine rank if both the deity and its foe
 are touching fire or using weapons with the flaming or flaming burst
 special abilities.
@@ -887,13 +872,16 @@ The deity has complete control over all nonmagical fire and can
 duplicate the effect of any spell with the fire descriptor as a standard
 action.
 
-**Suggested Portfolio Elements:** Fire.
+### Suggested Portfolio Elements
+Fire.
 
 ## Divine Glibness
 
-**Prerequisites:** Cha 29, Bluff 40 ranks, Trickery domain.
+### Prerequisites
+Cha 29, Bluff 40 ranks, Trickery domain.
 
-**Benefit:** As a full-round action, the deity can speak and convince
+### Benefit
+As a full-round action, the deity can speak and convince
 others to take some course of action. This works like a *mass
 suggestion* spell cast at a level equal to 10 + the deity's divine rank,
 except that it affects up to (10 + divine rank) creatures, no two of
@@ -901,11 +889,13 @@ except that it affects up to (10 + divine rank) creatures, no two of
 which can be more than (10 ×divine rank) feet apart. The save DC is 10 +
 the deity's Charisma modifier + the deity's divine rank.
 
-**Suggested Portfolio Elements:** Commerce, lies, thieves.
+### Suggested Portfolio Elements
+Commerce, lies, thieves.
 
 ## Divine Inspiration
 
-**Benefit:** The deity can enchant creatures to create a specific
+### Benefit
+The deity can enchant creatures to create a specific
 emotion. The deity can affect one creature per divine rank at once, and
 up to the same number each day. All must be within the deity's line of
 sight when first affected. The specific effects depend on the emotional
@@ -957,13 +947,16 @@ become physically intimate with the specified creature. Subjects can
 attempt Will saves (DC 10 + deity's Charisma modifier + deity's divine
 rank) to resist the effect. This is a mind-affecting compulsion effect.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Divine Monk
 
-**Prerequisites:** Monk level 20th.
+### Prerequisites
+Monk level 20th.
 
-**Benefit:** The deity's unarmed strikes are treated as a magic slashing
+### Benefit
+The deity's unarmed strikes are treated as a magic slashing
 weapon with an enhancement bonus of +5 and the keen, lawful, and vorpal
 qualities. If the deity chooses, a particular attack can be bludgeoning
 instead of slashing, but the keen and vorpal qualities do not apply to
@@ -979,13 +972,16 @@ deflects a spell, the spell's level is added to the DC to deflect the
 attack. The deity only gains the second benefit of this ability if he or
 she has the Deflect Arrows feat.
 
-**Suggested Portfolio Elements:** Law.
+### Suggested Portfolio Elements
+Law.
 
 ## Divine Paladin
 
-**Prerequisites:** Paladin level 20th.
+### Prerequisites
+Paladin level 20th.
 
-**Benefit:** The deity's aura of courage grants a +8 morale bonus on
+### Benefit
+The deity's aura of courage grants a +8 morale bonus on
 saving throws against fear effects and extends to all allies within 100
 feet of the deity.
 
@@ -994,13 +990,16 @@ The deity's special mount, if any, gains the celestial template.
 The deity can smite evil ten times per day, and gets an extra 3 points
 of damage per class level on a successful smite attempt.
 
-**Suggested Portfolio Elements:** Good, justice, law, nobility, war.
+### Suggested Portfolio Elements
+Good, justice, law, nobility, war.
 
 ## Divine Radiance
 
-**Prerequisite:** Good alignment, Sun domain.
+### Prerequisite
+Good alignment, Sun domain.
 
-**Benefit:** The deity can shed light in a (10 feet ×divine rank)
+### Benefit
+The deity can shed light in a (10 feet ×divine rank)
 emanation from its body. This light counters and dispels all darkness
 effects (unless created by a deity of higher rank) and causes pain and
 damage to undead creatures, who take 2d8 points of damage per round with
@@ -1010,13 +1009,16 @@ away equal to the deity's divine rank. Each ray deals 1d6 points of
 damage per 2 divine ranks. Undead take 1d12 points of damage per 2
 divine ranks.
 
-**Suggested Portfolio Elements:** Good, light, sun.
+### Suggested Portfolio Elements
+Good, light, sun.
 
 ## Divine Rage
 
-**Prerequisite:** Barbarian level 20th.
+### Prerequisite
+Barbarian level 20th.
 
-**Benefit:** This ability is similar to the barbarian's rage ability
+### Benefit
+This ability is similar to the barbarian's rage ability
 (and it replaces the barbarian rage ability for the deity). The deity
 can activate this ability only after suffering damage from a weapon, and
 can use it a number of times per day equal to its divine rank. Once
@@ -1030,14 +1032,17 @@ Armor Class and cannot perform acts that require patience and
 concentration, such as moving silently, casting spells, and using
 salient divine abilities.
 
-**Suggested Portfolio Elements:** Destruction, rage, strength, war.
+### Suggested Portfolio Elements
+Destruction, rage, strength, war.
 
 ## Divine Ranger
 
-**Prerequisites:** Ranger level 20th, Wis 25, Wilderness Lore 40 ranks,
+### Prerequisites
+Ranger level 20th, Wis 25, Wilderness Lore 40 ranks,
 Knowledge (nature) 30 ranks.
 
-**Benefit:** Any weapon the deity wields against one of its favored
+### Benefit
+Any weapon the deity wields against one of its favored
 enemies is treated as a bane weapon against that creature type. Thus,
 its enhancement bonus is increased by +2 and it deals +2d6 points of
 damage.
@@ -1057,24 +1062,30 @@ Track feat description.
   Air            120
   -------------- -----
 
-**Suggested Portfolio Elements:** Archers, hunting, nature.
+### Suggested Portfolio Elements
+Archers, hunting, nature.
 
 ## Divine Recall
 
-**Benefit:** The deity remembers every event of a certain type that has
+### Benefit
+The deity remembers every event of a certain type that has
 ever occurred. The type of event is specified in the deity description.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different type of event each time.
 
-**Suggested Portfolio Elements:** Knowledge.
+### Suggested Portfolio Elements
+Knowledge.
 
 ## Divine Rogue
 
-**Prerequisites:** Rogue level 20th, Dodge, improved evasion, defensive
+### Prerequisites
+Rogue level 20th, Dodge, improved evasion, defensive
 roll.
 
-**Benefit:** When struck by an attack from an opponent the deity has
+### Benefit
+When struck by an attack from an opponent the deity has
 designated as its dodge target, the deity may make a Reflex save (DC
 10 + damage dealt) to negate all damage from the attack.
 
@@ -1086,46 +1097,57 @@ The deity can assess the exact value of any treasure it can see.
 The deity also can immediately determine what any creature is carrying
 and where each carried item is.
 
-**Suggested Portfolio Elements:** Thieves.
+### Suggested Portfolio Elements
+Thieves.
 
 ## Divine Shield
 
-**Prerequisites:** Cha 29.
+### Prerequisites
+Cha 29.
 
-**Benefit:** As a free action, the deity can create a shield that lasts
+### Benefit
+As a free action, the deity can create a shield that lasts
 10 minutes and protects the deity's body and equipment from attacks. The
 shield stops 10 points of damage per rank. Once the shield stops that
 much damage, it collapses. The damage can be from any source, including
 a divine blast attack. The deity can use this ability a number of times
 per day equal to 3 + its Constitution bonus.
 
-**Notes:** The deity can adjust the shield so that it does not block
+### Notes
+The deity can adjust the shield so that it does not block
 damage the deity ignores anyway. The effects of multiple divine shields
 do not stack.
 
-**Suggested Portfolio Elements:** Protection.
+### Suggested Portfolio Elements
+Protection.
 
 ## Divine Skill Focus
 
-**Prerequisites:** 23 ranks in the selected skill.
+### Prerequisites
+23 ranks in the selected skill.
 
-**Benefit:** The deity receives a bonus of 10 + its divine rank when
+### Benefit
+The deity receives a bonus of 10 + its divine rank when
 using the skill selected.
 
-**Notes:** This bonus stacks with the divine rank bonus deities normally
+### Notes
+This bonus stacks with the divine rank bonus deities normally
 receive on checks. If the selected skill is related to the deity's
 portfolio, add the deity's rank to the maximum DC for a free action.
 
 A deity can have this ability multiple times, choosing a different skill
 each time.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Divine Sneak Attack
 
-**Prerequisites:** Sneak attack +10d6, crippling strike.
+### Prerequisites
+Sneak attack +10d6, crippling strike.
 
-**Benefit:** The deity's sneak attacks deal an additional +3d6 points of
+### Benefit
+The deity's sneak attacks deal an additional +3d6 points of
 damage.
 
 Any attack of opportunity the deity makes is considered a sneak attack.
@@ -1137,27 +1159,34 @@ critical hits. Any time the deity inflicts damage with a sneak attack,
 that target suffers damage equal to the deity's sneak attack bonus
 damage on the deity's next turn as well.
 
-**Suggested Portfolio Elements:** Thieves.
+### Suggested Portfolio Elements
+Thieves.
 
 ## Divine Spell Focus
 
-**Prerequisites:** Spell Focus, Greater Spell Focus.
+### Prerequisites
+Spell Focus, Greater Spell Focus.
 
-**Benefit:** The deity chooses one school of magic. The save DC for any
+### Benefit
+The deity chooses one school of magic. The save DC for any
 spell of that school increases by one-half the deity's divine rank. This
 bonus overlaps (does not stack with) the bonus from Spell Focus or
 Greater Spell Focus.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different school of magic each time.
 
-**Suggested Portfolio Elements:** Magic.
+### Suggested Portfolio Elements
+Magic.
 
 ## Divine Spellcasting
 
-**Prerequisites:** Spellcaster level 20th.
+### Prerequisites
+Spellcaster level 20th.
 
-**Benefit:** The deity can cast spells whose effective level is above
+### Benefit
+The deity can cast spells whose effective level is above
 9th. The number of spells per day the deity can cast of each spell level
 above 9th depends on the deity's key ability score for spell-casting
 classes in which the deity has achieved 20th level, as shown
@@ -1184,7 +1213,8 @@ when threatened.
 In addition, the deity receives the benefit of the Spell Focus feat on
 any spell it casts.
 
-**Suggested Portfolio Elements:** Magic.
+### Suggested Portfolio Elements
+Magic.
 
 ### Spell Slots Above 9th Level
 
@@ -1251,18 +1281,23 @@ Divine Spellcasting salient divine ability.
 
 ## Divine Splendor
 
-**Prerequisites:** Divine rank 16, Cha 26.
+### Prerequisites
+Divine rank 16, Cha 26.
 
-**Benefit:** Any mortal who approaches within 10 feet per divine rank of
+### Benefit
+Any mortal who approaches within 10 feet per divine rank of
 the deity in its natural form dies immediately, with no saving throw.
 
-**Suggested Portfolio Elements:** Supreme.
+### Suggested Portfolio Elements
+Supreme.
 
 ## Divine Storm
 
-**Prerequisite:** Divine rank 11.
+### Prerequisite
+Divine rank 11.
 
-**Benefit:** The deity can surround itself with a vortex of holy or
+### Benefit
+The deity can surround itself with a vortex of holy or
 unholy force that manifests in different forms depending on the deity.
 The vortex extends from the deity in an emanation with a radius of 10
 feet per divine rank. The effect stops attacks with thrown weapons and
@@ -1295,13 +1330,16 @@ it is still within the area.
 Creatures whose alignment is diametrically opposed to the deity's are
 subject to both effects.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Divine Water Mastery
 
-**Prerequisites:** Water domain.
+### Prerequisites
+Water domain.
 
-**Benefit:** The deity gains a competence bonus on attack, damage, and
+### Benefit
+The deity gains a competence bonus on attack, damage, and
 Armor Class equal to its divine rank if both the deity and its foe are
 touching the same body of water.
 
@@ -1330,42 +1368,52 @@ When touching water, the deity can automatically sense the location of
 anything within 10 feet per divine rank that is in contact with the same
 body of water.
 
-**Suggested Portfolio Elements:** Water.
+### Suggested Portfolio Elements
+Water.
 
 ## Divine Weapon Focus
 
-**Benefit:** This ability works like the Weapon Focus feat except that
+### Benefit
+This ability works like the Weapon Focus feat except that
 the deity receives a bonus of +4 on attacks with the weapon.
 
-**Notes:** This bonus stacks with the divine rank bonus deities get on
+### Notes
+This bonus stacks with the divine rank bonus deities get on
 attack rolls, and with the Divine Weapon Mastery salient divine ability.
 It also stacks with the Weapon Focus and Greater Weapon Focus feats.
 
 A deity can have this ability multiple times, choosing a different kind
 of weapon each time.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Divine Weapon Mastery
 
-**Prerequisites:** Fighter level 20th, War domain.
+### Prerequisites
+Fighter level 20th, War domain.
 
-**Benefit:** The deity receives the benefits of the Weapon Focus, Weapon
+### Benefit
+The deity receives the benefits of the Weapon Focus, Weapon
 Specialization, and Improved Critical feats when wielding any simple or
 martial weapon.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Divine Weapon Specialization
 
-**Prerequisites:** Base attack bonus +20, Divine Weapon Focus salient
+### Prerequisites
+Base attack bonus +20, Divine Weapon Focus salient
 divine ability with the selected weapon.
 
-**Benefit:** This ability works like the fighter's Weapon Specialization
+### Benefit
+This ability works like the fighter's Weapon Specialization
 feat, except that the deity receives a bonus on damage with the weapon
 equal to its divine rank.
 
-**Notes:** If the selected weapon is a ranged weapon, the extra damage
+### Notes
+If the selected weapon is a ranged weapon, the extra damage
 applies against any target the deity can see.
 
 The damage bonus from this ability stacks with the damage bonus from the
@@ -1375,11 +1423,13 @@ Weapon Specialization feats.
 A deity can have this ability multiple times, choosing a different kind
 of weapon each time.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Energy Burst
 
-**Benefit:** The deity can create an emanation of a specific type of
+### Benefit
+The deity can create an emanation of a specific type of
 energy (acid, cold, electricity, fire, or sonic energy, specified in the
 deity's description) with a radius of 10 feet per divine rank. Anything
 in the area takes 1d8 points of the appropriate energy damage per divine
@@ -1388,16 +1438,20 @@ rank. Damage is halved for those who make successful saving throws
 energy; DC 10 + the deity's divine rank + the deity's Constitution
 modifier).
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different type of energy each time.
 
-**Suggested Portfolio Elements:** Nature.
+### Suggested Portfolio Elements
+Nature.
 
 ## Energy Storm
 
-**Prerequisite:** Divine rank 11.
+### Prerequisite
+Divine rank 11.
 
-**Benefit:** The deity can surround itself with a vortex of energy
+### Benefit
+The deity can surround itself with a vortex of energy
 (acid, cold, electricity, fire, sonic, positive, or negative energy,
 specified in the deity's description). The vortex extends from the deity
 in an emanation with a radius of 10 feet per divine rank. The effect
@@ -1417,64 +1471,80 @@ Negative energy deals 1 point of negative energy per divine rank to
 living creatures, and heals the same amount of damage on undead
 creatures.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different type of energy each time.
 
-**Suggested Portfolio Elements:** Fire, storms.
+### Suggested Portfolio Elements
+Fire, storms.
 
 ## Extra Domain
 
-**Prerequisite:** Divine rank 6.
+### Prerequisite
+Divine rank 6.
 
-**Benefit:** The deity chooses one domain to add to its list of domains.
+### Benefit
+The deity chooses one domain to add to its list of domains.
 The deity can grant spells and powers from that domain and use those
 spells and powers personally, just as it can the spells and powers of
 its other domains.
 
-**Notes:** A deity can have this ability multiple times, choosing a new
+### Notes
+A deity can have this ability multiple times, choosing a new
 domain each time.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Extra Energy Immunity
 
-**Prerequisites:** Divine rank 6, resistance to the energy type
+### Prerequisites
+Divine rank 6, resistance to the energy type
 selected.
 
-**Benefit:** The deity gains immunity to acid, cold, electricity, fire,
+### Benefit
+The deity gains immunity to acid, cold, electricity, fire,
 or sonic energy.
 
-**Notes:** This ability is effective even if the attacker is a deity of
+### Notes
+This ability is effective even if the attacker is a deity of
 higher rank.
 
 A deity can have this ability multiple times, choosing a different form
 of energy each time.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Extra Sense Enhancement
 
-**Prerequisites:** Wis 29.
+### Prerequisites
+Wis 29.
 
-**Benefit:** The deity chooses one sense to enhance. The ability can
+### Benefit
+The deity chooses one sense to enhance. The ability can
 extend a sense's range one mile per divine rank, or it can allow the
 sense to ignore one type of physical or magical blockage. The enhanced
 sense can penetrate 10 feet of a physical barrier per rank or 100 feet
 of a less tangible barrier (such as fog or smoke) per rank.
 
-**Notes:** Some deities have specific applications of this ability that
+### Notes
+Some deities have specific applications of this ability that
 go beyond the normal senses.
 
 A deity can have this ability multiple times, choosing a different sense
 each time.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Footsore
 
-**Prerequisites:** Travel domain.
+### Prerequisites
+Travel domain.
 
-**Benefit:** The deity can sap the energy from living creatures so that
+### Benefit
+The deity can sap the energy from living creatures so that
 they feel tired. It can affect up to one creature per divine rank at
 once, but no more than one creature per divine rank each day. All must
 be within the deity's line of sight when first affected. Subjects
@@ -1484,22 +1554,28 @@ divine rank). Creatures who fail their saves become fatigued and their
 speed is reduced by half. Furthermore, any mount or vehicle they ride is
 likewise slowed. The effect lasts one day.
 
-**Suggested Portfolio Elements:** Travel.
+### Suggested Portfolio Elements
+Travel.
 
 ## Free Move
 
-**Prerequisites:** Dex 29, Divine Celerity salient divine ability.
+### Prerequisites
+Dex 29, Divine Celerity salient divine ability.
 
-**Benefit:** The deity can move up to its speed once a round as a free
+### Benefit
+The deity can move up to its speed once a round as a free
 action.
 
-**Suggested Portfolio Elements:** Travel.
+### Suggested Portfolio Elements
+Travel.
 
 ## Frightful Presence
 
-**Prerequisites:** Cha 24.
+### Prerequisites
+Cha 24.
 
-**Benefit:** Whenever the deity performs a specific action specified in
+### Benefit
+Whenever the deity performs a specific action specified in
 the deity's description (usually attacking, but sometimes making an
 intimidating gesture), foes within a 30-foot-radius burst must make Will
 saves (DC 10 + deity's Charisma modifier + deity's divine rank). Foes
@@ -1509,14 +1585,17 @@ when it activates the ability become panicked for 3d6 rounds if they
 fail their saves. Foes who make successful saving throws are unaffected
 by this ability for one day.
 
-**Suggested Portfolio Elements:** Destruction, war.
+### Suggested Portfolio Elements
+Destruction, war.
 
 ## Gift of Life
 
-**Benefit:** The deity restores the dead creature to life, no matter how
+### Benefit
+The deity restores the dead creature to life, no matter how
 long the creature has been dead or what the condition of the body.
 
-**Notes:** This ability works like the *true resurrection* spell, except
+### Notes
+This ability works like the *true resurrection* spell, except
 that there is no material component and the amount of time the subject
 has been dead is irrelevant.
 
@@ -1531,27 +1610,33 @@ This ability cannot restore life to a creature that has been slain by
 the Hand of Death ability or the Life and Death ability of a deity with
 a higher rank.
 
-**Suggested Portfolio Elements:** Healing, life.
+### Suggested Portfolio Elements
+Healing, life.
 
 ## Grow Creature
 
-**Benefit:** This ability works like the *animal growth* spell, except
+### Benefit
+This ability works like the *animal growth* spell, except
 that it can affect up to one creature of the specified type per divine
 rank each day, all of which must be within the deity's line of sight
 when first affected. The effect lasts one day.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different type of creature each time.
 
-**Suggested Portfolio Elements:** Nature.
+### Suggested Portfolio Elements
+Nature.
 
 ## Hand of Death
 
-**Benefit:** The deity points to any mortal within the deity's sensory
+### Benefit
+The deity points to any mortal within the deity's sensory
 range and snuffs out its life. There must be an unbroken line of effect
 between the deity and the target.
 
-**Notes:** This ability works like the *destruction* spell, except that
+### Notes
+This ability works like the *destruction* spell, except that
 there is no material component. The mortal is allowed a Fortitude saving
 throw with a DC of 20 + the deity's Charisma bonus + the deity's divine
 rank. Even if the save succeeds, the subject takes 10d6 points of
@@ -1561,57 +1646,72 @@ raised or resurrected afterward, except by a deity of equal or higher
 rank using the Gift of Life, Life and Death, or Mass Life and Death
 salient divine ability.
 
-**Suggested Portfolio Elements:** Death.
+### Suggested Portfolio Elements
+Death.
 
 ## Increased Damage Reduction
 
-**Prerequisites:** Con 29.
+### Prerequisites
+Con 29.
 
-**Benefit:** The deity's damage reduction increases 5 and adds an
+### Benefit
+The deity's damage reduction increases 5 and adds an
 alignment requirement opposed to the deity's alignment to bypass the
 damage reduction. For example, a lawful good deity with DR25/epic would
 gain DR 30/epic and evil or DR 30 epic and chaotic.
 
-**Notes:** A deity cannot chose this ability more than once.
+### Notes
+A deity cannot chose this ability more than once.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Increased Energy Resistance
 
-**Benefit:** The deity gains resistance equal to its divine rank to
+### Benefit
+The deity gains resistance equal to its divine rank to
 acid, cold, electricity, fire, or sonic energy.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different form of energy each time. The deity also can have this ability
 more than once for a single type of energy. When applied to an energy
 type that the deity already resists, this ability increases the
 resistance by 10.
 
-**Suggested Portfolio Elements:** Any.
+### Suggested Portfolio Elements
+Any.
 
 ## Increased Spell Resistance
 
-**Benefit:** The deity's spell resistance increases by 20.
+### Benefit
+The deity's spell resistance increases by 20.
 
-**Notes:** A deity can have this ability multiple times, and its effects
+### Notes
+A deity can have this ability multiple times, and its effects
 stack. A deity with two applications of this ability improves its spell
 resistance by 40.
 
-**Suggested Portfolio Elements:** Magic.
+### Suggested Portfolio Elements
+Magic.
 
 ## Indomitable Strength
 
-**Prerequisite:** Str 40, Strength domain.
+### Prerequisite
+Str 40, Strength domain.
 
-**Benefit:** If required to make an opposed roll involving Strength
+### Benefit
+If required to make an opposed roll involving Strength
 (including grapple checks), the deity receives a divine bonus of +25 on
 its roll. This bonus stacks with the normal divine rank bonus.
 
-**Suggested Portfolio Elements:** Strength.
+### Suggested Portfolio Elements
+Strength.
 
 ## Instant Counterspell
 
-**Benefit:** When any spell is cast within the deity's line of sight,
+### Benefit
+When any spell is cast within the deity's line of sight,
 the deity can counterspell it as a free action, provided that the deity
 is capable of casting the spell immediately or has it as a spell-like
 ability and makes the required Spellcraft check. The use of Instant
@@ -1619,25 +1719,31 @@ ability and makes the required Spellcraft check. The use of Instant
 Counterspell counts against the normal number of free actions the deity
 is allowed each round.
 
-**Suggested Portfolio Elements:** Magic.
+### Suggested Portfolio Elements
+Magic.
 
 ## Instant Move
 
-**Prerequisites:** Divine rank 6, Dex 29.
+### Prerequisites
+Divine rank 6, Dex 29.
 
-**Benefit:** As a move action, the deity can travel up to 30 feet per
+### Benefit
+As a move action, the deity can travel up to 30 feet per
 divine rank, as though using the *dimension door* spell, except that the
 deity never appears within a solid object and can act immediately after
 teleporting.
 
-**Suggested Portfolio Elements:** Travel.
+### Suggested Portfolio Elements
+Travel.
 
 ## Irresistible Blows
 
-**Prerequisites:** Weapon Focus and Improved Critical with the selected
+### Prerequisites
+Weapon Focus and Improved Critical with the selected
 melee weapon.
 
-**Benefit:** When the deity makes a melee attack with the chosen weapon
+### Benefit
+When the deity makes a melee attack with the chosen weapon
 against a creature, resolve the attack as a melee touch attack (the
 weapon blow ignores armor and natural armor bonuses). If the weapon
 hits, the creature struck must make a Fortitude save (DC 10 + the
@@ -1647,16 +1753,20 @@ for 1d10 rounds.
 The deity's attacks with the chosen weapons are considered to be
 adamantine for purposes of bypassing damage reduction and hardness.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different kind of weapon each time.
 
-**Suggested Portfolio Elements:** War.
+### Suggested Portfolio Elements
+War.
 
 ## Irresistible Performance
 
-**Prerequisites:** Perform 40 ranks.
+### Prerequisites
+Perform 40 ranks.
 
-**Benefit:** When the deity sings, plays a musical instrument, tells
+### Benefit
+When the deity sings, plays a musical instrument, tells
 jokes, recites verse, or engages in any other type of performance as a
 full-round action, the deity has the option to create any of the
 following effects. The deity can use this ability a number of times per
@@ -1700,32 +1810,38 @@ performances, the creature cannot be affected again for one day.
 Note: Not all deities with this ability can create all the mentioned
 effects, as specified in the deity descriptions.
 
-**Suggested Portfolio Elements:** Art, bards, beauty, dance, love,
+### Suggested Portfolio Elements
+Art, bards, beauty, dance, love,
 music, poetry.
 
 ## Know Death
 
-**Benefit:** The deity knows the exact moment and circumstances of any
+### Benefit
+The deity knows the exact moment and circumstances of any
 mortal creature's death just by looking at the creature.
 
-**Suggested Portfolio Elements:** Death.
+### Suggested Portfolio Elements
+Death.
 
 ## Know Secrets
 
 No secrets can be kept from the deity.
 
-**Benefit:** The deity can learn a creature's entire history (including
+### Benefit
+The deity can learn a creature's entire history (including
 any embarrassing or vital secrets it might know) just by looking at it.
 This ability is similar to the *legend lore* spell, except that it
 delivers instant results and the subject is allowed a Will save (DC 10 +
 the deity's Charisma modifier + the deity's divine rank) to avoid the
 effect.
 
-**Suggested Portfolio Elements:** Knowledge, secrets.
+### Suggested Portfolio Elements
+Knowledge, secrets.
 
 ## Lay Curse
 
-**Benefit:** This ability works like the *bestow curse* spell, except
+### Benefit
+This ability works like the *bestow curse* spell, except
 that mortals get no save. Deities of equal or lesser rank are subject to
 this ability, but are allowed Will saves (DC 10 + the deity's Charisma
 modifier + the deity's divine rank) to resist. The curse
@@ -1737,28 +1853,34 @@ The deity can affect up to one creature per divine rank at once, but no
 more than that number each day. All must be within the deity's line of
 sight when first affected.
 
-**Suggested Portfolio Elements:** Evil.
+### Suggested Portfolio Elements
+Evil.
 
 ## Lay Quest
 
-**Benefit:** This ability works like the *geas/quest* spell, except that
+### Benefit
+This ability works like the *geas/quest* spell, except that
 it works only on mortals and it can be removed only by a deity of equal
 or higher rank than the deity who lays the quest. The deity can affect
 up to one creature per divine rank at once, but no more than that number
 each day. All must be within the deity's line of sight when first
 affected.
 
-**Suggested Portfolio Elements:** Justice, law.
+### Suggested Portfolio Elements
+Justice, law.
 
 ## Life and Death
 
-**Prerequisites:** Divine rank 6, Gift of Life or Hand of Death salient
+### Prerequisites
+Divine rank 6, Gift of Life or Hand of Death salient
 divine ability.
 
-**Benefit:** The deity designates any mortal and snuffs out its life. Or
+### Benefit
+The deity designates any mortal and snuffs out its life. Or
 the deity can designate any dead mortal and restore it to life.
 
-**Notes:** This ability works across planar boundaries and penetrates
+### Notes
+This ability works across planar boundaries and penetrates
 any barrier except a divine shield. However, the subject must be in a
 location the deity can sense, either within the deity's sense range or
 in a location the deity can perceive through its remote sensing ability.
@@ -1784,19 +1906,23 @@ This ability cannot restore life to a creature that has been slain by
 the Hand of Death, Life and Death, or Mass Life and Death ability of a
 deity with a higher rank.
 
-**Rest:** After using either version of this ability, the deity must
+### Rest
+After using either version of this ability, the deity must
 rest for 1 minute per level or Hit Die of the creature affected.
 
 Deities whose portfolio includes death do not have to rest after using
 this ability.
 
-**Suggested Portfolio Elements:** Death, supreme.
+### Suggested Portfolio Elements
+Death, supreme.
 
 ## Life Drain
 
-**Prerequisites:** Death domain.
+### Prerequisites
+Death domain.
 
-**Benefit:** As a free action, the deity can generate a cloud of
+### Benefit
+As a free action, the deity can generate a cloud of
 darkness that rises from its body in a spread with a radius of 10 feet
 per divine rank and 10 feet high. The cloud blocks sight as a *deeper
 darkness* spell does, except that it cannot be countered by light
@@ -1809,14 +1935,17 @@ negative levels is the same as the first Will save). A single creature
 can be drained by the cloud only once per day, but the cloud's darkness
 remains effective.
 
-**Suggested Portfolio Elements:** Death, undead.
+### Suggested Portfolio Elements
+Death, undead.
 
 ## Mass Divine Blast
 
-**Prerequisites:** Divine rank 6, Cha 29, Divine Blast salient divine
+### Prerequisites
+Divine rank 6, Cha 29, Divine Blast salient divine
 ability.
 
-**Benefit:** This ability works like the Divine Blast ability, except
+### Benefit
+This ability works like the Divine Blast ability, except
 that the deity can specify up to five targets per rank, no two of which
 can be more than one mile apart per rank, or an area. The area can be a
 cone, burst, spread, or cylinder. A cone can be up to 100 feet long per
@@ -1828,31 +1957,39 @@ dimensions.
 Each use of this ability counts as a use of the deity's Divine Blast
 ability.
 
-**Suggested Portfolio Elements:** Death, destruction, war.
+### Suggested Portfolio Elements
+Death, destruction, war.
 
 ## Mass Life and Death
 
-**Prerequisites:** Divine rank 16, Gift of Life or Hand of Death salient
+### Prerequisites
+Divine rank 16, Gift of Life or Hand of Death salient
 divine ability, Life and Death salient divine ability.
 
-**Benefit:** The deity can designate any number of mortals and snuffs
+### Benefit
+The deity can designate any number of mortals and snuffs
 out their lives. Or the deity can designate any number of dead mortals
 and restore them to life.
 
-**Notes:** No two mortals affected by a single use of this ability can
+### Notes
+No two mortals affected by a single use of this ability can
 be more than one mile apart per rank of the deity. The ability is
 otherwise identical with the Life and Death salient divine ability.
 
-**Rest:** After using either version of this ability, the deity must
+### Rest
+After using either version of this ability, the deity must
 rest for 1 minute per levels or Hit Dice of the creatures affected.
 
-**Suggested Portfolio Elements:** Death, supreme.
+### Suggested Portfolio Elements
+Death, supreme.
 
 ## Master Crafter
 
-**Prerequisites:** 23 ranks in two different Craft skills.
+### Prerequisites
+23 ranks in two different Craft skills.
 
-**Benefit:** Any object the deity creates is treated as a masterwork
+### Benefit
+Any object the deity creates is treated as a masterwork
 item, but uses the base item price (not the masterwork price) to
 determine time and cost required to create it. Any item the deity
 creates also has twice the hit points it would normally have, and its
@@ -1861,14 +1998,16 @@ break DC is increased by +10. These benefits apply to walls, doors, and
 other components of buildings the deity creates, as well as smaller
 items.
 
-**Suggested Portfolio Elements:** Crafts, creation.
+### Suggested Portfolio Elements
+Crafts, creation.
 
 ## Mind of the Beast
 
 The deity can make plants and animals sentient, and it can reduce
 sentient creatures to animal or plant form.
 
-**Benefit:** The deity can grant humanlike sentience to trees or
+### Benefit
+The deity can grant humanlike sentience to trees or
 animals. This sentience lasts a maximum of one day, and the sentient
 tree or animal obeys the deity's commands to the best of its ability.
 The deity can affect up to one creature per divine rank at once, but no
@@ -1885,17 +2024,21 @@ same abilities and statistics of the kind of animal the deity chooses.
 
 The Alter Reality ability can make either effect permanent.
 
-**Suggested Portfolio Elements:** Nature.
+### Suggested Portfolio Elements
+Nature.
 
 ## Possess Mortal
 
-**Prerequisites:** Cha 29.
+### Prerequisites
+Cha 29.
 
-**Benefit:** The deity can possess any mortal in any location the deity
+### Benefit
+The deity can possess any mortal in any location the deity
 can sense. Unwilling mortals can attempt Will saves (DC 10 + the deity's
 Charisma modifier + the deity's rank).
 
-**Notes:** Spells that prevent possession block this ability if the
+### Notes
+Spells that prevent possession block this ability if the
 mortal is unwilling. Likewise, spells that end possession drive out the
 deity if the mortal is unwilling. If the mortal is willing, however, the
 deity cannot be blocked or driven out, except by a divine
@@ -1933,13 +2076,16 @@ the mortal and the deity have the same skill, use the skill of whichever
 has more ranks in the skill. Use the mortal's effective ability scores
 to determine skill modifiers.
 
-**Suggested Portfolio Elements:** Supreme.
+### Suggested Portfolio Elements
+Supreme.
 
 ## Power of Luck
 
-**Prerequisites:** Luck domain.
+### Prerequisites
+Luck domain.
 
-**Benefit:** The deity can give creatures good or bad fortune. The deity
+### Benefit
+The deity can give creatures good or bad fortune. The deity
 can affect up to one creature per divine rank at once, but no more than
 that number each day. All must be within the deity's line of sight when
 first affected. Subjects receive a luck bonus of +1 per divine rank or a
@@ -1948,11 +2094,13 @@ for one day. Any creature that attacks the deity automatically suffers
 the luck penalty, and this does not count against the deity's daily uses
 of this ability.
 
-**Suggested Portfolio Elements:** Fate, gambling, luck.
+### Suggested Portfolio Elements
+Fate, gambling, luck.
 
 ## Power of Nature
 
-**Benefit:** The deity can perform any of the following in a radius of
+### Benefit
+The deity can perform any of the following in a radius of
 one mile per divine rank around the deity, at will, as a full-round
 action.
 
@@ -1966,11 +2114,13 @@ These effects last as long as the deity concentrates and for up to 1
 minute per divine rank afterward. The deity can end an effect as a free
 action.
 
-**Suggested Portfolio Elements:** Nature, sea, weather.
+### Suggested Portfolio Elements
+Nature, sea, weather.
 
 ## Power of Truth
 
-**Benefit:** The deity knows when anyone (other than a deity of equal or
+### Benefit
+The deity knows when anyone (other than a deity of equal or
 higher rank) deliberately lies. This ability works like the *discern
 lies* spell, except that it works continuously and applies to any
 creature the deity can perceive. The deity also can enchant creatures so
@@ -1982,18 +2132,22 @@ for one day. The subject is allowed a Will save (DC 10 + the deity's
 Charisma modifier + the deity's divine rank) to resist. Subjects who
 make successful saves become immune to this ability for one day.
 
-**Suggested Portfolio Elements:** Justice, law, truth.
+### Suggested Portfolio Elements
+Justice, law, truth.
 
 ## Rejuvenation
 
-**Prerequisites:** Divine rank 11, Divine Fast Healing salient divine
+### Prerequisites
+Divine rank 11, Divine Fast Healing salient divine
 ability.
 
-**Benefit:** When the deity suffers an attack that should destroy it, it
+### Benefit
+When the deity suffers an attack that should destroy it, it
 simply disperses and reassembles later. Roll 10d10 to determine the
 number of days before the deity returns.
 
-**Notes:** If the deity is killed in its own realm, subtract the deity's
+### Notes
+If the deity is killed in its own realm, subtract the deity's
 divine rank from the number of days it takes to return. If the deity's
 realm is on a divinely morphic Outer Plane, and the deity is killed
 there, subtract twice the deity's divine rank from
@@ -2004,35 +2158,42 @@ one day.
 This ability is ineffective if the deity is killed by another deity of
 equal or higher rank.
 
-**Suggested Portfolio Elements:** Death, life, undead.
+### Suggested Portfolio Elements
+Death, life, undead.
 
 ## See Magic
 
-**Prerequisites:** Magic domain.
+### Prerequisites
+Magic domain.
 
-**Benefit:** This ability is similar to a constant *greater arcane
+### Benefit
+This ability is similar to a constant *greater arcane
 sight* spell, except that it covers the whole area the deity can see,
 and the deity immediately knows the number of auras present along with
 their locations and strengths. The deity needs to make a Spellcraft
 check to identify the school of each aura, but most deities with this
 ability can use Spellcraft as a free action.
 
-**Suggested Portfolio Elements:** Magic.
+### Suggested Portfolio Elements
+Magic.
 
 ## Shapechange
 
 This is an extraordinary ability.
 
-**Prerequisites:** Divine rank 11, Alter Size salient divine ability,
+### Prerequisites
+Divine rank 11, Alter Size salient divine ability,
 
 Alter Form salient divine ability.
 
-**Benefit:** The deity can assume the form of an animal, beast, dragon,
+### Benefit
+The deity can assume the form of an animal, beast, dragon,
 fey, giant, humanoid, magical beast, monstrous humanoid, or plant. The
 assumed form must be both living and corporeal. The deity can remain in
 the assumed form indefinitely, but it resumes its own form if slain.
 
-**Notes:** This ability works like the Shift Form salient divine
+### Notes
+This ability works like the Shift Form salient divine
 ability, except that the deity is not limited to a set number of forms
 and as noted here.
 
@@ -2043,21 +2204,25 @@ assumed form's greatest dimension.
 The deity can use this ability to create disguises, gaining a bonus of
 +20 on its Disguise checks.
 
-**Suggested Portfolio Elements:** Nature, secrets, thieves.
+### Suggested Portfolio Elements
+Nature, secrets, thieves.
 
 ## Shift Form
 
 This is an extraordinary ability.
 
-**Prerequisites:** Divine rank 6, Alter Size salient divine ability,
+### Prerequisites
+Divine rank 6, Alter Size salient divine ability,
 Alter Form salient divine ability.
 
-**Benefit:** The deity can assume the form of another creature. The
+### Benefit
+The deity can assume the form of another creature. The
 forms a deity can assume are limited and vary with each deity. The forms
 allowed are listed in the deity's description. The deity can remain in
 the assumed form indefinitely, but it resumes its own form if slain.
 
-**Notes:** The deity acquires the physical, natural, and extraordinary
+### Notes
+The deity acquires the physical, natural, and extraordinary
 abilities of the form it has assumed (but not spell-like or supernatural
 abilities) while retaining its own mind. Physical abilities include
 natural size and Strength, Dexterity, and Constitution scores. Natural
@@ -2113,40 +2278,50 @@ The deity can use its Alter Size ability simultaneously with this one to
 become as small as a grain of sand or as large as 1,600 feet in the
 assumed form's greatest dimension.
 
-**Suggested Portfolio Elements:** Nature.
+### Suggested Portfolio Elements
+Nature.
 
 ## Speak with Creatures
 
-**Benefit:** The deity has the supernatural ability to converse with the
+### Benefit
+The deity has the supernatural ability to converse with the
 specified creature. This ability works like a permanent *speak with
 animals* or *speak with plants* spell, or like a *tongues* spell that
 only allows the deity to converse with the specified type of creature.
 
-**Notes:** A deity can have this ability multiple times, choosing a
+### Notes
+A deity can have this ability multiple times, choosing a
 different type of creature each time.
 
-**Suggested Portfolio Elements:** Nature.
+### Suggested Portfolio Elements
+Nature.
 
 ## Spontaneous Wizard Spells
 
-**Prerequisites:** Divine rank 6, Wizard level 1st, Int 29, Spell
+### Prerequisites
+Divine rank 6, Wizard level 1st, Int 29, Spell
 Mastery, Arcane Mastery salient divine ability.
 
-**Benefit:** This ability works like a cleric's ability to cast *cure*
+### Benefit
+This ability works like a cleric's ability to cast *cure*
 spells spontaneously, except that it applies to wizard spells. The deity
 must have a sufficient Intelligence score and wizard levels to cast the
 spell.
 
-**Notes:** The deity still needs a spellbook for its wizard spells
+### Notes
+The deity still needs a spellbook for its wizard spells
 unless it also has the Divine Spellcasting ability.
 
-**Suggested Portfolio Elements:** Knowledge, magic.
+### Suggested Portfolio Elements
+Knowledge, magic.
 
 ## Stride
 
-**Prerequisites:** Travel domain.
+### Prerequisites
+Travel domain.
 
-**Benefit:** The deity's movement is doubled on the local or overland
+### Benefit
+The deity's movement is doubled on the local or overland
 scales. Also, having this ability means that the deity's height does not
 limit the distance it can jump.
 
@@ -2156,11 +2331,13 @@ once, but no more than that number each day. All must be within the
 deity's line of sight when first affected. Creatures who receive this
 boon double their speeds on the local or overland scales.
 
-**Suggested Portfolio Elements:** Travel.
+### Suggested Portfolio Elements
+Travel.
 
 ## Sunder and Disjoin
 
-**Benefit:** If any weapon or item is used against the deity in combat,
+### Benefit
+If any weapon or item is used against the deity in combat,
 the deity can destroy it with a touch. Treat a successful touch as a
 combination of a *disintegrate* spell and a
 
@@ -2169,19 +2346,23 @@ save DC for both effects is 19 + the deity's Charisma modifier. Anitem
 remains vulnerable to this ability for up to one day after being used
 against the deity.
 
-**Suggested Portfolio Elements:** Victory, war.
+### Suggested Portfolio Elements
+Victory, war.
 
 ## Supreme Initiative
 
 This is an extraordinary ability.
 
-**Prerequisites:** Dex 29, Improved Initiative.
+### Prerequisites
+Dex 29, Improved Initiative.
 
-**Benefit:** The deity goes first in the initiative order, no matter
+### Benefit
+The deity goes first in the initiative order, no matter
 what its initiative result is or what initiative result anyone else in
 an encounter or battle has.
 
-**Notes:** Determine initiative normally among any beings who don't have
+### Notes
+Determine initiative normally among any beings who don't have
 this ability, placing them in order after the deity. The deity can
 choose to delay or ready an action, just any other being can, and doing
 so changes the deity's initiative as normal. The deity also can refocus,
@@ -2197,35 +2378,42 @@ If two deities with this ability and the same divine rank are in a
 battle, make an initiative check for each deity, and the deity with the
 higher result goes first.
 
-**Suggested Portfolio Elements:** Agility, thieves, war.
+### Suggested Portfolio Elements
+Agility, thieves, war.
 
 ## True Knowledge
 
-**Prerequisites:** Divine rank 11, Int 40, bardic knowledge or lore
+### Prerequisites
+Divine rank 11, Int 40, bardic knowledge or lore
 class feature and 10th level in the class that grants the ability,
 Knowledge domain.
 
-**Benefit:** The deity never fails a bardic knowledge or lore check, no
+### Benefit
+The deity never fails a bardic knowledge or lore check, no
 matter how obscure the knowledge involved. The deity speaks and
 understands all languages. The deity can use *legend lore* and *analyze
 dweomer* as free actions at will. These actions count against
 
 the deity's maximum number of free actions per round.
 
-**Suggested Portfolio Elements:** Knowledge.
+### Suggested Portfolio Elements
+Knowledge.
 
 ## True Shapechange
 
 This is an extraordinary ability.
 
-**Prerequisites:** Divine rank 16, Alter Size salient divine ability,
+### Prerequisites
+Divine rank 16, Alter Size salient divine ability,
 Alter Form salient divine ability, Shapechange salient divine ability.
 
-**Benefit:** The deity can assume the form of any object or creature.
+### Benefit
+The deity can assume the form of any object or creature.
 The deity can remain in the assumed form indefinitely, but it resumes
 its own form if slain.
 
-**Notes:** This ability works like the Shift Form salient divine
+### Notes
+This ability works like the Shift Form salient divine
 ability, except as noted below.
 
 The deity can take any form, living or unliving, corporal or
@@ -2239,13 +2427,16 @@ The deity can use its Alter Size ability simultaneously with this one to
 become as small as a grain of sand or as large as 1,600 feet in the
 assumed form's greatest dimension.
 
-**Suggested Portfolio Elements:** Nature, secrets, thieves.
+### Suggested Portfolio Elements
+Nature, secrets, thieves.
 
 ## Undead Mastery
 
-**Prerequisites:** Divine rank 14, Cleric level 17th.
+### Prerequisites
+Divine rank 14, Cleric level 17th.
 
-**Benefit:** The deity can automatically command or destroy any undead
+### Benefit
+The deity can automatically command or destroy any undead
 creature, as desired, as a free action, though this counts against the
 normal limit of free actions per round. The deity can do this as often
 as desired, but it can command no more than one
@@ -2253,11 +2444,13 @@ as desired, but it can command no more than one
 undead creature per divine rank (regardless of the creatures' Hit Dice)
 at any one time.
 
-**Suggested Portfolio Elements:** Death, life, undead.
+### Suggested Portfolio Elements
+Death, life, undead.
 
 ## Undead Qualities
 
-**Benefit:** The deity gains the qualities of the undead type:
+### Benefit
+The deity gains the qualities of the undead type:
 
 ---No Constitution score.
 
@@ -2294,13 +2487,16 @@ were before becoming undead.
 
 ---Undead do not breathe, eat, or sleep.
 
-**Suggested Portfolio Elements:** Death, undead.
+### Suggested Portfolio Elements
+Death, undead.
 
 ## Wave of Chaos
 
-**Prerequisites:** Chaotic alignment.
+### Prerequisites
+Chaotic alignment.
 
-**Benefit:** The deity can create a wave of mental force that extends
+### Benefit
+The deity can create a wave of mental force that extends
 from the deity in a spread with a radius of 10 feet per divine rank.
 Creatures within the spread must make Will saves (DC 10 + the deity's
 Charisma modifier + the deity's divine rank) or
@@ -2308,13 +2504,16 @@ Charisma modifier + the deity's divine rank) or
 be forced to act unpredictably. This ability works like a *confusion*
 spell cast by a sorcerer of level 10 + the deity's divine rank.
 
-**Suggested Portfolio Elements:** Chaos.
+### Suggested Portfolio Elements
+Chaos.
 
 ## Wound Enemy
 
-**Prerequisites:** Base attack bonus +20.
+### Prerequisites
+Base attack bonus +20.
 
-**Benefit:** The affected weapon deals damage to a creature such that a
+### Benefit
+The affected weapon deals damage to a creature such that a
 wound it causes deals 1d6 points of damage per round thereafter in
 addition to the normal damage from the weapon. Multiple wounds from the
 weapon result in cumulative bleeding loss (two
@@ -2324,7 +2523,8 @@ only be stopped by a successful Heal check (DC 15 + the deity's rank) or
 the application of any *cure* spell or other healing spell *(heal,
 healing circle,* and so on).
 
-**Notes:** The ability functions only when the deity personally attacks
+### Notes
+The ability functions only when the deity personally attacks
 with a physical weapon. The ability works with a ranged weapon, but not
 if someone else uses the weapon. The deity can apply to the ability to
 any weapon or natural weapon, but not to a
@@ -2332,27 +2532,31 @@ any weapon or natural weapon, but not to a
 spell, spell-like ability, supernatural ability, or divine ability. A
 deity can have this ability multiple times, and its effects stack.
 
-**Suggested Portfolio Elements:** Death, pain, war.
+### Suggested Portfolio Elements
+Death, pain, war.
 
 ## Feats
 
 Deities can obtain the feats described here, in addition to any standard
 feats.
 
-### Blindsight,5-Ft.Radius [\[General\]]{.small} {#blindsight-5-ftradius}
+### Blindsight,5-Ft.Radius (featType:: General)
 
-**Prerequisites:** Base attack bonus +4, Blind-Fight, Wisdom 19.
+### Prerequisites
+Base attack bonus +4, Blind-Fight, Wisdom 19.
 
 Benefit: Using senses such as acute hearing and sensitivity to
 vibrations, you detect the location of opponents who are no more than 5
 feet away from you. *Invisibility* and *darkness* are irrelevant, though
 it you discern incorporeal beings.
 
-### Disguise Spell [\[Metamagic\]]{.small} {#disguise-spell}
+### Disguise Spell (featType:: Metamagic)
 
-**Prerequisites:** Bardic music, Perform 12 ranks.
+### Prerequisites
+Bardic music, Perform 12 ranks.
 
-**Benefit:** You have mastered the art of casting spells unobtrusively,
+### Benefit
+You have mastered the art of casting spells unobtrusively,
 mingling verbal and somatic components into its music and performances
 so that others rarely catch you in the act of casting a spell. Like a
 silent, stilled spell, a disguised spell can't be identified through
@@ -2362,28 +2566,34 @@ emanates from you or observers have some other means of determining its
 source, they don't know where the effect came from. A disguised spell
 uses up a spell slot one level higher than the spell's actual level.
 
-### Divine Might [\[Divine \]]{.small} {#divine-might}
+### Divine Might (featType:: Divine )
 
-**Prerequisites:** Str 13, turn or rebuke undead ability, Power Attack.
+### Prerequisites
+Str 13, turn or rebuke undead ability, Power Attack.
 
-**Benefit:** As a free action, spend one of your turn or rebuke undead
+### Benefit
+As a free action, spend one of your turn or rebuke undead
 attempts to add your Charisma bonus to your weapon damage for 1 full
 round.
 
-### Divine Vengeance [\[Divine \]]{.small} {#divine-vengeance}
+### Divine Vengeance (featType:: Divine )
 
-**Prerequisites:** Ability to turn undead, Extra Turning.
+### Prerequisites
+Ability to turn undead, Extra Turning.
 
-**Benefit:** You can spend one of your turn undead attempts to add 2d6
+### Benefit
+You can spend one of your turn undead attempts to add 2d6
 points of sacred energy damage to all your successful melee attacks
 against undead until the end of your next action. This is a supernatural
 ability.
 
-### Energy Substitution [\[Metamagic\]]{.small} {#energy-substitution}
+### Energy Substitution (featType:: Metamagic)
 
-**Prerequisites:** Any other metamagic feat, Knowledge (arcana) 5 ranks.
+### Prerequisites
+Any other metamagic feat, Knowledge (arcana) 5 ranks.
 
-**Benefit:** You choose one type of energy: acid, cold, electricity,
+### Benefit
+You choose one type of energy: acid, cold, electricity,
 fire, or sonic. When employing a spell with the acid, cold, electricity,
 fire, or sonic designator, you can modify the spell to use your chosen
 type of energy instead. The altered spell uses a spell slot of the
@@ -2392,74 +2602,93 @@ spell's normal level.
 The altered spell works normally in all respects except the type of
 damage dealt.
 
-**Special:** You can gain this feat multiple times. Each time the feat
+### Special
+You can gain this feat multiple times. Each time the feat
 applies to a different type of energy.
 
-### Extra Music [\[General\]]{.small} {#extra-music}
+### Extra Music (featType:: General)
 
-**Prerequisite:** Bardic music.
+### Prerequisite
+Bardic music.
 
-**Benefit:** You can use your bardic music four extra times per day.
+### Benefit
+You can use your bardic music four extra times per day.
 
-**Normal:** Bards without the Extra Music feat can use bardic music once
+### Normal
+Bards without the Extra Music feat can use bardic music once
 per day per level.
 
-**Special:** You can gain this feat multiple times, adding another four
+### Special
+You can gain this feat multiple times, adding another four
 uses of bardic music each time.
 
-### Eyes in the Back of Your Head [\[General\]]{.small} {#eyes-in-the-back-of-your-head}
+### Eyes in the Back of Your Head (featType:: General)
 
-**Prerequisites:** Base attack bonus +3, Wis 19.
+### Prerequisites
+Base attack bonus +3, Wis 19.
 
-**Benefit:** Attackers do not gain the usual +2 attack bonus when
+### Benefit
+Attackers do not gain the usual +2 attack bonus when
 flanking you. This feat grants no effect whenever you are attacked
 without benefit of your Dexterity modifier to AC, such as when you are
 flat-footed or when you are the target of a rogue's sneak attack.
 
-### Fleet of Foot [\[General\]]{.small} {#fleet-of-foot}
+### Fleet of Foot (featType:: General)
 
-**Prerequisites:** Dex 15, Run.
+### Prerequisites
+Dex 15, Run.
 
-**Benefit:** When running or charging, you can make a single direction
+### Benefit
+When running or charging, you can make a single direction
 change of 90 degrees or less. You can't use this feat while wearing
 medium or heavy armor, or when carrying a medium or heavy load. If you
 are charging, you must move in a straight line for 10 feet after the
 turn to maintain the charge.
 
-**Normal:** Without this feat, you can run or charge only in a straight
+### Normal
+Without this feat, you can run or charge only in a straight
 line.
 
-### Hold the Line [\[General\]]{.small} {#hold-the-line}
+### Hold the Line (featType:: General)
 
-**Prerequisites:** Combat Reflexes, base attack bonus +2.
+### Prerequisites
+Combat Reflexes, base attack bonus +2.
 
-**Benefit:** You may make an attack of opportunity against a chagin
+### Benefit
+You may make an attack of opportunity against a chagin
 opponent who enters an atea you threaten. Your attack of opportunity
 happens immediately before the charge attack is resolved.
 
-**Normal:** You only get an attack of opportunity against a character
+### Normal
+You only get an attack of opportunity against a character
 that exits a square you threaten.
 
-### Jack of All Trades [\[General\]]{.small} {#jack-of-all-trades}
+### Jack of All Trades (featType:: General)
 
-**Prerequisite:** You must be at least 6th level.
+### Prerequisite
+You must be at least 6th level.
 
-**Benefit:** You can use any skill untrained, even those that normally
+### Benefit
+You can use any skill untrained, even those that normally
 require training.
 
-### Knock-Down [\[General\]]{.small} {#knock-down}
+### Knock-Down (featType:: General)
 
-**Prerequisites:** Base attack bonus +2, Improved Trip, Str 15.
+### Prerequisites
+Base attack bonus +2, Improved Trip, Str 15.
 
-**Benefit:** Whenever you deal 10 or more points of damage to your
+### Benefit
+Whenever you deal 10 or more points of damage to your
 opponent in melee, you make a trip attack as a free action against the
 same target.
 
-### Persistent Spell [\[Metamagic\]]{.small} {#persistent-spell}
+### Persistent Spell (featType:: Metamagic)
 
-**Prerequisite:** Extend Spell.
+### Prerequisite
+Extend Spell.
 
-**Benefit:** A persistent spell has a duration of 24 hours. The
+### Benefit
+A persistent spell has a duration of 24 hours. The
 persistent spell must have a personal range or a fixed range. Spells of
 instantaneous duration cannot be affected by this feat, nor can spells
 whose effects are discharged. You need not concentrate on spells such as
@@ -2470,22 +2699,26 @@ standard action that does not provoke an attack of opportunity. A
 persistent spell uses up a spell slot six levels higher than the spell's
 actual level.
 
-### Plant Control [\[General\]]{.small} {#plant-control}
+### Plant Control (featType:: General)
 
-**Prerequisites:** Plant Defiance, ability to cast *speak with plants.*
+### Prerequisites
+Plant Defiance, ability to cast *speak with plants.*
 
-**Benefit:** You can rebuke or command plant creatures as an evil cleric
+### Benefit
+You can rebuke or command plant creatures as an evil cleric
 rebukes undead. To command a plant, you must be able to speak with it
 via a *speak with plants* effect, though it may do so mentally if
 desired. This ability is usable a total number of times per day equal to
 3 + your Charisma modifier. You use your highest caster level to
 determine the level at which you rebuke plants.
 
-### Plant Defiance [\[General\]]{.small} {#plant-defiance}
+### Plant Defiance (featType:: General)
 
-**Prerequisite:** Ability to cast *detect animals or plants.*
+### Prerequisite
+Ability to cast *detect animals or plants.*
 
-**Benefit:** You can turn (but not destroy) plant creatures as a good
+### Benefit
+You can turn (but not destroy) plant creatures as a good
 cleric turns undead. When determining the result of a turning attempt,
 treat all destruction results as normal turning. Treat immobile plant
 creatures as creatures unable to flee. This ability is usable a total
@@ -2493,33 +2726,39 @@ number of times per day equal to 3 + your Charisma modifier. You use
 your highest caster level to determine the level at which you turns
 plants.
 
-### Power Critical [\[General\]]{.small} {#power-critical}
+### Power Critical (featType:: General)
 
-**Prerequisites:** Weapon focus (chosen weapon), base attack bonus +4
+### Prerequisites
+Weapon focus (chosen weapon), base attack bonus +4
 
-**Benefit:** When using the weapon you selected, you gain a +4 bonus on
+### Benefit
+When using the weapon you selected, you gain a +4 bonus on
 the roll to confirm a threat.
 
-**Special:** A fighter may select Power Critical as one of his fighter
+### Special
+A fighter may select Power Critical as one of his fighter
 bonus feats.
 
 You can gain Power Critical multiple times. Each time you take the feat,
 it may be with a different weapon or the same weapon. If you take it
 with the same weapon, the effects of the feats stack.
 
-### Reach Spell [\[Metamagic\]]{.small} {#reach-spell}
+### Reach Spell (featType:: Metamagic)
 
-**Benefit:** You may cast a spell that normally has a range of touch at
+### Benefit
+You may cast a spell that normally has a range of touch at
 any distance up to 30 feet. The spell effectively becomes a ray, so you
 must succeed at a ranged touch attack to bestow the spell upon the
 recipient. A reach spell uses up a spell slot two levels higher than the
 spell's actual level.
 
-### Repeat Spell [\[Metamagic\]]{.small} {#repeat-spell}
+### Repeat Spell (featType:: Metamagic)
 
-**Prerequisites:** Any other metamagic feat.
+### Prerequisites
+Any other metamagic feat.
 
-**Benefit:** A repeated spell is automatically cast again at the
+### Benefit
+A repeated spell is automatically cast again at the
 beginning of your next round of actions. No matter where you are, the
 secondary spell originates from the same location and affects the same
 area as the primary spell. If the repeated spell
@@ -2530,33 +2769,40 @@ secondary spell fails to go off. A repeated spell uses up a spell slot
 three levels higher than the spell's actual level. Repeat Spell cannot
 be used on spells with a range of touch.
 
-### Sacred Spell [\[Metamagic\]]{.small} {#sacred-spell}
+### Sacred Spell (featType:: Metamagic)
 
-**Benefit:** Half of the damage dealt by a sacred spell results directly
+### Benefit
+Half of the damage dealt by a sacred spell results directly
 from divine power and is therefore not subject to being reduced by
 protection from elements or similar magic. The other half of the damage
 dealt by the spell is as normal. A sacred spell uses up a spell slot two
 levels higher than the spell's actual level. Only divine spells can be
 cast as sacred spells.
 
-### Sharp-Shooting [\[General\]]{.small} {#sharp-shooting}
+### Sharp-Shooting (featType:: General)
 
-**Prerequisites:** Point Blank Shot, Precise Shot, base attack bonus +3.
+### Prerequisites
+Point Blank Shot, Precise Shot, base attack bonus +3.
 
-**Benefit:** Your targets only receive a +2 bonus to Armor class due to
+### Benefit
+Your targets only receive a +2 bonus to Armor class due to
 cover. This feat has no effect against foes with no cover or total
 cover.
 
-**Normal:** Cover normally gives a +4 bonus to AC.
+### Normal
+Cover normally gives a +4 bonus to AC.
 
-**Special:** A fighter may select Sharp-Shooting as one of his bonus
+### Special
+A fighter may select Sharp-Shooting as one of his bonus
 feats.
 
-### Subdual Substitution [\[Metamagic\]]{.small} {#subdual-substitution}
+### Subdual Substitution (featType:: Metamagic)
 
-**Prerequisites:** Any other metamagic feat, Knowledge (arcana) 5 ranks.
+### Prerequisites
+Any other metamagic feat, Knowledge (arcana) 5 ranks.
 
-**Benefit:** When employing a spell with the acid, cold, electricity,
+### Benefit
+When employing a spell with the acid, cold, electricity,
 fire, or sonic designator, you can modify the spell to deal subdual
 damage instead of the indicated type of energy damage. The altered spell
 uses a spell slot of the spell's normal level.
@@ -2564,11 +2810,13 @@ uses a spell slot of the spell's normal level.
 The altered spell works normally in all respects except the type of
 damage dealt.
 
-### Superior Expertise [\[General\]]{.small} {#superior-expertise}
+### Superior Expertise (featType:: General)
 
-**Prerequisites:** Int 13, Combat Expertise, base attack bonus +6.
+### Prerequisites
+Int 13, Combat Expertise, base attack bonus +6.
 
-**Benefit:** When you use the Combat Expertise feat to improve your
+### Benefit
+When you use the Combat Expertise feat to improve your
 Armor Class, the number you subtract from your attack and add to your AC
 can be any number that does not exceed your base attack bonus.
 

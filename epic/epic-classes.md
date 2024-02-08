@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Classes
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -9,45 +8,28 @@ the terms of the Open Game License v1.0a.
 
 # EPIC CLASS PROGRESSIONS
 
-## Table of Contents
-
--   [Epic Barbarian](#epic-barbarian)
--   [Epic Bard](#epic-bard)
--   [Epic Cleric](#epic-cleric)
--   [Epic Druid](#epic-druid)
--   [Epic Fighter](#epic-fighter)
--   [Epic Monk](#epic-monk)
--   [Epic Paladin](#epic-paladin)
--   [Epic Ranger](#epic-ranger)
--   [Epic Rogue](#epic-rogue)
--   [Epic Sorcerer](#epic-sorcerer)
--   [Epic Wizard](#epic-wizard)
-    -   [Familiars at Epic Level](#familiars-at-epic-level)
--   [Epic Psionic Class Progressions](#epic-psionic-class-progressions)
-    -   [No Epic Bonus Power
-        Progression](#no-epic-bonus-power-progression)
--   [Epic Psion](#epic-psion)
-    -   [Psicrystals at Epic Level](#psicrystals-at-epic-level)
--   [Epic Psychic Warrior](#epic-psychic-warrior)
--   [Epic Soulknife](#epic-soulknife)
--   [Epic Wilder](#epic-wilder)
-
 ## Epic Barbarian
 
-**Hit Die:** d12
+### Hit Die
+d12
 
-**Skill Points at Each Additional Level:** 4 + Int modifier
+### Skill Points at Each Additional Level
+4 + Int modifier
 
-**Barbarian Rage:** The epic barbarian gains one use of rage per day
+### Barbarian Rage
+The epic barbarian gains one use of rage per day
 every four levels after 20th.
 
-**Trap Sense (Ex):** The epic barbarian's bonus increases by +1 every
+### Trap Sense (Ex)
+The epic barbarian's bonus increases by +1 every
 three levels higher than 18th.
 
-**Damage Reduction (Ex):** The epic barbarian's damage reduction
+### Damage Reduction (Ex)
+The epic barbarian's damage reduction
 increases by 1 point every three levels higher than 19th.
 
-**Bonus Feats:** The epic barbarian gains a bonus feat (selected from
+### Bonus Feats
+The epic barbarian gains a bonus feat (selected from
 the list of epic barbarian bonus feats) every four levels higher than
 20th.
 
@@ -76,23 +58,29 @@ Critical, Ruinous Rage, Terrifying Rage, Thundering Rage.
 
 ## Epic Bard
 
-**Hit Die:** d6
+### Hit Die
+d6
 
-**Skill Points at Each Additional Level:** 6 + Int modifier
+### Skill Points at Each Additional Level
+6 + Int modifier
 
-**Spells:** The bard's caster level is equal to his or her class level.
+### Spells
+The bard's caster level is equal to his or her class level.
 The bard's number of spells per day does not increase after 20th level.
 The bard does not learn additional spells unless he or she selects the
 Spell Knowledge feat.
 
-**Bardic Music:** The bard gains no new bardic music effects from his or
+### Bardic Music
+The bard gains no new bardic music effects from his or
 her Perform ranks. However, he or she may select epic feats that grant
 new bardic music effects
 
-**Bardic Knowledge:** Add the bard's class level + Intelligence modifier
+### Bardic Knowledge
+Add the bard's class level + Intelligence modifier
 to all bardic knowledge checks, as normal.
 
-**Bonus Feats:** The epic bard gains a bonus feat (selected from the
+### Bonus Feats
+The epic bard gains a bonus feat (selected from the
 list of epic bard bonus feats) every three levels after 20th.
 
 *Epic Bard Bonus Feat List:* Augmented Alchemy, Deafening Song, Epic
@@ -104,7 +92,8 @@ Emanation, Polyglot, Ranged Inspiration, Rapid Inspiration, Reactive
 Countersong, Spell Knowledge, Spell Stowaway, Spell Opportunity,
 Tenacious Magic.
 
-**Inspire Courage (Su):** The epic bard's bonus when this ability is
+### Inspire Courage (Su)
+The epic bard's bonus when this ability is
 used increases by +1 every six levels higher than 20^th^.
 
   ------------ --------------------------------
@@ -125,19 +114,24 @@ used increases by +1 every six levels higher than 20^th^.
 
 ## Epic Cleric
 
-**Hit Die:** d8
+### Hit Die
+d8
 
-**Skill Points at Each Additional Level:** 2 + Int modifier
+### Skill Points at Each Additional Level
+2 + Int modifier
 
-**Spells:** The cleric's caster level is equal to his or her class
+### Spells
+The cleric's caster level is equal to his or her class
 level. The cleric's number of spells per day does not increase after
 20th level
 
-**Turn or Rebuke Undead:** Use the cleric's class level to determine the
+### Turn or Rebuke Undead
+Use the cleric's class level to determine the
 most powerful undead affected by a turn or rebuke check and the turning
 damage, just as normal.
 
-**Bonus Feats:** The epic cleric gains a bonus feat (selected from the
+### Bonus Feats
+The epic cleric gains a bonus feat (selected from the
 list of epic cleric bonus feats) every three levels after 20th.
 
 *Epic Cleric Bonus Feat List:* Armor Skin, Automatic Quicken Spell,
@@ -168,14 +162,18 @@ Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.
 
 ## Epic Druid
 
-**Hit Die:** d8
+### Hit Die
+d8
 
-**Skill Points at Each Additional Level:** 4 + Int modifier
+### Skill Points at Each Additional Level
+4 + Int modifier
 
-**Spells:** The druid's caster level is equal to his or her class level.
+### Spells
+The druid's caster level is equal to his or her class level.
 The druid's number of spells per day does not increase after 20th level.
 
-**Animal Companion:** The Druid's animal companion continues to increase
+### Animal Companion
+The Druid's animal companion continues to increase
 in power. Every three levels higher than 20^th^ the animal companion
 gains 2 bonus hit dice, +1 strength and dexterity, and an additional
 trick.
@@ -185,7 +183,8 @@ an animal one additional time per day every four levels higher than
 18th. The druid's ability to wild shape into an elemental does not
 improve.
 
-**Bonus Feats:** The epic druid gains a bonus feat (selected from the
+### Bonus Feats
+The epic druid gains a bonus feat (selected from the
 list of epic druid bonus feats) every four levels after 20th.
 
 Epic Druid Bonus Feat List: Automatic Quicken Spell, Automatic Silent
@@ -217,11 +216,14 @@ Opportunity, Spontaneous Spell, Tenacious Magic, Vermin Wild Shape.
 
 ## Epic Fighter
 
-**Hit Die:** d10
+### Hit Die
+d10
 
-**Skill Points at Each Additional Level:** 2 + Int modifier
+### Skill Points at Each Additional Level
+2 + Int modifier
 
-**Bonus Feats:** The epic fighter gains a bonus feat (selected from the
+### Bonus Feats
+The epic fighter gains a bonus feat (selected from the
 list of epic fighter bonus feats) every two levels after 20th.
 
 *Epic Fighter Bonus Feat List:* Armor Skin, Combat Archery, Damage
@@ -256,43 +258,56 @@ or her bonus feat list.
 
 ## Epic Monk
 
-**Hit Die:** d8
+### Hit Die
+d8
 
-**Skill Points at Each Additional Level:** 4 + Int modifier
+### Skill Points at Each Additional Level
+4 + Int modifier
 
-**AC Bonus:** The monk's bonus to Armor Class when unarmored increases
+### AC Bonus
+The monk's bonus to Armor Class when unarmored increases
 by +1 every five levels higher than 20th.
 
-**Unarmed Strike:** The damage for a monk's unarmed strike does not
+### Unarmed Strike
+The damage for a monk's unarmed strike does not
 increase after 16th level.
 
-**Stunning Attack:** If the monk has the Stunning Fist feat use the
+### Stunning Attack
+If the monk has the Stunning Fist feat use the
 monk's class level when determining the DC to resist this attack, as
 normal.
 
-**Unarmored Speed Bonus:** The epic monk's speed when wearing no armor
+### Unarmored Speed Bonus
+The epic monk's speed when wearing no armor
 increases by 10 feet every three levels higher than 18th. The unarmored
 speed of Small and dwarven monks increases by 5 feet instead of 10 feet.
 
-***Ki* Strike:** The monk's *ki* strike ability does not automatically
+### *Ki* Strike
+The monk's *ki* strike ability does not automatically
 increase with class level after 16th level.
 
-**Wholeness of Body (Su):** The epic monk can cure up to twice his or
+### Wholeness of Body (Su)
+The epic monk can cure up to twice his or
 her class level in hit points each day, as normal.
 
-**Abundant Step (Su):** Use the monk's class level when determining the
+### Abundant Step (Su)
+Use the monk's class level when determining the
 effective caster level of this ability, as normal.
 
-**Diamond Soul (Ex):** The epic monk's spell resistance is equal to his
+### Diamond Soul (Ex)
+The epic monk's spell resistance is equal to his
 or her class level +10, as normal.
 
-**Quivering Palm (Su):** Use the monk's class level when determining the
+### Quivering Palm (Su)
+Use the monk's class level when determining the
 DC to resist this attack, as normal.
 
-**Empty Body (Su):** Use the monk's class level when determining the
+### Empty Body (Su)
+Use the monk's class level when determining the
 duration of this effect, as normal.
 
-**Bonus Feats:** The epic monk gains a bonus feat (selected from the
+### Bonus Feats
+The epic monk gains a bonus feat (selected from the
 list of epic monk bonus feats) every five levels higher than 20th.
 
 *Epic Monk Bonus Feat List:* Armor Skin, Blinding Speed, Damage
@@ -321,35 +336,43 @@ Strike.
 
 ## Epic Paladin
 
-**Hit Die:** d10
+### Hit Die
+d10
 
-**Skill Points at Each Additional Level:** 2 + Int modifier
+### Skill Points at Each Additional Level
+2 + Int modifier
 
 ***Lay on Hands* (Su):**Each day a paladin can cure a total number of
 hit points equal to his or her Charisma bonus (if any) times his or her
 class level, as normal
 
-**Smite Evil (Su):** The epic paladin adds his or her class level to
+### Smite Evil (Su)
+The epic paladin adds his or her class level to
 damage with any smite evil attack, as normal. He or she can smite one
 additional time per day for every five levels higher than 20^th^.
 
-**Turn Undead:** The paladin turns undead as a cleric of two levels
+### Turn Undead
+The paladin turns undead as a cleric of two levels
 lower, as normal.
 
-**Spells:** The paladin's caster level is equal to one-half his or her
+### Spells
+The paladin's caster level is equal to one-half his or her
 class level, as normal. The paladin's number of spells per day does not
 increase after 20th level.
 
-**Special Mount:** The epic paladin's special mount continues to
+### Special Mount
+The epic paladin's special mount continues to
 increase in power. Every five levels after 20th the special mount gains
 +2 bonus Hit Dice, its natural armor increases by +2, its Strength
 adjustment increases by +1, and its Intelligence increases by +1. The
 mount's spell resistance equals the paladin's class level + 5.
 
-***Remove Disease* (Sp):** The epic paladin can use *remove disease* one
+### *Remove Disease* (Sp)
+The epic paladin can use *remove disease* one
 additional time per week for every three levels higher than 18th.
 
-**Bonus Feats:** The epic paladin gains a bonus feat (selected from the
+### Bonus Feats
+The epic paladin gains a bonus feat (selected from the
 list of epic paladin feats) every three levels higher than 20th.
 
 *Epic Paladin Bonus Feat List:* Armor Skin, Devastating Critical, Epic
@@ -378,23 +401,29 @@ Spell, Widen Aura of Courage.
 
 ## Epic Ranger
 
-**Hit Die:** d8
+### Hit Die
+d8
 
-**Skill Points at Each Additional Level:** 6 + Int modifier
+### Skill Points at Each Additional Level
+6 + Int modifier
 
-**Spells:** The ranger's caster level is equal to one-half his or her
+### Spells
+The ranger's caster level is equal to one-half his or her
 class level, as normal. The ranger's number of spells per day does not
 increase after 20th level.
 
-**Favored Enemy (Ex):** The epic ranger gains one additional favored
+### Favored Enemy (Ex)
+The epic ranger gains one additional favored
 enemy, and his or her bonuses against one category of favored enemies
 goes up by +2, every five levels higher than 20th.
 
-**Animal companion:** The epic ranger's animal companion continues to
+### Animal companion
+The epic ranger's animal companion continues to
 increase in power. The ranger's effective druid level is half his or her
 ranger level.
 
-**Bonus Feats:** The epic ranger gains a bonus feat (selected from the
+### Bonus Feats
+The epic ranger gains a bonus feat (selected from the
 list of epic ranger feats) every three levels after 20th.
 
 *Epic Ranger Bonus Feat List:* Bane of Enemies, Blinding Speed, Combat
@@ -424,22 +453,28 @@ Uncanny Accuracy.
 
 ## Epic Rogue
 
-**Hit Die:** d6.
+### Hit Die
+d6.
 
-**Skill Points at Each Additional Level:** 8 + Int modifier.
+### Skill Points at Each Additional Level
+8 + Int modifier.
 
-**Sneak Attack:** The epic rogue's sneak attack damage increases by +1d6
+### Sneak Attack
+The epic rogue's sneak attack damage increases by +1d6
 at every odd-numbered level.
 
-**Special Abilities:** The rogue does not gain additional rogue special
+### Special Abilities
+The rogue does not gain additional rogue special
 abilities after 19th level, but can choose one of the rogue class
 special abilities(crippling strike, defensive roll, improved evasion,
 opportunist, skill mastery, or slippery mind) instead of a bonus feat.
 
-**Trap Sense (Ex):** The epic rogue's bonus increases by +1 every three
+### Trap Sense (Ex)
+The epic rogue's bonus increases by +1 every three
 levels higher than 18th.
 
-**Bonus Feats:** The epic rogue gains a bonus feat (selected from the
+### Bonus Feats
+The epic rogue gains a bonus feat (selected from the
 list of epic rogue feats) every four levels after 20th.
 
 *Epic Rogue Bonus Feat List:* Blinding Speed, Combat Archery, Dexterous
@@ -468,23 +503,28 @@ a bonus feat.
 
 ## Epic Sorcerer
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
-**Spells:** The sorcerer's caster level is equal to his or her class
+### Spells
+The sorcerer's caster level is equal to his or her class
 level. The sorcerer's number of spells per day does not increase after
 20th level. The sorcerer does not learn additional spells unless he or
 she selects the Spell Knowledge feat.
 
-**Familiar:** The sorcerer's familiar continues to increase in power.
+### Familiar
+The sorcerer's familiar continues to increase in power.
 Every two levels beyond 20th the familiar's natural armor and
 Intelligence each increase by +1. The familiar's spell resistance is
 equal to the master's class level + 5. At 21^st^ level and again every
 ten levels higher than 21^st^, the familiar gains the benefit of the
 Familiar Spell epic feat for a spell of its master's choice.
 
-**Bonus Feats:** The epic sorcerer gains a bonus feat (selected from the
+### Bonus Feats
+The epic sorcerer gains a bonus feat (selected from the
 list of epic sorcerer bonus feats) every three levels after 20th.
 
 *Epic Sorcerer Bonus Feat List:* Augmented Alchemy, Automatic Quicken
@@ -513,24 +553,29 @@ Permanent Emanation, Spell Knowledge, Spell Stowaway, Spell Opportunity.
 
 ## Epic Wizard
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
-**Spells:** The wizard's caster level is equal to her class level. The
+### Spells
+The wizard's caster level is equal to her class level. The
 wizard's number of spells per day does not increase after 20th level.
 Each time the wizard achieves a new level, he or she learns two new
 spells of any spell levels that he or she can cast (according to his or
 her new level).
 
-**Familiar:** The wizards's familiar continues to increase in power.
+### Familiar
+The wizards's familiar continues to increase in power.
 Every two levels beyond 20th the familiar's natural armor and
 Intelligence each increase by +1. The familiar's spell resistance is
 equal to the master's class level + 5. At 21^st^ level and again every
 ten levels higher than 21^st^, the familiar gains the benefit of the
 Familiar Spell epic feat for a spell of its master's choice.
 
-**Bonus Feats:** The epic wizard gains a bonus feat (selected from the
+### Bonus Feats
+The epic wizard gains a bonus feat (selected from the
 list of epic wizard feats) every three levels after 20th.
 
 *Epic Wizard Bonus Feat List:* Augmented Alchemy, Automatic Quicken
@@ -620,16 +665,20 @@ time they expend their psionic focus.
 
 ## Epic Psion
 
-**Hit Die:** d4.
+### Hit Die
+d4.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
-**Powers:** The psion's manifester level is equal to his class level.
+### Powers
+The psion's manifester level is equal to his class level.
 The psion's base power points do not increase after 20th level. Each
 time the psion attains a new level, he learns two new powers of any
 level or levels that he can manifest.
 
-**Psicrystal:** The epic psion's psicrystal, if he has one, continues to
+### Psicrystal
+The epic psion's psicrystal, if he has one, continues to
 increase in power. At every odd-numbered level higher than 20th (21st,
 23rd, and so on) the psicrystal's natural armor bonus and Intelligence
 each increase by 1. The psicrystal's power resistance is equal to the
@@ -637,7 +686,8 @@ master's level + 5. At 21st level and again every ten levels higher than
 21st, the psicrystal gains the benefit of the Psicrystal Power epic feat
 for a power of its master's choice.
 
-**Bonus Feats:** The epic psion gains a bonus feat every three levels
+### Bonus Feats
+The epic psion gains a bonus feat every three levels
 higher than 20th (23rd, 26th, and so on).
 
   ------------- ------------
@@ -687,17 +737,21 @@ Power epic feat for the power its master chooses.
 
 ## Epic Psychic Warrior
 
-**Hit Die:** d8.
+### Hit Die
+d8.
 
-**Skill Points at Each Additional Level:** 2 + Int modifier.
+### Skill Points at Each Additional Level
+2 + Int modifier.
 
-**Powers:** The psychic warrior's manifester level is equal to her class
+### Powers
+The psychic warrior's manifester level is equal to her class
 level. The psychic warrior's base power points do not increase after
 20th level. The epic psychic warrior gains one new power of any level
 that she can manifest at every even-numbered level she attains higher
 than 20th (22nd, 24th, 26th, and so on).
 
-**Bonus Feats:** The epic psychic warrior gains a bonus feat (selected
+### Bonus Feats
+The epic psychic warrior gains a bonus feat (selected
 from the list of epic psychic warrior bonus feats) at 21st level and
 every three levels thereafter.
 
@@ -719,27 +773,33 @@ every three levels thereafter.
 
 ## Epic Soulknife
 
-**Hit Die:** d10.
+### Hit Die
+d10.
 
-**Skill Points at Each Additional Level:** 4 + Int modifier.
+### Skill Points at Each Additional Level
+4 + Int modifier.
 
-**Mind Blade:** At 25th level and every five levels thereafter, the
+### Mind Blade
+At 25th level and every five levels thereafter, the
 soulknife gains an additional +1 enhancement bonus on attack rolls and
 damage rolls (+6 at 25th, +7 at 30th, and so on).
 
-**Mind Blade Enhancement:** The epic soulknife's mind blade gains
+### Mind Blade Enhancement
+The epic soulknife's mind blade gains
 additional powers as the soulknife gains epic levels. At 22nd level and
 every four levels thereafter, the soulknife can improve the value of the
 weapon special abilities on his mind blade by 1 (+5 equivalent bonus at
 22nd, +6 at 26th, and so on). As noted in the soulknife class
 description, reassigning qualities still takes 8 hours of concentration.
 
-**Psychic Strike:** The epic soulknife's psychic strike progression
+### Psychic Strike
+The epic soulknife's psychic strike progression
 continues past 20th level, continuing to grant an additional die (d8) of
 damage every four levels higher than 19th (+6d8 at 23rd, +7d8 at 27th,
 and so on).
 
-**Bonus Feats:** The epic soulknife gains a bonus psionic feat every
+### Bonus Feats
+The epic soulknife gains a bonus psionic feat every
 three levels higher than 20th (23rd, 26th, and so on).
 
   ----------------- ---------------------------------------
@@ -760,25 +820,31 @@ three levels higher than 20th (23rd, 26th, and so on).
 
 ## Epic Wilder
 
-**Hit Die:** d6.
+### Hit Die
+d6.
 
-**Skill Points at Each Additional Level:** 4 + Int modifier.
+### Skill Points at Each Additional Level
+4 + Int modifier.
 
-**Powers:** The epic wilder's manifester level is equal to her class
+### Powers
+The epic wilder's manifester level is equal to her class
 level. The wilder's power points and powers known do not increase after
 20th level (except through the use of epic feats).
 
-**Wild Surge:** The epic wilder's wild surge continues to increase after
+### Wild Surge
+The epic wilder's wild surge continues to increase after
 20th level. At 23rd level and every four levels higher than 23rd, the
 wild surge continues to gain an additional +1 boost to manifester level
 when used (+7 at 23rd, +8 at 27th, and so on).
 
-**Surging Euphoria:** The wilder's surging euphoria progression
+### Surging Euphoria
+The wilder's surging euphoria progression
 continues past 20th level. At 28th level and every eight levels higher
 than 28th, the morale bonus on her attack rolls, damage rolls, and
 saving throws increases by 1 (+4 at 28th, +5 at 36th, and so on).
 
-**Volatile Mind:** The epic wilder's volatile mind ability continues to
+### Volatile Mind
+The epic wilder's volatile mind ability continues to
 increase. At 21st level and every four levels higher than 21st, the
 penalty assessed against telepathy powers manifested on the wilder is
 increased by 1 power point (5 points at 21st, 6 points at 25th, and so

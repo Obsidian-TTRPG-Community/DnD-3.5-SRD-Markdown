@@ -1,7 +1,6 @@
 ---
 lang: en
 title: v3.5 SRD / Epic / Epic Magic Items 1
-viewport: width=device-width,minimum-scale=1.0
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -40,31 +39,6 @@ build them. Even an epic magic item can never grant a dodge bonus, and
 the maximum inherent bonus that can be applied to an ability score is
 +5. An epic magic item cannot be created that uses or mimics an epic
 spell. A major artifact might be able to mimic such a spell, however.
-
-## Table of Contents
-
--   [Creating Epic Magic Items](#creating-epic-magic-items)
--   [Caster Level](#caster-level)
--   [Prerequisites](#prerequisites)
--   [Market Price](#market-price)
-    -   [Experience Point Cost](#experience-point-cost)
-    -   [Magic Item Descriptions](#magic-item-descriptions)
--   [Armor](#armor)
-    -   [Epic Armor and Shield Base
-        Price](#epic-armor-and-shield-base-price)
-    -   [Epic Armor and Shield Special Ability
-        Descriptions](#epic-armor-and-shield-special-ability-descriptions)
-    -   [Specific Armors and Shields](#specific-armors-and-shields)
--   [Weapons](#weapons)
-    -   [Epic Weapon Base Price](#epic-weapon-base-price)
-    -   [Epic Weapon Special Ability
-        Descriptions](#epic-weapon-special-ability-descriptions)
-    -   [Specific Weapons](#specific-weapons)
--   [Rings](#rings)
-    -   [Nonepic Magic Item](#nonepic-magic-item)
-    -   [Epic Ring Descriptions](#epic-ring-descriptions)
--   [Rods](#rods)
-    -   [Epic Rod Descriptions](#epic-rod-descriptions)
 
 ## Creating Epic Magic Items
 
@@ -286,7 +260,8 @@ can also have special abilities, such as those detailed below and
 nonepic abilities. Armor or a shield with a special ability must have at
 least a +1 enhancement bonus.
 
-**Acid Warding:** The armor absorbs the first 50 points of acid damage
+### Acid Warding
+The armor absorbs the first 50 points of acid damage
 per round that the wearer would normally take (similar to the *resist
 energy* spell).
 
@@ -294,7 +269,8 @@ energy* spell).
 Epic Magic Arms and Armor, *protection from energy; Market Price:* +6
 bonus.
 
-**Cold Warding:** The armor absorbs the first 50 points of cold damage
+### Cold Warding
+The armor absorbs the first 50 points of cold damage
 per round that the wearer would normally take (similar to the *resist
 energy* spell).
 
@@ -302,7 +278,8 @@ energy* spell).
 Epic Magic Arms and Armor, *protection from energy; Market Price:* +6
 bonus.
 
-**Exceptional Arrow Deflection:** This shield functions like a *shield
+### Exceptional Arrow Deflection
+This shield functions like a *shield
 of arrow deflection* except that it can deflect any type of ranged
 attack (including spells that require a ranged touch attack) as if it
 were an arrow. Any time the bearer would normally be struck by a ranged
@@ -316,7 +293,8 @@ deflect a ranged attack doesn't count as an action.
 Epic Magic Arms and Armor, *shield, wall of force; Market Price: +*8
 bonus.
 
-**Fire Warding:** The armor absorbs the first 50 points of fire damage
+### Fire Warding
+The armor absorbs the first 50 points of fire damage
 per round that the wearer would normally take (similar to the *resist
 energy* spell).
 
@@ -324,7 +302,8 @@ energy* spell).
 Epic Magic Arms and Armor, *protection from energy; Market Price: +*6
 bonus.
 
-**Great Invulnerability:** This suit of armor or shield grants the
+### Great Invulnerability
+This suit of armor or shield grants the
 wearer damage reduction. The damage reduction can be 10/magic, 15/magic,
 5/epic, or 10/epic, depending on the armor.
 
@@ -333,7 +312,8 @@ wearer damage reduction. The damage reduction can be 10/magic, 15/magic,
 Arms and Armor, *stoneskin, wish,* or *miracle; Market Price:+*4 bonus
 (10/magic),+5 bonus (15/magic),+6 bonus (5/epic),+7 bonus (10/epic).
 
-**Great Reflection:** Any time its bearer of this shield is targeted
+### Great Reflection
+Any time its bearer of this shield is targeted
 with a spell, it automatically reflects the spell back at the caster (as
 the *spell turning* spell). The wearer can lower or raise this effect as
 a free action (thus allowing beneficial spells in as desired).
@@ -341,7 +321,8 @@ a free action (thus allowing beneficial spells in as desired).
 *Caster Level:* 25th; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *spell turning; Market Price: +*10 bonus.
 
-**Great Spell Resistance:** This suit of armor or shield grants the
+### Great Spell Resistance
+This suit of armor or shield grants the
 wearer spell resistance. The spell resistance can be 21, 23, 25, or 27,
 depending on the armor.
 
@@ -350,7 +331,8 @@ depending on the armor.
 Armor, *spell resistance; Market Price: +*6 bonus (SR 21), +7 bonus (SR
 23), +8 bonus (SR 25), +9 bonus (SR 27).
 
-**Infinite Arrow Deflection:** This shield functions like a *shield of
+### Infinite Arrow Deflection
+This shield functions like a *shield of
 arrow deflection*, though it can deflect any number of projectiles or
 thrown weapons each round. Any time the bearer would normally be struck
 by a ranged weapon, he or she can make a Reflex saving throw (DC 20). If
@@ -365,7 +347,8 @@ deflected.
 Epic Magic Arms and Armor, *protection from arrows, shield; Market
 Price: +*6 bonus.
 
-**Lightning Warding:** The armor absorbs the first 50 points of
+### Lightning Warding
+The armor absorbs the first 50 points of
 lightning damage per round that the wearer would normally take (similar
 to the *resist energy* spell).
 
@@ -373,7 +356,8 @@ to the *resist energy* spell).
 Craft Epic Magic Arms and Armor, *protection from energy; Market Price:
 +*6 bonus.
 
-**Negating:** Immediately after the wearer of this armor is hit with a
+### Negating
+Immediately after the wearer of this armor is hit with a
 magic weapon, the armor casts *greater dispelling* on the weapon. (In
 the case of projectile weapons, the armor casts *greater dispelling* on
 the weapon that fired the projectile if it is in range. If it is out of
@@ -383,7 +367,8 @@ more than once per day (regardless of the success of the dispel check).
 *Caster Level:* 20th; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *greater dispelling; Market Price: +*5 bonus.
 
-**Sonic Warding:** The armor absorbs the first 50 points of sonic damage
+### Sonic Warding
+The armor absorbs the first 50 points of sonic damage
 per round that the wearer would normally take (similar to the *resist
 energy* spell).
 
@@ -406,7 +391,8 @@ bonus.
 
 ### Specific Armors and Shields
 
-**Antimagic Armor:** This +*1 negating full plate armor of
+### Antimagic Armor
+This +*1 negating full plate armor of
 invulnerability* is crafted of adamantine (and thus has damage reduction
 3/--). The armor provides a --5 penalty on dispel checks made against it
 or its wearer.
@@ -416,7 +402,8 @@ Epic Magic Arms and Armor, *greater dispelling, stoneskin, wish* or
 *miracle; Market Price:* 871,500 gp; *Cost to Create:* 436,500 gp +
 18,700 XP.
 
-**Armor of the Abyssal Horde:** This+*6 full plate armor's* clawed
+### Armor of the Abyssal Horde
+This+*6 full plate armor's* clawed
 gauntlets are effectively +4 keen weapons (1d10/19--20) that afflict the
 target as if she had been struck by an *energy drain* spell (Fortitude
 negates DC 23). The armor bestows two negative levels on any nonevil
@@ -429,7 +416,8 @@ way (including *restoration* spells) while the armor is worn.
 Epic Magic Arms and Armor, creator must be evil, *energy drain; Market
 Price:* 768,260 gp; *Cost to Create:* 385,260 gp + 17,660 XP.
 
-**Armor of the Celestial Battalion:** This+*7 chainmail* is so fine and
+### Armor of the Celestial Battalion
+This+*7 chainmail* is so fine and
 light that it can be worn under normal clothing without revealing its
 presence. It has a maximum Dexterity bonus of +10, no armor check
 penalty, and an arcane spell failure chance of 10%. It is considered
@@ -443,7 +431,8 @@ Epic Magic Arms and Armor, creator must be good, *magic circle against
 evil; Market Price:* 616,300 gp; *Cost to Create:* 308,300 gp + 16,160
 XP.
 
-**Bulwark of the Great Dragon:** This +*6 heavy shield* bears the image
+### Bulwark of the Great Dragon
+This +*6 heavy shield* bears the image
 of a dragon's head. Three times per day, the bearer of the shield can
 command it to belch forth a breath weapon of the appropriate type. The
 range of this breath weapon is 80 feet (if a line) or 40 feet (if a
@@ -471,7 +460,8 @@ table:
 Epic Magic Arms and Armor, *protection from energy; Market Price:*
 1,612,970 gp; *Cost to Create:* 806,570 gp + 26,128 XP.
 
-**Dragonskin Armor:** This+*5 full plate armor* is crafted from the hide
+### Dragonskin Armor
+This+*5 full plate armor* is crafted from the hide
 of a great wyrm dragon. At the wearer's command, the armor sprouts
 enormous dragon wings, allowing the wearer to fly at a speed of 90 feet
 (clumsy) for a total of 4 hours each day. The armor also grants immunity
@@ -501,7 +491,8 @@ checks against dragons.
 Epic Magic Arms and Armor, *protection from energy, shapechange; Market
 Price:* 564,550 gp; *Cost to Create:* 283,250 gp + 15,629 XP.
 
-**Shapeshifter's Armor:** This suit of +*6 hide armor* grants its full
+### Shapeshifter's Armor
+This suit of +*6 hide armor* grants its full
 Armor Class bonus regardless of any form the wearer takes (with
 *polymorph, shapechange, wild shape,* or similar abilities).
 
@@ -509,7 +500,8 @@ Armor Class bonus regardless of any form the wearer takes (with
 Epic Magic Arms and Armor, *shapechange* or *wild shape* ability;
 *Market Price:* 400,165 gp; *Cost to Create:* 200,165 gp + 14,000 XP.
 
-**Warlord's Breastplate:** This +*6 mithral breastplate* has an armor
+### Warlord's Breastplate
+This +*6 mithral breastplate* has an armor
 check penalty of --1, a maximum Dexterity bonus of +5, and an arcane
 spell failure chance of 15%. It is considered light armor and weighs 15
 pounds. It grants the wearer a +4 enhancement bonus to Charisma and
@@ -806,7 +798,8 @@ Most magic weapons only have enhancement bonuses. They can also have
 special abilities, such as those detailed below and nonepic abilities.A
 weapon with a special ability must have at least a +1 enhancement bonus.
 
-**Acidic Blast:** On command, an acidic blast weapon drips acid (though
+### Acidic Blast
+On command, an acidic blast weapon drips acid (though
 this deals no damage to the wielder). On any hit, this acid splashes the
 creature struck, dealing +3d6 points of bonus acid damage. On a
 successful critical hit it instead deals +6d6 points of acid damage (or
@@ -817,7 +810,8 @@ bestow the bonus acid damage upon their ammunition.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *acid fog; Market Price: +*6 bonus.
 
-**Anarchic Power:** This weapon is chaos-aligned and thus bypasses the
+### Anarchic Power
+This weapon is chaos-aligned and thus bypasses the
 corresponding damage reduction. When a weapon of anarchic power strikes
 a lawful target, this power deals +3d6 points of bonus chaotic damage to
 the target, and the target gains one negative level (Fortitude DC 23 to
@@ -837,7 +831,8 @@ the nonepic anarchic special ability.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *word of chaos; Market Price: +*8 bonus.
 
-**Axiomatic Power:** This weapon is lawful-aligned and thus bypasses the
+### Axiomatic Power
+This weapon is lawful-aligned and thus bypasses the
 corresponding damager reduction. When a weapon of axiomatic power
 strikes a chaotic target, this power erupts forth and deals +3d6 points
 of bonus lawful damage to the target, and the target gains one negative
@@ -858,13 +853,15 @@ ability.
 *Caster Level:* 23rd; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *dictum; Market Price: +*8 bonus.
 
-**Distant Shot:** A distant shot weapon can be used against any target
+### Distant Shot
+A distant shot weapon can be used against any target
 within line of sight at no penalty for range.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *discern location; Market Price: +*6 bonus.
 
-**Dread:** A dread weapon excels at attacking one type of creature.
+### Dread
+A dread weapon excels at attacking one type of creature.
 Against its designated foe, its effective enhancement bonus is +4 better
 than its normal enhancement bonus. Further, it deals +4d6 points of
 bonus damage against the foe, and if it scores a successful critical hit
@@ -896,7 +893,8 @@ Epic Magic Arms and Armor, *summon monster IX; Market Price: +*7 bonus.
   55--57   Humanoids, reptilian             
   -------- ---------------------- --------- ---------------------
 
-**Everdancing:** An everdancing weapon is much like a dancing weapon,
+### Everdancing
+An everdancing weapon is much like a dancing weapon,
 though it can be loosed with a free action and will fight as long as
 desired. It can move up to 60 feet away from its owner. Its owner can
 instruct it to move to a different target as a move-equivalent action.
@@ -908,7 +906,8 @@ as a free action (assuming it is within reach).
 *Caster Level:* 23rd; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *animate objects; Market Price: +*8 bonus.
 
-**Fiery Blast:** On command, a fiery blast weapon is sheathed in fire
+### Fiery Blast
+On command, a fiery blast weapon is sheathed in fire
 (though this deals no damage to the wielder). On any hit, this fire
 engulfs the creature struck, dealing +3d6 points of bonus fire damage.
 On a successful critical hit it instead deals +6d6 points of fire damage
@@ -919,7 +918,8 @@ bestow the bonus fire damage upon their ammunition.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *fireball; Market Price: +*6 bonus.
 
-**Holy Power:** This weapon is good-aligned and thus bypasses the
+### Holy Power
+This weapon is good-aligned and thus bypasses the
 corresponding damager reduction. When a weapon of holy power strikes an
 evil target, this power erupts forth and deals +3d6 points of bonus holy
 (good) damage to the target, and the target gains one negative level
@@ -939,7 +939,8 @@ special ability does not stack with the nonepic holy special ability.
 *Caster Level:* 23rd; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *holy word; Market Price: +*8 bonus.
 
-**Icy Blast:** On command, an icy blast weapon is sheathed in icy cold
+### Icy Blast
+On command, an icy blast weapon is sheathed in icy cold
 (though this deals no damage to the wielder). On any hit, this cold
 washes over the creature struck, dealing +3d6 points of bonus cold
 damage. On a successful critical hit it instead deals +6d6 points of
@@ -950,7 +951,8 @@ special ability bestow the bonus cold damage upon their ammunition.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *cone of cold; Market Price: +*6 bonus.
 
-**Lightning Blast:** On command, a lightning blast weapon crackles with
+### Lightning Blast
+On command, a lightning blast weapon crackles with
 electrical energy (though this deals no damage to the wielder). On any
 hit, lightning coruscates around the creature struck, dealing +3d6
 points of bonus electricity damage. On a successful critical hit it
@@ -962,7 +964,8 @@ electricity damage upon their ammunition.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *lightning bolt; Market Price: +*6 bonus.
 
-**Mighty Disruption:** Any undead creature struck in combat must succeed
+### Mighty Disruption
+Any undead creature struck in combat must succeed
 at a Fortitude save (DC 21) or be destroyed. A weapon of mighty
 disruption must be a bludgeoning weapon. (If this property is rolled for
 a piercing or slashing weapon, reroll.)
@@ -970,7 +973,8 @@ a piercing or slashing weapon, reroll.)
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *true resurrection; Market Price: +*6 bonus.
 
-**Sonic Blast:** On command, a sonic blast weapon emits a low thrumming
+### Sonic Blast
+On command, a sonic blast weapon emits a low thrumming
 hum (though this deals no damage to the wielder). On any hit, this
 becomes a thunderous roar that deals +3d6 points of bonus sonic damage
 to the creature struck. On a successful critical hit it instead deals
@@ -982,7 +986,8 @@ ammunition.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *shout; Market Price: +*6 bonus.
 
-**Triple-Throw:** This special ability can only be placed on a weapon
+### Triple-Throw
+This special ability can only be placed on a weapon
 that can be thrown. (If this property is rolled for a weapon that cannot
 be thrown, reroll.) A triple-throw weapon creates two duplicates of
 itself when thrown. Both the original and the duplicate weapons attack
@@ -996,7 +1001,8 @@ duplicates.
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *shades; Market Price: +*6 bonus.
 
-**Unerring Accuracy:** Ranged attacks made with this weapon negate the
+### Unerring Accuracy
+Ranged attacks made with this weapon negate the
 AC bonus granted by any cover short of total cover. The weapon's ranged
 attacks also ignore any miss chance from concealment (including total
 concealment, but the must still aim his or her attacks at the correct
@@ -1005,7 +1011,8 @@ square).
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *true seeing; Market Price: +*6 bonus.
 
-**Unholy Power:** This weapon is evil-aligned and this bypasses the
+### Unholy Power
+This weapon is evil-aligned and this bypasses the
 corresponding damage reduction. When a weapon of unholy power strikes a
 good target, this power erupts forth and deals +3d6 points of bonus
 unholy (evil) damage to the target, and the target gains one negative
@@ -1027,7 +1034,8 @@ Epic Magic Arms and Armor, *unholy word; Market Price: +*8 bonus.
 
 ### Specific Weapons
 
-**Backstabber:** This +*6 short sword* adds +2d6 to the wielder's sneak
+### Backstabber
+This +*6 short sword* adds +2d6 to the wielder's sneak
 attack damage. If the wielder does not have the sneak attack ability,
 this weapon does not grant it.
 
@@ -1035,7 +1043,8 @@ this weapon does not grant it.
 Epic Magic Arms and Armor, *inflict moderatewounds; Market Price:*
 770,310 gp; *Cost to Create:* 385,310 gp + 17,700 XP.
 
-**Chaosbringer:** This +*6 greataxe of anarchic power* grants its
+### Chaosbringer
+This +*6 greataxe of anarchic power* grants its
 wielder the ability to fly into a rage (identical to a barbarian's rage)
 once per day (or one additional time per day if the wielder already has
 the rage class feature). If the wielder has the greater rage class
@@ -1045,7 +1054,8 @@ feature, the weapon also grants the wielder the Incite Rage epic feat.
 Epic Magic Arms and Armor, *rage, mass charm monster; Market Price:*
 4,025,350 gp; *Cost to Create:* 2,012,850 gp + 50,250 XP.
 
-**Elven Greatbow:** In the hands of any nonelf, this bow performs only
+### Elven Greatbow
+In the hands of any nonelf, this bow performs only
 as a +*2 composite longbow.*In the hands of an elf, this weapon
 functions as a +*5 composite longbow of unerring accuracy*with a
 Strength bonus that matches its elven wielder's current Strength at all
@@ -1056,7 +1066,8 @@ regardless of the enhancement bonus of the arrow fired.
 Epic Magic Arms and Armor, *bull's strength, keen edge, true seeing;
 Market Price:* 2,900,400 gp; *Cost to Create:* 1,450,400 gp + 39,400 XP.
 
-**Everwhirling Chain:** This +*4 defending everdancing spiked chain of
+### Everwhirling Chain
+This +*4 defending everdancing spiked chain of
 speed* continuously twitches in its wielder's hands. The wielder of the
 *everwhirling chain* can use it to make any number of attacks of
 opportunity per round (as if he or she had the Improved Combat Reflexes
@@ -1067,7 +1078,8 @@ Epic Magic Arms and Armor, *animate objects, haste, shield* (or *shield
 of faith*); *Market Price:* 5,220,325 gp; *Cost to Create:* 2,610,325
 gp + 52,200 XP.
 
-**Finaldeath:** This +*5 undead dread ghost touch morningstar* also
+### Finaldeath
+This +*5 undead dread ghost touch morningstar* also
 grants its wielder immunity to energy drain attacks. Furthermore, if its
 wielder is capable of turning undead, he or she gains the Positive
 Energy Aura feat.
@@ -1077,7 +1089,8 @@ Epic Magic Arms and Armor, *death ward, plane shift, summon monster IX,*
 creator must be able to turn undead; *Market Price:* 3,580,308 gp; *Cost
 to Create:* 1,790,308 gp + 45,800 XP.
 
-**Gripsoul:** *Gripsoul* is a +*6 keen long-sword,* but instead of
+### Gripsoul
+*Gripsoul* is a +*6 keen long-sword,* but instead of
 dealing additional damage on a critical hit, the weapon imprisons the
 victim in a gem set in the pommel of the sword as per a *binding* spell
 heightened to 16th level (DC 30). The same is true of any blow that
@@ -1089,7 +1102,8 @@ any time with a command word.
 Epic Magic Arms and Armor, *binding; Market Price:* 1,856,500 gp; *Cost
 to Create:* 934,500 gp + 28,440 XP.
 
-**Holy Devastator:** In the hands of any character other than a paladin,
+### Holy Devastator
+In the hands of any character other than a paladin,
 this sword performs as a +*3 holy longsword.*In the hands of a paladin,
 this weapon functions as a +*7 longsword of holy power* and grants a +5
 sacred bonus on the wielder's saving throws against spells with the evil
@@ -1101,7 +1115,8 @@ paladin level to damage (rather than his or her paladin level).
 Epic Magic Arms and Armor, *holy aura, holy smite, holy word; Market
 Price:* 4,620,315 gp; *Cost to Create:* 2,310,315 gp + 56,200 XP.
 
-**Mace of Ruin:** This +*7 heavy mace* ignores the hardness or damage
+### Mace of Ruin
+This +*7 heavy mace* ignores the hardness or damage
 reduction of any object or creature it strikes. Furthermore, the weapon
 can deal critical hits to objects and constructs as if they were living
 creatures.
@@ -1110,7 +1125,8 @@ creatures.
 Epic Magic Arms and Armor, *disintegrate; Market Price:* 1,000,312 gp;
 *Cost to Create:* 500,312 gp + 20,000 XP.
 
-**Quarterstaff of Alacrity:** Both ends of this +*5 quarterstaff of
+### Quarterstaff of Alacrity
+Both ends of this +*5 quarterstaff of
 speed* have equal enhancement and special powers, meaning that it allows
 an additional attack with each end every round. While the *quarterstaff
 of alacrity* is held, it grants its wielder a +5 resistance bonus on
@@ -1121,7 +1137,8 @@ Deflect Arrows and Infinite Deflection feats.
 Epic Magic Arms and Armor, *protection from arrows, shield; Market
 Price:* 462,600 gp; *Cost to Create:* 231,600 gp + 14,620 XP.
 
-**Souldrinker:** This +*5 bastard sword* bestows 2d4 negative levels on
+### Souldrinker
+This +*5 bastard sword* bestows 2d4 negative levels on
 its target whenever it deals damage, just as if its target had been
 struck by the *energy drain* spell. Each negative level bestowed grants
 the wielder 5 temporary hit points. One day after being struck, the
@@ -1136,7 +1153,8 @@ of 1 hour.
 Epic Magic Arms and Armor, Spell Focus (Necromancy), *energy drain;
 Market Price:* 478,335 gp; *Cost to Create:* 239,315 gp + 14,780 XP.
 
-**Stormbrand:** This +*4 thundering shocking burst greatsword* allows
+### Stormbrand
+This +*4 thundering shocking burst greatsword* allows
 its wielder to fly at will (as the *fly* spell). Furthermore, the
 wielder can move normally (including flying) even in the strongest
 winds. When the weapon is drawn, the wielder gains electricity
@@ -1147,7 +1165,8 @@ Epic Magic Arms and Armor, *blindness/ deafness, call lightning* or
 *lightning bolt, control winds, fly, protection from energy; Market
 Price:* 235,350 gp; *Cost to Create:* 117,850 gp + 12,350 XP.
 
-**Unholy Despoiler:** In the hands of any character other than a
+### Unholy Despoiler
+In the hands of any character other than a
 blackguard, this sword performs as a +*3 unholy longsword.*In the hands
 of a blackguard, this weapon functions as a +*7 longsword of unholy
 power* and grants a +5 profane bonus on the wielder's saving throws
@@ -1164,7 +1183,8 @@ Market Price:* 4,650,315 gp; *Cost to Create:* 2,325,315 gp + 56,500 XP.
 
 ### Nonepic Magic Item
 
-**Universal Energy Resistance, Minor:** This ring functions as a *ring
+### Universal Energy Resistance, Minor
+This ring functions as a *ring
 of minor energy resistance* for all types of energy: fire, cold,
 electricity, acid, and sonic. When the wearer would normally take such
 damage, subtract 10 points of damage per round from the amount before
@@ -1208,7 +1228,8 @@ energy; Market Price:* 84,000 gp.
 
 Standard epic rings are described below.
 
-**Adamant Law:** The wearer of this ring is constantly sheathed in a
+### Adamant Law
+The wearer of this ring is constantly sheathed in a
 *shield of law* effect. It bestows one negative level on any chaotic
 creature that puts it on. The negative level remains as long as the ring
 is worn and disappears when the ring is removed. This negative level
@@ -1218,7 +1239,8 @@ never results in actual level loss, but it cannot be overcome in any way
 *Caster Level:* 15th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *shield of law,* creator must be lawful; *Market Price:* 250,000 gp.
 
-**Chaotic Fury:** The wearer of this ring is constantly sheathed in a
+### Chaotic Fury
+The wearer of this ring is constantly sheathed in a
 *cloak of chaos* effect. It bestows one negative level on any lawful
 creature that puts it on. The negative level remains as long as the ring
 is worn and disappears when the ring is removed. This negative level
@@ -1228,14 +1250,16 @@ never results in actual level loss, but it cannot be overcome in any way
 *Caster Level:* 15th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *cloak of chaos,* creator must be chaotic; *Market Price:* 250,000 gp.
 
-**Energy Immunity:** This band continually provides the wearer with
+### Energy Immunity
+This band continually provides the wearer with
 immunity to a single type of energy: fire, cold, electricity, acid, or
 sonic. The wearer takes no damage from the energy of the specific type.
 
 *Caster Level:* 20th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *protection from energy; Market Price:* 240,000 gp. Epic
 
-**Protection:** This ring offers continual magical protection in the
+### Protection
+This ring offers continual magical protection in the
 form of a deflection bonus to Armor Class of +6 or higher.
 
 *Caster Level:* 20th: *Prerequisites:* Forge Ring, Forge Epic Ring,
@@ -1243,7 +1267,8 @@ form of a deflection bonus to Armor Class of +6 or higher.
 bonus; *Market Price:* 720,000 gp (+6), 980,000 gp (+7), 1,280,000 gp
 (+8), 1,620,000 gp (+9), 2,000,000 gp (+10).
 
-**Epic Wizardry:** Like the *ring of wizardry,* this ring comes in a
+### Epic Wizardry
+Like the *ring of wizardry,* this ring comes in a
 variety of types useful only to arcane spellcasters. The wearer's arcane
 spells per day are doubled for one particular spell level. An *epic ring
 of wizardry V* doubles 5th-level spells, an *epic ring of wizardry VI*
@@ -1260,7 +1285,8 @@ IX);Prerequisites:* Forge Ring, Forge Epic Ring, *wish; Market Price:*
 gp *(epic wizardry VII),*640,000 gp *(epic wizardry VIII),*810,000 gp
 *(epic wizardry IX).*
 
-**Ineffable Evil:** The wearer of this ring is constantly sheathed in an
+### Ineffable Evil
+The wearer of this ring is constantly sheathed in an
 *unholy aura* effect. It bestows one negative level on any good creature
 that puts it on. The negative level remains as long as the ring is worn
 and disappears when the ring is removed. This negative level never
@@ -1270,13 +1296,15 @@ results in actual level loss, but it cannot be overcome in any way
 *Caster Level:* 15th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *unholy aura,* creator must be evil; *Market Price:* 250,000 gp.
 
-**Ironskin:** This ring grants its wearer damage reduction
+### Ironskin
+This ring grants its wearer damage reduction
 15/adamantine.
 
 *Caster Level:* 20th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *iron body; Market Price:* 400,000 gp.
 
-**Rapid Healing:** This ring grants a living wearer fast healing 3. It
+### Rapid Healing
+This ring grants a living wearer fast healing 3. It
 must be worn for 24 hours before its powers activate, and if removed it
 will not function again until it has been worn for 24 hours by the same
 individual.
@@ -1284,21 +1312,24 @@ individual.
 *Caster Level:* 20th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *regenerate; Market Price:* 300,000 gp.
 
-**Sequestering:** This ring becomes invisible when worn. Upon command,
+### Sequestering
+This ring becomes invisible when worn. Upon command,
 the wearer gains the benefits of a *sequester* spell (though he or she
 does not become comatose as normal for the spell).
 
 *Caster Level:* 20th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *sequester; Market Price:* 300,000 gp.
 
-**Universal Energy Immunity:** This ring functions as a *ring of energy
+### Universal Energy Immunity
+This ring functions as a *ring of energy
 immunity* for all types of energy--- fire, cold, electricity, acid, and
 sonic. The wearer takes no damage from energy of any of these types.
 
 *Caster Level:* 20th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *protection from energy; Market Price:* 2,160,000 gp.
 
-**Universal Energy Resistance, Greater:** This ring functions as a *ring
+### Universal Energy Resistance, Greater
+This ring functions as a *ring
 of greater energy resistance* for all types of energy---fire, cold,
 electricity, acid, and sonic. When the wearer would normally take such
 damage, subtract 30 points of damage per round from the amount before
@@ -1308,7 +1339,8 @@ applying.
 *protection from energy; Market Price:* 308,000 gp; *Cost to Create:*
 154,000 gp + 13,080 XP.
 
-**Virtuous Good:** The wearer of this ring is constantly sheathed in a
+### Virtuous Good
+The wearer of this ring is constantly sheathed in a
 *holy aura* effect. It bestows one negative level on any evil creature
 that puts it on. The negative level remains as long as the ring is worn
 and disappears when the ring is removed. This negative level never
@@ -1319,7 +1351,8 @@ results in actual level loss, but it cannot be over-come in any way
 *holy aura,* creator must be good; *Market Price:* 250,000 gp; *Cost to
 Create:* 125,000 gp + 12,500 XP.
 
-**Weaponbreaking:** A *ring of weaponbreaking* is identical to a *ring
+### Weaponbreaking
+A *ring of weaponbreaking* is identical to a *ring
 of ironskin,* and has one additional power. Any weapon that successfully
 strikes the wearer must also make a Fortitude saving throw (DC 20) or be
 shattered into pieces.
@@ -1328,7 +1361,8 @@ shattered into pieces.
 *iron body, shatter; Market Price:* 600,000 gp; *Cost to Create:*
 300,000 gp + 16,000 XP.
 
-**Epic Psionics:** This special crystal ring comes in a variety of types
+### Epic Psionics
+This special crystal ring comes in a variety of types
 useful only to psionic characters (characters who have power points per
 day). The wearer's total power points per day are increased, depending
 on the ring. The points granted are not bonus points---while the ring is
@@ -1388,7 +1422,8 @@ gp *(epic psionics VIII*), 810,000 gp *(epic psionics IX).*
 
 Standard epic rods are described below.
 
-**Besiegement:** This rod functions as a +*3 light mace.* In addition,
+### Besiegement
+This rod functions as a +*3 light mace.* In addition,
 it is useful for besieging fortifications. Whenever the wielder makes a
 charge attack, the rod improves to a +6 weapon. Twice per day, the rod
 can create a battering ram that lasts for 24 rounds. This ram can strike
@@ -1409,7 +1444,8 @@ Magic Arms and Armor, *clenched fist, passwall, telepathic bond,
 transmute rock to mud; Market Price:* 447,745 gp; *Cost to Create:*
 224,025 gp + 14,474 XP.
 
-**Epic Absorption:** Like a *rod of absorption,* this rod draws
+### Epic Absorption
+Like a *rod of absorption,* this rod draws
 single-target or ray spells and spell-like abilities into itself,
 nullifying the effect and storing the potential spell levels until the
 wielder releases the energy in the form of spells of his or her own.
@@ -1422,7 +1458,8 @@ remaining potential it might have. The rod cannot be recharged.
 Empower Spell, Maximize Spell, empowered maximized *spell turning;
 Market Price:* 1,500,000 gp.
 
-**Epic Cancellation:** This rod's touch drains an item of all magical
+### Epic Cancellation
+This rod's touch drains an item of all magical
 properties, including the magical energy in epic magic items (but not
 most artifacts). The item touched gets a Will saving throw (DC 26). If a
 creature is holding the magic item at the time, then the item can use
@@ -1436,7 +1473,8 @@ restore lost power. A *rod of epic cancellation* can neutralize a normal
 *Caster Level:* 25th; *Prerequisites:* Craft Rod, Craft Epic Rod,
 *dispel magic; Market Price:* 330,000 gp.
 
-**Epic Might:** This rod is similar to a *rod of lordly might,* although
+### Epic Might
+This rod is similar to a *rod of lordly might,* although
 it is far more powerful. It is larger than its normal counterpart, and
 it is constructed of adamantine rather than normal metal. It has six
 buttons, several spell-like functions, and several mundane uses, and it
@@ -1491,7 +1529,8 @@ wounds, inflict critical wounds, bull's strength, fireball, dominate
 person, power word stun; Market Price:* 4,293,432 gp; *Cost to Create:*
 2,151,372 gp + 52,841 XP.
 
-**Epic Negation:** This rod negates the spell or spell-like function or
+### Epic Negation
+This rod negates the spell or spell-like function or
 functions of magic items, including epic magic items (but not
 artifacts). The wielder points the rod at the magic item, and a beam
 shoots forth to touch the target device, attacking as a ray (a ranged
@@ -1505,7 +1544,8 @@ resist this effect. The rod can function three times per day.
 *Caster Level:* 24th; *Prerequisites:* Craft Rod, Craft Epic Rod,
 *dispel magic, limited wish* or *miracle; Market Price:* 446,000 gp.
 
-**Epic Rulership:** This rod appears to be a royal scepter worth at
+### Epic Rulership
+This rod appears to be a royal scepter worth at
 least 25,000 gp in materials and work-manship alone. The wielder can
 command the obedience and fealty of creatures within 360 feet when he or
 she activates the device (a standard action). Creatures totaling 900 Hit
@@ -1521,14 +1561,16 @@ need not be continuous.
 Improved Heighten Spell, improved heightened *mass charm; Market Price:*
 575,000 gp; *Cost to Create:* 300,000 gp + 15,500 XP.
 
-**Epic Spellcaster:** This magnificent adamantine rod grants its wielder
+### Epic Spellcaster
+This magnificent adamantine rod grants its wielder
 a +10 insight bonus on Spellcraft checks made to cast epic spells for as
 long as he or she holds or carries the rod.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Rod, Craft Epic Rod;
 *Market Price:* 245,400 gp.
 
-**Epic Splendor:** This rod grants its wielder a +8 enhancement bonus to
+### Epic Splendor
+This rod grants its wielder a +8 enhancement bonus to
 Charisma for as long as he or she holds or carries the item. Three times
 per day, the rod creates and garbs him or her in clothing of the finest
 fabrics, plus adornments of fur and jewels. Apparel created by the rod
@@ -1546,7 +1588,8 @@ for three days, after which time it, and everything originally in it
 *fabricate, mage's magnificent mansion; Market Price:* 297,400 gp; *Cost
 to Create:* 191,200 gp + 12,124 XP.
 
-**Excellent Magic:** Once per day when casting a nonepic or epic spell
+### Excellent Magic
+Once per day when casting a nonepic or epic spell
 that has an experience point component, the rod supplies up to 2,000 XP,
 not the caster. If more experience points are required to cast the
 spell, the caster provides them. As a special use of the rod, the caster
@@ -1557,7 +1600,8 @@ the rod, rendering it useless.
 *Caster Level:* 21st; *Prerequisites:* Craft Rod, Craft Epic Rod;
 *Market Price:* 650,000 gp; *Cost to Create:* 325,000 gp + 26,000 XP.
 
-**Fortification:** This rod functions as a +*3 light mace.* In addition,
+### Fortification
+This rod functions as a +*3 light mace.* In addition,
 it is useful for the construction and defense of fortifications.
 Whenever the wielder is benefiting from cover, the rod improves that to
 nine-tenths cover (+10 cover AC bonus and +4 cover Reflex save bonus;
@@ -1581,7 +1625,8 @@ Magic Arms and Armor, *inter-posing hand, create food and water, major
 creation, wall of iron, wall of stone; Market Price:* 465,665 gp; *Cost
 to Create:* 231,985 gp + 14,634 XP.
 
-**Invulnerability:** When held, this rod grants its wielder the
+### Invulnerability
+When held, this rod grants its wielder the
 following powers.
 
 -   +5 enhancement bonus to natural armor.
@@ -1593,7 +1638,8 @@ following powers.
 *Caster Level:* 20th; *Prerequisites:* Craft Rod, Craft Epic Rod, *iron
 body, resistance, spell resistance; Market Price:* 600,000 gp.
 
-**Nightmares:** Anyone who comes within 20 feet of the wielder of this
+### Nightmares
+Anyone who comes within 20 feet of the wielder of this
 rod feels a grave sense of unease. Each person so affected must make a
 Will save (DC 17) or suffer the effects of a *nightmare* spell the next
 time he or she falls asleep. The wielder is immune to this effect. Three
@@ -1606,7 +1652,8 @@ of the banshee* spell (DC 23).
 *Caster Level:* 21st; *Prerequisites:* Craft Rod, Craft Epic Rod,
 *nightmare, permanency, wail of the banshee; Market Price:* 284,000 gp.
 
-**Paradise:** This item creates a nondimensional space, similar in
+### Paradise
+This item creates a nondimensional space, similar in
 effect to a *rod of security.*However, the rod's possessor and up to 999
 other creatures can stay in complete safety for up to 1,000 days divided
 by the number of creatures affected. Natural healing takes place at five
@@ -1617,7 +1664,8 @@ all other ways.
 Improved Heighten Spell, improved heightened *gate; Market Price:*
 610,000 gp.
 
-**The Path:** This rod serves as an aid to trailblazing and travel. It
+### The Path
+This rod serves as an aid to trailblazing and travel. It
 grants the wielder a +30 enhancement bonus on Wilderness Lore checks for
 tracking and Intuit Direction checks. The handle of the rod is hollow,
 functioning like a telescope. When the wielder peers through it, the
@@ -1648,7 +1696,8 @@ of the same name (caster level 24th).
 the path, freedom of movement, pass without trace, wall of stone; Market
 Price:* 306,870 gp.
 
-**Restless Death:** The holder of this rod can rebuke or control undead
+### Restless Death
+The holder of this rod can rebuke or control undead
 as if he or she were four levels higher. (The rod doesn't grant the
 ability to rebuke or control undead if the holder doesn't already have
 it.) In addition, the wielder may speak a command word to cast *animate
@@ -1662,7 +1711,8 @@ wielder can speak a second command word to cast *slay living*
 *Caster Level:* 21st; *Prerequisites:* Craft Rod, Craft Epic Rod,
 *animate dead, control undead, slay living; Market Price:* 625,000 gp.
 
-**Wyrm:** Any of the various rods in this series functions as a +*5
+### Wyrm
+Any of the various rods in this series functions as a +*5
 quarterstaff.* Upon casting the rod to the ground (a standard action)
 and uttering a command word, the rod grows into a specific type of
 dragon (depending on the specific type of rod) by the end of the round.
