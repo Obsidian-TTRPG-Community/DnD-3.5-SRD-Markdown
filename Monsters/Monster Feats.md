@@ -1,8 +1,9 @@
 ---
 lang: en
 title: v3.5 SRD / Monsters / Monster Feats
+aliases: [Monster Feats]
+tags: /monsters/monster-feats
 ---
-
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
@@ -11,30 +12,43 @@ the terms of the Open Game License v1.0a.
 These feats apply to abilities most commonly found amongst monsters or
 are related to monsters.
 
-## Ability Focus (featType:: General)
+## Table of Contents
+
+-   [[#Ability Focus ]]
+-   [[#Awesome Blow ]]
+-   [[#Craft Construct ]]
+-   [[#Empower Spell-Like Ability]]
+-   [[#Flyby Attack ]]
+-   [[#Hover ]]
+-   [[#Improved Natural Armor ]]
+-   [[#Improved Natural Attack ]]
+-   [[#Multiattack ]]
+-   [[#Multiweapon Fighting ]]
+-   [[#Quicken Spell-Like Ability]]
+-   [[#Snatch ]]
+-   [[#Wingover ]]
+
+## Ability Focus 
+***Feat Type: (featType::General)***
 
 Choose one of the creature's special attacks.
 
-### Prerequisite
-Special attack.
+**Prerequisite:** Special attack.
 
-### Benefit
-Add +2 to the DC for all saving throws against the special
+**Benefit:** Add +2 to the DC for all saving throws against the special
 attack on which the creature focuses.
 
-### Special
-A creature can gain this feat multiple times. Its effects
+**Special:** A creature can gain this feat multiple times. Its effects
 do not stack. Each time the creature takes the feat it applies to a
 different special attack.
 
-## Awesome Blow (featType:: General, Fighter)
+## Awesome Blow 
+***Feat Type: (featType::General, Fighter)***
 
-### Prerequisites
-Str 25, Power Attack, Improved Bull Rush, size Large
+**Prerequisites:** Str 25, Power Attack, Improved Bull Rush, size Large
 or larger.
 
-### Benefit
-As a standard action, the creature may choose to subtract 4
+**Benefit:** As a standard action, the creature may choose to subtract 4
 from its melee attack roll and deliver an awesome blow. If the creature
 hits a corporeal opponent smaller than itself with an awesome blow, its
 opponent must succeed on a Reflex save (DC = damage dealt) or be knocked
@@ -46,13 +60,12 @@ completion of the opponent's move, the opponent and the obstacle each
 take 1d6 points of damage, and the opponent stops in the space adjacent
 to the obstacle.
 
-## Craft Construct (featType:: Item Creation)
+## Craft Construct 
+***Feat Type: (featType::Item Creation)***
 
-### Prerequisites
-Craft Magic Arms and Armor, Craft Wondrous Item.
+**Prerequisites:** Craft Magic Arms and Armor, Craft Wondrous Item.
 
-### Benefit
-A creature with this feat can create any construct whose
+**Benefit:** A creature with this feat can create any construct whose
 prerequisites it meets. Enchanting a construct takes one day for each
 1,000 gp in its market price. To enchant a construct, a spellcaster must
 spend 1/25 the item's price in XP and use up raw materials costing half
@@ -64,13 +77,12 @@ expending 50 gp per point of damage repaired.
 
 A newly created construct has average hit points for its Hit Dice.
 
-## Empower Spell-Like Ability (featType:: General)
+## Empower Spell-Like Ability 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Spell-like ability at caster level 6th or higher.
+**Prerequisite:** Spell-like ability at caster level 6th or higher.
 
-### Benefit
-Choose one of the creature's spell-like abilities, subject
+**Benefit:** Choose one of the creature's spell-like abilities, subject
 to the restrictions below. The creature can use that ability as an
 empowered spell-like ability three times per day (or less, if the
 ability is normally usable only once or twice per day).
@@ -85,33 +97,29 @@ with a level less than or equal to half its caster level (round down)
 --2. For a summary, see the table in the description of the Quicken
 Spell-Like Ability feat.
 
-### Special
-This feat can be taken multiple times. Each time it is
+**Special:** This feat can be taken multiple times. Each time it is
 taken, the creature can apply it to a different one of its spell-like
 abilities.
 
-## Flyby Attack (featType:: General)
+## Flyby Attack 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Fly speed.
+**Prerequisite:** Fly speed.
 
-### Benefit
-When flying, the creature can take a move action (including
+**Benefit:** When flying, the creature can take a move action (including
 a dive) and another standard action at any point during the move. The
 creature cannot take a second move action during a round when it makes a
 flyby attack.
 
-### Normal
-Without this feat, the creature takes a standard action
+**Normal:** Without this feat, the creature takes a standard action
 either before or after its move.
 
-## Hover (featType:: General)
+## Hover 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Fly speed.
+**Prerequisite:** Fly speed.
 
-### Benefit
-When flying, the creature can halt its forward motion and
+**Benefit:** When flying, the creature can halt its forward motion and
 hover in place as a move action. It can then fly in any direction,
 including straight down or straight up, at half speed, regardless of its
 maneuverability.
@@ -136,30 +144,26 @@ creature).
 Those caught in the cloud must succeed on a Concentration check (DC 10 +
 1/2 creature's HD) to cast a spell.
 
-### Normal
-Without this feat, a creature must keep moving while flying
+**Normal:** Without this feat, a creature must keep moving while flying
 unless it has perfect maneuverability.
 
-## Improved Natural Armor (featType:: General)
+## Improved Natural Armor 
+***Feat Type: (featType::General)***
 
-### Prerequisites
-Natural armor, Con 13.
+**Prerequisites:** Natural armor, Con 13.
 
-### Benefit
-The creature's natural armor bonus increases by 1.
+**Benefit:** The creature's natural armor bonus increases by 1.
 
-### Special
-A creature can gain this feat multiple times. Each time the
+**Special:** A creature can gain this feat multiple times. Each time the
 creature takes the feat its natural armor bonus increases by another
 point.
 
-## Improved Natural Attack (featType:: General)
+## Improved Natural Attack 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Natural weapon, base attack bonus +4.
+**Prerequisite:** Natural weapon, base attack bonus +4.
 
-### Benefit
-Choose one of the creature's natural attack forms. The
+**Benefit:** Choose one of the creature's natural attack forms. The
 damage for this natural weapon increases by one step, as if the
 creature's size had increased by one category: 1d2, 1d3, 1d4, 1d6, 1d8,
 2d6, 3d6, 4d6, 6d6, 8d6, 12d6.
@@ -167,45 +171,39 @@ creature's size had increased by one category: 1d2, 1d3, 1d4, 1d6, 1d8,
 A weapon or attack that deals 1d10 points of damage increases as
 follows: 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.
 
-## Multiattack (featType:: General)
+## Multiattack 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Three or more natural attacks.
+**Prerequisite:** Three or more natural attacks.
 
-### Benefit
-The creature's secondary attacks with natural weapons take
+**Benefit:** The creature's secondary attacks with natural weapons take
 only a --2 penalty.
 
-### Normal
-Without this feat, the creature's secondary attacks with
+**Normal:** Without this feat, the creature's secondary attacks with
 natural weapons take a --5 penalty.
 
-## Multiweapon Fighting (featType:: General)
+## Multiweapon Fighting 
+***Feat Type: (featType::General)***
 
-### Prerequisites
-Dex 13, three or more hands.
+**Prerequisites:** Dex 13, three or more hands.
 
-### Benefit
-Penalties for fighting with multiple weapons are reduced by
+**Benefit:** Penalties for fighting with multiple weapons are reduced by
 2 with the primary hand and reduced by 6 with off hands.
 
-### Normal
-A creature without this feat takes a --6 penalty on attacks
+**Normal:** A creature without this feat takes a --6 penalty on attacks
 made with its primary hand and a --10 penalty on attacks made with its
 off hands. (It has one primary hand, and all the others are off hands.)
 See Two-Weapon Fighting.
 
-### Special
-This feat replaces the Two-Weapon Fighting feat for
+**Special:** This feat replaces the Two-Weapon Fighting feat for
 creatures with more than two arms.
 
-## Quicken Spell-Like Ability (featType:: General)
+## Quicken Spell-Like Ability 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Spell-like ability at caster level 10th or higher.
+**Prerequisite:** Spell-like ability at caster level 10th or higher.
 
-### Benefit
-Choose one of the creature's spell-like abilities, subject
+**Benefit:** Choose one of the creature's spell-like abilities, subject
 to the restrictions described below. The creature can use that ability
 as a quickened spell-like ability three times per day (or less, if the
 ability is normally usable only once or twice per day).
@@ -223,17 +221,15 @@ with a level less than or equal to half its caster level (round down)
 In addition, a spell-like ability that duplicates a spell with a casting
 time greater than 1 full round cannot be quickened.
 
-### Normal
-Normally the use of a spell-like ability requires a standard
+**Normal:** Normally the use of a spell-like ability requires a standard
 action and provokes an attack of opportunity unless noted otherwise.
 
-### Special
-This feat can be taken multiple times. Each time it is
+**Special:** This feat can be taken multiple times. Each time it is
 taken, the creature can apply it to a different one of its spell-like
 abilities.
 
   ---------------------------------------- ------------------------- -------------------------
-  Empower and Quicken Spell-Like Ability                             
+  Empower and Quicken Spell-Like Ability
   Spell Level                              Caster Level to Empower   Caster Level to Quicken
   0                                        4th                       8th
   1st                                      6th                       10th
@@ -247,13 +243,12 @@ abilities.
   9th                                      ---                       ---
   ---------------------------------------- ------------------------- -------------------------
 
-## Snatch (featType:: General)
+## Snatch 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Size Huge or larger.
+**Prerequisite:** Size Huge or larger.
 
-### Benefits
-The creature can choose to start a grapple when it hits
+**Benefits:** The creature can choose to start a grapple when it hits
 with a claw or bite attack, as though it had the improved grab special
 attack. If the creature gets a hold on a creature three or more sizes
 smaller, it squeezes each round for automatic bite or claw damage. A
@@ -266,13 +261,12 @@ feet, and takes 1d6 points of damage per 10 feet traveled. If the
 creature flings a snatched opponent while flying, the opponent takes
 this amount or falling damage, whichever is greater.
 
-## Wingover (featType:: General)
+## Wingover 
+***Feat Type: (featType::General)***
 
-### Prerequisite
-Fly speed.
+**Prerequisite:** Fly speed.
 
-### Benefits
-A flying creature with this feat can change direction
+**Benefits:** A flying creature with this feat can change direction
 quickly once each round as a free action. This feat allows it to turn up
 to 180 degrees regardless of its maneuverability, in addition to any
 other turns it is normally allowed. A creature cannot gain altitude
