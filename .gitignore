@@ -1,3 +1,5 @@
 scripts/
 .vscode
 /.idea/
+/nbproject/project.xml
+/nbproject/project.properties
