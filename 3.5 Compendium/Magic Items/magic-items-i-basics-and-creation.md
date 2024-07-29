@@ -1,11 +1,10 @@
 ---
 lang: en
-title: 3.5 Compendium / Magic Items / MAGIC ITEMS I (BASICS & CREATION)
-aliases: 3.5 Monsters - A
+title: 3.5 Compendium / Magic Items / Magic Items I (Basics & Creation)
+aliases: 3.5 Magic Items I (Basics & Creation)
 tags: 3-5e/rules/magic items
+copyright: This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
-
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # MAGIC ITEMS I (BASICS & CREATION)
 
