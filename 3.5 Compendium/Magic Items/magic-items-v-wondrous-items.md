@@ -1,12 +1,11 @@
 ---
 lang: en
-title: v3.5 SRD / Magic Items / Magic Items V (Wondrous Items)
-viewport: width=device-width,minimum-scale=1.0
+title: 3.5 Compendium / Magic Items / Magic Items V (Wondrous Items) 
+aliases: 3.5 Magic Items V (Wondrous Items) 
+tags: 3-5e/rules/magic items
+copyright: This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
-  v3.5 SRD / Magic Items / Magic Items V (Wondrous Items) 
-
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
-
+  
 # MAGIC ITEMS V (WONDROUS ITEMS)
 
 ## Table of Contents

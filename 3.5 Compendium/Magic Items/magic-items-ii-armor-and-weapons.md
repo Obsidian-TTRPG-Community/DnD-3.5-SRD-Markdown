@@ -1,6 +1,11 @@
-  v3.5 SRD / Magic Items / Magic Items II (Armor and Weapons) 
+---
+lang: en
+title: 3.5 Compendium / Magic Items / Magic Items II (Armor & Weapons )
+aliases: 3.5 Magic Items II (Armor & Weapons )
+tags: 3-5e/rules/magic items
+copyright: This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # MAGIC ITEMS II (ARMOR & WEAPONS)
 

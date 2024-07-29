@@ -1,6 +1,10 @@
-  v3.5 SRD / Magic Items / Magic Items VI (Intelligent, Cursed, and Artifacts) 
-
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+---
+lang: en
+title: 3.5 Compendium / Magic Items / Magic Items VI (Intelligent, Cursed, and Artifacts) 
+aliases: 3.5 Magic Items VI (Intelligent, Cursed, and Artifacts) 
+tags: 3-5e/rules/magic items
+copyright: This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+---
 
 # MAGIC ITEMS VI (INTELLIGENT, CURSED, & ARTIFACTS)
 
