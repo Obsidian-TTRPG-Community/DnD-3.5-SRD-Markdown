@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Copper Wyrmling
 Size: Tiny
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 2
 Environment: Temperate and warm desert, hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Tiny
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Chaotic Good
 ac: 16
 touch: 12

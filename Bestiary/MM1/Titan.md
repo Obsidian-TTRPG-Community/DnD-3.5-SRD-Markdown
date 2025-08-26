@@ -8,7 +8,9 @@ tags:
 Monster: Titan
 Size: Huge
 Type: Outsider
-Subtype: Chaotic, Extraplanar
+Subtype:
+  - Chaotic
+  - Extraplanar
 CR: 21
 Environnent: A chaotic good-aligned plane
 Source: MM1

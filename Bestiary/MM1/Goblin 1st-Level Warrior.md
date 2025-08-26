@@ -8,7 +8,8 @@ tags:
 Monster: Goblin, 1st-Level Warrior
 Size: Small
 Type: Humanoid
-Subtype: Goblinoid
+Subtype:
+  - Goblinoid
 CR: 1
 Environnent: Temperate plains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Humanoid
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Usually neutral evil
 ac: 15
 touch: 12

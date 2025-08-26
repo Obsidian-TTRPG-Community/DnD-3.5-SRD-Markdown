@@ -8,7 +8,11 @@ tags:
 Monster: Hellhound
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar, Fire, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Fire
+  - Lawful
 CR: 3
 Environnent: A lawful evil-aligned plane
 Source: MM1

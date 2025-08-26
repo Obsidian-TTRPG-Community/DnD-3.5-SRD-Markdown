@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, White Ancient
 Size: Huge
 Type: Dragon
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 17
 Environment: Any cold land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Always chaotic evil
 ac: 37
 touch: 8

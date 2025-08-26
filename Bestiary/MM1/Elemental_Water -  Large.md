@@ -8,7 +8,9 @@ tags:
 Monster: Water Elemental, Large
 Size: Large
 Type: Elemental
-Subtype: Water, Extraplanar
+Subtype: 
+ - Water
+ - Extraplanar
 CR: 5
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Elemental
-subtype: Water, Extraplanar
+Subtype:
+  - Water, Extraplanar
 alignment: Usually neutral
 ac: 20
 touch: 11

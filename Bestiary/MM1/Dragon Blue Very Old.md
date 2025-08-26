@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Blue Very Old
 Size: Huge
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 18
 Environment: Temperate and warm desert and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Lawful Evil
 ac: 37
 touch: 8

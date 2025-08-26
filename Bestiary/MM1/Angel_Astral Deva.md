@@ -8,7 +8,10 @@ tags:
 Monster: Angel, Astral Deva
 Size: Medium
 Type: Outsider
-Subtype: Angel, Extraplanar, Good
+Subtype:
+  - Angel
+  - Extraplanar
+  - Good
 CR: 14
 Environnent: Any good-aligned plane
 Source: MM1

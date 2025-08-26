@@ -8,7 +8,8 @@ tags:
 Monster: Gargoyle
 Size: Medium
 Type: Monstrous Humanoid
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 4
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Monstrous Humanoid
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Usually chaotic evil
 ac: 16
 touch: 12

@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Dretch
 Size: Small
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 2
 Environnent: A chaotic evil-aligned plane
 Source: MM1

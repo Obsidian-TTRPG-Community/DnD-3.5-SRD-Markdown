@@ -8,7 +8,8 @@ tags:
 Monster: Mimic
 Size: Large
 Type: Aberration
-Subtype: Shapechanger
+Subtype:
+  - Shapechanger
 CR: 4
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Aberration
-subtype: Shapechanger
+Subtype:
+  - Shapechanger
 alignment: Usually neutral
 ac: 15
 touch: 10

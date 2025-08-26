@@ -8,7 +8,8 @@ tags:
 Monster: Planetouched, Aasimar, 1st-level Warrior
 Size: Medium
 Type: Outsider
-Subtype: Native
+Subtype:
+  - Native
 CR: 0.5
 Environnent: Temperate plains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Native
+Subtype:
+  - Native
 alignment: Usually good (any)
 ac: 16
 touch: 10

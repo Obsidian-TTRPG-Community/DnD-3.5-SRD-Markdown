@@ -8,7 +8,10 @@ tags:
 Monster: Ghaele
 Size: Medium
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Good
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Good
 CR: 13
 Environnent: A chaotic good-aligned plane
 Source: MM1

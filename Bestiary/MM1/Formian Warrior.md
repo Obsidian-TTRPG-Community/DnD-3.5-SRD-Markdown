@@ -8,7 +8,9 @@ tags:
 Monster: Formian Warrior
 Size: Medium
 Type: Outsider
-Subtype: Lawful, Extraplanar
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 3
 Environnent: A lawful-aligned plane
 Source: MM1

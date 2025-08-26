@@ -1,14 +1,14 @@
 ---
 aliases:
- - Goblin 1st-level Assasin
+  - Goblin 1st-level Assasin
 title: Bestiary/MM1/Goblin, 1st-level Assasin
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Goblin, 1st-level Assasin
 Size: Small
-Type: Goblinoid
-Subtype: 
+Type: Humanoid
+Subtype:
 CR: 0.3
 Environnent: Temperate plains
 Source: MM1

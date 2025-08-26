@@ -8,7 +8,8 @@ tags:
 Monster: Bat  (Swarm)
 Size: Diminutive
 Type:  Animal
-Subtype: Swarm
+Subtype:
+  - Swarm
 CR: 2
 Environnent: Temperate deserts
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Diminutive
 type: Animal
-subtype: Swarm
+Subtype:
+  - Swarm
 alignment: Always neutral
 ac: 16
 touch: 14

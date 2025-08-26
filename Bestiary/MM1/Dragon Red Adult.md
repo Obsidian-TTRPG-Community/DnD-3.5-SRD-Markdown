@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Red Adult
 Size: Huge
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 14
 Environment: Temperate and warm hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always Chaotic Evil
 ac: 29
 touch: 8

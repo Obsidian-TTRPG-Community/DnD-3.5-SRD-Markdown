@@ -9,7 +9,10 @@ tags:
 Monster: Devil, Hellcat (bezekira)
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 7
 Environnent: A lawful evil-aligned plane
 Source: MM1

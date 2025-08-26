@@ -8,7 +8,9 @@ tags:
 Monster: Invisible Stalker
 Size: Large
 Type: Elemental
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 7
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Elemental
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Usually neutral
 ac: 17
 touch: 13

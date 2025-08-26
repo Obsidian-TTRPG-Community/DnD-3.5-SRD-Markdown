@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Gold Ancient
 Size: Gargantuan
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 23
 Environment: Any land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always lawful good
 ac: 40
 touch: 6

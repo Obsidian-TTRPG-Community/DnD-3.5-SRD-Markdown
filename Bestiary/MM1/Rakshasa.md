@@ -8,7 +8,8 @@ tags:
 Monster: Rakshasa
 Size: Medium
 Type: Outsider
-Subtype: Native
+Subtype:
+  - Native
 CR: 10
 Environnent: Warm marshes
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Native
+Subtype:
+  - Native
 alignment: Always lawful evil
 ac: 21
 touch: 12

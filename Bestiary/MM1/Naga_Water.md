@@ -8,7 +8,8 @@ tags:
 Monster: Naga, Water
 Size: Large
 Type: Aberration
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 7
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Aberration
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually neutral
 ac: 15
 touch: 10

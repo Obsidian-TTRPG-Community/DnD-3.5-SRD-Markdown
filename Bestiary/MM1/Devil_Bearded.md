@@ -9,7 +9,10 @@ tags:
 Monster: Devil, Bearded (barbazu)
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 5
 Environnent: A lawful evil-aligned plane
 Source: MM1

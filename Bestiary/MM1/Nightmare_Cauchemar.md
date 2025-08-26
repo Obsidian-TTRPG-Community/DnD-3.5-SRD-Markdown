@@ -8,7 +8,9 @@ tags:
 Monster: Nightmare, Cauchemar
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar
+Subtype:
+  - Evil
+  - Extraplanar
 CR: 11
 Environnent: A neutral evil plane
 Source: MM1

@@ -8,7 +8,8 @@ tags:
 Monster: Aboleth
 Size: Huge
 Type: Aberration
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 7
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Aberration
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually lawful evil
 ac: 16
 touch: 9

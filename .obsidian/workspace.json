@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/MM1/Hydra Eight-Headed.md",
+                "file": "Compendium/Basics/Abilities and Conditions/Ability Damaged.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hydra Eight-Headed"
+              "title": "Ability Damaged"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/MM1/Hydra Eight-Headed.md",
+                "file": "Bestiary/Bestiary Base.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hydra Eight-Headed"
+              "title": "Backlinks for Bestiary Base"
             }
           },
           {
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,37 +171,38 @@
   },
   "active": "b19c54a5f630354c",
   "lastOpenFiles": [
-    "Bestiary/Bestiary Base.base",
-    "Cleaning.base",
-    "Compendium/Basics/Abilities and Conditions/Ability Damaged.md",
     "Compendium/0 Legal Information/0 Legal Information.md",
-    "README.md",
-    "Bestiary/MM1/Wraith_Dread.md",
-    "Bestiary/MM1/Untitled.base",
-    "Bestiary/MM1/Aboleth.md",
-    "Untitled.md",
-    "Bestiary/Bestiary.md",
-    "z_Templates/35e Monster Template and statblock.md",
-    "Compendium/Spells/Acid Arrow.md",
-    "Compendium/Spells/Acid Fog.md",
-    "Compendium/Spells/Acid Splash.md",
-    "Compendium/Spells/List/Spell Base.base",
-    "Compendium/Spells/List/Ranger Spells List.md",
-    "Compendium/Spells/List/Spells List.md",
-    "Compendium/Spells/List/Bard Spells List.md",
-    "Bestiary/MM1/Bat Dire.md",
-    "Bestiary/MM1/z_Assets/Monster.png",
-    "Compendium/Spells/Air Walk.md",
-    "Bestiary/MM1/z_Assets/Monsters.png",
-    "Bestiary/MM1/Zombie_Ogre.md",
-    "Bestiary/MM1/Zombie_Gray Render.md",
-    "Bestiary/MM1/Zombie_Wyvern.md",
-    "Bestiary/MM1/Gray Render.md",
-    "Bestiary/MM1/Tarrasque.md",
-    "Bestiary/MM1/Monstrous Scorpion - Colossal.md",
-    "Bestiary/MM1/Monstrous Spider - Colossal.md",
+    "Bestiary/Bestiary Base.base",
     "Bestiary/MM1/Animated Object_Colossal.md",
-    "Bestiary/MM1/Monstrous Centipede - Colossal.md",
+    "Bestiary/MM1/Monstrous Scorpion - Colossal.md",
+    "Bestiary/MM1/Mephit_Ice.md",
+    "Bestiary/MM1/Basilisk_Abyssal Greater.md",
+    "Bestiary/MM1/Couatl.md",
+    "Bestiary/MM1/Allip.md",
+    "Bestiary/MM1/Berserkers (Human).md",
+    "Bestiary/MM1/Halfling 1st-Level Warrior.md",
+    "Bestiary/MM1/Zombie_Hobgoblin.md",
+    "Bestiary/MM1/Bugbear.md",
+    "Bestiary/MM1/Svirfneblin 1st-Level Warrior.md",
+    "Bestiary/MM1/Gnome 1st-Level Warrior.md",
+    "Bestiary/MM1/Gnoll.md",
+    "Bestiary/MM1/Mephit_Magma.md",
+    "Bestiary/MM1/Dragon Brass Adult.md",
+    "Bestiary/MM1/Xorn_Minor.md",
+    "Bestiary/MM1/Xorn_Elder.md",
+    "Bestiary/MM1/Xorn_Average.md",
+    "Bestiary/MM1/Bodak.md",
+    "Bestiary/MM1/Drow 1st-Level Warrior.md",
+    "Bestiary/MM1/Dragon Blue Adult.md",
+    "Bestiary/MM1/Duergar 1st-Level Warrior.md",
+    "Bestiary/MM1/Dragon White Adult.md",
+    "Bestiary/MM1/Aboleth Mage_10th-Level Wizard.md",
+    "Bestiary/MM1/Dragon Green Adult.md",
+    "Cleaning.base",
+    "Bestiary/MM1/Untitled.base",
+    "Compendium/Spells/List/Spell Base.base",
+    "Bestiary/MM1/z_Assets/Monster.png",
+    "Bestiary/MM1/z_Assets/Monsters.png",
     "Bestiary/MM1/Monster template",
     "Bestiary/MM3",
     "Bestiary/MM2/z_Assets",

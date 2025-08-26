@@ -8,7 +8,8 @@ tags:
 Monster: Dire Shark
 Size: Huge
 Type: Animal
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 9
 Environnent: Cold aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Animal
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Always neutral
 ac: 17
 touch: 10

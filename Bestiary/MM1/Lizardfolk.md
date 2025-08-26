@@ -8,7 +8,8 @@ tags:
 Monster: Lizardfolk
 Size: Medium
 Type: Humanoid
-Subtype: Reptilian
+Subtype:
+  - Reptilian
 CR: 1
 Environnent: Temperate marshes
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Reptilian
+Subtype:
+  - Reptilian
 alignment: Usually neutral
 ac: 15
 touch: 10

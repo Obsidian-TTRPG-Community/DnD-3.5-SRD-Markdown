@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Copper Adult
 Size: Large
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 13
 Environment: Temperate and warm desert, hill, mountains, and underground
 Source: MM1

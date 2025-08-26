@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Marilith
 Size: Large
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 17
 Environnent: A chaotic evil-aligned plane
 Source: MM1

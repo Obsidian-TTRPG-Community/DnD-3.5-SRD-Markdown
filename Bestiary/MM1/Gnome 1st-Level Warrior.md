@@ -8,7 +8,8 @@ tags:
 Monster: Gnome, 1st-Level Warrior
 Size: Small
 Type: Humanoid
-Subtype: Gnome
+Subtype: 
+  - Gnome
 CR: 1
 Environnent: Temperate hills
 Source: MM1

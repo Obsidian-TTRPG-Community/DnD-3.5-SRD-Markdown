@@ -8,7 +8,11 @@ tags:
 Monster: Archon, Trumpet
 Size: Medium
 Type: Outsider
-Subtype: Archon, Extraplanar, Good, Lawful
+Subtype:
+  - Archon
+  - Extraplanar
+  - Good
+  - Lawful
 CR: 14
 Environnent: A lawful good-aligned plane
 Source: MM1

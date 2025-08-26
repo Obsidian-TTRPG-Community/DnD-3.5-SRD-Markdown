@@ -1,14 +1,14 @@
 ---
 aliases:
- - Lesser Gray Ooze
+  - Lesser Gray Ooze
 title: Bestiary/MM1/Ooze, Gray, Lesser
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Ooze, Gray, Lesser
 Size: Medium
-Type: ooze
-Subtype: 
+Type: Ooze
+Subtype:
 CR: 1
 Environnent: Cold marshes
 Source: MM1

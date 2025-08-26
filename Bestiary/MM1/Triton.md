@@ -1,14 +1,16 @@
 ---
 aliases:
- - Triton
+  - Triton
 title: Bestiary/MM1/Triton
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Triton
 Size: Medium
 Type: Outsider
-Subtype: Native, Water
+Subtype:
+  - Native
+  - Water
 CR: 2
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Native, Water
+Subtype:
+  - Native, Water
 alignment: Usually neutral good
 ac: 16
 touch: 10

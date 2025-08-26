@@ -8,7 +8,8 @@ tags:
 Monster: Halfling, 1st-Level Warrior
 Size: Small
 Type: Humanoid
-Subtype: Halfling
+Subtype: 
+  - Halfling
 CR: 1
 Environnent: Warm plains
 Source: MM1

@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Nalfeshnee
 Size: Huge
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 14
 Environnent: A chaotic evil-aligned plane
 Source: MM1

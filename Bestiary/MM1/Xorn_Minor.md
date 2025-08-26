@@ -8,7 +8,9 @@ tags:
 Monster: Xorn, Minor
 Size: Small
 Type: Outsider
-Subtype: Extraplanar, Earth
+Subtype:
+  - Extraplanar
+  - Earth
 CR: 3
 Environnent: Elemental Plane of Earth
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Extraplanar, Earth
+Subtype:
+  - Extraplanar, Earth
 alignment: Usually neutral
 ac: 23
 touch: 11

@@ -8,7 +8,10 @@ tags:
 Monster: Devil, Pit Fiend
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 20
 Environnent: A lawful evil-aligned plane
 Source: MM1

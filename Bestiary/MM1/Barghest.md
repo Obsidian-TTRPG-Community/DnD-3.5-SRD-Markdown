@@ -8,7 +8,11 @@ tags:
 Monster: Barghest
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful, Shapechanger
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
+  - Shapechanger
 CR: 4
 Environnent: An evil-aligned plane
 Source: MM1

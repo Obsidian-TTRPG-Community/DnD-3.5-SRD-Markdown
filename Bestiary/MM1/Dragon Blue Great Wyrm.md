@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Blue Great Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 24
 Environment: Temperate and warm desert and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Lawful Evil
 ac: 44
 touch: 6

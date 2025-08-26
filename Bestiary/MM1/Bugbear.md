@@ -8,7 +8,8 @@ tags:
 Monster: Bugbear
 Size: Medium
 Type: Humanoid
-Subtype: Goblinoid
+Subtype:
+  - Goblinoid
 CR: 2
 Environnent: Temperate mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Usually chaotic evil
 ac: 17
 touch: 11

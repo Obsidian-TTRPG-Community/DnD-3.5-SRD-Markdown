@@ -8,7 +8,9 @@ tags:
 Monster: Lycanthrope, Wererat, Human Form
 Size: Medium
 Type: Humanoid
-Subtype: Human, Shapechanger
+Subtype:
+  - Human
+  - Shapechanger
 CR: 2
 Environnent: Any
 Source: MM1

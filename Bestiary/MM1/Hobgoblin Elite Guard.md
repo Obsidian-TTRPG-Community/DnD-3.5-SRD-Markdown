@@ -8,7 +8,8 @@ tags:
 Monster: Hobgoblin, Elite Guard
 Size: Medium
 Type: Humanoid
-Subtype: Goblinoid
+Subtype:
+  - Goblinoid
 CR: 0.5
 Environnent: Warm hills
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Usualle lawfull evil
 ac: 15
 touch: 

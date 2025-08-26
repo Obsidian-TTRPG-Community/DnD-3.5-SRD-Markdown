@@ -8,7 +8,9 @@ tags:
 Monster: Genie, Djinni
 Size: Large
 Type: Outsider
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 5
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Outsider
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Always chaotic good
 ac: 16
 touch: 13

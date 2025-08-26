@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Vrock
 Size: Large
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 9
 Environnent: A chaotic evil-aligned plane
 Source: MM1

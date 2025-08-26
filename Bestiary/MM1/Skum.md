@@ -8,7 +8,8 @@ tags:
 Monster: Skum
 Size: Medium
 Type: Aberration
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 2
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Aberration
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually lawful evil
 ac: 13
 touch: 11

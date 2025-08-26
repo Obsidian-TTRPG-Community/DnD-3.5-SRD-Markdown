@@ -8,7 +8,9 @@ tags:
 Monster: Lycanthrope, Werebear, Bear Form
 Size: Large
 Type: Humanoid
-Subtype: Human, Shapechanger
+Subtype:
+  - Human
+  - Shapechanger
 CR: 5
 Environnent: Cold forests
 Source: MM1

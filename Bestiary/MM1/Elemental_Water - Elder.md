@@ -1,15 +1,17 @@
 ---
 aliases:
- - Elder Elemental
- - Water
+  - Elder Elemental
+  - Water
 title: Bestiary/MM1/Elemental, Water, Elder
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Elemental, Water, Elder
 Size: Huge
 Type: Elemental
-Subtype: Water, Extraplanar
+Subtype:
+  - Water
+  - Extraplanar
 CR: 11
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -31,7 +33,8 @@ class:
 level: 
 size: Huge
 type: Elemental
-subtype: Water, Extraplanar
+Subtype:
+  - Water, Extraplanar
 alignment: Usually neutral
 ac: 23
 touch: 14

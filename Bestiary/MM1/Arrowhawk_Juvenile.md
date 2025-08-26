@@ -8,7 +8,9 @@ tags:
 Monster: Arrowhawk, Juvenile
 Size: Small
 Type: Outsider
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Always neutral
 ac: 20
 touch: 16

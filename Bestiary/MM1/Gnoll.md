@@ -8,7 +8,8 @@ tags:
 Monster: Gnoll
 Size: Medium
 Type: Humanoid
-Subtype: Gnoll
+Subtype: 
+  - Gnoll
 CR: 1
 Environnent: Warm plains
 Source: MM1

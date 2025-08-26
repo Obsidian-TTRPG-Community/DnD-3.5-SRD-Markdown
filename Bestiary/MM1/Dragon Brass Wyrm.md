@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Brass Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 20
 Environment: Temperate and warm desert, plains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always chaotic good
 ac: 39
 touch: 6

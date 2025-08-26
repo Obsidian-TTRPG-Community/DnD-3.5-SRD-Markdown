@@ -8,7 +8,8 @@ tags:
 Monster: Dragon Turtle
 Size: Huge
 Type: Dragon
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 9
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually neutral
 ac: 25
 touch: 8

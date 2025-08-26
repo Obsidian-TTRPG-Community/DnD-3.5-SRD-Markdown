@@ -8,7 +8,8 @@ tags:
 Monster: Shadow Mastiff
 Size: Medium
 Type: Outsider
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 5
 Environnent: Plane of Shadow
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always neutral evil
 ac: 14
 touch: 11

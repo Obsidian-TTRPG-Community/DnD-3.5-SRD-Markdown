@@ -1,14 +1,14 @@
 ---
 aliases:
- - Adult Ambush Drake
+  - Adult Ambush Drake
 title: Bestiary/MM1/Ambush Drake - Adult
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Ambush Drake - Adult
 Size: Medium
-Type: dragon
-Subtype: 
+Type: Dragon
+Subtype:
 CR: 5
 Environnent: Temperate plains
 Source: MM3

@@ -8,7 +8,8 @@ tags:
 Monster: Sprite, Nixie
 Size: Small
 Type: Fey
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 1
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Fey
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Always neutral
 ac: 14
 touch: 14

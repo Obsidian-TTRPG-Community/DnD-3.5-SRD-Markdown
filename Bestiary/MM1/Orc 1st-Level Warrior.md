@@ -8,7 +8,8 @@ tags:
 Monster: Orc, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Orc
+Subtype:
+  - Orc
 CR: 0.5
 Environnent: Temperate hills
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Orc
+Subtype:
+  - Orc
 alignment: Often chaotic evil
 ac: 13
 touch: 10

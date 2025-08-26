@@ -8,7 +8,9 @@ tags:
 Monster: Fire Elemental, Elder
 Size: Huge
 Type: Elemental
-Subtype: Fire, Extraplanar
+Subtype:
+  - Fire
+  - Extraplanar
 CR: 11
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Huge
 type: Elemental
-subtype: Fire, Extraplanar
+Subtype:
+  - Fire, Extraplanar
 alignment: Usually neutral
 ac: 25
 touch: 17

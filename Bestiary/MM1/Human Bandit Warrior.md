@@ -1,14 +1,14 @@
 ---
 aliases:
- - Human Bandit Warrior
+  - Human Bandit Warrior
 title: Bestiary/MM1/Human Bandit Warrior
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Human Bandit Warrior
 Size: Medium
-Type: Human
-Subtype: 
+Type: Humanoid
+Subtype:
 CR: 2
 Environnent: all
 Source: MM1

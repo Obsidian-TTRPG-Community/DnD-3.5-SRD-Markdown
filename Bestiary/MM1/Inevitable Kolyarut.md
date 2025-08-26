@@ -8,7 +8,9 @@ tags:
 Monster: Inevitable, Kolyarut
 Size: Medium
 Type: Construct
-Subtype: Extraplanar, Lawful
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 12
 Environnent: A lawful-aligned plane
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Construct
-subtype: Extraplanar, Lawful
+Subtype:
+  - Extraplanar, Lawful
 alignment: Always lawful neutral
 ac: 27
 touch: 11

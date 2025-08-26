@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Silver Ancient
 Size: Gargantuan
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 22
 Environment: Temperate and warm mountains and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always Lawful Good
 ac: 39
 touch: 6

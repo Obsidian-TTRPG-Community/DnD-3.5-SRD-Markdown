@@ -8,7 +8,9 @@ tags:
 Monster: Formian Worker
 Size: Small
 Type: Outsider
-Subtype: Lawful, Extraplanar
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 0.5
 Environnent: A lawful-aligned plane
 Source: MM1

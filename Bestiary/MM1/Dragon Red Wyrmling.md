@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Red Wyrmling
 Size: Medium
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 3
 Environment: Temperate and warm hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always Chaotic Evil
 ac: 16
 touch: 10

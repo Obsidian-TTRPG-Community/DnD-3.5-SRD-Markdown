@@ -1,14 +1,15 @@
 ---
 aliases:
- - Hobgoblin Warrior Skeleton
+  - Hobgoblin Warrior Skeleton
 title: Bestiary/MM1/Skeleton, Hobgoblin Warrior
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Skeleton, Hobgoblin Warrior
 Size: Medium
-Type: undead
-Subtype: Goblinoid
+Type: Undead
+Subtype:
+  - Goblinoid
 CR: 0.3
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: undead
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Neutral evil
 ac: 16
 touch: 

@@ -8,7 +8,8 @@ tags:
 Monster: Skeleton, Young Adult Red Dragon
 Size: Huge
 Type: Undead
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 8
 Environnent: Warm mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Undead
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always neutral evil
 ac: 12
 touch: 9

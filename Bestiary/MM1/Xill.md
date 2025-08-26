@@ -8,7 +8,8 @@ tags:
 Monster: Xill
 Size: Medium
 Type: Outsider
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 6
 Environnent: Ethereal Plane
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always lawful evil
 ac: 20
 touch: 13

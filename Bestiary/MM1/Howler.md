@@ -8,7 +8,10 @@ tags:
 Monster: Howler
 Size: Large
 Type: Outsider
-Subtype: Chaotic, Evil, Extraplanar
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 3
 Environnent: A chaotic-aligned plane
 Source: MM1

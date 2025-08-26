@@ -8,7 +8,8 @@ tags:
 Monster: Squid, Giant
 Size: Huge
 Type: Animal
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 9
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Animal
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: 
 ac: 17
 touch: 11

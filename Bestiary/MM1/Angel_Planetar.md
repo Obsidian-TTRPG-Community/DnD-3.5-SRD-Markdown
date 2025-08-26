@@ -8,7 +8,10 @@ tags:
 Monster: Angel, Planetar
 Size: Large
 Type: Outsider
-Subtype: Angel, Extraplanar, Good
+Subtype:
+  - Angel
+  - Extraplanar
+  - Good
 CR: 16
 Environnent: Any good-aligned plane
 Source: MM1

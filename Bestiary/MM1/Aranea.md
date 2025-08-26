@@ -8,7 +8,8 @@ tags:
 Monster: Aranea
 Size: Medium
 Type: Magical Beast
-Subtype: Shapechanger
+Subtype:
+  - Shapechanger
 CR: 4
 Environnent: Temperate forests
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Magical Beast
-subtype: Shapechanger
+Subtype:
+  - Shapechanger
 alignment: Usually neutral
 ac: 13
 touch: 12

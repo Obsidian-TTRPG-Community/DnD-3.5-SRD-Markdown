@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, White Very Young
 Size: Small
 Type: Dragon
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 2
 Environment: Any cold land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Dragon
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Always chaotic evil
 ac: 16
 touch: 11

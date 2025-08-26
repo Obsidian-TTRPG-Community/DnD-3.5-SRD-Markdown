@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Bronze Wyrmling
 Size: Small
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 2
 Environment: Temperate and warm aquatic and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always lawful good
 ac: 16
 touch: 11

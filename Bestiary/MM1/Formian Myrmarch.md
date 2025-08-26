@@ -8,7 +8,9 @@ tags:
 Monster: Formian Myrmarch
 Size: Large
 Type: Outsider
-Subtype: Lawful, Extraplanar
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 10
 Environnent: A lawful-aligned plane
 Source: MM1

@@ -8,8 +8,9 @@ tags:
 Monster: Elf, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Elf 
-CR: 1/2
+Subtype:
+  - Elf 
+CR: 0.5
 Environnent: Temperate forest
 Source: MM1
 Thumbnail: monster.png
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Elf 
+Subtype:
+  - Elf 
 alignment: Usually chaotic good(Wood: Usually neutral)
 ac: 15
 touch: 11

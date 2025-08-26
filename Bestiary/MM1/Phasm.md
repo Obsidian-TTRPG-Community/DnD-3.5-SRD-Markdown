@@ -8,7 +8,8 @@ tags:
 Monster: Phasm
 Size: Medium
 Type: Aberration
-Subtype: Shapechanger
+Subtype:
+  - Shapechanger
 CR: 7
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Aberration
-subtype: Shapechanger
+Subtype:
+  - Shapechanger
 alignment: Usually chaotic neutral
 ac: 17
 touch: 12

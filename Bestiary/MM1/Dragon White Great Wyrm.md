@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, White Great Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 20
 Environment: Any cold land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Always chaotic evil
 ac: 41
 touch: 6

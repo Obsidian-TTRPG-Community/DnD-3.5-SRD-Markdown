@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Babau
 Size: Medium
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 6
 Environnent: A chaotic evil-aligned plane
 Source: MM1

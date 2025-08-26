@@ -15,11 +15,11 @@ views:
       - Environnent
       - Source
     sort:
-      - property: Type
+      - property: CR
         direction: ASC
       - property: Size
         direction: ASC
-      - property: CR
+      - property: Subtype
         direction: ASC
     columnSize:
       file.name: 218

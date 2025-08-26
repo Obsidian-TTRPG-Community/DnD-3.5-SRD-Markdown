@@ -8,7 +8,9 @@ tags:
 Monster: Inevitable, Zelekhut
 Size: Large
 Type: Construct
-Subtype: Extraplanar, Lawful
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 9
 Environnent: A lawful-aligned plane
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Construct
-subtype: Extraplanar, Lawful
+Subtype:
+  - Extraplanar, Lawful
 alignment: Always lawful neutral
 ac: 27
 touch: 9

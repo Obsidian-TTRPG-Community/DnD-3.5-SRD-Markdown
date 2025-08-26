@@ -8,7 +8,9 @@ tags:
 Monster: Mephit, Earth
 Size: Small
 Type: Outsider
-Subtype: Earth, Extraplanar
+Subtype:
+  - Earth
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Earth
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Earth, Extraplanar
+Subtype:
+  - Earth, Extraplanar
 alignment: Usually neutral
 ac: 16
 touch: 10

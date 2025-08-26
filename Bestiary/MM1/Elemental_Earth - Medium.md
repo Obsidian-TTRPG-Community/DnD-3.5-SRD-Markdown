@@ -8,7 +8,9 @@ tags:
 Monster: Earth Elemental, Medium
 Size: Medium
 Type: Elemental
-Subtype: Earth, Extraplanar
+Subtype:
+  - Earth
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Earth
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Elemental
-subtype: Earth, Extraplanar
+Subtype:
+  - Earth, Extraplanar
 alignment: Usually neutral
 ac: 18
 touch: 9

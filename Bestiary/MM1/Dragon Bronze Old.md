@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Bronze Old
 Size: Huge
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 18
 Environment: Temperate and warm aquatic and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always lawful good
 ac: 34
 touch: 8

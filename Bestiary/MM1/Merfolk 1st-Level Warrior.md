@@ -8,7 +8,8 @@ tags:
 Monster: Merfolk, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 0.5
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually neutral
 ac: 13
 touch: 11

@@ -8,7 +8,10 @@ tags:
 Monster: Devil, Lemure
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 1
 Environnent: A lawful evil-aligned plane
 Source: MM1

@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Bebilith
 Size: Huge
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 10
 Environnent: A chaotic evil-aligned plane
 Source: MM1

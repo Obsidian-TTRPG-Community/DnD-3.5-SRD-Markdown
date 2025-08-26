@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, White Wyrmling
 Size: Tiny
 Type: Dragon
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 1
 Environment: Any cold land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Tiny
 type: Dragon
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Always chaotic evil
 ac: 14
 touch: 12

@@ -8,7 +8,8 @@ tags:
 Monster: Ravid
 Size: Medium
 Type: Outsider
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 5
 Environnent: Positive Energy Plane
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always neutral
 ac: 25
 touch: 10

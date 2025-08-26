@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Silver Great Wyrm
 Size: Colossal
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 25
 Environment: Temperate and warm mountains and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Colossal
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always lawful good
 ac: 41
 touch: 2

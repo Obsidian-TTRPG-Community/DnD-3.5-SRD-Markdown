@@ -8,7 +8,10 @@ tags:
 Monster: Swarm, Hellwasp
 Size: Diminutive
 Type:  Magical Beast
-Subtype: Extraplanar, Evil, Swarm
+Subtype:
+  - Extraplanar
+  - Fire
+  - Swarm
 CR: 8
 Environnent: A evil-aligned plane
 Source: MM1
@@ -30,7 +33,8 @@ class:
 level: 
 size: Diminutive
 type: Magical Beast
-subtype: Extraplanar, Evil, Swarm
+Subtype:
+  - Extraplanar, Evil, Swarm
 alignment: Always lawful evil
 ac: 20
 touch: 20

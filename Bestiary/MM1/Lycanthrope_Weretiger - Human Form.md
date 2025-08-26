@@ -8,7 +8,9 @@ tags:
 Monster: Lycanthrope, Weretiger, Human Form
 Size: Medium
 Type: Humanoid
-Subtype: Human, Shapechanger
+Subtype:
+  - Human
+  - Shapechanger
 CR: 5
 Environnent: Warm forests
 Source: MM1

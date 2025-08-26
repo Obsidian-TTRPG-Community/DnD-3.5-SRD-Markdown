@@ -8,7 +8,8 @@ tags:
 Monster: Nightshade, Nightcrawler
 Size: Gargantuan
 Type: Undead
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 18
 Environnent: Plane of Shadow
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Undead
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always chaotic evil
 ac: 35
 touch: 6

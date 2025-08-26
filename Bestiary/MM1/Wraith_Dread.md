@@ -8,7 +8,8 @@ tags:
 Monster: Wraith, Dread
 Size: Large
 Type: Undead
-Subtype: Incorporeal
+Subtype:
+  - Incorporeal
 CR: 11
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Undead
-subtype: Incorporeal
+Subtype:
+  - Incorporeal
 alignment: Always lawful evil
 ac: 25
 touch: 25

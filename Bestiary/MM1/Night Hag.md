@@ -8,7 +8,9 @@ tags:
 Monster: Night Hag
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar
+Subtype:
+  - Evil
+  - Extraplanar
 CR: 9
 Environnent: A evil-aligned plane
 Source: MM1

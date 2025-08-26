@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Copper Great Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 24
 Environment: Temperate and warm desert, hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always chaotic good
 ac: 43
 touch: 6

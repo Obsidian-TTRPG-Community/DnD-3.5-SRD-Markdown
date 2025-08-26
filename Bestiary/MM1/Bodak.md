@@ -8,7 +8,8 @@ tags:
 Monster: Bodak
 Size: Medium
 Type: Undead
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 8
 Environnent: A chaotic evil-aligned plane
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Undead
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always chaotic evil
 ac: 20
 touch: 12

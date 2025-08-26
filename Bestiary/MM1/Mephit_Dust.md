@@ -8,7 +8,9 @@ tags:
 Monster: Mephit, Dust
 Size: Small
 Type: Outsider
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Usually neutral
 ac: 17
 touch: 14

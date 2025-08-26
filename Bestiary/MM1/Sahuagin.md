@@ -8,7 +8,8 @@ tags:
 Monster: Sahuagin
 Size: Medium
 Type: Monstrous Humanoid
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 2
 Environnent: Warm aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Monstrous Humanoid
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually lawful evil
 ac: 16
 touch: 11

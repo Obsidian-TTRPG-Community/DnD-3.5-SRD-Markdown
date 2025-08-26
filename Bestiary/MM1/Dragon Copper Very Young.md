@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Copper Very Young
 Size: Small
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 4
 Environment: Temperate and warm desert, hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Chaotic Good
 ac: 18
 touch: 11

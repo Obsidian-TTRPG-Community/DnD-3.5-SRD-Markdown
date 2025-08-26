@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Black Wyrmling
 Size: Tiny
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 2
 Environment: Any marsh and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Tiny
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always Chaotic Evil
 ac: 15
 touch: 12

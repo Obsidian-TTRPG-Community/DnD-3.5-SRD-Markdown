@@ -8,7 +8,8 @@ tags:
 Monster: Giant, Frost, Jarl, 8th-Level Blackguard
 Size: Large
 Type: Giant
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 17
 Environnent: Cold mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Giant
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Always chaotic evil
 ac: 29
 touch: 10

@@ -8,7 +8,9 @@ tags:
 Monster: Arrowhawk, Elder
 Size: Large
 Type: Outsider
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 8
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Outsider
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Always neutral
 ac: 22
 touch: 14

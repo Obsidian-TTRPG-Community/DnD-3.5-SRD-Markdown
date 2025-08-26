@@ -8,7 +8,8 @@ tags:
 Monster: Dwarf, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Dwarf
+Subtype:
+  - Dwarf
 CR: 1
 Environnent: Temperate mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Dwarf
+Subtype:
+  - Dwarf
 alignment: Often lawful good(Deep: Usually lawful neutral or neutral)
 ac: 16
 touch: 10

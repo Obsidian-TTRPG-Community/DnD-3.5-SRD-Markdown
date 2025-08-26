@@ -8,7 +8,8 @@ tags:
 Monster: Octopus, Giant
 Size: Large
 Type: Animal
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 8
 Environnent: Warm aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Animal
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: 
 ac: 18
 touch: 11

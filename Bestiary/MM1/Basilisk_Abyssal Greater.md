@@ -8,7 +8,9 @@ tags:
 Monster: Basilisk, Abyssal Greater
 Size: Large
 Type: Outsider
-Subtype: Augmented Magical Beast, Extraplanar
+Subtype: 
+  - Magical Beast
+  - Extraplanar
 CR: 12
 Environnent: A chaotic evil plane
 Source: MM1

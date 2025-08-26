@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Brass Ancient
 Size: Huge
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 19
 Environment: Temperate and warm desert, plains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always chaotic good
 ac: 38
 touch: 8

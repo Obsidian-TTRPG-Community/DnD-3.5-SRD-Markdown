@@ -8,7 +8,8 @@ tags:
 Monster: Demon, Retriever
 Size: Huge
 Type: Construct
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 11
 Environnent: A chaotic evil-aligned plane
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Construct
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always chaotic evil
 ac: 21
 touch: 11

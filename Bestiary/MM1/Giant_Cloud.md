@@ -8,7 +8,8 @@ tags:
 Monster: Giant, Cloud
 Size: Huge
 Type: Giant
-Subtype: Air
+Subtype:
+  - Air
 CR: 11
 Environnent: Temperate mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Giant
-subtype: Air
+Subtype:
+  - Air
 alignment: Usually neutral good or neutral evil
 ac: 25
 touch: 9

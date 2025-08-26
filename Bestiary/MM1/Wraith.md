@@ -8,7 +8,8 @@ tags:
 Monster: Wraith
 Size: Medium
 Type: Undead
-Subtype: Incorporeal
+Subtype:
+  - Incorporeal
 CR: 5
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Undead
-subtype: Incorporeal
+Subtype:
+  - Incorporeal
 alignment: Always lawful evil
 ac: 15
 touch: 15

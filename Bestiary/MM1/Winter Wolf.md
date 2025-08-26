@@ -8,7 +8,8 @@ tags:
 Monster: Winter Wolf
 Size: Large
 Type: Magical Beast
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 5
 Environnent: Cold forests
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Magical Beast
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Usually neutral evil
 ac: 15
 touch: 10

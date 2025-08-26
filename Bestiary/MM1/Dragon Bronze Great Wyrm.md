@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Bronze Great Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 24
 Environment: Temperate and warm aquatic and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always lawful good
 ac: 44
 touch: 6

@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Hezrou
 Size: Large
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 11
 Environnent: A chaotic evil-aligned plane
 Source: MM1

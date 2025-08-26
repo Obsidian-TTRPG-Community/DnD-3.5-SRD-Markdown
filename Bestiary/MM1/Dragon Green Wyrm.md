@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Green Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 21
 Environment: Temperate and warm forest and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always lawful evil
 ac: 40
 touch: 6

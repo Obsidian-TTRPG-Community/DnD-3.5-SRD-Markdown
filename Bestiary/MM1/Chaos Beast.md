@@ -8,7 +8,9 @@ tags:
 Monster: Chaos Beast
 Size: Medium
 Type: Outsider
-Subtype: Chaotic, Extraplanar
+Subtype:
+  - Chaotic
+  - Extraplanar
 CR: 7
 Environnent: Ever-Changing Chaos of Limbo
 Source: MM1

@@ -8,7 +8,11 @@ tags:
 Monster: Archon, Lantern
 Size: Small
 Type: Outsider
-Subtype: Archon, Extraplanar, Good, Lawful
+Subtype:
+  - Archon
+  - Extraplanar
+  - Good
+  - Lawful
 CR: 2
 Environnent: A lawful good-aligned plane
 Source: MM1

@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Blue Juvenile
 Size: Large
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 7
 Environment: Temperate and warm desert and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Lawful Evil
 ac: 23
 touch: 9

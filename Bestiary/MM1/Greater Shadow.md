@@ -8,7 +8,8 @@ tags:
 Monster: Greater Shadow
 Size: Medium
 Type: Undead
-Subtype: Incorporeal
+Subtype:
+  - Incorporeal
 CR: 8
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Undead
-subtype: Incorporeal
+Subtype:
+  - Incorporeal
 alignment: Always chaotic evil
 ac: 14
 touch: 14

@@ -8,7 +8,8 @@ tags:
 Monster: Lycanthrope, Hill Giant Dire Wereboar, Hybrid Boar Form
 Size: Large
 Type: Giant
-Subtype: Shapechanger
+Subtype:
+  - Shapechanger
 CR: 11
 Environnent: Temperate hills
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Giant
-subtype: Shapechanger
+Subtype:
+  - Shapechanger
 alignment: Always neutral
 ac: 19
 touch: 8

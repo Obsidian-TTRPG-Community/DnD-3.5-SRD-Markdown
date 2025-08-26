@@ -8,7 +8,8 @@ tags:
 Monster: Hag, Sea
 Size: Medium
 Type: Monstrous Humanoid
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 4
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Monstrous Humanoid
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually chaotic evil
 ac: 14
 touch: 11

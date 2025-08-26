@@ -8,7 +8,8 @@ tags:
 Monster: Octopus
 Size: Small
 Type: Animal
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 1
 Environnent: Warm aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Animal
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: 
 ac: 16
 touch: 14

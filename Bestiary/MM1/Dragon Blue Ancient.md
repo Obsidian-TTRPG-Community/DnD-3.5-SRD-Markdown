@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Blue Ancient
 Size: Gargantuan
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 20
 Environment: Temperate and warm desert and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Lawful Evil
 ac: 38
 touch: 6

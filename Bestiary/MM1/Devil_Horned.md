@@ -9,7 +9,10 @@ tags:
 Monster: Devil, Horned (cornugon)
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 16
 Environnent: A lawful evil-aligned plane
 Source: MM1

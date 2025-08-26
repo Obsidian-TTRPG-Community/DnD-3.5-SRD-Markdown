@@ -1,16 +1,17 @@
 ---
 aliases:
- - Bat Swarm
-title: Bestiary/MM1/Swarm, Bat
+ - Centipede Swarm
+title: Bestiary/MM1/Swarm, Centipede
 tags: 
  - 35E_SRD
  - Monster
-Monster: Swarm, Bat
+Monster: Swarm, Centipede
 Size: Diminutive
-Type:  Animal
-Subtype: Swarm
-CR: 2
-Environnent: Temperate deserts
+Type:  Vermin
+Subtype:
+  - Swarm
+CR: 4
+Environnent: Underground
 Source: MM1
 Thumbnail: monster.png
 ---
@@ -23,41 +24,42 @@ layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
 source: MM1 
-name: Swarm, Bat
-image: [[Swarm, Bat.PNG]]
-race: Swarm, Bat
+name: Swarm, Centipede
+image: [[Swarm, Centipede.PNG]]
+race: Swarm, Centipede
 class: 
 level: 
 size: Diminutive
-type:  Animal
-subtype: Swarm
+type:  Vermin
+Subtype:
+  - Swarm
 alignment: Always neutral
-ac: 16
-touch: 14
-flatfooted: 12
-AC_desc: +4 size, +2 Dex
-hp: 13
-hit_dice: 3d8
-initiative: 2
-speed: 5 ft. (1 square), fly 40 ft. (good)
+ac: 18
+touch: 18
+flatfooted: 14
+AC_desc: +4 size, +4 Dex
+hp: 31
+hit_dice: 9d8-9
+initiative: 4
+speed: 20 ft. (4 squares), climb 20 ft.
 space/reach: 10 ft./0 ft.
 stats:
-  - 3
-  - 15
+  - 1
+  - 19
+  - 8
+  - 0
   - 10
   - 2
-  - 14
-  - 4
 saves:
- - Fortitude : +3
- - Reflex : +7
- - Will : +3
+ - Fortitude : 5
+ - Reflex : 7
+ - Will : 3
 skillsaves:
- - Listen: +11
- - Spot: +11
-base_attack/grapple: +2/ -
-environment: Temperate deserts
-organization: Solitary, flight (2-4 swarms), or colony (11-20 swarms)
+ - Climb: +12
+ - Spot: +4
+base_attack/grapple: +6/ -
+environment: Underground
+organization: Solitary, tangle (2-4 swarms), or colony (7-12 swarms)
 treasure: None
 advancement: None
 level_adjustment: -
@@ -68,26 +70,26 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 2
+cr: 4
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Blindsense 20 ft., half damage from slashing and piercing, [[low-light vision]], [[Swarm Subtype|swarm traits]]
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immune to weapon damage, [[Swarm Subtype|swarm traits]], tremorsense 30 ft., vermin traits
 actions:
   - name: Full Attack
-    desc: "Swarm (1d6)"
+    desc: "Swarm (2d6 plus poison)"
   - name: Attack
-    desc: "Swarm (1d6)"
+    desc: "Swarm (2d6 plus poison)"
   - name: special attacks
-    desc: "Distraction, wounding"
+    desc: "Distraction, poison"
 spells:
   - ""
 traits:
    - name: Feats
-     desc: Alertness, Lightning Reflexes
+     desc: Weapon Finesse (B)
 combat_gear:  
 ```
 
@@ -101,7 +103,7 @@ Many different creatures can mass as swarms; bat swarms, centipede swarms, hellw
 
 A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying creatures. A swarm of Diminutive creatures consists of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures consists of 10,000 creatures, whether they are flying or not. Swarms of nonflying creatures include many more creatures than could normally fit in a 10-foot square based on their normal space, because creatures in a swarm are packed tightly together and generally crawl over each other and their prey when moving or attacking. Larger swarms are represented by multiples of single swarms. A large swarm is completely shapeable, though it usually remains contiguous.
 
-A bat swarm is nocturnal, and is never found aboveground in daylight.
+A centipede swarm seeks to surround and attack any living prey it encounters. A swarm deals 2d6 points of damage to any creature whose space it occupies at the end of its move.
 
 Combat
 
@@ -113,19 +115,14 @@ Vulnerabilities of Swarms
 
 Swarms are extremely difficult to fight with physical attacks. However, they have a few special vulnerabilities, as follows:
 
-A bat swarm seeks to surround and attack any warm-blooded prey it encounters. The swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.
+
+**Distraction (Ex):** Any living creature that begins its turn with a centipede swarm in its space must succeed on a DC 13 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
 
 
-**Distraction (Ex):** Any living creature that begins its turn with a swarm in its space must succeed on a DC 11 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 13, initial and secondary damage 1d4 Dex. The save DC is Constitution-based.
 
 
-**Wounding (Ex):** Any living creature damaged by a bat swarm continues to bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 Heal check or the application of a *cure* spell or some other healing magic.
-
-
-**Blindsense (Ex):** A bat swarm notices and locates creatures within 20 feet. Opponents still have total concealment against the bat swarm (but swarm attacks ignore concealment).
-
-
-**Skills:** A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are lost if its blindsense is negated.
+**Skills:** A centipede swarm has a +4 racial bonus on Spot checks and a +8 racial bonus on Climb checks, and uses its Dexterity modifier instead of its Strength modifier for Climb checks. A centipede swarm has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
 
 ---
 

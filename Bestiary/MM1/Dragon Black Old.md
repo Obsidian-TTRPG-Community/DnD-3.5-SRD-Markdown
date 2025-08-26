@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Black Old
 Size: Huge
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 15
 Environment: Any marsh and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always Chaotic Evil
 ac: 32
 touch: 8

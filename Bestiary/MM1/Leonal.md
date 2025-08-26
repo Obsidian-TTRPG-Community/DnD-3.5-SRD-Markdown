@@ -8,7 +8,9 @@ tags:
 Monster: Leonal
 Size: Medium
 Type: Outsider
-Subtype: Extraplanar, Good
+Subtype:
+  - Extraplanar
+  - Good
 CR: 12
 Environnent: A good-aligned plane.
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Extraplanar, Good
+Subtype:
+  - Extraplanar, Good
 alignment: Always neutral good
 ac: 27
 touch: 

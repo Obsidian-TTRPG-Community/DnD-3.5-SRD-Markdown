@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Blue Very Young
 Size: Medium
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 3
 Environment: Temperate and warm desert and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Lawful Evil
 ac: 18
 touch: 10

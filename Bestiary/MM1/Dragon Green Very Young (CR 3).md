@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Green Very Young
 Size: Medium
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 3
 Environment: Temperate and warm forest and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always lawful evil
 ac: 17
 touch: 10

@@ -8,7 +8,10 @@ tags:
 Monster: Lillend
 Size: Large
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Good
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Good
 CR: 7
 Environnent: A chaos-aligned plane
 Source: MM1

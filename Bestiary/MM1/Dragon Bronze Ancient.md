@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Bronze Ancient
 Size: Gargantuan
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 21
 Environment: Temperate and warm aquatic and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always lawful good
 ac: 38
 touch: 6

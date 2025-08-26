@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Brass Wyrmling
 Size: Tiny
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 2
 Environment: Temperate and warm desert, plains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Tiny
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always chaotic good
 ac: 15
 touch: 12

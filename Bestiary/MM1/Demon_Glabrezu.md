@@ -8,7 +8,10 @@ tags:
 Monster: Demon, Glabrezu
 Size: Huge
 Type: Outsider
-Subtype: Chaotic, Extraplanar, Evil
+Subtype:
+  - Chaotic
+  - Extraplanar
+  - Evil
 CR: 13
 Environnent: A chaotic evil-aligned plane
 Source: MM1

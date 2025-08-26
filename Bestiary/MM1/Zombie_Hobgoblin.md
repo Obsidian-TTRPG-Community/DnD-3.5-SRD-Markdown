@@ -1,14 +1,15 @@
 ---
 aliases:
- - Zombie Hobgoblin
+  - Zombie Hobgoblin
 title: Bestiary/MM1/Zombie, Hobgoblin
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Zombie, Hobgoblin
 Size: Medium
-Type: undead
-Subtype: Goblinoid
+Type: Undead
+Subtype:
+  - Goblinoid
 CR: 0.5
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: undead
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Always neutral evil
 ac: 12
 touch: 

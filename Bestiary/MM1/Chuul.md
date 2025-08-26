@@ -8,7 +8,8 @@ tags:
 Monster: Chuul
 Size: Large
 Type: Aberration
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 7
 Environnent: Temperate marshes
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Aberration
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually chaotic evil
 ac: 22
 touch: 12

@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Red Young
 Size: Large
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 6
 Environment: Temperate and warm hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always Chaotic Evil
 ac: 21
 touch: 9

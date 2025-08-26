@@ -8,7 +8,9 @@ tags:
 Monster: Formian Queen
 Size: Large
 Type: Outsider
-Subtype: Lawful, Extraplanar
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 17
 Environnent: A lawful-aligned plane
 Source: MM1

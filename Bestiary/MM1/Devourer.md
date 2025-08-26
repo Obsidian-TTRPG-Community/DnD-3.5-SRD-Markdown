@@ -8,7 +8,8 @@ tags:
 Monster: Devourer
 Size: Large
 Type: Undead
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 11
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Undead
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always neutral evil
 ac: 24
 touch: 9

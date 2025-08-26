@@ -8,7 +8,8 @@ tags:
 Monster: Aboleth Mage, 10th-Level Wizard
 Size: Huge
 Type: Aberration
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 17
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Aberration
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually lawful evil
 ac: 18
 touch: 11

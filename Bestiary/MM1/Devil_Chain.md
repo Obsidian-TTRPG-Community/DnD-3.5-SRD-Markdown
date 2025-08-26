@@ -9,7 +9,10 @@ tags:
 Monster: Devil, Chain (kyton)
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 6
 Environnent: A lawful evil-aligned plane
 Source: MM1

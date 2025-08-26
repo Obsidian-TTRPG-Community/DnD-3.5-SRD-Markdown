@@ -8,7 +8,8 @@ tags:
 Monster: Nightshade, Nightwalker
 Size: Huge
 Type: Undead
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 16
 Environnent: Plane of Shadow
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Undead
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always chaotic evil
 ac: 32
 touch: 10

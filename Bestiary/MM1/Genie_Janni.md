@@ -8,7 +8,8 @@ tags:
 Monster: Genie, Janni
 Size: Medium
 Type: Outsider
-Subtype: Native
+Subtype:
+  - Native
 CR: 4
 Environnent: Warm deserts
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Native
+Subtype:
+  - Native
 alignment: Usually neutral
 ac: 18
 touch: 12

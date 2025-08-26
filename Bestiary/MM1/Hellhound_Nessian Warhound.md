@@ -8,7 +8,11 @@ tags:
 Monster: Hellhound, Nessian Warhound
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar, Fire, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Fire
+  - Lawful
 CR: 9
 Environnent: A lawful evil plane
 Source: MM1

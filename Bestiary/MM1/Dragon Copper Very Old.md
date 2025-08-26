@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Copper Very Old
 Size: Huge
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 19
 Environment: Temperate and warm desert, hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Chaotic Good
 ac: 36
 touch: 8

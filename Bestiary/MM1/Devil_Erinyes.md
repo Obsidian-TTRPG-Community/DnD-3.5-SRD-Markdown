@@ -8,7 +8,10 @@ tags:
 Monster: Devil, Erinyes
 Size: Medium
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 8
 Environnent: A lawful evil-aligned plane
 Source: MM1

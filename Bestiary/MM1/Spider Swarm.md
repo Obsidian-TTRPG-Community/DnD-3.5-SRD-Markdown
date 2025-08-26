@@ -1,16 +1,17 @@
 ---
 aliases:
- - Rat Swarm
-title: Bestiary/MM1/Swarm, Rat
+ - Spider Swarm
+title: Bestiary/MM1/Swarm, Spider
 tags: 
  - 35E_SRD
  - Monster
-Monster: Swarm, Rat
-Size: Tiny
-Type: Animal
-Subtype: Swarm
-CR: 2
-Environnent: Any
+Monster: Swarm, Spider
+Size: Diminutive
+Type:  Vermin
+Subtype:
+  - Swarm
+CR: 1
+Environnent: Warm forests
 Source: MM1
 Thumbnail: monster.png
 ---
@@ -23,45 +24,43 @@ layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
 source: MM1 
-name: Swarm, Rat
-image: [[Swarm, Rat.PNG]]
-race: Swarm, Rat
+name: Swarm, Spider
+image: [[Swarm, Spider.PNG]]
+race: Swarm, Spider
 class: 
 level: 
-size: Tiny
-type: Animal
-subtype: Swarm
+size: 
+type: Diminutive Vermin
+Subtype:
+  - Swarm
 alignment: Always neutral
-ac: 14
-touch: 14
-flatfooted: 12
-AC_desc: +2 size, +2 Dex
-hp: 13
-hit_dice: 4d8
-initiative: 2
-speed: 15 ft. (3 squares), climb 15 ft.
+ac: 17
+touch: 17
+flatfooted: 14
+AC_desc: +4 size, +3 Dex
+hp: 9
+hit_dice: 2d8
+initiative: 3
+speed: 20 ft. (4 squares), climb 20 ft.
 space/reach: 10 ft./0 ft.
 stats:
-  - 2
-  - 15
+  - 1
+  - 17
+  - 10
+  - 0
   - 10
   - 2
-  - 12
-  - 2
 saves:
- - Fortitude : 4
- - Reflex : 6
- - Will : 2
+ - Fortitude : 3
+ - Reflex : 3
+ - Will : 0
 skillsaves:
- - Balance: +10
- - Climb: +10
- - Hide: +14
- - Listen: +6
- - Spot: +7
- - Swim: +10
-base_attack/grapple: +3/ -
-environment: Any
-organization: Solitary, pack (2-4 swarms), or infestation (7-12 swarms)
+ - Climb: +11
+ - Listen: +4
+ - Spot: +4
+base_attack/grapple: +1/ -
+environment: Warm forests
+organization: Solitary, tangle (2-4 swarms), or colony (7-12 swarms)
 treasure: None
 advancement: None
 level_adjustment: -
@@ -72,26 +71,26 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 2
+cr: 1
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Half damage from slashing and piercing, [[low-light vision]], [[Scent]], [[Swarm Subtype|swarm traits]]
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Swarm Subtype|swarm traits]], tremorsense 30 ft., vermin traits
 actions:
   - name: Full Attack
-    desc: "Swarm (1d6 plus disease)"
+    desc: "Swarm (1d6 plus poison)"
   - name: Attack
-    desc: "Swarm (1d6 plus disease)"
+    desc: "Swarm (1d6 plus poison)"
   - name: special attacks
-    desc: "Disease, distraction"
+    desc: "Distraction, poison"
 spells:
   - ""
 traits:
    - name: Feats
-     desc: Alertness, Weapon Finesse
+     desc: 
 combat_gear:  
 ```
 
@@ -115,16 +114,16 @@ Vulnerabilities of Swarms
 
 Swarms are extremely difficult to fight with physical attacks. However, they have a few special vulnerabilities, as follows:
 
-A rat swarm seeks to surround and attack any warm-blooded prey it encounters. A swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.
+A spider swarm seeks to surround and attack any living prey it encounters. A swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.
 
 
-**Disease (Ex):** Filth fever - swarm attack, Fortitude DC 12, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
+**Distraction (Ex):** Any living creature that begins its turn with a spider swarm in its space must succeed on a DC 11 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
 
 
-**Distraction (Ex):** Any living creature that begins its turn with a swarm in its square must succeed on a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 11, initial and secondary damage 1d3 Str. The save DC is Constitution-based.
 
 
-**Skills:** A rat swarm has a +4 racial bonus on Hide and Move Silently checks, and a +8 racial bonus on Balance, Climb, and Swim checks. A rat swarm can always choose to take 10 on all Climb checks, even if rushed or threatened. A rat swarm uses its Dexterity modifier instead of its Strength modifier for Climb and Swim checks. A rat swarm has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A spider swarm has a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on Climb checks. It uses its Dexterity modifier instead of its Strength modifier for Climb checks. It can always choose to take 10 on a Climb check, even if rushed or threatened.
 
 ---
 

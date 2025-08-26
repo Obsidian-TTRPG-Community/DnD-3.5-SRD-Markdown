@@ -8,7 +8,8 @@ tags:
 Monster: Hobgoblin, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Goblinoid
+Subtype:
+  - Goblinoid
 CR: 1
 Environnent: Warm hills
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Usually lawful evil
 ac: 15
 touch: 11

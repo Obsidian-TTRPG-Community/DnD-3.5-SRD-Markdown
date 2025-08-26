@@ -8,7 +8,10 @@ tags:
 Monster: Thoqqua
 Size: Medium
 Type: Elemental
-Subtype: Earth, Extraplanar, Fire
+Subtype:
+  - Earth
+  - Extraplanar
+  - Fire
 CR: 2
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +33,8 @@ class:
 level: 
 size: Medium
 type: Elemental
-subtype: Earth, Extraplanar, Fire
+Subtype:
+  - Earth, Extraplanar, Fire
 alignment: Usually neutral
 ac: 18
 touch: 11

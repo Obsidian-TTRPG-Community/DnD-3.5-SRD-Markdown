@@ -8,7 +8,9 @@ tags:
 Monster: Formian Taskmaster
 Size: Medium
 Type: Outsider
-Subtype: Lawful, Extraplanar
+Subtype:
+  - Lawful
+  - Extraplanar
 CR: 7
 Environnent: A lawful-aligned plane
 Source: MM1

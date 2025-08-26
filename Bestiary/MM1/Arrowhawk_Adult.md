@@ -8,7 +8,9 @@ tags:
 Monster: Arrowhawk, Adult
 Size: Medium
 Type: Outsider
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 5
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Always neutral
 ac: 21
 touch: 15

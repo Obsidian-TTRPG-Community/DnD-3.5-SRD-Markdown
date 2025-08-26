@@ -1,14 +1,16 @@
 ---
 aliases:
- - Huge Water Elemental
+  - Huge Water Elemental
 title: Bestiary/MM1/Elemental, Water, Huge
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Elemental, Water, Huge
 Size: Huge
 Type: Elemental
-Subtype: Water, Extraplanar
+Subtype:
+  - Water
+  - Extraplanar
 CR: 7
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Huge
 type: Elemental
-subtype: Water, Extraplanar
+Subtype:
+  - Water, Extraplanar
 alignment: Usually neutral
 ac: 21
 touch: 12

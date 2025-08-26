@@ -1,14 +1,16 @@
 ---
 aliases:
- - Small Water Elemental
+  - Small Water Elemental
 title: Bestiary/MM1/Elemental, Water, Small
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Elemental, Water, Small
 Size: Small
 Type: Elemental
-Subtype: Water, Extraplanar
+Subtype:
+  - Water
+  - Extraplanar
 CR: 1
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Elemental
-subtype: Water, Extraplanar
+Subtype:
+  - Water, Extraplanar
 alignment: Usually neutral
 ac: 17
 touch: 11

@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Blue Wyrmling
 Size: Small
 Type: Dragon
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 2
 Environment: Temperate and warm desert and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Dragon
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Always Lawful Evil
 ac: 16
 touch: 11

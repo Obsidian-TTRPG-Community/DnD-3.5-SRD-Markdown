@@ -8,7 +8,9 @@ tags:
 Monster: Nightmare
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar
+Subtype:
+  - Evil
+  - Extraplanar
 CR: 5
 Environnent: A evil-aligned plane
 Source: MM1

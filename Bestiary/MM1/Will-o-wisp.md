@@ -8,7 +8,8 @@ tags:
 Monster: Will-o'-wisp
 Size: Small
 Type: Aberration
-Subtype: Air
+Subtype:
+  - Air
 CR: 6
 Environnent: Temperate marshes
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Aberration
-subtype: Air
+Subtype:
+  - Air
 alignment: Usually chaotic evil
 ac: 29
 touch: 29

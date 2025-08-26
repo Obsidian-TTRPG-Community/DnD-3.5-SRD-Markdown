@@ -8,7 +8,8 @@ tags:
 Monster: Giant, Stone
 Size: Large
 Type: Giant
-Subtype: Earth
+Subtype:
+  - Earth
 CR: 8
 Environnent: Temperate mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Giant
-subtype: Earth
+Subtype:
+  - Earth
 alignment: Usually neutral
 ac: 25
 touch: 11

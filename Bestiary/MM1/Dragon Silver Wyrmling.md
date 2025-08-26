@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Silver Wyrmling
 Size: Small
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 3
 Environment: Temperate and warm mountains and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always lawful good
 ac: 17
 touch: 11

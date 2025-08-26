@@ -8,7 +8,9 @@ tags:
 Monster: Salamander, Average
 Size: Medium
 Type: Outsider
-Subtype: Extraplanar, Fire
+Subtype:
+  - Extraplanar
+  - Fire
 CR: 6
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Extraplanar, Fire
+Subtype:
+  - Extraplanar, Fire
 alignment: Usually evil (any)
 ac: 18
 touch: 11

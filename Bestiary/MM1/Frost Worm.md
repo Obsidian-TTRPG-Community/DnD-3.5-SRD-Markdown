@@ -8,7 +8,8 @@ tags:
 Monster: Frost Worm
 Size: Huge
 Type: Magical Beast
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 12
 Environnent: Cold plains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Magical Beast
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Usually neutral
 ac: 18
 touch: 8

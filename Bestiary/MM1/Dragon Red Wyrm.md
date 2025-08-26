@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Red Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 23
 Environment: Temperate and warm hill, mountains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always Chaotic Evil
 ac: 42
 touch: 6

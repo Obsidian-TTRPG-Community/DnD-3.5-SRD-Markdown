@@ -8,7 +8,8 @@ tags:
 Monster: Couatl
 Size: Large
 Type: Outsider
-Subtype: Native
+Subtype:
+  - Native
 CR: 10
 Environnent: Warm forests
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Outsider
-subtype: Native
+Subtype:
+  - Native
 alignment: Always lawful good
 ac: 21
 touch: 12

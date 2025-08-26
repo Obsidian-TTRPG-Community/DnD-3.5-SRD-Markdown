@@ -8,7 +8,9 @@ tags:
 Monster: Air Elemental, Medium
 Size: Medium
 Type: Elemental
-Subtype: Air, Extraplanar
+Subtype:
+  - Air
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Elemental
-subtype: Air, Extraplanar
+Subtype:
+  - Air, Extraplanar
 alignment: Usually neutral
 ac: 18
 touch: 15

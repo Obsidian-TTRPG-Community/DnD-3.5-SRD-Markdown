@@ -1,14 +1,16 @@
 ---
 aliases:
- - Vargouille
+  - Vargouille
 title: Bestiary/MM1/Vargouille
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Vargouille
 Size: Small
 Type: Outsider
-Subtype: Evil, Extraplanar
+Subtype:
+  - Evil
+  - Extraplanar
 CR: 2
 Environnent: An evil-aligned plane
 Source: MM1

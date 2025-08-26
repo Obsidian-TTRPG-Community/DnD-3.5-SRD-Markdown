@@ -8,7 +8,8 @@ tags:
 Monster: Doppelganger
 Size: Medium
 Type: Monstrous Humanoid
-Subtype: Shapechanger
+Subtype:
+  - Shapechanger
 CR: 3
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Monstrous Humanoid
-subtype: Shapechanger
+Subtype:
+  - Shapechanger
 alignment: Usually neutral
 ac: 15
 touch: 11

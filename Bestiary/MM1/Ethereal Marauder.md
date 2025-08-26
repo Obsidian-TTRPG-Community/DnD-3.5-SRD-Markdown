@@ -8,7 +8,8 @@ tags:
 Monster: Ethereal Marauder
 Size: Medium
 Type: Magical Beast
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 3
 Environnent: Ethereal Plane
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Magical Beast
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always neutral
 ac: 14
 touch: 11

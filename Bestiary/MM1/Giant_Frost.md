@@ -8,7 +8,8 @@ tags:
 Monster: Giant, Frost
 Size: Large
 Type: Giant
-Subtype: Cold
+Subtype:
+  - Cold
 CR: 9
 Environnent: Cold mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Giant
-subtype: Cold
+Subtype:
+  - Cold
 alignment: Often chaotic evil
 ac: 21
 touch: 8

@@ -8,7 +8,8 @@ tags:
 Monster: Duergar, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Dwarf
+Subtype:
+  - Dwarf
 CR: 1
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Dwarf
+Subtype:
+  - Dwarf
 alignment: Often lawful evil
 ac: 17
 touch: 10

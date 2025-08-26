@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Brass Very Young
 Size: Small
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 3
 Environment: Temperate and warm desert, plains, and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always chaotic good
 ac: 17
 touch: 11

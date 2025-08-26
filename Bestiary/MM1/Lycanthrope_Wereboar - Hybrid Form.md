@@ -8,7 +8,9 @@ tags:
 Monster: Lycanthrope, Wereboar - Hybrid Form
 Size: Medium
 Type: Humanoid
-Subtype: Human, Shapechanger
+Subtype:
+  - Human
+  - Shapechanger
 CR: 4
 Environnent: Temperate forests
 Source: MM1

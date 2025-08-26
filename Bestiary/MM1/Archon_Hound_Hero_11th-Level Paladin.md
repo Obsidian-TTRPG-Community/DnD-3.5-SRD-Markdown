@@ -11,7 +11,11 @@ tags:
 Monster: Archon, Hound, Hero, 11th-Level Paladin
 Size: Medium
 Type: Outsider
-Subtype: Archon, Extraplanar, Good, Lawful
+Subtype:
+  - Archon
+  - Extraplanar
+  - Good
+  - Lawful
 CR: 16
 Environnent: A lawful good-aligned plane
 Source: MM1

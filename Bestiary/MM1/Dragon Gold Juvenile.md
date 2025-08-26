@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Gold Juvenile
 Size: Large
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 10
 Environment: Any land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always lawful good
 ac: 25
 touch: 9

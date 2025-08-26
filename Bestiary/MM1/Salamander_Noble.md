@@ -8,7 +8,9 @@ tags:
 Monster: Salamander, Noble
 Size: Large
 Type: Outsider
-Subtype: Extraplanar, Fire
+Subtype:
+  - Extraplanar
+  - Fire
 CR: 10
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Outsider
-subtype: Extraplanar, Fire
+Subtype:
+  - Extraplanar, Fire
 alignment: Usually evil (any)
 ac: 18
 touch: 10

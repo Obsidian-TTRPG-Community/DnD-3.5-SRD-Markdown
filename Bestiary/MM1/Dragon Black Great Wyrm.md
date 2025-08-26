@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Black Great Wyrm
 Size: Gargantuan
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 21
 Environment: Any marsh and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always Chaotic Evil
 ac: 42
 touch: 6

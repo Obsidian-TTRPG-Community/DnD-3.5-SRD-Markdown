@@ -8,7 +8,10 @@ tags:
 Monster: Mephit, Ice
 Size: Small
 Type: Outsider
-Subtype: Air, Cold, Extraplanar
+Subtype:
+  - Air
+  - Cold
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Air
 Source: MM1
@@ -30,7 +33,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Air, Cold, Extraplanar
+Subtype:
+  - Air, Cold, Extraplanar
 alignment: Usually neutral
 ac: 18
 touch: 14

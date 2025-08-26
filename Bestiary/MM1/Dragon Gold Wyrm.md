@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Gold Wyrm
 Size: Colossal
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 24
 Environment: Any land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Colossal
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always lawful good
 ac: 39
 touch: 2

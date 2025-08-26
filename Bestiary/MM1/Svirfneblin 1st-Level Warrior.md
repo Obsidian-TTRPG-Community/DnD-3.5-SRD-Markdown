@@ -8,7 +8,8 @@ tags:
 Monster: Svirfneblin, 1st-Level Warrior
 Size: Small
 Type: Humanoid
-Subtype: Gnome
+Subtype:
+  - Gnome
 CR: 1
 Environnent: Underground
 Source: MM1

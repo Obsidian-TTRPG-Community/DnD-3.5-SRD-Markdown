@@ -8,7 +8,9 @@ tags:
 Monster: Xorn, Elder
 Size: Large
 Type: Outsider
-Subtype: Extraplanar, Earth
+Subtype:
+  - Extraplanar
+  - Earth
 CR: 8
 Environnent: Elemental Plane of Earth
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Outsider
-subtype: Extraplanar, Earth
+Subtype:
+  - Extraplanar, Earth
 alignment: Usually neutral
 ac: 25
 touch: 9

@@ -8,7 +8,9 @@ tags:
 Monster: Mephit, Ooze
 Size: Small
 Type: Outsider
-Subtype: Extraplanar, Water
+Subtype:
+  - Extraplanar
+  - Water
 CR: 3
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Extraplanar, Water
+Subtype:
+  - Extraplanar, Water
 alignment: Usually neutral
 ac: 16
 touch: 11

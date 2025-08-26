@@ -8,7 +8,8 @@ tags:
 Monster: Kobold, 1st-Level Warrior
 Size: Small
 Type: Humanoid
-Subtype: Reptilian
+Subtype:
+  - Reptilian
 CR: 0.125
 Environnent: Temperate forests
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: Humanoid
-subtype: Reptilian
+Subtype:
+  - Reptilian
 alignment: Usually lawful evil
 ac: 15
 touch: 12

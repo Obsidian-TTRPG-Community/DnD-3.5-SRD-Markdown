@@ -8,7 +8,8 @@ tags:
 Monster: Nightshade, Nightwing
 Size: Huge
 Type: Undead
-Subtype: Extraplanar
+Subtype:
+  - Extraplanar
 CR: 14
 Environnent: Plane of Shadow
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Undead
-subtype: Extraplanar
+Subtype:
+  - Extraplanar
 alignment: Always chaotic evil
 ac: 30
 touch: 12

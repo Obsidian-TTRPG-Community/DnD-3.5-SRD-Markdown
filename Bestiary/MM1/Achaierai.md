@@ -8,7 +8,10 @@ tags:
 Monster: Achaierai
 Size: Large
 Type: Outsider
-Subtype: Evil, Extraplanar, Lawful
+Subtype:
+  - Evil
+  - Extraplanar
+  - Lawful
 CR: 5
 Environnent: A lawful-aligned plane
 Source: MM1

@@ -8,7 +8,8 @@ tags:
 Monster: Kraken
 Size: Gargantuan
 Type: Magical Beast
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 12
 Environnent: Temperate aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Gargantuan
 type: Magical Beast
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually neutral evil
 ac: 20
 touch: 6

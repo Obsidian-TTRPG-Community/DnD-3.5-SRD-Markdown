@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Black Young
 Size: Medium
 Type: Dragon
-Subtype: Water
+Subtype:
+  - Water
 CR: 4
 Environment: Any marsh and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Dragon
-subtype: Water
+Subtype:
+  - Water
 alignment: Always Chaotic Evil
 ac: 19
 touch: 10

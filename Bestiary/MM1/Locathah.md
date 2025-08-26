@@ -8,7 +8,8 @@ tags:
 Monster: Locathah
 Size: Medium
 Type: Humanoid
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 0.5
 Environnent: Warm aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: Usually neutral
 ac: 14
 touch: 11

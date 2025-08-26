@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Green Very Old
 Size: Huge
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 18
 Environment: Temperate and warm forest and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always lawful evil
 ac: 36
 touch: 8

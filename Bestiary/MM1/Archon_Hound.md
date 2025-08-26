@@ -8,7 +8,11 @@ tags:
 Monster: Archon, Hound
 Size: Medium
 Type: Outsider
-Subtype: Archon, Extraplanar, Good, Lawful
+Subtype:
+  - Archon
+  - Extraplanar
+  - Good
+  - Lawful
 CR: 4
 Environnent: A lawful good-aligned plane
 Source: MM1

@@ -1,14 +1,15 @@
 ---
 aliases:
- - Snow Goblin
+  - Snow Goblin
 title: Bestiary/MM1/Goblin, Snow
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Goblin, Snow
 Size: Small
-Type: humanoid
-Subtype: Goblinoid
+Type: Humanoid
+Subtype:
+  - Goblinoid
 CR: 0.5
 Environnent: Cold hills
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Small
 type: humanoid
-subtype: Goblinoid
+Subtype:
+  - Goblinoid
 alignment: Neutral Evil
 ac: 16
 touch: 

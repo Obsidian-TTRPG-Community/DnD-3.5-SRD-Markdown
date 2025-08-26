@@ -8,7 +8,8 @@ tags:
 Monster: Drow, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
-Subtype: Elf 
+Subtype:
+  - Elf 
 CR: 1
 Environnent: Underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Humanoid
-subtype: Elf 
+Subtype:
+  - Elf 
 alignment: Usually neutral evil
 ac: 16
 touch: 11

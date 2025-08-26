@@ -8,7 +8,8 @@ tags:
 Monster: Shark, Medium
 Size: Medium
 Type: Animal
-Subtype: Aquatic
+Subtype:
+  - Aquatic
 CR: 1
 Environnent: Cold aquatic
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Animal
-subtype: Aquatic
+Subtype:
+  - Aquatic
 alignment: 
 ac: 15
 touch: 12

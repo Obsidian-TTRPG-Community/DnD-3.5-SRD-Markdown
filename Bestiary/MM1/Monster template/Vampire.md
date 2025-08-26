@@ -200,7 +200,7 @@ At 8th level, the vampire can also take the form of a [[Bat Dire|dire bat]] or d
 
 Most vampires are also unable to cross running water, although they can be carried over it while resting in their coffins or aboard a ship. (A vampire that has a natural swim speed may freely cross running water and is quite comfortable in water of any kind). Vampires are utterly unable to enter a home or other building unless invited in by someone with the authority to do so. They may freely enter public places, since such areas are by definition open to all.
 
-**Children of the Night (Su)**: Vampires command the lesser creatures of the world. Starting at 5th level, a vampire can call forth a [[Swarm_Rat|rat swarm]], a [[Swarm_Bat|bat swarm]], or 1d3 wolves as a standard action once per day. The creature or creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
+**Children of the Night (Su)**: Vampires command the lesser creatures of the world. Starting at 5th level, a vampire can call forth a [[Rat Swarm|rat swarm]], a [[Bat Swarm|bat swarm]], or 1d3 wolves as a standard action once per day. The creature or creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
 
 At 7th level, the vampire can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves. The creatures arrive and serve as above.
 

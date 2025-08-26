@@ -8,7 +8,9 @@ tags:
 Monster: Tojanida, Elder
 Size: Large
 Type: Outsider
-Subtype: Extraplanar, Water
+Subtype:
+  - Extraplanar
+  - Water
 CR: 9
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Large
 type: Outsider
-subtype: Extraplanar, Water
+Subtype:
+  - Extraplanar, Water
 alignment: Always neutral
 ac: 24
 touch: 10

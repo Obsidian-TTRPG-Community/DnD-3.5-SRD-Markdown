@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Silver Mature Adult
 Size: Huge
 Type: Dragon
-Subtype: Air
+Subtype:
+  - Air
 CR: 17
 Environment: Temperate and warm mountains and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Huge
 type: Dragon
-subtype: Air
+Subtype:
+  - Air
 alignment: Always lawful good
 ac: 32
 touch: 8

@@ -8,7 +8,9 @@ tags:
 Monster: Magmin
 Size: Small
 Type: Elemental
-Subtype: Fire, Extraplanar
+Subtype:
+  - Fire
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Elemental
-subtype: Fire, Extraplanar
+Subtype:
+  - Fire, Extraplanar
 alignment: Always chaotic neutral
 ac: 17
 touch: 11

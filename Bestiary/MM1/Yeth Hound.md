@@ -8,7 +8,9 @@ tags:
 Monster: Yeth Hound
 Size: Medium
 Type: Outsider
-Subtype: Extraplanar, Evil
+Subtype:
+  - Extraplanar
+  - Fire
 CR: 3
 Environnent: An evil-aligned plane
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Outsider
-subtype: Extraplanar, Evil
+Subtype:
+  - Extraplanar, Evil
 alignment: Always neutral evil
 ac: 20
 touch: 12

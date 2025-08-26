@@ -1,14 +1,15 @@
 ---
 aliases:
- - Berserkers (Human)
+  - Berserkers (Human)
 title: Bestiary/MM1/Berserkers (Human)
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Berserkers (Human)
 Size: Medium
-Type: humanoid
-Subtype: Human
+Type: Humanoid
+Subtype: 
+  - Human
 CR: 2
 Environnent: Any
 Source: MM1

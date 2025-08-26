@@ -8,7 +8,9 @@ tags:
 Monster: Lycanthrope, Werewolf, Wolf Form
 Size: Medium
 Type: Humanoid
-Subtype: Human, Shapechanger
+Subtype:
+  - Human
+  - Shapechanger
 CR: 3
 Environnent: Temperate forests
 Source: MM1

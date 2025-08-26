@@ -8,7 +8,8 @@ tags:
 Monster: Giant, Fire
 Size: Large
 Type: Giant
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 10
 Environnent: Warm mountains
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Large
 type: Giant
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Often lawful evil
 ac: 23
 touch: 8

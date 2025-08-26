@@ -1,14 +1,16 @@
 ---
 aliases:
- - Greater Water Elemental
+  - Greater Water Elemental
 title: Bestiary/MM1/Water Elemental, Greater
-tags: 
- - 35E_SRD
- - Monster
+tags:
+  - 35E_SRD
+  - Monster
 Monster: Water Elemental, Greater
 Size: Huge
 Type: Elemental
-Subtype: Water, Extraplanar
+Subtype:
+  - Water
+  - Extraplanar
 CR: 9
 Environnent: Elemental Plane of Water
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Huge
 type: Elemental
-subtype: Water, Extraplanar
+Subtype:
+  - Water, Extraplanar
 alignment: Usually neutral
 ac: 22
 touch: 13

@@ -8,7 +8,9 @@ tags:
 Monster: Mephit, Steam
 Size: Small
 Type: Outsider
-Subtype: Extraplanar, Fire
+Subtype:
+  - Extraplanar
+  - Fire
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Small
 type: Outsider
-subtype: Extraplanar, Fire
+Subtype:
+  - Extraplanar, Fire
 alignment: Usually neutral
 ac: 16
 touch: 12

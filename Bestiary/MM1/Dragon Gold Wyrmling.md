@@ -8,7 +8,8 @@ tags:
 Monster: Dragon, Gold Wyrmling
 Size: Medium
 Type: Dragon
-Subtype: Fire
+Subtype:
+  - Fire
 CR: 4
 Environment: Any land and underground
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Dragon
-subtype: Fire
+Subtype:
+  - Fire
 alignment: Always lawful good
 ac: 17
 touch: 10

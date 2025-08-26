@@ -8,7 +8,9 @@ tags:
 Monster: Fire Elemental, Medium
 Size: Medium
 Type: Elemental
-Subtype: Fire, Extraplanar
+Subtype:
+  - Fire
+  - Extraplanar
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
@@ -30,7 +32,8 @@ class:
 level: 
 size: Medium
 type: Elemental
-subtype: Fire, Extraplanar
+Subtype:
+  - Fire, Extraplanar
 alignment: Usually neutral
 ac: 16
 touch: 13

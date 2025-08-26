@@ -8,7 +8,8 @@ tags:
 Monster: Allip
 Size: Medium
 Type: Undead
-Subtype: Incorporeal
+Subtype:
+  - Incorporeal
 CR: 3
 Environnent: Any
 Source: MM1
@@ -30,7 +31,8 @@ class:
 level: 
 size: Medium
 type: Undead
-subtype: Incorporeal
+Subtype:
+  - Incorporeal
 alignment: Always neutral evil
 ac: 15
 touch: 15
