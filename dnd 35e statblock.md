@@ -1,57 +1,39 @@
 ```statblock
-layout: dnd 35e layout
-columns: 3
+statblock: true
+layout: Basic 3.5e Layout
+columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 375px
-image: [[Poltergeist.png]]
-source: string
+source: MM1 
 name: string
-race: string 
-class: string 
+image: [[Monster.PNG]]
+race: string
+class: string
 level: number
-size:  string
-type:  string
-subtype: (string)
+size: string
+type: string
+subtype: string
 alignment: string
-aura: string
-hit_dice:  num-d-sides
-initiative: number
-speed: string
 ac: number
 touch: number
-flat_footed: number
-damage_resist: string
-spell_resist: string
-base_attack/grapple: numbers
-attack: string
-full_attack: string
-space/reach: number/number
-special_attacks: string
-special_qualities: 
-  - name: string
-    desc: string
-special_abilities:
-  - name: string
-    desc: string
-spells:
-  - Typical Spells Prepared
-  - 0 level
-  - 1st level
-  - 2nd level
-  - 3rd level
-  - 4th level
-  - 5th level
-  - 6th level
-  - 7th level 
-  - 8th level 
-  - 9th level 
+flatfooted: number
+AC_desc: string
+hp: number
+hit_dice: string
+initiative: number
+speed: string
+space/reach: string
+stats:
+  - number (STR)
+  - number (DEX)
+  - number (CON)
+  - number (INT)
+  - number (WIS)
+  - number (CHA)
 saves:
-  - Fort: 0
-  - Ref: 0
-  - Will: 0
-abilities: [0, 0, 0, 0, 0, 0]
-skills:
+ - Fortitude : number
+ - Reflex : number
+ - Will : number
+skillsaves:
   - Appraise: +10
   - Autohypnosis: +10
   - Balance: 0
@@ -92,16 +74,48 @@ skills:
   - Use Magic Device: 0
   - Use Psionic Device: 0
   - Use Rope: 0
-feats:  string 
+base_attack/grapple: +3/+13
+environment: Warm forests
+organization: Solitary or company (5-8)
+treasure: None
+advancement: 6-15 HD (Large)
+level_adjustment: -
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 3
+aura: ""
 spell-like_abilities:
-  - name: string
-    desc: string
-weak: string 
-environment:  string
-organization: string
-cr: number
-treasure: string
-advancement: string
-level_adjustment: string
-immune: string
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Low-light vision, scent
+actions:
+  - name: Full Attack
+    desc: "2 claws +8 melee (1d6+6) and bite +3 melee (1d8+3)"
+  - name: Attack
+    desc: "Claw +8 melee (1d6+6)"
+  - name: special attacks
+    desc: "Rend 2d6+9"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Alertness, Toughness
+combat_gear:  
 ```
+
+
+
+
+
+
+
+
+
+

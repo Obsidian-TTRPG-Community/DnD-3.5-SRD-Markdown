@@ -1,6 +1,8 @@
 {
-  "newLinkFormat": "relative",
+  "livePreview": false,
+  "showLineNumber": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
-  "trashOption": "local"
+  "attachmentFolderPath": "/",
+  "newFileLocation": "current"
 }

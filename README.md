@@ -15,3 +15,19 @@ What it will include:
 - [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) support
 - Fantasy Statblock Support (Maybe not at release)
 - Initiative Tracker Support
+
+
+##  To do
+
+- [ ] Review spell for those saying function like ...  and put the right text instead
+- [ ] Divine Rules need to be formated
+- [ ] Psionics need to be formated
+- [ ] Epic  Rules need to be formated
+- [ ] In the bestiary, True Dragon need to be done as individual file
+- [ ] Dice Roller support not tested
+- [ ] Initiative Tracker Support not tested
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

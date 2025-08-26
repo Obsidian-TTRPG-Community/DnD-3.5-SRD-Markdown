@@ -1,18 +1,24 @@
 {
   "main": {
-    "id": "a94e0e3ac016875f",
+    "id": "d36911df0f360733",
     "type": "split",
     "children": [
       {
-        "id": "d86a79afd59c8e7c",
+        "id": "fe4fe22e64d77b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "28350a72989df336",
+            "id": "b19c54a5f630354c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Basics/Abilities and Conditions/Ability Damaged.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ability Damaged"
             }
           }
         ]
@@ -21,25 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "99bc745b19677845",
+    "id": "5973b697a54e6a12",
     "type": "split",
     "children": [
       {
-        "id": "84bf9078e80cc3d4",
+        "id": "68f9e428b98783bc",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4b27bb1a5d1946",
+            "id": "2dbdb57302754634",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "5603ec91ac31e355",
+            "id": "ca2a9636edc7a2da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,15 +59,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "8383b272252adbc0",
+            "id": "6b6861fb24043b17",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -68,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "4852617ebbe59aa7",
+    "id": "fcf57bc14a921db8",
     "type": "split",
     "children": [
       {
-        "id": "9109e4da4a25684a",
+        "id": "2ed4a177cd35b1ce",
         "type": "tabs",
         "children": [
           {
-            "id": "5645b4da5c14c70e",
+            "id": "383f87a683c769fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bestiary/Bestiary Base.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,37 +102,53 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bestiary Base"
             }
           },
           {
-            "id": "78eb2a2353bc9f7b",
+            "id": "60d25748e1d69a97",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Compendium/Basics/Skills/Climb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Climb"
             }
           },
           {
-            "id": "252b212ef6943a6c",
+            "id": "5c342114786bf106",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "8e4d8598190b7b42",
+            "id": "7ad530a091ccff9b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bestiary/Bestiary Base.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bestiary Base"
             }
           }
         ]
@@ -130,49 +160,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "28350a72989df336",
+  "active": "b19c54a5f630354c",
   "lastOpenFiles": [
-    "psionics/psionic-powers-Q-W.md",
-    "psionics/psionic-powers-G-P.md",
-    "psionics/Psionic-Spells.md",
-    "psionics/Psionic-Skills.md",
-    "psionics/Psionic-Races.md",
-    "psionics/Psionic-Powers-Overview.md",
-    "psionics/Psionic-Powers-D-F.md",
-    "psionics/Psionic-Powers-A-C.md",
-    "psionics/Psionic-Items.md",
-    "psionics/Psionic-Feats.md",
-    "psionics/Psionic-Classes.md",
-    "monsters/monsters-vermin.md",
-    "monsters/monsters-t-z.md",
-    "monsters/monsters-s.md",
-    "monsters/monsters-o-r.md",
-    "monsters/monsters-m-n.md",
-    "monsters/monsters-k-l.md",
-    "monsters/monsters-intro-a.md",
-    "monsters/monsters-h-i.md",
-    "monsters/monsters-g.md",
-    "monsters/monsters-e-f.md",
-    "monsters/monsters-dr-dw.md",
-    "monsters/monsters-di-do.md",
-    "monsters/monsters-d-de.md",
-    "monsters/monsters-b-c.md",
-    "monsters/monsters-as-races.md",
-    "SRD.zip",
-    "spells/spells-t-z.html",
-    "spells/spells-s.html",
-    "spells/spells-p-r.html",
-    "spells/spells-m-o.html",
-    "spells/spells-h-l.html",
-    "spells/spells-f-g.html",
-    "spells/spells-d-e.html",
-    "spells/spells-c.html",
-    "spells/spells-a-b.html"
+    "Compendium/0 Legal Information/0 Legal Information.md",
+    "Bestiary/Bestiary Base.base",
+    "Bestiary/MM1/Animated Object_Colossal.md",
+    "Bestiary/MM1/Monstrous Scorpion - Colossal.md",
+    "Bestiary/MM1/Mephit_Ice.md",
+    "Bestiary/MM1/Basilisk_Abyssal Greater.md",
+    "Bestiary/MM1/Couatl.md",
+    "Bestiary/MM1/Allip.md",
+    "Bestiary/MM1/Berserkers (Human).md",
+    "Bestiary/MM1/Halfling 1st-Level Warrior.md",
+    "Bestiary/MM1/Zombie_Hobgoblin.md",
+    "Bestiary/MM1/Bugbear.md",
+    "Bestiary/MM1/Svirfneblin 1st-Level Warrior.md",
+    "Bestiary/MM1/Gnome 1st-Level Warrior.md",
+    "Bestiary/MM1/Gnoll.md",
+    "Bestiary/MM1/Mephit_Magma.md",
+    "Bestiary/MM1/Dragon Brass Adult.md",
+    "Bestiary/MM1/Xorn_Minor.md",
+    "Bestiary/MM1/Xorn_Elder.md",
+    "Bestiary/MM1/Xorn_Average.md",
+    "Bestiary/MM1/Bodak.md",
+    "Bestiary/MM1/Drow 1st-Level Warrior.md",
+    "Bestiary/MM1/Dragon Blue Adult.md",
+    "Bestiary/MM1/Duergar 1st-Level Warrior.md",
+    "Bestiary/MM1/Dragon White Adult.md",
+    "Bestiary/MM1/Aboleth Mage_10th-Level Wizard.md",
+    "Bestiary/MM1/Dragon Green Adult.md",
+    "Cleaning.base",
+    "Bestiary/MM1/Untitled.base",
+    "Compendium/Spells/List/Spell Base.base",
+    "Bestiary/MM1/z_Assets/Monster.png",
+    "Bestiary/MM1/z_Assets/Monsters.png",
+    "Bestiary/MM1/Monster template",
+    "Bestiary/MM3",
+    "Bestiary/MM2/z_Assets",
+    "Bestiary/MM2",
+    "Compendium/Basics/Psionics/Classes",
+    "Compendium/Basics/Epic Rules"
   ]
 }

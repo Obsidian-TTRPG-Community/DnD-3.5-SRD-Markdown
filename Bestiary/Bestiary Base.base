@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.folder.startsWith("Bestiary")
+    - '!file.hasTag("Info")'
+    - file.ext == "md"
+views:
+  - type: table
+    name: Table
+    order:
+      - CR
+      - file.name
+      - Size
+      - Type
+      - Subtype
+      - Environnent
+      - Source
+    sort:
+      - property: CR
+        direction: ASC
+      - property: Size
+        direction: ASC
+      - property: Subtype
+        direction: ASC
+    columnSize:
+      file.name: 218
+      note.Size: 88
+      note.Type: 126
+      note.Subtype: 217
+      note.Environnent: 232
+  - type: cards
+    name: Cards View
+    order:
+      - file.name
+      - CR
+      - Environnent
+    image: note.Thumbnail

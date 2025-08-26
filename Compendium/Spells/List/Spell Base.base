@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.inFolder("Compendium/Spells")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - School
+      - Subschool
+      - Level
+      - Source
+      - tags
+    columnSize:
+      note.School: 154
+      note.Subschool: 120
+  - type: table
+    name: Sor/Wiz
+    filters:
+      and:
+        - Level.containsAny("Sor/Wiz 0", "Sor/Wiz 1", "Sor/Wiz 2", "Sor/Wiz 3", "Sor/Wiz 4", "Sor/Wiz 5", "Sor/Wiz 6", "Sor/Wiz 7", "Sor/Wiz 8", "Sor/Wiz 9")
+    order:
+      - file.name
+      - School
+      - Subschool
+      - Level
+      - Source
+    sort: []
+  - type: table
+    name: Clr
+    filters:
+      and:
+        - Level.containsAny("Clr 0", "Clr 1", "Clr 2", "Clr 3", "Clr 4", "Clr 5", "Clr 6", "Clr 7", "Clr 8", "Clr 9")
+    order:
+      - file.name
+      - School
+      - Subschool
+      - Level
+      - Source

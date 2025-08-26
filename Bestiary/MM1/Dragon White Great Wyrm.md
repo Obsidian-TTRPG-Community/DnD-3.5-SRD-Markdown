@@ -1,0 +1,114 @@
+---
+aliases:
+ - Dragon, White Great Wyrm
+title: Bestiary/MM1/Dragon, White Great Wyrm
+tags:
+ - 35E_SRD
+ - Monster
+Monster: Dragon, White Great Wyrm
+Size: Gargantuan
+Type: Dragon
+Subtype:
+  - Cold
+CR: 20
+Environment: Any cold land and underground
+Source: MM1
+Thumbnail: monster.png
+---
+
+## Statblock
+
+```statblock
+statblock: true
+layout: Basic 3.5e Layout
+columns: 2
+forceColumns: true
+source: MM1 
+name: White Dragon, Great Wyrm
+image: [[WhiteDragon.PNG]]
+race: Dragon
+class: 
+level: 
+size: Gargantuan
+type: Dragon
+Subtype:
+  - Cold
+alignment: Always chaotic evil
+ac: 41
+touch: 6
+flatfooted: 41
+AC_desc: -4 size, +35 natural
+hp: 522
+hit_dice: 36d12+288
+initiative: +0
+speed: 60 ft., fly 250 ft. (poor), swim 60 ft., burrow 30 ft.
+space/reach: 20 ft./15 ft. (20 ft. with bite)
+stats:
+  - 37
+  - 10
+  - 27
+  - 18
+  - 19
+  - 18
+saves:
+ - Fortitude : 28
+ - Reflex : 20
+ - Will : 24
+skillsaves:
+  - Concentration: +35
+  - Hide: +35
+  - Listen: +35
+  - Move Silently: +35
+  - Spot: +35
+  - Survival: +35
+  - Jump: +6
+base_attack/grapple: +36/+61
+environment: Any cold land and underground
+organization: Solitary, pair, or family (1–2 and 2–5 offspring)
+treasure: Double standard
+advancement: 37+ HD (Gargantuan)
+level_adjustment: -
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 27
+senses: [[blindsense]] 60 ft., [[low-light vision]], [[darkvision]] 120 ft., keen senses
+damage_immunities: Cold
+condition_immunities: ""
+languages: Draconic
+cr: 20
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: Fog cloud, Gust of wind, Freezing fog, Wall of ice, Control weather (CL 13)
+special_qualities:
+ - name:
+   desc: Cold subtype, icewalking
+actions:
+  - name: Full Attack
+    desc: "Bite +45 melee (4d6+13), 2 claws +40 melee (2d8+6), 2 wings +40 melee (2d6+6), tail slap +40 melee (2d8+19), crush +40 melee (4d6+19), tail sweep +40 melee (2d6+19), breath weapon +45 ranged (20d6, DC 31)"
+  - name: Attack
+    desc: "Bite +45 melee (4d6+13)"
+  - name: special attacks
+    desc: "Breath weapon, frightful presence (DC 32)"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: [[Alertness]], [[Flyby Attack]], [[Improved Initiative]], [[Iron Will]], [[Multiattack]], [[Power Attack]], [[Cleave]], [[Improved Natural Attack]], [[Blind-Fight]], [[Great Fortitude]], [[Weapon Focus (bite)]], [[Snatch]], [[Wingstorm]]
+combat_gear:  
+```
+
+## Description
+
+
+
+
+
+
+Breath Weapon (Su): A white dragon has one type of breath weapon, a cone of cold (12d6 cold damage, Reflex save for half damage DC 36). Using a breath weapon is a standard action. Once a dragon breathes, it can't breathe again until 1d4 rounds later. A blast from a breath weapon always starts at the dragon's mouth and extends in a direction of the dragon's choice.
+
+Frightful Presence (Ex): A young adult or older dragon can unsettle foes with its mere presence. The ability takes effect automatically whenever the dragon attacks, charges, or flies overhead. Creatures within a radius of 360 feet are subject to the effect if they have fewer HD than the dragon (36).
+
+A potentially affected creature that succeeds at a Will save (DC 32) remains immune to that dragon's frightful presence for one day. On a failure, creatures with 4 or fewer HD become panicked for 4d6 rounds and those with 5 or more HD become shaken for 4d6 rounds.
+
+Dragons ignore the frightful presence of other dragons.
